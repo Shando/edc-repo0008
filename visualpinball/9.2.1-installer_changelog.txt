@@ -1,0 +1,75 @@
+VP 9.2.1 Changelog
+------------------------
+- this is the final release to be based on DirectX 7
+
+- add "To Collection" to the context menu to assign a selected element to a collection
+- add moving of single selected collection in the collection manager
+
+- add CurrentAngle() function to the gate object
+
+- add "Is Toy" checkbox to disable collision handling on mesh primitives completely. 
+
+- add collision detection to mesh primitives together with hit threshold and hit event
+
+- add Z offset to the backdrop options. With this settings you're able to zoom in/out the table without changing FOV/Inclination/Layback settings
+- add Z scale option to the backdrop options. With this setting you're able to reduce/increase the overall depth of a table.
+
+- add table dimension manager for an easy way to calculate real table dimensions into VP table units and vice versa
+
+- add a ball throwing feature to VP. To use it check "Throw Balls in Player" in the debug window (ESC -> "Debug Window") and by left clicking and holding the left mouse 
+  button you create a new ball and it throws the balls in that direction you move the mouse cursor when you release the left mouse button. If you click on a non 
+  moving ball you can reuse that ball and no new calls will be created. A right click on a ball will remove that ball from the table.
+
+- add touch support for tablets (windows 8 and upwards)
+  current mapping:
+   upper left - add credit
+   middle upper left - left magna save/2nd button
+   middle lower left - left flipper
+   lower left - start
+   upper right - quit (press for 2 seconds to exit VP completely)
+   middle upper right - right magna save/2nd button
+   middle lower right - right flipper
+   lower right - plunger 
+
+- add Alpha-Flasher element. Use this element to add (additive) alpha flashers instead of abusing the alpha ramp element. The flasher is a 'dynamic' element, that means it is not pre-rendered
+  and it'll be updated every frame.
+  Limitations:
+  If 'Display Image In Editor' option is selected and the flasher is rotated the image won't rotate due to a DX7 limitation.
+  If the flasher is not an additive alpha flasher you can colorize the image with 'Color' if you don't want that effect set the color to blank white (RGB 255,255,255).
+
+- add height offset to bumper element
+
+- add additional (optional) parameters to PlaySound to increase/decrease the frequency, apply all the settings to an already playing sample and choose if to restart this sample from the beginning or not
+  all parameters are now: PlaySound "name",loopcount,volume,pan,randompitch,pitch,useexisting,restart
+  pitch can be positive or negative and directly adds onto the standard sample frequency
+  useexisting is 0 or 1 (if no existing/playing copy of the sound is found, then a new one is created)
+  restart is 0 or 1 (only useful if useexisting is 1)
+
+- per table setting of adaptive vsync (-1 = default, 0 = off, 1 = automatic detection, anything else: refresh rate in Hz)
+- change per table settings for AA, FXAA and ball reflection (-1 takes the default from the video preferences, 0 forces off, 1 forces on)
+
+- tweak key input code to save one frame (or more?) of lag
+
+- change the old 'Physics Max.Looptime' setting to 'Physics Max. Loops'
+  it allows to specify the maximum number of iterations spent in the physics update.
+  by setting it f.e. to 1, the rendered frame updates will -always- match the physics updates, everything above 1 allows for multiple physics updates per frame
+  (2, 3 or 4 can be good values for this, as it slows down the physics temporarily if the FPS drop below 50, 33 or 25 in these cases).
+
+- import/export of global physics options sets
+- import/export of local/table physics options sets (that could then be reused globally of course and the other way round)
+  Note that for local/table export the first found flipper is used to export the flipper physics settings (and for import all flippers will be assigned with the same settings)
+
+- add optional ball trails/motion blur (also adjustable per-table)
+- add script option 'DisableLighting' for balls to disable lighting. This also allows to change the color of the ball via 'Color' directly
+
+- add enabled flag to flippers
+
+- separate/new texture maps for the lighting of lights (more details) and bumpers (brighter)
+
+- fix problem with DMD/VPinMAME window being hidden behind VP window
+
+- secondary/backglass sound output (by DJRobX)
+  if a sound effect contains 'bgout_' in the name or '* Backglass Output *' in its path then it is played via the secondary sound output (music always)
+  this can also be done with existing tables by using the new 'To BG Out' button in the sound manager
+
+- script editor updated to use latest scintilla (3.3.9)

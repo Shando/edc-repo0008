@@ -1,0 +1,74 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-11-26 20:19:30 ....A       427514       630865  Scripts\vbsdoc_outdated.html
+2015-11-26 20:19:29 ....A         7212               Scripts\6803.vbs
+2015-11-26 20:19:29 ....A         4270               Scripts\ALI.vbs
+2015-11-26 20:19:30 ....A         4675               Scripts\alving.vbs
+2016-06-02 07:17:43 ....A         4156               Scripts\antar.vbs
+2015-11-26 20:19:30 ....A         4715               Scripts\Atari.vbs
+2015-11-26 20:19:30 ....A         4864               Scripts\Atari1.vbs
+2015-11-26 20:19:30 ....A         4477               Scripts\Atari2.vbs
+2015-11-26 20:19:30 ....A        19178               Scripts\B2B.vbs
+2015-11-26 20:19:30 ....A        16048               Scripts\B2Bcollision.vbs
+2015-11-26 20:19:29 ....A         7527               Scripts\b2s.vbs
+2015-11-26 20:19:29 ....A         5135               Scripts\Bally.vbs
+2015-11-26 20:19:30 ....A         3995               Scripts\capcom.vbs
+2016-06-08 19:59:09 ....A        11647               Scripts\controller.vbs
+2016-06-07 18:59:32 ....A       117672               Scripts\core.vbs
+2015-11-26 20:19:29 ....A         4126               Scripts\de.vbs
+2015-11-26 20:19:30 ....A         4171               Scripts\de2.vbs
+2015-11-26 20:19:30 ....A         5308               Scripts\GamePlan.vbs
+2015-11-26 20:19:30 ....A         4361               Scripts\gts1.vbs
+2015-11-26 20:19:30 ....A         4058               Scripts\gts3.vbs
+2015-11-26 20:19:30 ....A         4824               Scripts\Hankin.vbs
+2016-04-05 23:31:49 ....A         4037               Scripts\idsa.vbs
+2015-11-26 20:19:30 ....A         5003               Scripts\inder.vbs
+2016-02-15 21:33:53 ....A         3406               Scripts\ironballs.vbs
+2015-11-26 20:19:29 ....A         4087               Scripts\juegos.vbs
+2015-11-26 20:19:30 ....A         4084               Scripts\juegos2.vbs
+2015-11-26 20:19:29 ....A         4704               Scripts\jvh.vbs
+2016-06-02 07:21:29 ....A         4168               Scripts\lancelot.vbs
+2015-11-26 20:19:30 ....A         4461               Scripts\LTD.vbs
+2016-04-02 10:31:45 ....A         4052               Scripts\mac.vbs
+2015-11-26 20:19:29 ....A         4032               Scripts\mrgame.vbs
+2015-11-26 20:19:30 ....A         5161               Scripts\NudgePlugIn_blur2NoAccel.vbs
+2015-11-26 20:19:30 ....A         4151               Scripts\NudgePlugIn_blurNoAccel.vbs
+2015-11-26 20:19:29 ....A         4895               Scripts\NudgePlugIn_mjrAccelAndTilt.vbs
+2015-11-26 20:19:30 ....A         4375               Scripts\NudgePlugIn_robBlurNoAccel.vbs
+2015-11-26 20:19:29 ....A         4381               Scripts\NudgePlugIn_robNoAccel.vbs
+2015-11-26 20:19:29 ....A         5047               Scripts\nuova.vbs
+2015-11-26 20:19:29 ....A         4085               Scripts\peyper.vbs
+2015-11-26 20:19:30 ....A         5719               Scripts\Play1.vbs
+2015-11-26 20:19:30 ....A         4124               Scripts\Play2.vbs
+2015-11-26 20:19:30 ....A         4186               Scripts\Play4.vbs
+2015-11-26 20:19:30 ....A         4779               Scripts\s11.vbs
+2015-11-26 20:19:29 ....A         5277               Scripts\s4.vbs
+2015-11-26 20:19:29 ....A         5452               Scripts\s6.vbs
+2015-11-26 20:19:29 ....A         5289               Scripts\s7.vbs
+2015-11-26 20:19:30 ....A         4731               Scripts\sega.vbs
+2015-11-26 20:19:30 ....A         4038               Scripts\sleic.vbs
+2015-11-26 20:19:29 ....A         4809               Scripts\spinball.vbs
+2015-11-26 20:19:30 ....A         5109               Scripts\stern.vbs
+2015-11-26 20:19:30 ....A         5247               Scripts\SYS80.VBS
+2015-11-26 20:19:30 ....A         5890               Scripts\taito.vbs
+2015-11-26 20:19:29 ....A         3454               Scripts\VPMKeys.vbs
+2016-05-31 21:10:27 ....A         6125               Scripts\WPC.vbs
+2015-11-26 20:19:30 ....A         3899               Scripts\zac.vbs
+2015-11-26 20:19:29 ....A         3563               Scripts\zac1.vbs
+2015-11-26 20:19:29 ....A         4235               Scripts\zac2.vbs
+2015-11-26 20:19:29 ....A         4240               Scripts\zacproto.vbs
+2016-05-25 21:15:29 ....A        58189               Changelog.txt
+2016-05-25 21:15:02 ....A        31964               CommandReference.txt
+2016-04-13 08:01:24 ....A         1559               Hotkeys.txt
+2015-07-27 18:03:54 ....A         3253               layoutGuideline.txt
+2016-04-16 12:28:40 ....A         3334               license.txt
+2016-04-02 23:02:58 ....A         2213               PhysicValues.txt
+2016-04-16 10:52:25 ....A          893               RegistryKeys.txt
+2015-07-27 18:03:54 ....A       555960               New Plunger Documentation.pdf
+2016-06-07 19:04:30 ....A      5176320      6566491  VPinballX.exe
+2016-02-01 21:43:44 ....A       110207               Bass.dll
+2015-07-27 18:05:33 .R..A      1365504               FreeImage.dll
+2015-12-22 19:29:30 ....A       208896               SciLexerVP.dll
+2017-01-13 19:07:01 D....            0            0  Scripts
+------------------- ----- ------------ ------------  ------------------------
+2017-01-13 19:07:01            8352520      7197356  69 files, 1 folders

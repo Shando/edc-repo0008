@@ -1,0 +1,4 @@
+jan.1999 (beta 7)
+dump/step window
+docs edited
+other binaries added to archive

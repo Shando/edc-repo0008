@@ -1,0 +1,19 @@
+- fixed new printing mode bug
+- new seal library
+
+- fixed sound mode 1
+- fixed bedlam bug
+- support for new printing mode to be introduced in Moon Lander!
+- forgot to
+
+
+- clipping corrected
+- assembling bug, when compiled with optimize... (still there, has to do with
+ watcom optimize...)
+- joystick fixed
+- pole position shiftreg fixed
+
+int monitor + patriots
+r  $1f5d
+
+many copyright notations still missing, like for overlays and text files...

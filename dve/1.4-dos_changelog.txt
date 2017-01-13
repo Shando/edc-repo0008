@@ -1,0 +1,84 @@
+1.4  - 3d Imager support!
+       Finally I had some time to look at it. It sort of works, it is not
+       perfect yet, but...
+       First some drawbacks...
+       I have no 3d imager, neither have I seen one working yet, I
+       don't really know what the games look like, so if
+       I have some color settings wrong, feel free to do better...
+       Right now I'm emulating a fixed speed for the spinning wheel.
+       Vectrex usually wants to fiddle with that speed, that is not suported
+       yet (dunno if it ever will be...).
+       "Narrow Escape" and "Crazy Coaster" work just about fine.
+       "Mine 3d" so so, I suspect it to change the rate of the
+       color wheel during the startup screen, since I can't find a
+       speed setting that will satisfy both the game and the startup...
+
+       There are some new settings for the *.vol files, as e.g.:
+       
+       3D_IMAGER_GAME
+       WHEEL_TICKS #number#
+       COLOR_1_DEGREES #number#
+       COLOR_2_DEGREES #number#
+       COLOR_3_DEGREES #number#
+       IMAGER_MODE #number#
+
+       Most of these are fairly selfexplanatory, but here is what they
+       do anyhow.
+
+       3D_IMAGER_GAME - tells the emulator, that the game for this
+       *.vol file is a GOGGLE-GAME.
+
+       WHEEL_TICKS #number# - you tell the *.vol file the speed with which
+       the wheel has to spin. One tick is 1/1500000 second.
+       (vectrex 6809 runs at 1.5Mhz) Good values to start with are
+       between 40000 and 60000.
+       
+       COLOR_?_DEGREES #number# - these three things are used to
+       tell the emulator, what the wheel looks like.
+       In degrees how much of the half wheel is covered by the
+       corresponding color.
+       It is very strongly recomended, that these three
+       values add up to 180 degrees, though I don't check it...
+       BTW..., COLOR1 is 15, COLOR2 is 13, COLOR3 is 14...
+
+       IMAGER_MODE #number# - number between 0 - 6.
+       This determines how the imager is to be emulated to the
+       screen.
+       At some time there was sort of a discussion going on in some
+       newsgroup how the goggles could at all be satisfyingly
+       emulated. Well probably can't suit you all, but
+       I couldn't think of much more, save to insert some goggles
+       to the joystick port... (no, I won't do that!)
+       Here is what these 7 modes do:
+
+
+       # 0 only the 'left' side is displayed, unicolor, therefor
+           an overlay picture can be used
+
+       # 1 only the 'right' side is displayed, unicolor, therefor
+           an overlay picture can be used
+
+       # 2 red/blue for left and right side, if you have some glasses
+           you might be lucky and get a glimps of true 3d :-)
+
+       # 3 only the 'left' side is displayed, in the colors corresponding
+           to the wheel colors (overlays must be enabled nonetheless)
+
+       # 4 only the 'right' side is displayed, in the colors corresponding
+           to the wheel colors (overlays must be enabled nonetheless)
+
+       # 5 both sides are displayed in colors corresponding
+           to the wheel colors (overlays must be enabled nonetheless)
+           this most probably looks like a real vectrex seen without
+           the helmet on :-)
+           
+       # 6 left side is displayed on the leftmost side of the screen
+           right side is displayed on the rightmost side of the screen
+           (scaling must be set manually to fit...)
+           Actually I like this setting a lot...
+
+       Strangly these different mode sometime need different values
+       for the other above described settings.
+       I don't really know why. You just have to keep experimenting
+       with the values a bit. Whatever mode suits you most... you
+       probably must find the settings on your own.

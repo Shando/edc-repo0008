@@ -1,0 +1,12 @@
+VP 9.9.2 Changelog
+------------------------
+- new plunger code (see Plunger pdf)
+
+- fix text selection if in previous selected text box a change was made
+
+- extend right click behavior for multi-select to hidden items
+
+- fix EMReel crash when image is missing and reel value is nonzero
+
+- updated to latest FreeImage.dll (3.17.0)
+- script editor updated to use latest scintilla (3.6.2)
