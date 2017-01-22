@@ -1,0 +1,4 @@
+Change icon
+Correspondence of D88 format (Please try with the image with backup because it is not perfect)
+Add BMP Save Menu
+Corrected abnormal termination when trying to open CMT format file set to write prohibited

@@ -1,0 +1,13 @@
+March 23 2006: 0.4a
+	Updated capabilities with features recently updated in my other emulators:
+	Full Screen mode can now access the menus. Right click on the full screen to toggle menus.
+	The sound buffers will attempt to resynch themselves when no sound has been playing for a while (a half-second or so). This is detected by the speaker clicker not being written to and by the three AY chip volumes being set to 0.
+	The POV hat can be used as the joystick directionals in a modern USB joypad.
+	Util/Load Binary -- This is useful for assembly language program development.
+	Util/Screenshot (F11)  -- puts the screenshots into the screenshots directory.  Beware, the names wrap after 9999.
+	Util/Full Screen mode (F12 to toggle)
+	Util/Paste -- this Quicktypes text that was on the text clipboard, i.e. Copy from Notepad and Paste onto the emulator.
+	Some file access routines are smarter about remembering which file you were using last.  It takes getting used to, but it really is better than before.  Really.
+	The emulator should no longer crash when you have Configure/System Timing>Speed up when accessing files checked.
+	Soft Reset is now F9 on the keyboard.
+	Hard Reset is now Shift F9 on the keyboard.
