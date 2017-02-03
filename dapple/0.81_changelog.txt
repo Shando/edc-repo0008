@@ -1,0 +1,4 @@
+0.81: More accurate chroma; initial support for XASCII characters.  I plan
+to add support for various alternate charsets soon.  If you do not have an
+American keyboard, load your keyboard driver. Dapple calls DOS to read the
+keyboard, so if KEYB is installed, Dapple will get its keys through KEYB.

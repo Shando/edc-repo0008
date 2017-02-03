@@ -1,0 +1,8 @@
+1.11:  Replaced the #defines for the CPU type with an enum.  Added code to
+disassemble for whatever processor is currently selected CPU.  Changed the
+debugger to support more Apple-like commands.  Fixed a bug: the setting of
+"Manipulate Caps Lock" was reversed.  Forgot to remove "Experimental" from
+the UI; this has been fixed.  Fixed another bug introduced while trying to
+excise the last vestiges of Marat code in the debugger - memory dumps were
+displaying the same 16 bytes over and over.  Added an option to disable F8
+(it was annoying me!)

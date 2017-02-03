@@ -1,0 +1,456 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1997-03-27 03:42:58 ....A        83340      1856194  _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\64DOC
+1997-03-27 03:43:28 ....A        33020               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\VIC-Article.gz
+1997-03-27 03:43:38 ....A        36614               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\VIC-Artikel.gz
+1997-03-27 03:42:34 ....A        17459               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\6522-VIA.ZIP
+1997-03-27 03:45:46 ....A        50376               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\GTE65.ZIP
+1996-09-22 12:49:44 ....A         1121               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\ANSWER.GIF
+1997-03-11 18:19:44 ....A         8524               _\PC64Win\EDK\Documentation\Fast PC-C64 Interface.gif
+1997-05-22 13:38:34 ....A         3982               _\PC64Win\EDK\Horn.gif
+1997-05-22 20:17:56 ....A         1829               _\PC64Win\EDK\horn2.gif
+1996-09-22 12:49:38 ....A         1196               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\QUESTION.GIF
+1996-09-22 12:55:26 ....A         2643               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\SIDADSR.GIF
+1996-09-22 12:56:14 ....A        10767               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\SIDBSB.GIF
+1996-09-22 12:56:22 ....A         2941               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\SIDPIN.GIF
+1996-09-22 12:58:34 ....A         3850               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\SIDREAD.GIF
+1996-09-22 12:56:20 ....A         4135               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\SIDWRITE.GIF
+1996-09-22 12:50:32 ....A         1970               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\ARROW.JPG
+1996-09-22 12:52:06 ....A         1321               _\PC64Win\EDK\Documentation\SID Homepage\MEDIA\DOT2.JPG
+1995-10-03 09:47:36 ....A          766               _\PC64Win\EDK\OldStyle\C64.ICO
+1995-09-19 12:30:20 ....A          766               _\PC64Win\EDK\OldStyle\CBM.ICO
+1997-01-10 11:03:34 ....A         1078               _\PC64Win\EDK\OldStyle\Help.ico
+1995-06-15 17:14:54 ....A        13789               _\PC64Win\EDK\Documentation\Joystick CBM Joysticks on IBM Gameport.ps
+1997-04-09 10:19:44 ....A        60589               _\PC64Win\EDK\OldStyle\C64Display.h
+1996-08-02 11:15:18 ....A          447               _\PC64Win\EDK\OldStyle\CBMFileName.h
+1997-04-24 12:09:44 ....A         2457               _\PC64Win\EDK\OldStyle\Cc64.h
+1997-03-11 12:55:56 ....A          791               _\PC64Win\EDK\OldStyle\CC64File.h
+1997-03-19 18:35:50 ....A           79               _\PC64Win\EDK\OldStyle\CClockedChip.h
+1997-02-01 10:08:02 ....A          131               _\PC64Win\EDK\OldStyle\CClockMaster.h
+1997-03-11 12:55:56 ....A          820               _\PC64Win\EDK\OldStyle\CDisplay.h
+1997-03-11 12:55:56 ....A         1736               _\PC64Win\EDK\OldStyle\CFDC325572.h
+1997-03-11 12:55:56 ....A          637               _\PC64Win\EDK\OldStyle\CHarddisk.h
+1997-04-12 11:08:54 ....A         1920               _\PC64Win\EDK\Include\Chip.h
+1997-04-18 12:52:46 ....A         4774               _\PC64Win\EDK\Include\CIA6526.H
+1996-08-02 11:15:20 ....A          197               _\PC64Win\EDK\OldStyle\CIECBus.h
+1996-08-13 11:51:46 ....A          845               _\PC64Win\EDK\OldStyle\CIECDevice.h
+1996-08-02 11:15:20 ....A          238               _\PC64Win\EDK\OldStyle\CIECDisasm.h
+1996-09-03 10:05:04 ....A          260               _\PC64Win\EDK\OldStyle\CIECMaster.h
+1997-03-11 12:55:56 ....A          984               _\PC64Win\EDK\OldStyle\CKeyboard.h
+1997-03-06 14:16:44 ....A          731               _\PC64Win\EDK\OldStyle\CLine.h
+1997-04-12 11:08:54 ....A         2026               _\PC64Win\EDK\Include\Clock.h
+1997-03-11 12:55:58 ....A         1784               _\PC64Win\EDK\OldStyle\CMsg.h
+1997-04-24 10:45:20 ....A         1817               _\PC64Win\EDK\Include\Win32\Config.h
+1997-03-06 14:16:44 ....A          533               _\PC64Win\EDK\OldStyle\CPort.h
+1997-04-04 14:23:44 ....A          404               _\PC64Win\EDK\Include\CPU.H
+1997-04-04 14:00:26 ....A         3729               _\PC64Win\EDK\Include\CPU16x4k.h
+1997-04-04 12:04:46 ....A          451               _\PC64Win\EDK\Include\CPU6502.H
+1997-04-04 12:04:46 ....A         1462               _\PC64Win\EDK\Include\CPU6510C64.h
+1997-04-12 12:03:44 ....A         2501               _\PC64Win\EDK\Include\CPU65xx.h
+1996-10-07 11:29:42 ....A         1884               _\PC64Win\EDK\OldStyle\Cvc1541.h
+1997-03-11 12:55:58 ....A         1094               _\PC64Win\EDK\OldStyle\Cvia6522.h
+1997-03-19 18:41:34 ....A         4474               _\PC64Win\EDK\OldStyle\CVIC656x.h
+1996-05-28 12:07:22 ....A        18414               DXSDK\SDK\INC\D3D.H
+1996-05-28 12:07:22 ....A        13527               DXSDK\SDK\INC\D3DCAPS.H
+1996-05-28 12:07:20 ....A         5488               DXSDK\SDK\INC\D3DRM.H
+1996-05-28 12:07:20 ....A        14133               DXSDK\SDK\INC\D3DRMDEF.H
+1996-05-28 12:07:20 ....A        32372               DXSDK\SDK\INC\D3DRMOBJ.H
+1996-05-28 12:07:20 ....A         1180               DXSDK\SDK\INC\D3DRMWIN.H
+1996-05-28 12:07:22 ....A        31957               DXSDK\SDK\INC\D3DTYPES.H
+1996-05-29 14:53:30 ....A       110021               DXSDK\SDK\INC\DDRAW.H
+1996-05-28 12:07:10 ....A        10913               DXSDK\SDK\INC\DPLAY.H
+1996-05-28 12:07:10 ....A         2860               DXSDK\SDK\INC\DSETUP.H
+1996-05-28 12:07:08 ....A        13417               DXSDK\SDK\INC\DSOUND.H
+1997-04-24 10:48:58 ....A         1825               _\PC64Win\EDK\Include\Win32\EDK.H
+1996-05-28 12:07:10 ....A         1070               DXSDK\SDK\INC\FASTFILE.H
+1997-06-19 15:31:56 ....A         2596               _\PC64Win\EDK\Include\Win32\File.h
+1997-04-09 12:39:24 ....A         1061               _\PC64Win\EDK\OldStyle\General.h
+1997-04-04 12:04:46 ....A         4330               _\PC64Win\EDK\Include\Line.h
+1997-08-06 08:30:02 ....A         4480               _\PC64Win\EDK\Include\Win32\MappedFile.h
+1997-04-25 12:27:48 ....A         4604               _\PC64Win\EDK\Include\Object.h
+1997-04-09 12:34:18 ....A           18               _\PC64Win\EDK\OldStyle\PC64Win.h
+1997-04-04 12:04:46 ....A         3514               _\PC64Win\EDK\Include\Port.h
+1996-04-26 11:36:40 ....A          502               _\PC64Win\EDK\TestLine\RESOURCE.H
+1996-04-26 17:14:20 ....A          502               _\PC64Win\EDK\TestPort\RESOURCE.H
+1996-04-29 08:46:08 ....A          503               _\PC64Win\EDK\TestTimer\RESOURCE.H
+1996-11-19 12:56:38 ....A          594               _\PC64Win\EDK\Freezer\RESOURCE.H
+1997-01-14 18:42:22 ....A         1820               _\PC64Win\EDK\OldStyle\RESOURCE.H
+1997-04-04 12:04:46 ....A         4808               _\PC64Win\EDK\Include\SID6581.H
+1997-04-09 12:40:52 ....A         4165               _\PC64Win\EDK\OldStyle\Sound.h
+1997-04-04 12:04:46 ....A         1864               _\PC64Win\EDK\Include\Timer.h
+1997-08-23 09:47:20 ....A        11921               _\PC64Win\EDK\Include\Win32\Toolbox.h
+1997-04-04 12:04:44 ....A          388               _\PC64Win\EDK\OldStyle\Version.h
+1994-06-27 00:00:00 ....A         2253               WING\INCLUDE\WING.H
+1997-04-09 12:34:10 ....A         3442               _\PC64Win\EDK\OldStyle\CBMFileName.cpp
+1997-04-24 12:10:22 ....A         9064               _\PC64Win\EDK\OldStyle\Cc64.cpp
+1997-04-09 12:34:10 ....A        19912               _\PC64Win\EDK\OldStyle\CC64File.cpp
+1997-04-09 12:34:14 ....A         2659               _\PC64Win\EDK\OldStyle\Cc64iec.cpp
+1997-04-09 12:34:14 ....A          748               _\PC64Win\EDK\OldStyle\Cc64lp.cpp
+1997-04-09 12:34:10 ....A         4007               _\PC64Win\EDK\OldStyle\CC64MemMapping.cpp
+1997-04-09 12:34:10 ....A           97               _\PC64Win\EDK\OldStyle\CC64Memory.cpp
+1997-04-09 12:34:10 ....A           67               _\PC64Win\EDK\OldStyle\CClockMaster.cpp
+1997-04-09 12:34:10 ....A         6580               _\PC64Win\EDK\OldStyle\CDisplay.cpp
+1997-04-09 12:34:10 ....A         4051               _\PC64Win\EDK\OldStyle\CFDC325572 .cpp
+1997-04-09 12:34:10 ....A        16051               _\PC64Win\EDK\OldStyle\CFDC325572.cpp
+1997-04-09 12:34:16 ....A         2867               _\PC64Win\EDK\OldStyle\ChangeDisk.cpp
+1997-04-09 12:34:10 ....A         3963               _\PC64Win\EDK\OldStyle\CHarddisk.cpp
+1997-04-09 12:34:20 ....A         1908               _\PC64Win\EDK\Include\Chip.cpp
+1997-04-19 07:58:40 ....A        25373               _\PC64Win\EDK\Include\CIA6526.CPP
+1997-04-09 12:34:12 ....A           87               _\PC64Win\EDK\OldStyle\CIECBus.cpp
+1997-04-09 12:34:12 ....A         1537               _\PC64Win\EDK\OldStyle\CIECDevice.cpp
+1997-04-09 12:34:12 ....A         3849               _\PC64Win\EDK\OldStyle\CIECDisasm.cpp
+1997-04-09 12:34:12 ....A        10614               _\PC64Win\EDK\OldStyle\CIECMaster.cpp
+1997-04-09 12:34:12 ....A        34020               _\PC64Win\EDK\OldStyle\CKeyboard.cpp
+1997-04-09 12:34:12 ....A          449               _\PC64Win\EDK\OldStyle\CLine.cpp
+1997-04-09 12:34:20 ....A         2354               _\PC64Win\EDK\Include\Clock.cpp
+1997-04-09 12:34:12 ....A         1119               _\PC64Win\EDK\OldStyle\CMsg.cpp
+1997-04-09 12:34:16 ....A          858               _\PC64Win\EDK\OldStyle\CompareRegs.cpp
+1997-04-09 12:34:20 ....A         7174               _\PC64Win\EDK\Include\Win32\Config.cpp
+1997-04-09 12:42:28 ....A        13461               _\PC64Win\EDK\OldStyle\Control.cpp
+1997-04-09 12:34:16 ....A         1198               _\PC64Win\EDK\OldStyle\Copyright.cpp
+1997-04-09 12:34:12 ....A          307               _\PC64Win\EDK\OldStyle\CPort.cpp
+1997-04-09 12:34:20 ....A         1013               _\PC64Win\EDK\Include\CPU.CPP
+1997-04-09 12:34:20 ....A         6390               _\PC64Win\EDK\Include\CPU16x4k.cpp
+1997-04-09 12:34:20 ....A          698               _\PC64Win\EDK\Include\CPU6502.CPP
+1997-04-09 12:34:20 ....A         3627               _\PC64Win\EDK\Include\CPU6510C64.cpp
+1997-04-25 12:26:52 ....A       288852               _\PC64Win\EDK\Include\CPU65xx.cpp
+1997-04-09 12:34:16 ....A        14070               _\PC64Win\EDK\OldStyle\Cvc1541.cpp
+1997-04-09 12:34:16 ....A        16033               _\PC64Win\EDK\OldStyle\Cvia6522.cpp
+1997-04-09 12:34:14 ....A        25734               _\PC64Win\EDK\OldStyle\CVIC656x.cpp
+1997-04-09 12:34:14 ....A        45929               _\PC64Win\EDK\OldStyle\CVIC656xDisplay.cpp
+1997-04-09 12:34:14 ....A         2142               _\PC64Win\EDK\OldStyle\CVIC656xInterrupt.cpp
+1997-04-09 12:34:14 ....A         1148               _\PC64Win\EDK\OldStyle\CVIC656xLightpen.cpp
+1997-04-09 12:34:14 ....A        30730               _\PC64Win\EDK\OldStyle\CVIC656xSprites.cpp
+1997-04-09 12:38:06 ....A        15302               _\PC64Win\EDK\OldStyle\DDError.cpp
+1997-04-09 12:34:16 ....A         3815               _\PC64Win\EDK\OldStyle\DirectSound.cpp
+1997-04-09 12:34:08 ....A         3664               _\PC64Win\EDK\DriveLED\DriveLED.cpp
+1997-04-09 12:34:16 ....A         2326               _\PC64Win\EDK\OldStyle\DSError.cpp
+1997-04-19 07:58:40 ....A         1124               _\PC64Win\EDK\Include\Win32\EDK.CPP
+1997-04-09 12:34:16 ....A         1844               _\PC64Win\EDK\OldStyle\EmuMem.cpp
+1997-05-24 11:20:56 ....A         4138               _\PC64Win\EDK\Include\Win32\File.cpp
+1997-04-09 12:34:08 ....A         3627               _\PC64Win\EDK\Freezer\Freezer.cpp
+1997-04-09 12:34:18 ....A         3695               _\PC64Win\EDK\PC64Win\Joystick.cpp
+1997-04-09 12:34:18 ....A         3785               _\PC64Win\EDK\PC64Win\JoystickLPT.cpp
+1997-05-05 19:35:30 ....A         2457               _\PC64Win\EDK\OldStyle\License.cpp
+1997-04-09 12:34:20 ....A        14834               _\PC64Win\EDK\Include\Line.cpp
+1997-04-09 12:34:18 ....A         5632               _\PC64Win\EDK\Test Suite\Loopback\Loopback.cpp
+1997-08-06 08:30:02 ....A         5000               _\PC64Win\EDK\Include\Win32\MappedFile.cpp
+1997-04-09 12:34:18 ....A         2720               _\PC64Win\EDK\OldStyle\Memory.cpp
+1997-04-09 12:34:08 ....A         4270               _\PC64Win\EDK\MIDI\Midi.cpp
+1997-04-09 12:34:18 ....A         4359               _\PC64Win\EDK\OldStyle\MMFastSound.cpp
+1997-04-09 12:34:18 ....A         3785               _\PC64Win\EDK\OldStyle\MMSound.cpp
+1997-04-09 12:34:08 ....A         2194               _\PC64Win\EDK\NewExtension\NewExtension.cpp
+1997-04-09 12:34:18 ....A         1547               _\PC64Win\EDK\OldStyle\NoSound.cpp
+1997-04-09 12:34:20 ....A         8772               _\PC64Win\EDK\Include\Object.cpp
+1997-04-09 12:47:14 ....A         5605               _\PC64Win\EDK\OldStyle\PC64Win.cpp
+1997-04-09 12:34:20 ....A        15579               _\PC64Win\EDK\Include\Port.cpp
+1997-04-09 12:34:18 ....A         3961               _\PC64Win\EDK\OldStyle\QuickSound.cpp
+1997-04-09 12:34:18 ....A         2300               _\PC64Win\EDK\OldStyle\Register.cpp
+1997-04-09 12:34:18 ....A       107650               _\PC64Win\EDK\OldStyle\ROMs.cpp
+1997-04-09 12:34:18 ....A         9874               _\PC64Win\EDK\OldStyle\RunC64Program.cpp
+1997-04-09 12:34:20 ....A        14438               _\PC64Win\EDK\Include\SID6581.CPP
+1997-04-09 12:34:18 ....A        89381               _\PC64Win\EDK\Simons' Basic\Simons' Basic.cpp
+1997-04-09 12:34:18 ....A         2105               _\PC64Win\EDK\OldStyle\Sound.cpp
+1997-04-09 12:34:08 ....A        13007               _\PC64Win\EDK\TestLine\TestLine.cpp
+1997-04-09 12:34:20 ....A        14933               _\PC64Win\EDK\TestPort\TestPort.cpp
+1997-04-09 12:34:20 ....A         5987               _\PC64Win\EDK\TestTimer\TestTimer.cpp
+1997-04-25 12:26:52 ....A         5988               _\PC64Win\EDK\Include\Timer.cpp
+1997-07-19 13:49:32 ....A        22406               _\PC64Win\EDK\Include\Win32\Toolbox.cpp
+1997-04-24 15:27:12 ....A         6200               _\PC64Win\EDK\Userport\Userport.cpp
+1997-04-25 12:58:38 ....A         6370               _\PC64Win\EDK\Include\VIC656x.cpp
+1996-11-19 10:04:42 ....A         2561               _\PC64Win\EDK\Freezer\Freezer.rc
+1997-01-10 11:43:46 ....A         4304               _\PC64Win\EDK\OldStyle\PC64Win.rc
+1996-09-25 12:19:42 ....A         2184               _\PC64Win\EDK\TestLine\TestLine.rc
+1996-09-25 13:54:36 ....A         2184               _\PC64Win\EDK\TestPort\TestPort.rc
+1996-09-25 13:55:52 ....A         2192               _\PC64Win\EDK\TestTimer\TestTimer.rc
+1997-03-18 10:06:20 ....A          631               _\PC64Win\EDK\JOYPATCH.BAS
+1997-04-05 08:35:18 ....A         3592               _\PC64Win\EDK\OldStyle\CVIC656xDisplayAsm.asm
+1997-01-22 18:33:22 ....A         7922               _\PC64Win\EDK\DriveLED\DriveLED.mak
+1996-11-19 16:18:22 ....A         5285               _\PC64Win\EDK\Freezer\Freezer.mak
+1997-03-18 12:35:42 ....A         5617               _\PC64Win\EDK\Test Suite\Loopback\Loopback.mak
+1996-11-29 19:01:58 ....A         4038               _\PC64Win\EDK\MIDI\MIDI.MAK
+1997-02-01 11:29:04 ....A         5244               _\PC64Win\EDK\NewExtension\NewExtension.mak
+1997-04-25 12:53:08 ....A        43187               _\PC64Win\EDK\OldStyle\PC64Win.mak
+1996-10-09 11:49:12 ....A         4510               _\PC64Win\EDK\Simons' Basic\Simons Basic.mak
+1996-09-25 12:20:32 ....A         5675               _\PC64Win\EDK\TestLine\TestLine.mak
+1996-09-25 13:55:08 ....A         5671               _\PC64Win\EDK\TestPort\TestPort.mak
+1996-11-16 17:00:48 ....A         5791               _\PC64Win\EDK\TestTimer\TestTimer.mak
+1997-04-24 10:42:52 ....A         7527               _\PC64Win\EDK\Userport\Userport.mak
+1996-04-09 12:18:48 ....A           87               _\PC64Win\EDK\Makehelp.bat
+1997-01-22 18:15:24 ....A           44               _\PC64Win\EDK\MIDI.BAT
+1997-01-22 18:13:44 ....A           48               _\PC64Win\EDK\MIDI\MIDITest.bat
+1997-01-15 19:26:46 ....A         2501               _\PC64Win\Other.bat
+1997-01-15 10:19:58 ....A          397               _\PC64Win\PC64Tape.bat
+1996-10-03 13:09:26 ....A           37               _\PC64Win\EDK\Simons' Basic.bat
+1997-01-16 10:36:02 ....A          800               _\PC64Win\EDK\Zip EDK.bat
+1997-01-16 20:24:36 ....A          355               _\PC64Win\EDK\Zip Source.bat
+1997-01-15 12:52:34 ....A          464               _\PC64Win\EDK\Zip Update.bat
+1997-01-10 14:19:22 ....A          506               _\PC64Win\EDK\Zip.bat
+1997-05-22 20:44:00 ....A         2093               _\PC64Win\EDK\Form.htm
+1996-07-26 07:13:36 ....A        16245               _\PC64Win\EDK\Documentation\Joystick SideWinder 3D Pro Programming.htm
+1997-05-16 12:13:36 ....A         1198               _\PC64Win\EDK\PC64Win Default Sound Settings.htm
+1997-05-16 12:10:50 ....A         1487               _\PC64Win\EDK\PC64Win Local Sound Settings.htm
+1997-05-17 20:08:54 ....A         2628               _\PC64Win\PC64Win.htm
+1997-03-21 05:33:50 ....A        13430               _\PC64Win\EDK\Documentation\Programming the Enhanced Parallel Port.htm
+1996-09-22 14:04:10 ....A         3167               _\PC64Win\EDK\Documentation\SID Homepage\SIDCREAT.HTM
+1996-09-22 14:04:10 ....A         2463               _\PC64Win\EDK\Documentation\SID Homepage\SIDTECH.HTM
+1996-09-22 14:04:10 ....A         2993               _\PC64Win\EDK\Documentation\SID Homepage\SIDTECH1.HTM
+1996-09-22 14:04:10 ....A        19662               _\PC64Win\EDK\Documentation\SID Homepage\SIDTECH2.HTM
+1996-09-22 14:04:10 ....A        11182               _\PC64Win\EDK\Documentation\SID Homepage\SIDTECH3.HTM
+1996-09-22 14:04:10 ....A         4136               _\PC64Win\EDK\Documentation\SID Homepage\SIDTECH4.HTM
+1996-09-22 14:04:10 ....A        18159               _\PC64Win\EDK\Documentation\SID Homepage\YANNES.HTM
+1997-03-27 03:44:56 ....A         3798               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\index.html
+1997-03-27 03:42:02 ....A         3302               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\656x-luminances.txt
+1997-05-01 20:22:28 ....A         6671               _\PC64Win\EDK\Adding a group to the Start Menu.txt
+1997-03-27 03:45:52 ....A        12142               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\c64_pla.equations.txt
+1997-06-14 17:26:54 ....A          580               _\PC64Win\EDK\Documentation\CBM Basic Start Address.txt
+1997-01-26 11:58:54 ....A         1581               _\PC64Win\EDK\Documentation\CIA AM-PM.txt
+1997-04-09 18:37:44 ....A         2130               _\PC64Win\EDK\EDK Documentation\Clock.txt
+1997-04-16 19:11:32 ....A          551               _\PC64Win\EDK\Documentation\Commodore Product Names.txt
+1997-05-14 17:55:14 ....A       120355               _\PC64Win\Control.txt
+1997-01-26 11:58:54 ....A        19513               _\PC64Win\EDK\Documentation\CPU 6502 Opcodes and Quasi-Opcodes.txt
+1997-01-26 11:58:56 ....A         7441               _\PC64Win\EDK\Documentation\CPU Discussion on Undocumented Opcodes.txt
+1997-01-26 11:58:56 ....A        19901               _\PC64Win\EDK\Documentation\CPU Extra Instructions.txt
+1997-04-16 11:01:36 ....A         9560               _\PC64Win\EDK\Documentation\CPU IRQ and NMI at the same time.txt
+1997-01-26 11:58:54 ....A        85145               _\PC64Win\EDK\Documentation\CPU The NMOS 65xx-85xx Instruction Set.txt
+1997-01-26 11:58:54 ....A         6519               _\PC64Win\EDK\Documentation\Details of X64 Emulation.txt
+1997-04-04 17:55:26 ....A         4403               _\PC64Win\EDK\EDK Documentation\Display16.txt
+1997-01-26 11:58:56 ....A          542               _\PC64Win\EDK\DriveLED.txt
+1997-09-02 09:29:36 ....A         1346               _\PC64Win\ErrorLog.txt
+1997-01-26 11:58:56 ....A         2531               _\PC64Win\EDK\Documentation\EXT - Action Replay.txt
+1997-01-26 11:58:54 ....A       104523               _\PC64Win\EDK\Documentation\Floppy - C64 File Formats.txt
+1997-01-26 11:58:56 ....A         1545               _\PC64Win\EDK\Documentation\Floppy BAM for 40 Tracks.txt
+1997-01-26 11:58:54 ....A         2716               _\PC64Win\EDK\Documentation\Floppy GCR encoding.txt
+1997-01-26 11:58:56 ....A         2769               _\PC64Win\EDK\Documentation\Floppy New GCR Format from Miha.txt
+1997-04-04 18:14:26 ....A         1916               _\PC64Win\EDK\EDK Documentation\Introduction.txt
+1997-01-26 11:58:54 ....A         2941               _\PC64Win\EDK\Documentation\Jouko Valta to Documentation about C64.txt
+1997-04-04 18:03:00 ....A         1053               _\PC64Win\EDK\EDK Documentation\Line.txt
+1997-01-26 11:58:54 ....A         8879               _\PC64Win\EDK\MIDI\MIDI 1.0 Specification.txt
+1997-04-04 18:14:22 ....A         1493               _\PC64Win\EDK\EDK Documentation\Oversight of Components.txt
+1997-01-26 11:58:54 ....A       137971               _\PC64Win\EDK\Documentation\PENTOPT.TXT
+1997-01-26 11:58:54 ....A         2865               _\PC64Win\EDK\Documentation\PLA.TXT
+1997-04-04 18:04:30 ....A         1520               _\PC64Win\EDK\EDK Documentation\Port.txt
+1997-01-26 11:58:54 ....A        12785               _\PC64Win\EDK\Documentation\REU Programming.txt
+1997-01-26 11:58:54 ....A         3737               _\PC64Win\EDK\Documentation\REU Registers.txt
+1997-01-26 11:58:54 ....A         4968               _\PC64Win\EDK\Documentation\SID Andreas Boose.txt
+1997-01-26 11:58:56 ....A         2437               _\PC64Win\EDK\Documentation\SID Combining Waveforms.txt
+1997-01-26 11:58:56 ....A         3667               _\PC64Win\EDK\Documentation\SID Filter Idea and Wave Algorithms.txt
+1997-01-26 11:58:56 ....A        23529               _\PC64Win\EDK\Documentation\SID Internals Discussion.txt
+1997-01-26 11:58:56 ....A         1361               _\PC64Win\EDK\Documentation\SID is 8 bit and not 12 bit.txt
+1997-01-26 11:58:56 ....A         5086               _\PC64Win\EDK\Documentation\SID Ringmodulation.txt
+1997-01-26 11:58:56 ....A        23786               _\PC64Win\EDK\Documentation\SID Sourcecode with Filters from Christian Bauer.txt
+1997-01-26 11:58:56 ....A         5071               _\PC64Win\EDK\Documentation\SID Sustain Shutoff FF vs. EF.txt
+1997-01-26 11:58:56 ....A         9798               _\PC64Win\EDK\Documentation\SID Triangle and Sawtooth Sampling.txt
+1997-01-26 11:58:56 ....A         4109               _\PC64Win\EDK\Documentation\SID Triggering Test Bit.txt
+1997-01-26 11:58:54 ....A         6143               _\PC64Win\EDK\Documentation\SIDSCHW.TXT
+1997-01-26 11:58:56 ....A         2031               _\PC64Win\EDK\Documentation\SPRI3FFF.TXT
+1997-01-26 11:58:56 ....A         1751               _\PC64Win\EDK\Documentation\SPRX3FFF.TXT
+1997-01-26 11:58:56 ....A         3864               _\PC64Win\EDK\Documentation\Tape Bit Formats.txt
+1997-04-05 08:34:36 ....A         3893               _\PC64Win\EDK\EDK Documentation\The 'global' keyword and precompiled headers.txt
+1997-04-04 18:11:54 ....A         5743               _\PC64Win\EDK\EDK Documentation\The Emulator Devlopers Kit.txt
+1997-04-04 18:08:36 ....A          904               _\PC64Win\EDK\EDK Documentation\Timer.txt
+1997-03-16 00:28:34 ....A        73928               _\PC64Win\EDK\Documentation\VIA6522 Datasheet (DOS charset).txt
+1997-03-24 19:26:30 ....A         2189               _\PC64Win\EDK\Documentation\VIC Color Washing.txt
+1997-01-26 11:58:54 ....A        24991               _\PC64Win\EDK\Documentation\VIC DYCP - Horizontal Scrolling.txt
+1997-01-26 11:58:54 ....A         3382               _\PC64Win\EDK\Documentation\VIC FLD - Scrolling the Screen.txt
+1997-01-26 11:58:56 ....A         9556               _\PC64Win\EDK\Documentation\VIC FLI - more color to the screen.txt
+1997-01-26 11:58:56 ....A        11699               _\PC64Win\EDK\Documentation\VIC Introduction to the VIC-II.txt
+1997-01-26 11:58:56 ....A        28184               _\PC64Win\EDK\Documentation\VIC Memory Access.txt
+1997-01-26 11:58:54 ....A        14234               _\PC64Win\EDK\Documentation\VIC Missing Cycles.txt
+1997-01-26 11:58:54 ....A        14007               _\PC64Win\EDK\Documentation\VIC Opening the Borders.txt
+1997-01-26 11:58:54 ....A         7141               _\PC64Win\EDK\Documentation\VIC Raster.txt
+1997-01-26 11:58:56 ....A         3642               _\PC64Win\EDK\Documentation\VIC Sprite Priorities in ECM.txt
+1997-01-26 11:58:56 ....A        22011               _\PC64Win\EDK\Documentation\VIC Stretching Sprites.txt
+1997-01-26 11:58:56 ....A        14122               _\PC64Win\EDK\Documentation\VIC Tech-tech - more resolution to vertical shift.txt
+1997-01-26 11:58:56 ....A         3594               _\PC64Win\EDK\Documentation\VIC Timing from Christian.txt
+1997-01-26 11:58:56 ....A         1416               _\PC64Win\EDK\Documentation\VIC Zugriffe auf Char ROM.txt
+1996-08-28 17:53:22 ....A       124788               _\PC64Win\EDK\Documentation\VIC-Article from Christian Bauer.txt
+1996-08-28 17:53:44 ....A       131641               _\PC64Win\EDK\Documentation\VIC-Artikel von Christian Bauer.txt
+1997-01-26 11:58:56 ....A         1328               _\PC64Win\EDK\Documentation\VIC-Fehler in C64S aus dem Usenet.txt
+1997-01-26 11:58:56 ....A         9924               _\PC64Win\EDK\Documentation\VIC-Internas von Andreas Boose.txt
+1997-04-04 18:11:28 ....A          973               _\PC64Win\EDK\EDK Documentation\Writing Extensions for PC64Win.txt
+1997-01-26 11:58:56 ....A        12921               _\PC64Win\EDK\Documentation\ZEITVERH.TXT
+1997-05-28 19:45:06 ....A        14164               _\PC64Win\EDK\Test Suite\_Test Suite.txt
+1997-09-02 09:29:26 ....A         6425               _\PC64Win\Keys.ini
+1996-07-20 10:54:58 ....A         2428               _\PC64Win\EDK\PC64WIN.INI
+1994-09-21 00:00:00 ....A       177889               WING\HELP\WING.HLP
+1996-05-28 23:17:18 ....A        15804               DXSDK\SDK\LIB\D3DRM.LIB
+1996-05-29 14:52:52 ....A        13958               DXSDK\SDK\LIB\DDRAW.LIB
+1996-05-21 00:34:02 ....A         2490               DXSDK\SDK\LIB\DPLAY.LIB
+1996-05-27 13:37:58 ....A         4750               DXSDK\SDK\LIB\DSETUP.LIB
+1996-05-26 19:14:42 ....A         3446               DXSDK\SDK\LIB\DSOUND.LIB
+1996-05-21 02:43:22 ....A         5206               DXSDK\SDK\LIB\FASTFILE.LIB
+1997-04-24 12:10:58 ....A        83126               _\PC64Win\EDK\PC64Win.lib
+1994-09-21 00:00:00 ....A         2560               WING\LIB\WING.LIB
+1994-09-21 00:00:00 ....A        10534               WING\LIB\WING32.LIB
+1997-01-23 10:54:16 ....A        99328               _\PC64Win\EDK\DriveLED\DriveLED.ncb
+1996-11-19 16:18:22 ....A       148480               _\PC64Win\EDK\Freezer\Freezer.ncb
+1997-03-19 18:05:30 ....A       148480               _\PC64Win\EDK\Test Suite\Loopback\Loopback.ncb
+1996-11-30 10:16:54 ....A       238592               _\PC64Win\EDK\MIDI\MIDI.NCB
+1997-02-01 11:29:04 ....A        91136               _\PC64Win\EDK\NewExtension\NewExtension.ncb
+1997-04-25 12:58:38 ....A       885760               _\PC64Win\EDK\OldStyle\PC64Win.ncb
+1996-10-09 11:49:12 ....A       132096               _\PC64Win\EDK\Simons' Basic\Simons Basic.ncb
+1996-09-25 12:31:02 ....A       148480               _\PC64Win\EDK\TestLine\TestLine.ncb
+1996-09-25 13:55:08 ....A        82944               _\PC64Win\EDK\TestPort\TestPort.ncb
+1996-11-18 10:41:42 ....A       132096               _\PC64Win\EDK\TestTimer\TestTimer.ncb
+1997-04-25 09:24:54 ....A       173056               _\PC64Win\EDK\Userport\Userport.ncb
+1993-09-04 11:37:34 ....A        16384               _\PC64Win\ORIGINAL.154
+1995-09-22 13:50:24 ....A         8192               _\PC64Win\Original.64b
+1995-09-22 13:50:24 ....A         4096               _\PC64Win\Original.64c
+1995-09-22 13:50:22 ....A         8192               _\PC64Win\Original.64k
+1996-11-19 15:58:42 ....A        17092               _\PC64Win\EDK\Freezer\Freezer.aps
+1997-04-10 10:05:54 ....A        21796               _\PC64Win\EDK\OldStyle\PC64Win.aps
+1996-09-25 12:19:42 ....A        30708               _\PC64Win\EDK\TestLine\TestLine.aps
+1996-09-25 13:54:36 ....A        30708               _\PC64Win\EDK\TestPort\TestPort.aps
+1996-09-25 13:55:52 ....A        30736               _\PC64Win\EDK\TestTimer\TestTimer.aps
+1996-11-25 11:07:06 ....A           84               _\PC64Win\EDK\CPUPORT.C64
+1996-08-28 07:54:54 ....A        38977               _\PC64Win\EDK\Gaplus.c64
+1995-09-30 11:38:54 ....A          408               _\PC64Win\EDK\JOYSTICK.C64
+1995-09-30 11:38:54 ....A          408               _\PC64Win\JOYSTICK.C64
+1997-03-17 10:12:34 ....A           62               _\PC64Win\EDK\Test Suite\Loopback\LOOPBACK.C64
+1996-10-08 18:52:16 ....A          359               _\PC64Win\EDK\MIDI.C64
+1996-10-08 18:52:16 ....A          359               _\PC64Win\EDK\MIDI\MIDITest.c64
+1996-09-27 14:08:06 ....A           98               _\PC64Win\EDK\rnd display.c64
+1995-09-27 12:55:46 ....A          509               _\PC64Win\EDK\Stretching Sprites.c64
+1996-05-11 00:00:32 ....A        60087               DXSDK\HELP\DIRECTX.CNT
+1991-11-21 15:30:34 ....A        15984               _\PC64Win\JOYSTICK.CPL
+1997-01-03 12:27:36 ....A       174848               _\PC64Win\EDK\Disk.d64
+1993-09-04 11:37:34 ....A          512               _\PC64Win\License.dat
+1996-07-20 11:50:40 ....A          322               _\PC64Win\EDK\OldStyle\File_id.diz
+1997-01-10 14:33:06 ....A          336               _\PC64Win\File_ID.diz
+1996-07-12 18:26:24 ....A       779010               _\PC64Win\Programs.do_
+1991-11-21 15:30:58 ....A         3968               _\PC64Win\IBMJoy.drv
+1994-09-21 00:00:00 ....A         6736               WING\BIN\WINGDIB.DRV
+1996-04-09 12:18:48 ....A         6736               _\PC64Win\WinGDIB.drv
+1997-04-24 12:10:58 ....A        16324               _\PC64Win\EDK\PC64Win.exp
+1996-07-20 12:09:12 ....A       453120               DXSDK\HELP\DIRECTX.FTG
+1996-07-20 12:09:08 ....A       603648               DXSDK\HELP\DIRECTX.FTS
+1996-07-20 11:46:56 ....A         8628               _\PC64Win\EDK\OldStyle\PC64WIN.GID
+1997-03-27 03:39:50 ....A        22830               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\1772.info
+1997-03-27 03:45:18 ....A        31930               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\csg_chips.info
+1997-03-27 03:42:46 ....A         4693               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\VIC-I.info
+1997-01-16 12:05:28 ....A         2207               _\PC64Win\Database.in_
+1996-05-22 14:50:48 ....A         1024               DXSDK\SDK\LIB\DDRAW.LBW
+1996-05-21 00:33:14 ....A         1024               DXSDK\SDK\LIB\DSOUND.LBW
+1995-11-06 14:51:58 ....A         6144               DXSDK\SDK\LIB\FASTFILE.LBW
+1997-01-23 10:54:16 ....A        36352               _\PC64Win\EDK\DriveLED\DriveLED.mdp
+1996-11-19 16:18:22 ....A        35328               _\PC64Win\EDK\Freezer\Freezer.mdp
+1997-03-19 18:05:30 ....A        36864               _\PC64Win\EDK\Test Suite\Loopback\Loopback.mdp
+1996-11-30 10:16:52 ....A        33792               _\PC64Win\EDK\MIDI\MIDI.MDP
+1997-02-01 11:29:04 ....A        35328               _\PC64Win\EDK\NewExtension\NewExtension.mdp
+1997-04-25 12:58:38 ....A        44544               _\PC64Win\EDK\OldStyle\PC64Win.mdp
+1996-10-09 11:49:12 ....A        34816               _\PC64Win\EDK\Simons' Basic\Simons Basic.mdp
+1996-09-25 12:31:02 ....A        35328               _\PC64Win\EDK\TestLine\TestLine.mdp
+1996-09-25 13:55:08 ....A        35328               _\PC64Win\EDK\TestPort\TestPort.mdp
+1996-11-18 10:41:42 ....A        34816               _\PC64Win\EDK\TestTimer\TestTimer.mdp
+1997-04-25 09:24:54 ....A        35328               _\PC64Win\EDK\Userport\Userport.mdp
+1997-03-27 03:41:42 ....A        19647               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\6502-NMOS_extra.opcodes
+1996-04-09 12:18:48 ....A        16994               _\PC64Win\EDK\GAMES\BATTLFLD.P00
+1996-12-17 10:29:58 ....A         2002               _\PC64Win\EDK\Test Suite\Under Construction\CIA1TA.P00
+1996-12-17 10:31:04 ....A         7872               _\PC64Win\EDK\Test Suite\Under Construction\CIA1TASM.P00
+1996-12-17 10:31:50 ....A         2002               _\PC64Win\EDK\Test Suite\Under Construction\CIA1TB.P00
+1996-12-17 10:30:24 ....A         2786               _\PC64Win\EDK\Test Suite\Under Construction\CIA2TA.P00
+1996-12-17 10:30:14 ....A         9892               _\PC64Win\EDK\Test Suite\Under Construction\CIA2TASM.P00
+1996-12-17 10:30:50 ....A         2787               _\PC64Win\EDK\Test Suite\Under Construction\CIA2TB.P00
+1996-12-17 10:30:40 ....A         9893               _\PC64Win\EDK\Test Suite\Under Construction\CIA2TBSM.P00
+1996-12-17 10:37:36 ....A         4272               _\PC64Win\EDK\Test Suite\Under Construction\CIAASM.P00
+1997-03-04 17:44:12 ....A          474               _\PC64Win\EDK\Test Suite\Under Construction\CNT.P00
+1997-03-04 17:45:36 ....A          431               _\PC64Win\EDK\Test Suite\Under Construction\CNTAB.P00
+1997-03-04 17:45:34 ....A         5371               _\PC64Win\EDK\Test Suite\Under Construction\CNTABASM.P00
+1997-03-04 17:44:18 ....A         5535               _\PC64Win\EDK\Test Suite\Under Construction\CNTASM.P00
+1997-03-04 17:45:16 ....A         5328               _\PC64Win\EDK\Test Suite\Under Construction\CNTO2ASM.P00
+1997-03-04 17:44:28 ....A          511               _\PC64Win\EDK\Test Suite\Under Construction\CNTSTART.P00
+1997-03-04 17:44:26 ....A         5573               _\PC64Win\EDK\Test Suite\Under Construction\CNTSTRTS.P00
+1993-09-04 11:37:34 ....A          112               _\PC64Win\COLORS.P00
+1993-09-04 11:37:34 ....A          112               _\PC64Win\EDK\COLORS.P00
+1996-11-25 13:46:04 ....A         3102               _\PC64Win\EDK\Test Suite\Under Construction\CPPRT3SM.P00
+1996-11-25 13:46:06 ....A          514               _\PC64Win\EDK\Test Suite\Under Construction\CPUPORT3.P00
+1997-03-04 17:44:04 ....A          696               _\PC64Win\EDK\Test Suite\Under Construction\INOUT.P00
+1997-03-04 17:44:02 ....A         5353               _\PC64Win\EDK\Test Suite\Under Construction\INOUTASM.P00
+1997-02-26 17:22:00 ....A         1089               _\PC64Win\EDK\Test Suite\Under Construction\INT2PC.P00
+1997-02-26 17:22:14 ....A         6370               _\PC64Win\EDK\Test Suite\Under Construction\INT2PCSM.P00
+1996-09-04 10:55:10 ....A         1089               _\PC64Win\EDK\MMFTCHSM.P00
+1996-09-04 10:57:38 ....A          101               _\PC64Win\EDK\MMUFETCH.P00
+1993-12-09 21:27:52 ....A         8700               _\PC64Win\EDK\SHADES.P00
+1996-05-10 13:55:42 ....A        18005               _\PC64Win\EDK\SOUNDWIZ.P00
+1995-09-30 09:49:48 ....A         1847               _\PC64Win\EDK\SYNCVCSM.P00
+1995-08-09 11:10:02 ....A          379               _\PC64Win\EDK\SYNCVIC.P00
+1996-10-25 12:07:18 ....A        18964               _\PC64Win\EDK\Test Suite\TA.P00
+1996-10-25 12:07:18 ....A        18964               _\PC64Win\EDK\Test Suite\Under Construction\TA.P00
+1997-03-04 17:43:54 ....A         5088               _\PC64Win\EDK\Test Suite\Under Construction\TEMPLTSM.P00
+1997-04-17 11:54:54 ....A        11177               _\PC64Win\EDK\Test Suite\Under Construction\TRAP16SM.P00
+1996-12-17 10:31:42 ....A         8028               _\PC64Win\EDK\Test Suite\Under Construction\Cia1tbsm.p02
+1996-09-24 19:08:52 ....A       114966               _\PC64Win\EDK\PC64WIN.PBI
+1996-09-24 19:09:00 ....A       114998               _\PC64Win\EDK\PC64WIN.PBO
+1996-09-24 19:09:00 ....A       180896               _\PC64Win\EDK\PC64WIN.PBT
+1996-08-21 20:43:08 ....A          967               _\PC64Win\EDK\MAKEHELP.PIF
+1997-01-11 13:57:12 ....A          967               _\PC64Win\Other.PIF
+1997-01-13 12:54:36 ....A          967               _\PC64Win\PC64Tape.PIF
+1997-01-16 10:38:30 ....A          967               _\PC64Win\EDK\Zip EDK.PIF
+1997-01-16 20:27:34 ....A          967               _\PC64Win\EDK\Zip Source.PIF
+1997-01-15 19:28:06 ....A          967               _\PC64Win\EDK\Zip Update.PIF
+1997-01-16 12:11:04 ....A          967               _\PC64Win\EDK\Zip.PIF
+1997-03-27 03:44:28 ....A         3655               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\reu.registers
+1997-03-27 03:45:00 ....A        11731               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\programming.reu
+1996-12-03 19:28:44 ....A          436               _\PC64Win\EDK\Test Suite\Under Construction\RSTRSTCK.S00
+1996-11-29 08:24:08 ....A          319               _\PC64Win\EDK\Test Suite\Under Construction\WTDSPLYS.S00
+1997-03-27 03:45:50 ....A        27542               _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi\pal.timing
+1994-09-21 00:00:00 ....A         5024               WING\BIN\WINGPAL.WND
+1996-04-09 12:18:48 ....A         5024               _\PC64Win\WinGPal.wnd
+1997-01-11 13:17:30 ....A        10202       563605  _\PC64Win\BINtoP00.exe
+1997-04-24 12:11:26 ....A      1279488               _\PC64Win\EDK\PC64Win.exe
+1996-11-18 12:34:56 ....A        12618               _\PC64Win\T64toP00.exe
+1997-01-22 18:56:28 ....A        61440               _\PC64Win\EDK\DriveLED.dll
+1997-01-21 10:49:30 ....A        61440               _\PC64Win\EDK\FloppyLED.dll
+1996-11-19 16:03:58 ....A        39424               _\PC64Win\EDK\Freezer.dll
+1997-03-19 11:51:46 ....A       135680               _\PC64Win\EDK\Loopback.dll
+1996-11-30 10:16:46 ....A        87040               _\PC64Win\EDK\MIDI.DLL
+1996-10-09 11:48:38 ....A        48640               _\PC64Win\EDK\SimonBas.dll
+1996-09-25 12:30:20 ....A        45568               _\PC64Win\EDK\TestLine.dll
+1996-09-25 13:54:38 ....A        48128               _\PC64Win\EDK\TestPort.dll
+1996-11-18 10:40:54 ....A        86528               _\PC64Win\EDK\TestTimer.dll
+1997-04-24 15:27:18 ....A       172544               _\PC64Win\EDK\Userport.dll
+1994-09-21 00:00:00 ....A        92208               WING\BIN\WING.DLL
+1996-04-09 12:18:48 ....A        92208               _\PC64Win\WinG.dll
+1994-09-21 00:00:00 ....A        12800               WING\BIN\WING32.DLL
+1996-04-09 12:18:48 ....A        12800               _\PC64Win\WinG32.dll
+1994-08-24 00:00:00 ....A       188960               WING\BIN\WINGDE.DLL
+1996-04-09 12:18:48 ....A       188960               _\PC64Win\WinGDE.dll
+1996-12-04 23:37:40 ....A         3424               _\PC64Win\DirectNT.sys
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK\Userport
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK\TestTimer
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK\TestPort
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK\TestLine
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK\Test Suite\Under Construction
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK\Test Suite\Loopback
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK\Test Suite
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\Simons' Basic
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\PC64Win
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\OldStyle
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\NewExtension
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\MIDI
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\Include\Win32
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\Include
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\GAMES
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\Freezer
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\EDK Documentation
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\DriveLED
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\Documentation\SID Homepage\MEDIA
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\Documentation\SID Homepage
+2017-02-03 15:53:38 D....            0            0  _\PC64Win\EDK\Documentation\Chipdata on ftp.funet.fi
+2017-02-03 15:53:39 D....            0            0  _\PC64Win\EDK\Documentation
+2017-02-03 15:53:40 D....            0            0  _\PC64Win\EDK
+2017-02-03 15:53:37 D....            0            0  _\PC64Win
+2017-02-03 15:53:37 D....            0            0  _
+2017-02-03 15:53:37 D....            0            0  WING\LIB
+2017-02-03 15:53:37 D....            0            0  WING\INCLUDE
+2017-02-03 15:53:37 D....            0            0  WING\HELP
+2017-02-03 15:53:37 D....            0            0  WING\BIN
+2017-02-03 15:53:37 D....            0            0  WING
+2017-02-03 15:53:37 D....            0            0  DXSDK\SDK\LIB
+2017-02-03 15:53:37 D....            0            0  DXSDK\SDK\INC
+2017-02-03 15:53:37 D....            0            0  DXSDK\SDK
+2017-02-03 15:53:37 D....            0            0  DXSDK\HELP
+2017-02-03 15:53:37 D....            0            0  DXSDK
+------------------- ----- ------------ ------------  ------------------------
+2017-02-03 15:53:40           11960822      2419799  417 files, 35 folders

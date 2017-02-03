@@ -1,0 +1,5 @@
+0.88: Cut-back in preparation for realigning the console vertically, shift
+of 4 pixels.  Sorry, debugger, you never really worked right anyway.  Also
+added a switch, /PATCH, to patch location "-1101" (6 on //e, 234 on ][ and
+][+) - for some reason ProDOS crashes without this option set on the //e?!
+Another unexplained mystery kludged around. :E

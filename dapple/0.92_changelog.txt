@@ -1,0 +1,2 @@
+0.92: Used the XRun6502() kludge to keep accurate time for the Disk ][.  I
+finally enabled long-dead code in disk.c to get this working.

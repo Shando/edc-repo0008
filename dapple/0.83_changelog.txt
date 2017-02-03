@@ -1,0 +1,7 @@
+0.83: International users rejoice, a sticky setting exists that allows the
+selection of alternate character sets.  This might not work correctly.  Do
+not delete "dapple.chr" if you change the settings.  Remember, Dapple does
+get characters from DOS, so KEYB will affect the layout of the keyboard as
+Dapple sees it.  Key mapping for High ASCII characters is based on CP 437,
+and depends on the Apple charset selected.  Also... //e screen paging bugs
+have been partially fixed.  Still no Page 2 in //e mode.

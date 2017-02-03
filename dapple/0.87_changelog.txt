@@ -1,0 +1,2 @@
+0.87: Changed the user interface to support loading PG2 files and changing
+the default ROM BIOS from the command prompt.  Type "DAPPLE /?" for info.

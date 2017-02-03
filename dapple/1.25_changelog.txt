@@ -1,0 +1,5 @@
+1.25:  From outside: some  internal changes to improve  the 80-column text
+support  (although  right  now  it  is  fudged,  it  is  still  relatively
+readable, and if  you  really want, you can run  AppleWorks 2.x with  it).
+Also, a  little  tweak to cgafnt2h to  make a  cleaner font.h (changes the
+type from char to unsigned char).

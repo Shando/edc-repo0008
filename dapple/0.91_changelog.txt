@@ -1,0 +1,3 @@
+0.91: Kludged XRun6502() to keep time for the joystick.  I finally got the
+joystick working, and it will autocalibrate.  Altered the waitstate method
+so that the delay loop is more evenly timed.

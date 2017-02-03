@@ -1,0 +1,2 @@
+0.98d: Another workaround for Xevious, the /XEVIOUS switch... Added "real"
+documentation (dapple.man) in the *X style.

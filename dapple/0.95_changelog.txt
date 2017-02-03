@@ -1,0 +1,4 @@
+0.95: Looks like a request for the ApplePC blinkenlights.  Well!  Here you
+go.  Note there's five of them: one for Slot 5, two for Slot 6 and two for
+Slot 7.  Also, added /RUNFIX for PG2-type programs that could not be /BRUN
+from the command line; some of them should work now.

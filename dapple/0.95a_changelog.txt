@@ -1,0 +1,4 @@
+0.95a: I officially recognize the contributions of Holger Picker by adding
+his name to the copyright beside mine.  Not all source files have yet been
+fixed.  Also, made the V (Overflow) bit in the CPU's P register equal to C
+(Carry) in ADC and SBC operations.  This version is a PATCH ONLY.

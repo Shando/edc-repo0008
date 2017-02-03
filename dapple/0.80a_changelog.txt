@@ -1,0 +1,2 @@
+0.80a: Fixed off-by-one error in Block->HTS translation (nonvirtual drive
+A: translator).

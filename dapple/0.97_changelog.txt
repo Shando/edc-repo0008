@@ -1,0 +1,3 @@
+0.97: Reversed the Shift Key Mod (and allowed it to be disabled).  Now you
+can use the FrEdWriter 4.4 text editor/word processor.  (Note:  There is a
+cosmetic bug in //e mode.  I have something to find out first.)

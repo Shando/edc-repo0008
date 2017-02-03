@@ -1,0 +1,4 @@
+0.95b: CPU fix to ADC opcode, fixing "Pitfall 2: Lost Caverns".  As before
+I will be releasing this version as a PATCH ONLY, noncumulative, (you must
+download it over top of 0.95a, which in turn must be downloaded over 0.95)
+to make it easier for me.

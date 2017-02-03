@@ -1,0 +1,6 @@
+Changes in KEGS32 0.91
+
+Updated KEGS32 to 0.91 engine
+Support for 3200 colors
+Support variable speed control
+Fullscreen now switch to 800x600 if possible

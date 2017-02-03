@@ -1,0 +1,8 @@
+0.98: Preliminary support for the 80-column card, although it doesn't work
+yet.  Text support in 40-column mode is at //e Classic level, although the
+Mousetext has been in the font since the beginning.  Challenge: If you are
+able to get PR#3 to work at the level of Andrew Gregory's emulator, I will
+put your name immediately after 1.00 here, and I will put your name at the
+top section of any source files tweaked to get to this point.  I really do
+appreciate the help of Holger Picker and David Empson; it has been *quite*
+invaluable in getting the emulator this far.

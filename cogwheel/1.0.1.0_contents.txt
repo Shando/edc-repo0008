@@ -1,0 +1,17 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-09-28 22:46:36 ....A         2713        44659  Cogwheel Interface.exe.config
+2005-11-09 19:36:20 ....A        13412               ROM Data\ColecoVision.romdata
+2007-12-03 22:05:10 ....A        60346               ROM Data\Game Gear.romdata
+2007-12-03 22:16:18 ....A        70844               ROM Data\Master System.romdata
+2005-11-09 20:36:26 ....A         2903               ROM Data\SC-3000.romdata
+2005-08-07 10:51:40 ....A         1024               ROM Data\SF-7000.romdata
+2007-03-13 12:28:42 ....A         3919               ROM Data\SG-1000.romdata
+2008-10-02 15:34:50 ....A       328192       434086  Cogwheel Interface.exe
+2008-10-02 15:34:48 ....A       221696               Brazil.dll
+2008-10-01 00:41:52 ....A        32256               emu2413.dll
+2008-10-02 15:34:48 ....A       108032               Sega.dll
+2008-02-26 20:04:08 ....A      1363968               SlimDX.dll
+2017-02-03 18:38:50 D....            0            0  ROM Data
+------------------- ----- ------------ ------------  ------------------------
+2017-02-03 18:38:50            2209305       478745  12 files, 1 folders

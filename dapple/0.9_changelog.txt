@@ -1,0 +1,3 @@
+0.90: Removed a long-standing kludge and fixed portions of the UI.  Turned
+on the hard drive when a hard disk file was specified on the command line.
+(I should have done this in 0.89!)

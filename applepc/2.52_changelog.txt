@@ -1,0 +1,18 @@
+1995.06.13: ApplePC 2.52
+
+ * Used a variety of techniques to make ApplePC smaller and even faster!
+ * Fixed a bug preventing the Disk II state from loading properly
+ * Modified the disk image state format, incrementing it from 8400 to 8401
+ * Reenabled the HD lights after accidentally disabling them in 2.50á.
+ * Made a number of changes and improvements in the Tab file chooser (there
+   is still much to add, though.)
+ * FINALLY FIXED THE MOUSE BUG!!! This time I am *sure* of it. The problem
+   was this: ApplePC saves the int B and C vectors. The default setting
+   for serial port emulation is to disable it. When the serial port
+   emulation initializes, it first resets the int B and C vectors, then
+   redirects the vector for the COM port being used (by default, none).
+   The problem is, the int B and C vectors were being loaded from the
+   saved values before they had been saved (initialized)! A simple matter
+   of routines being called in the wrong order!
+ * Took out the `M' parameter (which used to disable the mouse). It is not
+   needed anymore!!!
