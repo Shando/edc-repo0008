@@ -1,0 +1,3 @@
+1.00pt10: Merged  in more  modifications  from "outside":  multiple  color
+palettes, pseudo double res gfx.  Also  added the palette settings to  the
+dapple.ini file.

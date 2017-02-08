@@ -1,0 +1,2 @@
+0.82: WARNING: THERE ARE NEW SCREEN PAGING BUGS IN IIE MODE.  However, the
+paging bug has been fixed.

@@ -1,0 +1,435 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-02-19 23:54:04 ....A        24578       685144  Makefile
+2013-03-29 00:22:40 ....A         1221               src\snddrv\quasi88\2203fmgen.h
+2013-03-29 00:22:40 ....A         1262               src\snddrv-old\quasi88\2203fmgen.h
+2013-03-29 00:22:40 ....A         1305               src\snddrv-old\src\sound\2203intf.h
+2013-03-29 00:22:40 ....A         1511               src\snddrv\src\sound\2203intf.h
+2013-03-29 00:22:40 ....A         1208               src\snddrv\quasi88\2608fmgen.h
+2013-03-29 00:22:40 ....A         1217               src\snddrv-old\quasi88\2608fmgen.h
+2013-03-29 00:22:40 ....A         1631               src\snddrv\src\sound\2608intf.h
+2013-03-29 00:22:40 ....A         1792               src\snddrv-old\src\sound\2608intf.h
+2013-03-29 00:22:40 ....A          929               src\snddrv-old\quasi88\X11\audio.h
+2013-03-29 00:22:40 ....A         1353               src\snddrv\quasi88\X11\audio.h
+2013-03-29 00:22:40 ....A         1583               src\snddrv-old\quasi88\SDL\audio.h
+2013-03-29 00:22:40 ....A         1635               src\snddrv\quasi88\SDL\audio.h
+2013-03-29 00:22:40 ....A         2901               src\snddrv\src\sound\ay8910.h
+2013-03-29 00:22:40 ....A         3157               src\snddrv-old\src\sound\ay8910.h
+2013-03-29 00:22:40 ....A          271               src\basic.h
+2013-03-29 00:22:40 ....A          377               src\snddrv\quasi88\beep.h
+2013-03-29 00:22:40 ....A          742               src\snddrv-old\quasi88\beep.h
+2013-03-29 00:22:40 ....A          186               src\snddrv\quasi88\beepintf.h
+2013-03-29 00:22:40 ....A         1052               src\snddrv-old\src\unix\sysdep\begin_code.h
+2013-03-29 00:22:40 ....A         1052               src\snddrv\src\unix\sysdep\begin_code.h
+2013-03-29 00:22:40 ....A          819               src\GTK\config.h
+2013-03-29 00:22:40 ....A          904               src\WIN32\config.h
+2013-03-29 00:22:40 ....A         1075               src\X11\config.h
+2013-03-29 00:22:40 ....A         1249               src\MINI\config.h
+2013-03-29 00:22:40 ....A         1515               src\CLASSIC\config.h
+2013-03-29 00:22:40 ....A         1822               src\SDL\config.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\cpuintrf.h
+2013-03-29 00:22:40 ....A         3019               src\crtcdmac.h
+2013-03-29 00:22:40 ....A          466               src\MINI\device.h
+2013-03-29 00:22:40 ....A          692               src\GTK\device.h
+2013-03-29 00:22:40 ....A          725               src\CLASSIC\device.h
+2013-03-29 00:22:40 ....A          764               src\SDL\device.h
+2013-03-29 00:22:40 ....A          769               src\WIN32\device.h
+2013-03-29 00:22:40 ....A         1640               src\X11\device.h
+2013-03-29 00:22:40 ....A           20               src\snddrv-old\src\unix\devices.h
+2013-03-29 00:22:40 ....A           20               src\snddrv\src\unix\devices.h
+2013-03-29 00:22:40 ....A          420               src\fmgen\diag.h
+2013-03-29 00:22:40 ....A         3301               src\drive.h
+2013-03-29 00:22:40 ....A           27               src\snddrv-old\src\driver.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\driver.h
+2013-03-29 00:22:40 ....A         1200               src\emu.h
+2013-03-29 00:22:40 ....A          937               src\snddrv-old\src\unix\sysdep\end_code.h
+2013-03-29 00:22:40 ....A          937               src\snddrv\src\unix\sysdep\end_code.h
+2013-03-29 00:22:40 ....A         7385               src\event.h
+2013-03-29 00:22:40 ....A          611               src\fdc.h
+2013-03-29 00:22:40 ....A         5482               src\snddrv-old\src\unix\sysdep\fifo.h
+2013-03-29 00:22:40 ....A         5482               src\snddrv\src\unix\sysdep\fifo.h
+2013-03-29 00:22:40 ....A        14861               src\file-op.h
+2013-03-29 00:22:40 ....A          779               src\FUNIX\filename.h
+2013-03-29 00:22:40 ....A          782               src\FDUMMY\filename.h
+2013-03-29 00:22:40 ....A          850               src\FWIN\filename.h
+2013-03-29 00:22:40 ....A          852               src\FMAC\filename.h
+2013-03-29 00:22:40 ....A         1273               src\snddrv-old\src\sound\filter.h
+2013-03-29 00:22:40 ....A          325               src\snddrv\src\sound\flt_rc.h
+2013-03-29 00:22:40 ....A          102               src\snddrv\src\sound\flt_vol.h
+2013-03-29 00:22:40 ....A         6468               src\snddrv\src\sound\fm.h
+2013-03-29 00:22:40 ....A         7288               src\snddrv-old\src\sound\fm.h
+2013-03-29 00:22:40 ....A         6734               src\fmgen\fmgen.h
+2013-03-29 00:22:40 ....A         4914               src\fmgen\fmgeninl.h
+2013-03-29 00:22:40 ....A         1181               src\fmgen\fmtimer.h
+2013-03-29 00:22:40 ....A        48029               src\font.h
+2013-03-29 00:22:40 ....A         4574               src\getconf.h
+2013-03-29 00:22:40 ....A        10969               src\graph.h
+2013-03-29 00:22:40 ....A          437               src\fmgen\headers.h
+2013-03-29 00:22:40 ....A        12050               src\help.h
+2013-03-29 00:22:40 ....A         1023               src\image.h
+2013-03-29 00:22:40 ....A         3284               src\initval.h
+2013-03-29 00:22:40 ....A         1678               src\intr.h
+2013-03-29 00:22:40 ....A          220               src\X11\joystick.h
+2013-03-29 00:22:40 ....A         9623               src\keyboard.h
+2013-03-29 00:22:40 ....A         7519               src\snddrv-old\quasi88\mame-quasi88.h
+2013-03-29 00:22:40 ....A        11929               src\snddrv\quasi88\mame-quasi88.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\mame.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\mamecore.h
+2013-03-29 00:22:40 ....A         2087               src\memory.h
+2013-03-29 00:22:40 ....A          927               src\menu-screen.h
+2013-03-29 00:22:40 ....A         1921               src\menu.h
+2013-03-29 00:22:40 ....A        99466               src\message.h
+2013-03-29 00:22:40 ....A         1215               src\fmgen\misc.h
+2013-03-29 00:22:40 ....A         1500               src\snddrv\src\unix\sysdep\misc.h
+2013-03-29 00:22:40 ....A         1507               src\snddrv-old\src\unix\sysdep\misc.h
+2013-03-29 00:22:40 ....A         4037               src\snddrv-old\src\sound\mixer.h
+2013-03-29 00:22:40 ....A          362               src\monitor.h
+2013-03-29 00:22:40 ....A        10551               src\fmgen\opna.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\osdepend.h
+2013-03-29 00:22:40 ....A           27               src\snddrv-old\src\osd_cpu.h
+2013-03-29 00:22:40 ....A          667               src\pause.h
+2013-03-29 00:22:40 ....A          211               src\pc88cpu.h
+2013-03-29 00:22:40 ....A         5292               src\pc88main.h
+2013-03-29 00:22:40 ....A          458               src\pc88sub.h
+2013-03-29 00:22:40 ....A          985               src\pio.h
+2013-03-29 00:22:40 ....A         4621               src\snddrv-old\src\unix\sysdep\plugin_manager.h
+2013-03-29 00:22:40 ....A         4621               src\snddrv\src\unix\sysdep\plugin_manager.h
+2013-03-29 00:22:40 ....A         2391               src\snddrv-old\src\unix\sysdep\plugin_manager_priv.h
+2013-03-29 00:22:40 ....A         2391               src\snddrv\src\unix\sysdep\plugin_manager_priv.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\profiler.h
+2013-03-29 00:22:40 ....A         2308               src\fmgen\psg.h
+2013-03-29 00:22:40 ....A         3869               src\q8tk-glib.h
+2013-03-29 00:22:40 ....A        20315               src\q8tk.h
+2013-03-29 00:22:40 ....A         7045               src\quasi88.h
+2013-03-29 00:22:40 ....A         5709               src\snddrv-old\src\unix\sysdep\rc.h
+2013-03-29 00:22:40 ....A         5860               src\snddrv\src\unix\sysdep\rc.h
+2013-03-29 00:22:40 ....A         1209               src\snddrv-old\src\unix\sysdep\rc_priv.h
+2013-03-29 00:22:40 ....A         1209               src\snddrv\src\unix\sysdep\rc_priv.h
+2013-03-29 00:22:40 ....A         4616               src\WIN32\resource.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\restrack.h
+2013-03-29 00:22:40 ....A        34111               src\romaji-table.h
+2013-03-29 00:22:40 ....A          234               src\romaji.h
+2013-03-29 00:22:40 ....A          700               src\snddrv-old\src\sound\samples.h
+2013-03-29 00:22:40 ....A         1813               src\snddrv\src\sound\samples.h
+2013-03-29 00:22:40 ....A         4061               src\screen-func.h
+2013-03-29 00:22:40 ....A         1821               src\screen-menu-double.h
+2013-03-29 00:22:40 ....A         1132               src\screen-menu-full.h
+2013-03-29 00:22:40 ....A         1325               src\screen-menu-half-p.h
+2013-03-29 00:22:40 ....A         1311               src\screen-menu-half.h
+2013-03-29 00:22:40 ....A         3388               src\screen-menu.h
+2013-03-29 00:22:40 ....A         2167               src\screen-status.h
+2013-03-29 00:22:40 ....A         6354               src\screen-vram-200.h
+2013-03-29 00:22:40 ....A         7830               src\screen-vram-200h-p.h
+2013-03-29 00:22:40 ....A         6237               src\screen-vram-200h.h
+2013-03-29 00:22:40 ....A         3460               src\screen-vram-400.h
+2013-03-29 00:22:40 ....A         3064               src\screen-vram-400h.h
+2013-03-29 00:22:40 ....A         6717               src\screen-vram-base.h
+2013-03-29 00:22:40 ....A          258               src\screen-vram-clear.h
+2013-03-29 00:22:40 ....A         6940               src\screen-vram-double.h
+2013-03-29 00:22:40 ....A         3477               src\screen-vram-full.h
+2013-03-29 00:22:40 ....A         2101               src\screen-vram-half.h
+2013-03-29 00:22:40 ....A         7486               src\screen-vram.h
+2013-03-29 00:22:40 ....A        10655               src\screen.h
+2013-03-29 00:22:40 ....A         1096               src\snapshot.h
+2013-03-29 00:22:40 ....A         5344               src\snddrv.h
+2013-03-29 00:22:40 ....A         8481               src\snddrv-old\src\sndintrf.h
+2013-03-29 00:22:40 ....A         8933               src\snddrv\src\sndintrf.h
+2013-03-29 00:22:40 ....A         3063               src\snddrv\src\sound.h
+2013-03-29 00:22:40 ....A         2419               src\soundbd.h
+2013-03-29 00:22:40 ....A         1448               src\snddrv-old\src\unix\sysdep\sound_stream.h
+2013-03-29 00:22:40 ....A         1563               src\snddrv-old\src\unix\sysdep\sound_stream_priv.h
+2013-03-29 00:22:40 ....A           20               src\snddrv-old\src\state.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\state.h
+2013-03-29 00:22:40 ....A          719               src\status.h
+2013-03-29 00:22:40 ....A          688               src\snddrv-old\src\sound\streams.h
+2013-03-29 00:22:40 ....A         1930               src\snddrv\src\streams.h
+2013-03-29 00:22:40 ....A         2472               src\suspend.h
+2013-03-29 00:22:40 ....A         2034               src\snddrv-old\src\unix\sysdep\sysdep_dsp.h
+2013-03-29 00:22:40 ....A         2034               src\snddrv\src\unix\sysdep\sysdep_dsp.h
+2013-03-29 00:22:40 ....A         2152               src\snddrv-old\src\unix\sysdep\sysdep_dsp_plugins.h
+2013-03-29 00:22:40 ....A         2165               src\snddrv\src\unix\sysdep\sysdep_dsp_plugins.h
+2013-03-29 00:22:40 ....A         1662               src\snddrv-old\src\unix\sysdep\sysdep_dsp_priv.h
+2013-03-29 00:22:40 ....A         1662               src\snddrv\src\unix\sysdep\sysdep_dsp_priv.h
+2013-03-29 00:22:40 ....A         2222               src\snddrv-old\src\unix\sysdep\sysdep_mixer.h
+2013-03-29 00:22:40 ....A         2222               src\snddrv\src\unix\sysdep\sysdep_mixer.h
+2013-03-29 00:22:40 ....A         1599               src\snddrv-old\src\unix\sysdep\sysdep_mixer_plugins.h
+2013-03-29 00:22:40 ....A         1681               src\snddrv\src\unix\sysdep\sysdep_mixer_plugins.h
+2013-03-29 00:22:40 ....A         1730               src\snddrv-old\src\unix\sysdep\sysdep_mixer_priv.h
+2013-03-29 00:22:40 ....A         1730               src\snddrv\src\unix\sysdep\sysdep_mixer_priv.h
+2013-03-29 00:22:40 ....A         1532               src\snddrv\src\unix\sysdep\sysdep_sound_stream.h
+2013-03-29 00:22:40 ....A         1605               src\snddrv\src\unix\sysdep\sysdep_sound_stream_priv.h
+2013-03-29 00:22:40 ....A           27               src\snddrv\src\timer.h
+2013-03-29 00:22:40 ....A          699               src\fmgen\types.h
+2013-03-29 00:22:40 ....A          587               src\version.h
+2013-03-29 00:22:40 ....A         2581               src\wait.h
+2013-03-29 00:22:40 ....A          329               src\snddrv-old\src\sound\wavwrite.h
+2013-03-29 00:22:40 ....A          539               src\snddrv\src\sound\wavwrite.h
+2013-03-29 00:22:40 ....A           20               src\snddrv\src\unix\xmame.h
+2013-03-29 00:22:40 ....A           79               src\snddrv-old\src\unix\xmame.h
+2013-03-29 00:22:40 ....A         2930               src\snddrv-old\src\sound\ymdeltat.h
+2013-03-29 00:22:40 ....A         3379               src\snddrv\src\sound\ymdeltat.h
+2013-03-29 00:22:40 ....A        16908               src\z80-code.h
+2013-03-29 00:22:40 ....A        14343               src\z80-codeCB.h
+2013-03-29 00:22:40 ....A         8629               src\z80-codeED.h
+2013-03-29 00:22:40 ....A         7374               src\z80-codeXX.h
+2013-03-29 00:22:40 ....A        17155               src\z80-codeXXCB.h
+2013-03-29 00:22:40 ....A        23333               src\z80-table.h
+2013-03-29 00:22:40 ....A         2176               src\z80.h
+2013-03-29 00:22:40 ....A         4011               src\snddrv-old\src\sound\2203intf.c
+2013-03-29 00:22:40 ....A         9052               src\snddrv\src\sound\2203intf.c
+2013-03-29 00:22:40 ....A         6111               src\snddrv-old\src\sound\2608intf.c
+2013-03-29 00:22:40 ....A        10689               src\snddrv\src\sound\2608intf.c
+2013-03-29 00:22:40 ....A         6297               src\snddrv\src\unix\sysdep\mixer-drivers\alsa.c
+2013-03-29 00:22:40 ....A        17008               src\snddrv\src\unix\sysdep\dsp-drivers\alsa.c
+2013-03-29 00:22:40 ....A        17229               src\snddrv-old\src\unix\sysdep\dsp-drivers\alsa.c
+2013-03-29 00:22:40 ....A         5972               src\snddrv-old\src\unix\sysdep\dsp-drivers\arts.c
+2013-03-29 00:22:40 ....A         6001               src\snddrv\src\unix\sysdep\dsp-drivers\arts.c
+2013-03-29 00:22:40 ....A         4556               src\snddrv-old\src\unix\sysdep\dsp-drivers\artssound.c
+2013-03-29 00:22:40 ....A         4584               src\snddrv\src\unix\sysdep\dsp-drivers\artssound.c
+2013-03-29 00:22:40 ....A        11609               src\snddrv\quasi88\X11\audio.c
+2013-03-29 00:22:40 ....A        11691               src\snddrv-old\quasi88\X11\audio.c
+2013-03-29 00:22:40 ....A        13335               src\MINI\audio.c
+2013-03-29 00:22:40 ....A        18333               src\snddrv\quasi88\SDL\audio.c
+2013-03-29 00:22:40 ....A        19047               src\snddrv-old\quasi88\SDL\audio.c
+2013-03-29 00:22:40 ....A        24012               src\WIN32\audio.c
+2013-03-29 00:22:40 ....A        27169               src\CLASSIC\audio.c
+2013-03-29 00:22:40 ....A        24045               src\snddrv-old\src\sound\ay8910.c
+2013-03-29 00:22:40 ....A        28353               src\snddrv\src\sound\ay8910.c
+2013-03-29 00:22:40 ....A        18195               src\basic.c
+2013-03-29 00:22:40 ....A         2845               src\snddrv\quasi88\beep.c
+2013-03-29 00:22:40 ....A         3303               src\snddrv-old\quasi88\beep.c
+2013-03-29 00:22:40 ....A         1152               src\snddrv-old\quasi88\beepintf.c
+2013-03-29 00:22:40 ....A         2997               src\snddrv\quasi88\beepintf.c
+2013-03-29 00:22:40 ....A        13445               src\snddrv\src\unix\sysdep\dsp-drivers\coreaudio.c
+2013-03-29 00:22:40 ....A        14001               src\snddrv-old\src\unix\sysdep\dsp-drivers\coreaudio.c
+2013-03-29 00:22:40 ....A        23159               src\crtcdmac.c
+2013-03-29 00:22:40 ....A         8721               src\debug.c
+2013-03-29 00:22:40 ....A         6503               src\snddrv-old\src\driver.c
+2013-03-29 00:22:40 ....A        13754               src\snddrv\src\driver.c
+2013-03-29 00:22:40 ....A        10324               src\emu.c
+2013-03-29 00:22:40 ....A         5422               src\snddrv-old\src\unix\sysdep\dsp-drivers\esound.c
+2013-03-29 00:22:40 ....A         5542               src\snddrv\src\unix\sysdep\dsp-drivers\esound.c
+2013-03-29 00:22:40 ....A         1840               src\MINI\event.c
+2013-03-29 00:22:40 ....A        18452               src\CLASSIC\event.c
+2013-03-29 00:22:40 ....A        25319               src\WIN32\event.c
+2013-03-29 00:22:40 ....A        25611               src\GTK\event.c
+2013-03-29 00:22:40 ....A        52592               src\SDL\event.c
+2013-03-29 00:22:40 ....A        70407               src\X11\event.c
+2013-03-29 00:22:40 ....A       103917               src\fdc.c
+2013-03-29 00:22:40 ....A        13636               src\FDUMMY\file-op.c
+2013-03-29 00:22:40 ....A        26468               src\FMAC\file-op.c
+2013-03-29 00:22:40 ....A        27593               src\FUNIX\file-op.c
+2013-03-29 00:22:40 ....A        29154               src\FWIN\file-op.c
+2013-03-29 00:22:40 ....A         2905               src\snddrv-old\src\sound\filter.c
+2013-03-29 00:22:40 ....A         2797               src\snddrv\src\sound\flt_rc.c
+2013-03-29 00:22:40 ....A         2905               src\snddrv-old\src\sound\flt_rc.c
+2013-03-29 00:22:40 ....A         2280               src\snddrv\src\sound\flt_vol.c
+2013-03-29 00:22:40 ....A       157154               src\snddrv\src\sound\fm.c
+2013-03-29 00:22:40 ....A       176211               src\snddrv-old\src\sound\fm.c
+2013-03-29 00:22:40 ....A        17547               src\fname.c
+2013-03-29 00:22:40 ....A        63792               src\getconf.c
+2013-03-29 00:22:40 ....A        32663               src\X11\graph-x11dga.c
+2013-03-29 00:22:40 ....A        20170               src\X11\graph-xv.c
+2013-03-29 00:22:40 ....A         3707               src\MINI\graph.c
+2013-03-29 00:22:40 ....A        10164               src\GTK\graph.c
+2013-03-29 00:22:40 ....A        10472               src\WIN32\graph.c
+2013-03-29 00:22:40 ....A        12883               src\X11\graph.c
+2013-03-29 00:22:40 ....A        15034               src\CLASSIC\graph.c
+2013-03-29 00:22:40 ....A        16501               src\SDL\graph.c
+2013-03-29 00:22:40 ....A        16571               src\image.c
+2013-03-29 00:22:40 ....A        22966               src\intr.c
+2013-03-29 00:22:40 ....A        11208               src\snddrv-old\src\unix\sysdep\dsp-drivers\io-audio.c
+2013-03-29 00:22:40 ....A        11208               src\snddrv\src\unix\sysdep\dsp-drivers\io-audio.c
+2013-03-29 00:22:40 ....A         7650               src\snddrv-old\src\unix\sysdep\dsp-drivers\irix.c
+2013-03-29 00:22:40 ....A         7650               src\snddrv\src\unix\sysdep\dsp-drivers\irix.c
+2013-03-29 00:22:40 ....A         8770               src\snddrv-old\src\unix\sysdep\dsp-drivers\irix_al.c
+2013-03-29 00:22:40 ....A         9521               src\snddrv\src\unix\sysdep\dsp-drivers\irix_al.c
+2013-03-29 00:22:40 ....A         8209               src\X11\joy-bsd.c
+2013-03-29 00:22:40 ....A         7131               src\X11\joy-linux.c
+2013-03-29 00:22:40 ....A          731               src\X11\joy-none.c
+2013-03-29 00:22:40 ....A         4299               src\X11\joy-sdl.c
+2013-03-29 00:22:40 ....A          468               src\X11\joystick.c
+2013-03-29 00:22:40 ....A        84293               src\keyboard.c
+2013-03-29 00:22:40 ....A         7959               src\snddrv-old\quasi88\machine.c
+2013-03-29 00:22:40 ....A        10269               src\snddrv\quasi88\machine.c
+2013-03-29 00:22:40 ....A         1878               src\MINI\main.c
+2013-03-29 00:22:40 ....A         3491               src\WIN32\main.c
+2013-03-29 00:22:40 ....A         4528               src\GTK\main.c
+2013-03-29 00:22:40 ....A         5025               src\CLASSIC\main.c
+2013-03-29 00:22:40 ....A         6007               src\SDL\main.c
+2013-03-29 00:22:40 ....A         8112               src\X11\main.c
+2013-03-29 00:22:40 ....A        18449               src\snddrv\quasi88\mame-quasi88.c
+2013-03-29 00:22:40 ....A        18540               src\snddrv-old\quasi88\mame-quasi88.c
+2013-03-29 00:22:40 ....A        23654               src\memory.c
+2013-03-29 00:22:40 ....A         4603               src\menu-screen.c
+2013-03-29 00:22:40 ....A       167054               src\menu.c
+2013-03-29 00:22:40 ....A        38747               src\WIN32\menubar.c
+2013-03-29 00:22:40 ....A        42180               src\CLASSIC\menubar.c
+2013-03-29 00:22:40 ....A        52385               src\GTK\menubar.c
+2013-03-29 00:22:40 ....A         4341               src\snddrv-old\src\unix\sysdep\misc.c
+2013-03-29 00:22:40 ....A         4341               src\snddrv\src\unix\sysdep\misc.c
+2013-03-29 00:22:40 ....A        40139               src\snddrv-old\src\sound\mixer.c
+2013-03-29 00:22:40 ....A       146716               src\monitor.c
+2013-03-29 00:22:40 ....A         8530               src\snddrv-old\src\unix\sysdep\dsp-drivers\netbsd.c
+2013-03-29 00:22:40 ....A         8569               src\snddrv\src\unix\sysdep\dsp-drivers\netbsd.c
+2013-03-29 00:22:40 ....A         5403               src\snddrv-old\src\unix\sysdep\mixer-drivers\oss.c
+2013-03-29 00:22:40 ....A         5403               src\snddrv\src\unix\sysdep\mixer-drivers\oss.c
+2013-03-29 00:22:40 ....A         9310               src\snddrv-old\src\unix\sysdep\dsp-drivers\oss.c
+2013-03-29 00:22:40 ....A         9430               src\snddrv\src\unix\sysdep\dsp-drivers\oss.c
+2013-03-29 00:22:40 ....A         1908               src\pause.c
+2013-03-29 00:22:40 ....A        82567               src\pc88main.c
+2013-03-29 00:22:40 ....A        12207               src\pc88sub.c
+2013-03-29 00:22:40 ....A        14283               src\pio.c
+2013-03-29 00:22:40 ....A         7066               src\snddrv-old\src\unix\sysdep\plugin_manager.c
+2013-03-29 00:22:40 ....A         7237               src\snddrv\src\unix\sysdep\plugin_manager.c
+2013-03-29 00:22:40 ....A        50384               src\q8tk-glib.c
+2013-03-29 00:22:40 ....A       211963               src\q8tk.c
+2013-03-29 00:22:40 ....A        31136               src\quasi88.c
+2013-03-29 00:22:40 ....A        23494               src\snddrv\src\unix\sysdep\rc.c
+2013-03-29 00:22:40 ....A        24293               src\snddrv-old\src\unix\sysdep\rc.c
+2013-03-29 00:22:40 ....A         9005               src\snddrv\src\restrack.c
+2013-03-29 00:22:40 ....A         7717               src\romaji.c
+2013-03-29 00:22:40 ....A         3518               src\snddrv-old\src\sound\samples.c
+2013-03-29 00:22:40 ....A        17478               src\snddrv\src\sound\samples.c
+2013-03-29 00:22:40 ....A        51014               src\screen-16bpp.c
+2013-03-29 00:22:40 ....A        51014               src\screen-32bpp.c
+2013-03-29 00:22:40 ....A        51009               src\screen-8bpp.c
+2013-03-29 00:22:40 ....A        11042               src\screen-snapshot.c
+2013-03-29 00:22:40 ....A        55271               src\screen.c
+2013-03-29 00:22:40 ....A         8202               src\snddrv\src\unix\sysdep\dsp-drivers\sdl.c
+2013-03-29 00:22:40 ....A         8273               src\snddrv\quasi88\SDL\sdl.c
+2013-03-29 00:22:40 ....A         8658               src\snddrv-old\src\unix\sysdep\dsp-drivers\sdl.c
+2013-03-29 00:22:40 ....A         8758               src\snddrv-old\quasi88\SDL\sdl.c
+2013-03-29 00:22:40 ....A        16280               src\snapshot.c
+2013-03-29 00:22:40 ....A        28339               src\snddrv\src\sndintrf.c
+2013-03-29 00:22:40 ....A        30208               src\snddrv-old\src\sndintrf.c
+2013-03-29 00:22:40 ....A         5066               src\snddrv-old\src\unix\sysdep\mixer-drivers\solaris.c
+2013-03-29 00:22:40 ....A         5066               src\snddrv\src\unix\sysdep\mixer-drivers\solaris.c
+2013-03-29 00:22:40 ....A         7648               src\snddrv-old\src\unix\sysdep\dsp-drivers\solaris.c
+2013-03-29 00:22:40 ....A         7648               src\snddrv\src\unix\sysdep\dsp-drivers\solaris.c
+2013-03-29 00:22:40 ....A         7644               src\snddrv\src\unix\sound.c
+2013-03-29 00:22:40 ....A        10288               src\snddrv-old\src\unix\sound.c
+2013-03-29 00:22:40 ....A        28536               src\snddrv\src\sound.c
+2013-03-29 00:22:40 ....A        40139               src\snddrv-old\src\sound.c
+2013-03-29 00:22:40 ....A        21943               src\soundbd.c
+2013-03-29 00:22:40 ....A         7877               src\snddrv-old\src\unix\sysdep\sound_stream.c
+2013-03-29 00:22:40 ....A        24182               src\status.c
+2013-03-29 00:22:40 ....A         6874               src\snddrv-old\src\sound\streams.c
+2013-03-29 00:22:40 ....A         6874               src\snddrv-old\src\streams.c
+2013-03-29 00:22:40 ....A        22773               src\snddrv\src\streams.c
+2013-03-29 00:22:40 ....A        19884               src\suspend.c
+2013-03-29 00:22:40 ....A        10392               src\snddrv\src\unix\sysdep\sysdep_dsp.c
+2013-03-29 00:22:40 ....A        11380               src\snddrv-old\src\unix\sysdep\sysdep_dsp.c
+2013-03-29 00:22:40 ....A         7792               src\snddrv\src\unix\sysdep\sysdep_mixer.c
+2013-03-29 00:22:40 ....A         8053               src\snddrv-old\src\unix\sysdep\sysdep_mixer.c
+2013-03-29 00:22:40 ....A           27               src\snddrv-old\src\unix\sysdep\sysdep_sound_stream.c
+2013-03-29 00:22:40 ....A         8106               src\snddrv\src\unix\sysdep\sysdep_sound_stream.c
+2013-03-29 00:22:40 ....A       317042               src\utf16.c
+2013-03-29 00:22:40 ....A         6925               src\utility.c
+2013-03-29 00:22:40 ....A         1077               src\MINI\wait.c
+2013-03-29 00:22:40 ....A         3115               src\CLASSIC\wait.c
+2013-03-29 00:22:40 ....A         3724               src\GTK\wait.c
+2013-03-29 00:22:40 ....A         4101               src\SDL\wait.c
+2013-03-29 00:22:40 ....A         4312               src\WIN32\wait.c
+2013-03-29 00:22:40 ....A         9727               src\X11\wait.c
+2013-03-29 00:22:40 ....A         6141               src\snddrv-old\src\unix\sysdep\dsp-drivers\waveout.c
+2013-03-29 00:22:40 ....A         6261               src\snddrv\src\unix\sysdep\dsp-drivers\waveout.c
+2013-03-29 00:22:40 ....A         3507               src\snddrv-old\src\sound\wavwrite.c
+2013-03-29 00:22:40 ....A         5308               src\snddrv\src\sound\wavwrite.c
+2013-03-29 00:22:40 ....A        19919               src\snddrv-old\src\sound\ymdeltat.c
+2013-03-29 00:22:40 ....A        23961               src\snddrv\src\sound\ymdeltat.c
+2013-03-29 00:22:40 ....A        76196               src\z80-debug.c
+2013-03-29 00:22:40 ....A        31906               src\z80.c
+2013-03-29 00:22:40 ....A         5039               src\snddrv-old\quasi88\2203fmgen.cpp
+2013-03-29 00:22:40 ....A         8233               src\snddrv\quasi88\2203fmgen.cpp
+2013-03-29 00:22:40 ....A         4721               src\snddrv-old\quasi88\2608fmgen.cpp
+2013-03-29 00:22:40 ....A         7625               src\snddrv\quasi88\2608fmgen.cpp
+2013-03-29 00:22:40 ....A        23944               src\fmgen\fmgen.cpp
+2013-03-29 00:22:40 ....A         4089               src\fmgen\fmtimer.cpp
+2013-03-29 00:22:40 ....A        44510               src\fmgen\opna.cpp
+2013-03-29 00:22:40 ....A         9763               src\fmgen\psg.cpp
+2013-01-18 22:30:34 ....A        14097               keyconf.rc
+2013-01-10 22:40:08 ....A         3291               quasi88.rc
+2013-03-29 00:22:40 ....A         4353               src\WIN32\quasi88.rc
+2013-03-13 15:23:40 ....A        51000               visualc\QUASI88_sdl.vcproj
+2013-03-13 15:27:34 ....A        36203               visualc\QUASI88_win32.vcproj
+2013-03-13 15:10:58 ....A         1712               visualc\QUASI88.sln
+2013-03-13 14:41:04 ....A        11153               visualc\QUASI88_sdl.dsp
+2013-03-13 14:43:26 ....A         9231               visualc\QUASI88_win32.dsp
+2013-03-13 14:38:40 ....A          752               visualc\QUASI88.dsw
+2013-03-29 00:22:40 ....A         1461               src\fmgen\00README.TXT
+2013-03-29 00:22:40 ....A         5175               src\snddrv\00README.TXT
+2013-03-29 00:22:40 ....A         7058               src\snddrv-old\00README.TXT
+2013-03-29 00:22:40 ....A         1691               document\BUILD-APPENDIX.TXT
+2013-03-29 00:22:40 ....A         4655               document\BUILD-OLDMAC.TXT
+2013-03-29 00:22:40 ....A         7716               document\BUILD-UNIX+MAC.TXT
+2013-03-29 00:22:40 ....A         5021               document\BUILD-WIN32.TXT
+2013-03-29 00:22:40 ....A        55659               document\FAQ.TXT
+2013-03-29 00:22:40 ....A         3691               document\FORMAT.TXT
+2013-03-29 00:22:40 ....A         1861               document\GET-IMAGE.TXT
+2013-03-29 00:22:40 ....A        18224               document\HISTORY.TXT
+2013-03-29 00:22:40 ....A         1804               src\snddrv\license.txt
+2013-03-29 00:22:40 ....A         3413               src\snddrv\mame.txt
+2013-03-29 00:22:40 ....A         8740               src\snddrv-old\mame.txt
+2013-03-29 00:22:40 ....A        84700               document\MANUAL.TXT
+2013-03-29 00:22:40 ....A        18443               document\QUASI88.TXT
+2013-03-29 00:22:40 ....A         3171               src\fmgen\readme.txt
+2007-05-17 00:00:22 ....A         9497               visualc\KEYCONF.ini
+2013-01-10 22:39:08 ....A         2369               visualc\QUASI88.ini
+2013-03-29 00:22:40 ....A        25765               src\snddrv-old\src\unix\sysdep\COPYING.LIB
+2013-03-29 00:22:40 ....A        25765               src\snddrv\src\unix\sysdep\COPYING.LIB
+2013-03-22 08:17:30 ....A         1881               mpw\CAUTION.sit.hqx
+2013-03-22 08:47:52 ....A         3330               mpw\KEYCONF.prefs.sit.hqx
+2012-11-19 21:16:48 ....A         3463               mpw\QUASI88-68k.make.sit.hqx
+2013-02-18 13:13:04 ....A         2403               mpw\QUASI88-rsrc.rsrc.sit.hqx
+2013-02-01 08:51:10 ....A         3339               mpw\QUASI88.make.sit.hqx
+2013-03-22 08:47:52 ....A         2466               mpw\QUASI88.prefs.sit.hqx
+2013-03-29 00:22:40 ....A         4375               src\snddrv-old\src\unix\sysdep\dsp-drivers\soundkit.m
+2013-03-29 00:22:40 ....A         4375               src\snddrv\src\unix\sysdep\dsp-drivers\soundkit.m
+2013-03-29 00:22:40 ....A            0            0  src\snddrv-old\src\restrack.c
+2013-03-29 00:22:40 ....A            0            0  src\snddrv-old\src\sound\flt_vol.c
+2013-03-29 00:22:40 ....A            0            0  src\snddrv-old\src\unix\sysdep\mixer-drivers\alsa.c
+2017-01-22 13:38:56 D....            0            0  visualc\TAPE
+2017-01-22 13:38:56 D....            0            0  visualc\STATE
+2017-01-22 13:38:56 D....            0            0  visualc\SNAP
+2017-01-22 13:38:56 D....            0            0  visualc\ROM
+2017-01-22 13:38:56 D....            0            0  visualc\INI
+2017-01-22 13:38:56 D....            0            0  visualc\DISK
+2017-01-22 13:38:56 D....            0            0  visualc
+2017-01-22 13:38:54 D....            0            0  src\X11
+2017-01-22 13:38:54 D....            0            0  src\WIN32
+2017-01-22 13:38:55 D....            0            0  src\snddrv\src\unix\sysdep\mixer-drivers
+2017-01-22 13:38:55 D....            0            0  src\snddrv\src\unix\sysdep\dsp-drivers
+2017-01-22 13:38:55 D....            0            0  src\snddrv\src\unix\sysdep
+2017-01-22 13:38:55 D....            0            0  src\snddrv\src\unix
+2017-01-22 13:38:55 D....            0            0  src\snddrv\src\sound
+2017-01-22 13:38:55 D....            0            0  src\snddrv\src
+2017-01-22 13:38:55 D....            0            0  src\snddrv\quasi88\X11
+2017-01-22 13:38:55 D....            0            0  src\snddrv\quasi88\SDL
+2017-01-22 13:38:55 D....            0            0  src\snddrv\quasi88
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\src\unix\sysdep\mixer-drivers
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\src\unix\sysdep\dsp-drivers
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\src\unix\sysdep
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\src\unix
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\src\sound
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\src
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\quasi88\X11
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\quasi88\SDL
+2017-01-22 13:38:55 D....            0            0  src\snddrv-old\quasi88
+2017-01-22 13:38:56 D....            0            0  src\snddrv-old
+2017-01-22 13:38:55 D....            0            0  src\snddrv
+2017-01-22 13:38:54 D....            0            0  src\SDL
+2017-01-22 13:38:55 D....            0            0  src\MINI
+2017-01-22 13:38:55 D....            0            0  src\GTK
+2017-01-22 13:38:54 D....            0            0  src\FWIN
+2017-01-22 13:38:54 D....            0            0  src\FUNIX
+2017-01-22 13:38:56 D....            0            0  src\fmgen
+2017-01-22 13:38:54 D....            0            0  src\FMAC
+2017-01-22 13:38:54 D....            0            0  src\FDUMMY
+2017-01-22 13:38:54 D....            0            0  src\CLASSIC
+2017-01-22 13:38:56 D....            0            0  src
+2017-01-22 13:38:56 D....            0            0  mpw\obj
+2017-01-22 13:38:56 D....            0            0  mpw
+2017-01-22 13:38:56 D....            0            0  document
+------------------- ----- ------------ ------------  ------------------------
+2017-01-22 13:38:56            5110861       685144  389 files, 42 folders

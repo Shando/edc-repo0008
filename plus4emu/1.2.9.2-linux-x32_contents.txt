@@ -1,0 +1,50 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-09-26 15:12:59 ....A       174128      1312548  plus4emu-1.2.9.2\compress
+2007-04-11 15:16:34 ....A        17992               plus4emu-1.2.9.2\COPYING
+2008-09-26 15:12:59 ....A       586680               plus4emu-1.2.9.2\makecfg
+2008-09-25 00:04:22 ....A        14137               plus4emu-1.2.9.2\NEWS
+2008-09-26 15:12:59 ....A      1454060               plus4emu-1.2.9.2\p4fliconv
+2008-09-26 15:12:59 ....A       388004               plus4emu-1.2.9.2\p4sconv
+2008-09-26 15:12:59 ....A      2122356               plus4emu-1.2.9.2\plus4emu
+2008-09-26 15:00:31 ....A        36576               plus4emu-1.2.9.2\README
+2008-09-26 15:12:59 ....A       320096               plus4emu-1.2.9.2\tapconv
+2007-05-13 23:32:28 ....A         1207               plus4emu-1.2.9.2\disk\disk.zip
+2008-08-22 18:38:47 ....A        37315               plus4emu-1.2.9.2\plus4lib\plus4emu.h
+2008-08-22 18:38:47 ....A        14166               plus4emu-1.2.9.2\plus4lib\sample.c
+2008-09-26 15:12:59 ....A       863804               plus4emu-1.2.9.2\plus4lib\libplus4emu.so
+2007-04-11 15:16:34 ....A         4866               plus4emu-1.2.9.2\config\clearkbd.cfg
+2007-05-13 23:33:03 ....A         2737               plus4emu-1.2.9.2\config\p4keyshu.cfg
+2007-05-13 23:33:03 ....A         2737               plus4emu-1.2.9.2\config\p4_keys.cfg
+2007-03-15 15:15:46 ....A          848               plus4emu-1.2.9.2\LICENSE.dotconf
+2001-12-12 03:20:15 ....A        27126               plus4emu-1.2.9.2\LICENSE.FLTK
+2007-03-15 15:14:28 ....A          815               plus4emu-1.2.9.2\LICENSE.libsndfile
+2007-12-09 17:28:29 ....A         2901               plus4emu-1.2.9.2\LICENSE.Lua
+2007-11-04 13:35:09 ....A         1699               plus4emu-1.2.9.2\LICENSE.PortAudio
+2008-08-22 18:29:40 ....A         8192               plus4emu-1.2.9.2\roms\1526_07c.rom
+2008-08-22 18:29:40 ....A        32768               plus4emu-1.2.9.2\roms\3plus1.rom
+2008-08-22 18:29:40 ....A        16384               plus4emu-1.2.9.2\roms\dos1541.rom
+2008-08-22 18:29:40 ....A        16384               plus4emu-1.2.9.2\roms\dos15412.rom
+2008-08-22 18:29:40 ....A        16384               plus4emu-1.2.9.2\roms\dos1551.rom
+2008-08-22 18:29:40 ....A        32768               plus4emu-1.2.9.2\roms\dos1581.rom
+2008-08-22 18:29:40 ....A         4096               plus4emu-1.2.9.2\roms\mps801.rom
+2008-08-22 18:28:53 ....A        16384               plus4emu-1.2.9.2\roms\p4fileio.rom
+2008-08-22 18:29:40 ....A        16384               plus4emu-1.2.9.2\roms\p4kernal.rom
+2008-08-22 18:29:40 ....A        16384               plus4emu-1.2.9.2\roms\p4_basic.rom
+2008-08-22 18:29:40 ....A        16384               plus4emu-1.2.9.2\roms\p4_ntsc.rom
+2008-08-22 18:34:47 ....A        13356               plus4emu-1.2.9.2\asm\decompress0.s
+2008-08-22 18:34:47 ....A        14046               plus4emu-1.2.9.2\asm\decompress0_sfx.s
+2008-08-22 18:34:47 ....A        13006               plus4emu-1.2.9.2\asm\decompress1.s
+2008-08-22 18:34:47 ....A        13657               plus4emu-1.2.9.2\asm\decompress1_sfx.s
+2008-08-22 18:34:47 ....A        12376               plus4emu-1.2.9.2\asm\decompress2.s
+2008-08-22 18:34:47 ....A        13035               plus4emu-1.2.9.2\asm\decompress2_sfx.s
+2008-04-19 18:15:07 ....A        21333               plus4emu-1.2.9.2\asm\p4flidisp.s
+2007-05-15 12:01:48 ....A          868               plus4emu-1.2.9.2\LICENSE.SDL
+2017-02-03 13:09:00 D....            0            0  plus4emu-1.2.9.2\roms
+2017-02-03 13:09:00 D....            0            0  plus4emu-1.2.9.2\plus4lib
+2017-02-03 13:09:00 D....            0            0  plus4emu-1.2.9.2\disk
+2017-02-03 13:09:00 D....            0            0  plus4emu-1.2.9.2\config
+2017-02-03 13:08:59 D....            0            0  plus4emu-1.2.9.2\asm
+2017-02-03 13:09:00 D....            0            0  plus4emu-1.2.9.2
+------------------- ----- ------------ ------------  ------------------------
+2017-02-03 13:09:00            6368439      1312548  40 files, 6 folders

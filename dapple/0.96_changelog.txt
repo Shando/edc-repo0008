@@ -1,0 +1,4 @@
+0.96: Extended ADC and SDC, with a small exception: if you only have Turbo
+C++ 1.01, you will need a precompiled CPU core since the extensions run TC
+out of memory, at least on my system.  ProDOS 2.03 now boots, although not
+perfectly.

@@ -1,0 +1,10 @@
+0.94: Removed "dapple.pgx" reading, replacing it with "dapple.ini", a text
+configuration file.  Also, "dapple.chr" files are no longer used (they are
+a big waste of space in other versions too, as they are only 2 bytes), and
+if you used a modified charset, you will have to set it again.  I am sorry
+for this.  I have removed Detox from the distribution, but will provide it
+separately on Sourceforge.  Additionally, a binary-only distribution shall
+coexist with the source-and-binary distribution for those who would rather
+not download the source code.  Additionally, tweaked the waitstate method,
+so the delay code is never executed if hold=0 (it ran once?), but I do not
+seem to notice any improvement.

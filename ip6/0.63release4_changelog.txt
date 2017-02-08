@@ -1,0 +1,1 @@
+Changing the method of calculating the number of clocks in the Z80 emulation section (TinyXevious compatible)

@@ -1,0 +1,58 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2000-09-27 11:49:22 ....A        16384       109329  ROMApps\CanyonClimber.bin
+2001-03-10 20:25:40 ....A        16384               ROMApps\crowley.bin
+2001-03-10 19:09:42 ....A        16384               ROMApps\elpencil.bin
+2001-03-10 21:25:10 ....A         8192               ROMApps\exbasic.bin
+2001-03-17 13:31:02 ....A         8192               ROMApps\micropainter.bin
+2000-09-27 21:40:22 ....A         8192               ROMApps\MusicEditor.bin
+2001-03-17 14:11:48 ....A         4096               ROMApps\touchpanel.bin
+2001-03-04 03:38:26 ....A        16384               ROM_OS\trekbas.bin
+2001-03-04 03:38:26 ....A          768               ROM_OS\trekchar.bin
+2001-03-04 03:38:26 ....A         4096               ROM_OS\trekchrx.bin
+2001-03-27 19:27:12 ....A         2527               QuickType\grfun.txt
+2006-03-11 17:08:38 ....A          392               QuickType\joystick.txt
+2006-02-16 01:31:48 ....A         1595               QuickType\modes.txt
+2001-03-26 07:15:28 ....A         9280               Docs\necbas.txt
+2000-09-22 16:39:36 ....A          261               QuickType\paint_80_2p.txt
+2006-03-23 04:35:12 ....A        10179               readme.txt
+2000-09-22 17:01:18 ....A          414               QuickType\screen_97_2p.txt
+2001-03-17 18:45:22 ....A         1572               Docs\tests.txt
+2006-03-22 03:42:06 ....A         7783               default.ini
+1999-06-19 20:03:34 ....A           68               vnectrek.ini
+2001-03-15 22:07:26 ....A        68851               Cassette\demo\alldemo.cp6
+1998-12-21 19:53:46 .R..A         6903               Cassette\p6\Asteroid.cp6
+2001-03-15 21:52:14 ....A         5028               Cassette\demo\A_color.CP6
+2001-03-21 21:40:30 ....A         6164               Cassette\painter\A_microman.CP6
+2001-03-15 19:30:10 ....A         5518               Cassette\demo\B_rag.CP6
+2001-03-21 21:40:20 ....A         6164               Cassette\painter\B_StillLife.CP6
+2001-03-21 21:40:16 ....A         6164               Cassette\painter\C_CoffeeMill.CP6
+2001-03-15 19:30:06 ....A         6798               Cassette\demo\C_intro1.CP6
+2001-03-21 21:40:10 ....A         6164               Cassette\painter\D_Guitar.CP6
+2001-03-15 19:30:00 ....A         5975               Cassette\demo\D_toria.CP6
+2001-03-15 19:29:54 ....A         4870               Cassette\demo\E_pc6001.CP6
+2001-03-21 21:40:04 ....A         6164               Cassette\painter\E_Sailboat.CP6
+2001-03-15 19:29:48 ....A         4997               Cassette\demo\F_sonata.CP6
+2001-03-21 21:40:00 ....A         6164               Cassette\painter\F_Tiger.CP6
+2001-03-21 21:39:56 ....A         6164               Cassette\painter\G_Car.CP6
+2001-03-15 19:29:44 ....A         3748               Cassette\demo\G_sound.CP6
+2001-03-15 19:29:32 ....A         5789               Cassette\demo\H_marche.CP6
+2001-03-21 22:06:48 ....A         6164               Cassette\painter\H_SunMoon.CP6
+2001-03-15 19:29:22 ....A         6688               Cassette\demo\I_intro2.CP6
+2001-03-15 19:29:10 ....A         4545               Cassette\demo\J_sugar.CP6
+2001-03-15 19:29:02 ....A         5033               Cassette\demo\K_intro3.CP6
+2001-03-15 19:28:54 ....A         2670               Cassette\demo\L_SubstrA.CP6
+2001-03-15 19:28:40 ....A         7192               Cassette\demo\M_substrB.CP6
+1998-12-11 01:06:06 ....A        17487               Cassette\p6\STARWR.CP6
+2006-03-22 03:33:34 ....A       233472        71949  vnectrek.exe
+2017-01-22 14:11:46 D....            0            0  screenshots
+2017-01-22 14:11:46 D....            0            0  ROM_OS
+2017-01-22 14:11:46 D....            0            0  ROMApps
+2017-01-22 14:11:46 D....            0            0  QuickType
+2017-01-22 14:11:46 D....            0            0  Docs
+2017-01-22 14:11:46 D....            0            0  Cassette\painter
+2017-01-22 14:11:46 D....            0            0  Cassette\p6
+2017-01-22 14:11:46 D....            0            0  Cassette\demo
+2017-01-22 14:11:46 D....            0            0  Cassette
+------------------- ----- ------------ ------------  ------------------------
+2017-01-22 14:11:46             578019       181278  45 files, 9 folders

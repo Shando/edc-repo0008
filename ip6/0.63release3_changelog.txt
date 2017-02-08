@@ -1,0 +1,6 @@
+JOYSTICK 2P side was supported
+The file with the extension P6 was also displayed in the file open dialog
+When returning from the full screen to the normal window,
+I changed the state back to the original state
+I made it possible to set colors in the pseudo TV mode on SCREEN 4
+Supported FDD only when mk II ROM is used (however temporary support)

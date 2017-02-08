@@ -1,0 +1,2 @@
+0.98g: Fixed some bugs relating to the color settings.  Tweaked amber:  it
+now looks much more realistic.

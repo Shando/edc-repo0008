@@ -1,0 +1,4 @@
+0.80: An off-the-cuff suggestion leads to a new feature...CLEANUP AISLE 5
+as a ProDOS block driver is tied to the A: disk.  If you remove or rename
+DISK.ROM and keep the hard disk emulation disabled, the BIOS will attempt
+to boot off a disk in drive A: (1.44 MB format).

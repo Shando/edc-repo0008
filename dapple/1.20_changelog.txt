@@ -1,0 +1,2 @@
+1.20:  Reconstructed  1.12 from  unreleased version 1.10  after all  later
+versions failed to boot (WAI NE!!!) - good thing I kept 1.10 around.

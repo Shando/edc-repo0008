@@ -1,0 +1,10 @@
+Changes in KEGS32 0.60 third release
+
+Fixed long filename problem
+Support for long filename
+Disable audio when no sound card is found
+Support Drag and drop in disk image loader
+Support Visual Themes of Windows XP
+Support variable speed control
+Scanline/Interlace video mode via F12 key.
+Fullscreen now switch to 800x600 if possible

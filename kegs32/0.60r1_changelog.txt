@@ -1,0 +1,2 @@
+Changes since 0.60
+Initial release

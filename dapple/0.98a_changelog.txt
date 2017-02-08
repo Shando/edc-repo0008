@@ -1,0 +1,2 @@
+0.98a: Got the new M65C02 to build under Turbo C++ 1 again.  Also, fixed a
+small bug in ][+ emulation mode (Flash can't be disabled on ][+!)

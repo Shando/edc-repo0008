@@ -1,0 +1,6 @@
+Corresponds to D88 format which is captured in 2D format [Incomplete]
+When booting without INI file, search ROM file
+Review the sound slightly
+Excluding edging of the screen
+Unconditionally we turned off the weight when reading the tape (I can not listen to the music being read in DoorDoorMk 2 or Chack'nPop as compensation)
+Other, various bug fixes

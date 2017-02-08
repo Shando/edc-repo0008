@@ -1,0 +1,3 @@
+0.99a: Moved Debugger to F4 to avoid collision with F5/Refresh.  Also made
+the 48K main RAM bank static, so as to allow dapple.c to be expanded more.
+Bugfixed the debugger's Disassemble function.

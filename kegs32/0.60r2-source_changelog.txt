@@ -1,0 +1,7 @@
+Changes since 0.60 R2
+
+Added joystick support
+Improved sound support
+Improved mouse support
+Fullscreen support
+Added disk configuration

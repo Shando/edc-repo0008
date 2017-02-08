@@ -1,0 +1,2 @@
+1.22:  Hooked the $1B interrupt, so that Ctrl-Break is effectively ignored
+except in the emulation itself.  This time it works properly!
