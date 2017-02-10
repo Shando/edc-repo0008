@@ -1,0 +1,101 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-02-25 08:09:13 ....A         7825      2326047  web\css\images\ajax-loader.gif
+2011-06-07 17:52:20 ....A          271               artwork\aperture.png
+2006-07-10 01:42:52 ....A          172               artwork\aperture1x2rb.png
+2006-07-10 01:38:24 ....A          175               artwork\aperture1x3rb.png
+2006-07-09 23:53:44 ....A          176               artwork\aperture2x4bg.png
+2006-07-10 00:01:46 ....A          171               artwork\aperture2x4rb.png
+2006-07-09 20:57:32 ....A          224               artwork\aperture4x6.png
+2015-02-25 08:09:13 ....A         1968               web\css\images\icons-18-black.png
+2015-02-25 08:09:13 ....A         1988               web\css\images\icons-18-white.png
+2015-02-25 08:09:13 ....A         3859               web\css\images\icons-36-black.png
+2015-02-25 08:09:13 ....A         3861               web\css\images\icons-36-white.png
+2015-02-25 08:09:13 ....A        25705               web\images\logo-mame-small.png
+2006-07-06 17:12:24 ....A          296               artwork\scanlines.png
+2011-05-17 18:21:40 ....A          122               artwork\white.png
+2015-02-25 08:09:13 ....A         2238               web\favicon.ico
+2015-02-25 08:09:13 ....A          581               nl_examples\7400_astable.c
+2015-02-25 08:09:13 ....A          607               nl_examples\74123_mstable.c
+2015-02-25 08:09:13 ....A          658               nl_examples\bjt.c
+2015-02-25 08:09:13 ....A          689               nl_examples\bjt_eb.c
+2015-02-25 08:09:13 ....A          488               nl_examples\bjt_eb_pnp.c
+2015-02-25 08:09:13 ....A        38143               nl_examples\breakout.c
+2015-02-25 08:09:13 ....A          637               nl_examples\cd4066.c
+2015-02-25 08:09:13 ....A          443               nl_examples\cdelay.c
+2015-02-25 08:09:13 ....A         1519               nl_examples\msx_mixer_stage.c
+2015-02-25 08:09:13 ....A          680               nl_examples\ne555_astable.c
+2015-02-25 08:09:13 ....A         1689               nl_examples\opamp.c
+2015-02-25 08:09:13 ....A          443               nl_examples\sn74ls629_osc.c
+2015-02-25 08:09:13 ....A         1538               nl_examples\test.c
+2015-02-25 08:09:13 ....A         1719               nl_examples\todo.c
+2015-02-25 08:09:13 ....A          456               nl_examples\vccs.c
+2015-02-25 08:09:13 ....A          530               nl_examples\vccs1.c
+2015-02-25 08:09:13 ....A        31483               hash\megatech.xml
+2015-02-25 08:09:13 ....A       689704               hash\neogeo.xml
+2015-02-25 08:09:13 ....A        85259               hash\stv.xml
+2015-02-25 08:09:13 ....A        18931               hash\vectrex.xml
+2015-02-25 08:09:13 ....A        39640               web\index.html
+2015-02-25 08:09:13 ....A        94670               web\css\jquery.mobile.css
+2015-02-25 08:09:13 ....A        93107               web\js\jquery.js
+2015-02-25 08:09:13 ....A       145396               web\js\jquery.mobile.js
+2015-02-25 08:09:13 ....A        45858               docs\config.txt
+1998-01-01 19:28:10 ....A           28               roms\dir.txt
+1998-01-01 19:28:22 ....A           32               samples\dir.txt
+1998-10-04 10:20:58 ....A           26               artwork\dir.txt
+2015-02-25 08:09:13 ....A        27289               docs\floppy.txt
+2015-02-25 08:09:13 ....A         8158               docs\hlsl.txt
+2015-02-25 08:09:13 ....A        25471               docs\imgtool.txt
+2015-02-25 08:09:13 ....A         1837               docs\license.txt
+2015-02-25 08:09:13 ....A          169               docs\licenseinfo.txt
+2015-02-25 08:09:13 ....A        17336               docs\m6502.txt
+2015-02-25 08:09:13 ....A         3287               docs\mame.txt
+2015-02-25 08:09:13 ....A         7798               docs\newvideo.txt
+2015-02-25 08:09:13 ....A        10044               docs\nscsi.txt
+2015-02-25 08:09:13 ....A        15680               docs\SDL.txt
+2015-02-25 08:24:44 ....A         6834               whatsnew.txt
+2015-02-25 08:09:13 ....A        15575               docs\windows.txt
+2007-08-01 06:33:04 ....A         4365               ctrlr\hotrod.cfg
+2007-08-01 06:33:12 ....A         6056               ctrlr\hotrodse.cfg
+2010-03-11 07:07:44 ....A         6150               ctrlr\scorpionxg.cfg
+2007-08-01 06:32:24 ....A        10869               ctrlr\slikstik.cfg
+2007-08-01 06:29:54 ....A         6057               ctrlr\xarcade.cfg
+2015-02-25 08:09:13 ....A         2432               hash\softwarelist.dtd
+2015-02-25 08:09:13 ....A         6932               hlsl\bloom.fx
+2015-02-25 08:09:13 ....A         3074               hlsl\color.fx
+2015-02-25 08:09:13 ....A         3829               hlsl\deconverge.fx
+2015-02-25 08:09:13 ....A         2889               hlsl\downsample.fx
+2015-02-25 08:09:13 ....A         4084               hlsl\focus.fx
+2015-02-25 08:09:13 ....A         2926               hlsl\phosphor.fx
+2015-02-25 08:09:13 ....A         3280               hlsl\pincushion.fx
+2015-02-25 08:09:13 ....A         5741               hlsl\post.fx
+2015-02-25 08:09:13 ....A         2039               hlsl\prescale.fx
+2015-02-25 08:09:13 ....A         2332               hlsl\primary.fx
+2015-02-25 08:09:13 ....A         2702               hlsl\vector.fx
+2015-02-25 08:09:13 ....A         5585               hlsl\yiq_decode.fx
+2015-02-25 08:09:13 ....A         3741               hlsl\yiq_encode.fx
+2015-02-25 09:21:02 ....A     32893818               mame.sym
+2015-02-25 09:18:27 ....A      1364093     17558525  chdman.exe
+2015-02-25 09:18:27 ....A       188064               jedutil.exe
+2015-02-25 09:18:28 ....A      1200526               ldresample.exe
+2015-02-25 09:18:28 ....A      1254935               ldverify.exe
+2015-02-25 09:18:27 ....A        78546               ledutil.exe
+2015-02-25 09:28:16 ....A     87630848               mame.exe
+2015-02-25 09:18:30 ....A      2605534               nltool.exe
+2015-02-25 09:18:27 ....A       165759               romcmp.exe
+2015-02-25 09:26:43 ....A      2932934               unidasm.exe
+2017-02-10 20:33:34 D....            0            0  web\js
+2017-02-10 20:33:35 D....            0            0  web\images
+2017-02-10 20:33:35 D....            0            0  web\css\images
+2017-02-10 20:33:34 D....            0            0  web\css
+2017-02-10 20:33:34 D....            0            0  web
+2017-02-10 20:33:35 D....            0            0  samples
+2017-02-10 20:33:35 D....            0            0  roms
+2017-02-10 20:33:34 D....            0            0  nl_examples
+2017-02-10 20:33:34 D....            0            0  hlsl
+2017-02-10 20:33:35 D....            0            0  hash
+2017-02-10 20:33:35 D....            0            0  docs
+2017-02-10 20:33:34 D....            0            0  ctrlr
+2017-02-10 20:33:35 D....            0            0  artwork
+------------------- ----- ------------ ------------  ------------------------
+2017-02-10 20:33:35          131883623     19884572  84 files, 13 folders
