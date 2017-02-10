@@ -1,0 +1,225 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-11-26 09:36:15 ....A         7825      2348464  web\css\images\ajax-loader.gif
+2011-06-07 17:52:20 ....A          271               artwork\aperture.png
+2006-07-10 01:42:52 ....A          172               artwork\aperture1x2rb.png
+2006-07-10 01:38:24 ....A          175               artwork\aperture1x3rb.png
+2006-07-09 23:53:44 ....A          176               artwork\aperture2x4bg.png
+2006-07-10 00:01:46 ....A          171               artwork\aperture2x4rb.png
+2006-07-09 20:57:32 ....A          224               artwork\aperture4x6.png
+2014-11-26 09:36:15 ....A         1968               web\css\images\icons-18-black.png
+2014-11-26 09:36:15 ....A         1988               web\css\images\icons-18-white.png
+2014-11-26 09:36:15 ....A         3859               web\css\images\icons-36-black.png
+2014-11-26 09:36:15 ....A         3861               web\css\images\icons-36-white.png
+2014-11-26 09:36:15 ....A        25705               web\images\logo-mame-small.png
+2006-07-06 17:12:24 ....A          296               artwork\scanlines.png
+2011-05-17 18:21:40 ....A          122               artwork\white.png
+2014-11-26 09:36:15 ....A         2238               web\favicon.ico
+2015-04-22 10:30:40 ....A         5176               docs\luaengine.md
+2014-11-26 09:36:08 ....A          614               nl_examples\7400_astable.c
+2014-11-26 09:36:08 ....A          652               nl_examples\74123_mstable.c
+2015-04-20 06:59:05 ....A          805               nl_examples\9602_mstable.c
+2014-11-26 09:36:08 ....A          702               nl_examples\bjt.c
+2014-11-26 09:36:08 ....A          731               nl_examples\bjt_eb.c
+2014-11-26 09:36:08 ....A          521               nl_examples\bjt_eb_pnp.c
+2015-04-22 10:30:40 ....A        39552               nl_examples\breakout.c
+2014-11-26 09:36:08 ....A          681               nl_examples\cd4066.c
+2014-11-26 09:36:08 ....A          474               nl_examples\cdelay.c
+2014-11-26 09:36:08 ....A         1582               nl_examples\msx_mixer_stage.c
+2014-11-26 09:36:08 ....A          728               nl_examples\ne555_astable.c
+2014-11-26 09:36:08 ....A         1776               nl_examples\opamp.c
+2014-11-26 09:36:08 ....A          475               nl_examples\sn74ls629_osc.c
+2014-11-26 09:36:08 ....A         1623               nl_examples\test.c
+2014-11-26 09:36:08 ....A         1820               nl_examples\todo.c
+2014-11-26 09:36:08 ....A          484               nl_examples\vccs.c
+2014-11-26 09:36:08 ....A          563               nl_examples\vccs1.c
+2014-11-26 09:36:08 ....A        32176               hash\megatech.xml
+2014-12-31 14:27:31 ....A       701762               hash\neogeo.xml
+2014-11-26 09:36:08 ....A        86361               hash\stv.xml
+2014-11-26 09:36:08 ....A        19491               hash\vectrex.xml
+2014-11-26 09:36:15 ....A        40557               web\index.html
+2014-11-26 09:36:15 ....A        94681               web\css\jquery.mobile.css
+2014-11-26 09:36:15 ....A        93113               web\js\jquery.js
+2014-11-26 09:36:15 ....A       145404               web\js\jquery.mobile.js
+2015-04-14 06:59:15 ....A        46987               docs\config.txt
+1998-01-01 19:28:10 ....A           28               roms\dir.txt
+1998-01-01 19:28:22 ....A           32               samples\dir.txt
+1998-10-04 10:20:58 ....A           26               artwork\dir.txt
+2015-04-14 06:59:15 ....A        27928               docs\floppy.txt
+2015-04-14 06:59:15 ....A         8282               docs\hlsl.txt
+2015-04-14 06:59:15 ....A        26037               docs\imgtool.txt
+2014-11-26 09:36:07 ....A         1872               docs\license.txt
+2014-11-26 09:36:07 ....A          173               docs\licenseinfo.txt
+2015-04-14 06:59:15 ....A        17813               docs\m6502.txt
+2014-11-26 09:36:07 ....A         3368               docs\mame.txt
+2014-11-26 09:36:07 ....A         7944               docs\newvideo.txt
+2014-11-26 09:36:07 ....A        10278               docs\nscsi.txt
+2015-04-14 06:59:15 ....A        16046               docs\SDL.txt
+2015-04-29 09:19:42 ....A         9532               whatsnew.txt
+2015-04-14 06:59:15 ....A        15940               docs\windows.txt
+2007-08-01 06:33:04 ....A         4365               ctrlr\hotrod.cfg
+2007-08-01 06:33:12 ....A         6056               ctrlr\hotrodse.cfg
+2010-03-11 07:07:44 ....A         6150               ctrlr\scorpionxg.cfg
+2007-08-01 06:32:24 ....A        10869               ctrlr\slikstik.cfg
+2007-08-01 06:29:54 ....A         6057               ctrlr\xarcade.cfg
+2014-11-26 09:36:08 ....A         2484               hash\softwarelist.dtd
+2014-11-26 09:36:08 ....A         7201               hlsl\bloom.fx
+2014-11-26 09:36:08 ....A         3189               hlsl\color.fx
+2014-11-26 09:36:08 ....A         3954               hlsl\deconverge.fx
+2014-11-26 09:36:08 ....A         2991               hlsl\downsample.fx
+2014-11-26 09:36:08 ....A         4218               hlsl\focus.fx
+2014-11-26 09:36:08 ....A         3045               hlsl\phosphor.fx
+2014-11-26 09:36:08 ....A         3404               hlsl\pincushion.fx
+2014-11-26 09:36:08 ....A         5926               hlsl\post.fx
+2014-11-26 09:36:08 ....A         2123               hlsl\prescale.fx
+2014-11-26 09:36:08 ....A         2424               hlsl\primary.fx
+2014-11-26 09:36:08 ....A         2791               hlsl\vector.fx
+2014-11-26 09:36:08 ....A         5770               hlsl\yiq_decode.fx
+2014-11-26 09:36:08 ....A         3869               hlsl\yiq_encode.fx
+2014-11-26 09:36:08 ....A         1494               keymaps\km_be_LINUX.map
+2014-11-26 09:36:08 ....A         1033               keymaps\km_br_LINUX.map
+2014-11-26 09:36:08 ....A          743               keymaps\km_ch_LINUX.map
+2014-11-26 09:36:08 ....A          744               keymaps\km_de_LINUX.map
+2014-11-26 09:36:08 ....A          872               keymaps\km_es_LINUX.map
+2014-11-26 09:36:08 ....A         1443               keymaps\km_fr_LINUX.map
+2014-11-26 09:36:08 ....A          585               keymaps\km_fr_OSX.map
+2014-11-26 09:36:08 ....A          330               keymaps\km_gb_LINUX.map
+2014-11-26 09:36:08 ....A          664               keymaps\km_it_LINUX.map
+2014-11-26 09:36:08 ....A          890               keymaps\km_pt_LINUX.map
+2014-11-26 09:36:08 ....A          567               keymaps\km_se_LINUX.map
+2014-11-26 09:36:08 ....A          564               keymaps\km_se_OSX.map
+2015-04-29 08:15:32 ....A     33188375               mame.sym
+2015-04-29 09:08:17 ....A      1031168     17318736  chdman.exe
+2015-04-29 09:08:18 ....A       488448               jedutil.exe
+2015-04-29 09:08:18 ....A       928256               ldresample.exe
+2015-04-29 09:08:18 ....A       959488               ldverify.exe
+2015-04-29 09:08:18 ....A        16896               ledutil.exe
+2015-04-29 09:08:21 ....A     88505856               mame.exe
+2015-04-29 09:08:23 ....A      1397248               nltool.exe
+2015-04-29 09:08:23 ....A       541184               pngcmp.exe
+2015-04-29 09:08:23 ....A       562176               regrep.exe
+2015-04-29 09:08:23 ....A        73216               romcmp.exe
+2015-04-29 09:08:23 ....A       529408               split.exe
+2015-04-29 09:08:23 ....A       535552               src2html.exe
+2015-04-29 09:08:23 ....A       432640               srcclean.exe
+2015-04-29 09:08:23 ....A      1985024               unidasm.exe
+2017-02-10 20:27:20 D....            0            0  web\js
+2017-02-10 20:27:19 D....            0            0  web\images
+2017-02-10 20:27:19 D....            0            0  web\css\images
+2017-02-10 20:27:20 D....            0            0  web\css
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\timepicker
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\sparkline
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\slimScroll
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\pace
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\morris
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\knob
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\jvectormap
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\jQueryUI
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\jQuery
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ionslider\img
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ionslider
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\input-mask\phone-codes
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\input-mask
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\iCheck\square
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\iCheck\polaris
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\iCheck\minimal
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\iCheck\line
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\iCheck\futurico
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\iCheck\flat
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\iCheck
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\fullcalendar
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\flot
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\fastclick
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\daterangepicker
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\datepicker\locales
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\datepicker
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\datatables\images
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\datatables
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\colorpicker\img
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\colorpicker
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\skins\moono\images\hidpi
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\skins\moono\images
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\skins\moono
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\skins
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\wsc\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\wsc
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\tabletools\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\tabletools
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\table\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\table
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\specialchar\dialogs\lang
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\specialchar\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\specialchar
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\scayt\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\scayt
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\pastefromword\filter
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\pastefromword
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\magicline\images\hidpi
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\magicline\images
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\magicline
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\link\images\hidpi
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\link\images
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\link\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\link
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\image\images
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\image\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\image
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\fakeobjects\images
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\fakeobjects
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\dialog
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\clipboard\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\clipboard
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\about\dialogs\hidpi
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\about\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\about
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\a11yhelp\dialogs\lang
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\a11yhelp\dialogs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins\a11yhelp
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\plugins
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\lang
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor\adapters
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\ckeditor
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\chartjs
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\bootstrap-wysihtml5
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins\bootstrap-slider
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\plugins
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages\UI
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages\tables
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages\mailbox
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages\layout
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages\forms
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages\examples
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages\charts
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\pages
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\documentation\build\include
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\documentation\build
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\documentation
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\dist\js\pages
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\dist\js
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\dist\img\credit
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\dist\img
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\dist\css\skins
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\dist\css
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\dist
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\build\less\skins
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\build\less
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\build\bootstrap-less\mixins
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\build\bootstrap-less
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\build
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\bootstrap\js
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\bootstrap\fonts
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\bootstrap\css
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4\bootstrap
+2017-02-10 20:27:26 D....            0            0  web\AdminLTE-2.0.4
+2017-02-10 20:27:26 D....            0            0  web
+2017-02-10 20:27:20 D....            0            0  samples
+2017-02-10 20:27:20 D....            0            0  roms
+2017-02-10 20:27:19 D....            0            0  nl_examples
+2017-02-10 20:27:20 D....            0            0  keymaps
+2017-02-10 20:27:20 D....            0            0  hlsl
+2017-02-10 20:27:20 D....            0            0  hash
+2017-02-10 20:27:20 D....            0            0  docs
+2017-02-10 20:27:20 D....            0            0  ctrlr
+2017-02-10 20:27:20 D....            0            0  artwork
+------------------- ----- ------------ ------------  ------------------------
+2017-02-10 20:27:26          132785591     19667200  103 files, 118 folders
