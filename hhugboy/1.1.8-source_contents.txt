@@ -1,0 +1,185 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-01-07 14:34:50 ....A        30621       291322  hhugboy-1.1.8\src\hhugboy.ico
+2017-01-07 14:34:50 ....A         3981               hhugboy-1.1.8\src\memory\mbc\AbstractMbc.h
+2017-01-07 14:34:50 ....A         1391               hhugboy-1.1.8\src\memory\mbc\BasicMbc.h
+2017-01-07 14:34:50 ....A         1253               hhugboy-1.1.8\src\cheats.h
+2017-01-07 14:34:50 ....A         2360               hhugboy-1.1.8\src\config.h
+2017-01-07 14:34:50 ....A         5235               hhugboy-1.1.8\src\cpu.h
+2017-01-07 14:34:50 ....A        62945               hhugboy-1.1.8\src\cpucore.h
+2017-01-07 14:34:50 ....A       241186               hhugboy-1.1.8\includes\directx-aug2009\ddraw.h
+2017-01-07 14:34:50 ....A         1040               hhugboy-1.1.8\src\debug.h
+2017-01-07 14:34:50 ....A         1156               hhugboy-1.1.8\src\devices.h
+2017-01-07 14:34:50 ....A         1574               hhugboy-1.1.8\src\dialogs.h
+2017-01-07 14:34:50 ....A       223194               hhugboy-1.1.8\includes\directx-aug2009\dinput.h
+2017-01-07 14:34:50 ....A         3264               hhugboy-1.1.8\src\rendering\directdraw.h
+2017-01-07 14:34:50 ....A         1523               hhugboy-1.1.8\src\directinput.h
+2017-01-07 14:34:50 ....A          451               hhugboy-1.1.8\src\rendering\filters\Filter.h
+2017-01-07 14:34:50 ....A         1622               hhugboy-1.1.8\src\rendering\filters\filters.h
+2017-01-07 14:34:50 ....A        73410               hhugboy-1.1.8\includes\fmod\fmod.h
+2017-01-07 14:34:50 ....A        39326               hhugboy-1.1.8\includes\fmod\fmoddyn.h
+2017-01-07 14:34:50 ....A         1689               hhugboy-1.1.8\includes\fmod\fmod_errors.h
+2017-01-07 14:34:50 ....A         9094               hhugboy-1.1.8\src\GB.h
+2017-01-07 14:34:50 ....A         1695               hhugboy-1.1.8\src\GB_gfx.h
+2017-01-07 14:34:50 ....A         2401               hhugboy-1.1.8\src\memory\GB_MBC.h
+2017-01-07 14:34:50 ....A         3569               hhugboy-1.1.8\src\keynames.h
+2017-01-07 14:34:50 ....A         4485               hhugboy-1.1.8\src\licnames.h
+2017-01-07 14:34:50 ....A         1242               hhugboy-1.1.8\src\main.h
+2017-01-07 14:34:50 ....A         1667               hhugboy-1.1.8\src\mainloop.h
+2017-01-07 14:34:50 ....A         2028               hhugboy-1.1.8\src\memory\mbc\MbcLicHuc3.h
+2017-01-07 14:34:50 ....A         1385               hhugboy-1.1.8\src\memory\mbc\MbcLicHuColl.h
+2017-01-07 14:34:50 ....A         1473               hhugboy-1.1.8\src\memory\mbc\MbcLicMk12.h
+2017-01-07 14:34:50 ....A         1497               hhugboy-1.1.8\src\memory\mbc\MbcLicMmm01.h
+2017-01-07 14:34:50 ....A         2180               hhugboy-1.1.8\src\memory\mbc\MbcLicTama5.h
+2017-01-07 14:34:50 ....A         1359               hhugboy-1.1.8\src\memory\mbc\MbcNin1.h
+2017-01-07 14:34:50 ....A         1311               hhugboy-1.1.8\src\memory\mbc\MbcNin2.h
+2017-01-07 14:34:50 ....A         1565               hhugboy-1.1.8\src\memory\mbc\MbcNin3.h
+2017-01-07 14:34:50 ....A         1326               hhugboy-1.1.8\src\memory\mbc\MbcNin5.h
+2017-01-07 14:34:50 ....A         1953               hhugboy-1.1.8\src\memory\mbc\MbcNin7.h
+2017-01-07 14:34:50 ....A         1537               hhugboy-1.1.8\src\memory\mbc\MbcNinCamera.h
+2017-01-07 14:34:50 ....A         1440               hhugboy-1.1.8\src\memory\MbcType.h
+2017-01-07 14:34:50 ....A         2234               hhugboy-1.1.8\src\memory\mbc\MbcUnlBbd.h
+2017-01-07 14:34:50 ....A          641               hhugboy-1.1.8\src\memory\mbc\MbcUnlDbzTrans.h
+2017-01-07 14:34:50 ....A         1496               hhugboy-1.1.8\src\memory\mbc\MbcUnlHitek.h
+2017-01-07 14:34:50 ....A         1150               hhugboy-1.1.8\src\memory\mbc\MbcUnlLbMulti.h
+2017-01-07 14:34:50 ....A          786               hhugboy-1.1.8\src\memory\mbc\MbcUnlLiCheng.h
+2017-01-07 14:34:50 ....A         1360               hhugboy-1.1.8\src\memory\mbc\MbcUnlPoke2in1.h
+2017-01-07 14:34:50 ....A         1394               hhugboy-1.1.8\src\memory\mbc\MbcUnlRockman8.h
+2017-01-07 14:34:50 ....A         1407               hhugboy-1.1.8\src\memory\mbc\MbcUnlSachen8in1.h
+2017-01-07 14:34:50 ....A         1712               hhugboy-1.1.8\src\memory\mbc\MbcUnlSintax.h
+2017-01-07 14:34:50 ....A        10487               hhugboy-1.1.8\src\menu.h
+2017-01-07 14:34:50 ....A         2546               hhugboy-1.1.8\src\options.h
+2017-01-07 14:34:50 ....A          306               hhugboy-1.1.8\src\rendering\palette.h
+2017-01-07 14:34:50 ....A       153839               hhugboy-1.1.8\includes\libpng12\png.h
+2017-01-07 14:34:50 ....A        45382               hhugboy-1.1.8\includes\libpng12\pngconf.h
+2017-01-07 14:34:50 ....A         1623               hhugboy-1.1.8\src\rendering\render.h
+2017-01-07 14:34:50 ....A          914               hhugboy-1.1.8\src\rendering\renderer.h
+2017-01-07 14:34:50 ....A         1275               hhugboy-1.1.8\src\rom.h
+2017-01-07 14:34:50 ....A         1426               hhugboy-1.1.8\src\memory\mbc\RomOnly.h
+2017-01-07 14:34:50 ....A         1195               hhugboy-1.1.8\src\rendering\filters\scale2x.h
+2017-01-07 14:34:50 ....A         1424               hhugboy-1.1.8\src\rendering\filters\scale3x.h
+2017-01-07 14:34:50 ....A         1766               hhugboy-1.1.8\src\SGB.h
+2017-01-07 14:34:50 ....A         1727               hhugboy-1.1.8\src\sound.h
+2017-01-07 14:34:50 ....A         2221               hhugboy-1.1.8\src\strings.h
+2017-01-07 14:34:50 ....A         1249               hhugboy-1.1.8\src\types.h
+2017-01-07 14:34:50 ....A        10640               hhugboy-1.1.8\src\zlib\unzip.h
+2017-01-07 14:34:50 ....A         1438               hhugboy-1.1.8\includes\fmod\wincompat.h
+2017-01-07 14:34:50 ....A         7810               hhugboy-1.1.8\includes\zlib\zconf.h
+2017-01-07 14:34:50 ....A        40900               hhugboy-1.1.8\includes\zlib\zlib.h
+2017-01-07 14:34:50 ....A         2296               hhugboy-1.1.8\includes\png++-0.2.5\color.hpp
+2017-01-07 14:34:50 ....A         2078               hhugboy-1.1.8\includes\png++-0.2.5\config.hpp
+2017-01-07 14:34:50 ....A         9166               hhugboy-1.1.8\includes\png++-0.2.5\consumer.hpp
+2017-01-07 14:34:50 ....A        11155               hhugboy-1.1.8\includes\png++-0.2.5\convert_color_space.hpp
+2017-01-07 14:34:50 ....A         2400               hhugboy-1.1.8\includes\png++-0.2.5\end_info.hpp
+2017-01-07 14:34:50 ....A         2838               hhugboy-1.1.8\includes\png++-0.2.5\error.hpp
+2017-01-07 14:34:50 ....A         2845               hhugboy-1.1.8\includes\png++-0.2.5\ga_pixel.hpp
+2017-01-07 14:34:50 ....A         7471               hhugboy-1.1.8\includes\png++-0.2.5\generator.hpp
+2017-01-07 14:34:50 ....A         3440               hhugboy-1.1.8\includes\png++-0.2.5\gray_pixel.hpp
+2017-01-07 14:34:50 ....A        15328               hhugboy-1.1.8\includes\png++-0.2.5\image.hpp
+2017-01-07 14:34:50 ....A         5321               hhugboy-1.1.8\includes\png++-0.2.5\image_info.hpp
+2017-01-07 14:34:50 ....A         3369               hhugboy-1.1.8\includes\png++-0.2.5\index_pixel.hpp
+2017-01-07 14:34:50 ....A         5117               hhugboy-1.1.8\includes\png++-0.2.5\info.hpp
+2017-01-07 14:34:50 ....A         2456               hhugboy-1.1.8\includes\png++-0.2.5\info_base.hpp
+2017-01-07 14:34:50 ....A        13672               hhugboy-1.1.8\includes\png++-0.2.5\io_base.hpp
+2017-01-07 14:34:50 ....A         2676               hhugboy-1.1.8\includes\png++-0.2.5\packed_pixel.hpp
+2017-01-07 14:34:50 ....A         1918               hhugboy-1.1.8\includes\png++-0.2.5\palette.hpp
+2017-01-07 14:34:50 ....A        13834               hhugboy-1.1.8\includes\png++-0.2.5\pixel_buffer.hpp
+2017-01-07 14:34:50 ....A         3319               hhugboy-1.1.8\includes\png++-0.2.5\pixel_traits.hpp
+2017-01-07 14:34:50 ....A        10619               hhugboy-1.1.8\includes\png++-0.2.5\png.hpp
+2017-01-07 14:34:50 ....A         5638               hhugboy-1.1.8\includes\png++-0.2.5\reader.hpp
+2017-01-07 14:34:50 ....A         5350               hhugboy-1.1.8\includes\png++-0.2.5\require_color_space.hpp
+2017-01-07 14:34:50 ....A         3129               hhugboy-1.1.8\includes\png++-0.2.5\rgba_pixel.hpp
+2017-01-07 14:34:50 ....A         2850               hhugboy-1.1.8\includes\png++-0.2.5\rgb_pixel.hpp
+2017-01-07 14:34:50 ....A         3676               hhugboy-1.1.8\includes\png++-0.2.5\streaming_base.hpp
+2017-01-07 14:34:50 ....A         1921               hhugboy-1.1.8\includes\png++-0.2.5\tRNS.hpp
+2017-01-07 14:34:50 ....A         4010               hhugboy-1.1.8\includes\png++-0.2.5\types.hpp
+2017-01-07 14:34:50 ....A         6349               hhugboy-1.1.8\includes\png++-0.2.5\writer.hpp
+2017-01-07 14:34:50 ....A        42916               hhugboy-1.1.8\src\zlib\unzip.c
+2017-01-07 14:34:50 ....A         5105               hhugboy-1.1.8\src\memory\mbc\AbstractMbc.cpp
+2017-01-07 14:34:50 ....A         2685               hhugboy-1.1.8\src\memory\mbc\BasicMbc.cpp
+2017-01-07 14:34:50 ....A         5363               hhugboy-1.1.8\src\cheats.cpp
+2017-01-07 14:34:50 ....A        20956               hhugboy-1.1.8\src\config.cpp
+2017-01-07 14:34:50 ....A        19634               hhugboy-1.1.8\src\cpu.cpp
+2017-01-07 14:34:50 ....A         1555               hhugboy-1.1.8\src\debug.cpp
+2017-01-07 14:34:50 ....A         2847               hhugboy-1.1.8\src\devices.cpp
+2017-01-07 14:34:50 ....A        13555               hhugboy-1.1.8\src\dialogs.cpp
+2017-01-07 14:34:50 ....A        22450               hhugboy-1.1.8\src\rendering\directdraw.cpp
+2017-01-07 14:34:50 ....A        16426               hhugboy-1.1.8\src\directinput.cpp
+2017-01-07 14:34:50 ....A          531               hhugboy-1.1.8\src\rendering\filters\Filter.cpp
+2017-01-07 14:34:50 ....A        12997               hhugboy-1.1.8\src\rendering\filters\filters.cpp
+2017-01-07 14:34:50 ....A        13248               hhugboy-1.1.8\src\GB.cpp
+2017-01-07 14:34:50 ....A        14410               hhugboy-1.1.8\src\GB_cartdetect.cpp
+2017-01-07 14:34:50 ....A        24925               hhugboy-1.1.8\src\GB_gfx.cpp
+2017-01-07 14:34:50 ....A        17249               hhugboy-1.1.8\src\memory\GB_ioregs.cpp
+2017-01-07 14:34:50 ....A         6406               hhugboy-1.1.8\src\memory\GB_MBC.cpp
+2017-01-07 14:34:50 ....A        12312               hhugboy-1.1.8\src\memory\GB_mem.cpp
+2017-01-07 14:34:50 ....A        23819               hhugboy-1.1.8\src\GB_sound.cpp
+2017-01-07 14:34:50 ....A        66752               hhugboy-1.1.8\src\main.cpp
+2017-01-07 14:34:50 ....A        15167               hhugboy-1.1.8\src\mainloop.cpp
+2017-01-07 14:34:50 ....A         9106               hhugboy-1.1.8\src\memory\mbc\MbcLicHuc3.cpp
+2017-01-07 14:34:50 ....A         2715               hhugboy-1.1.8\src\memory\mbc\MbcLicHuColl.cpp
+2017-01-07 14:34:50 ....A         2719               hhugboy-1.1.8\src\memory\mbc\MbcLicMk12.cpp
+2017-01-07 14:34:50 ....A         2860               hhugboy-1.1.8\src\memory\mbc\MbcLicMmm01.cpp
+2017-01-07 14:34:50 ....A        13692               hhugboy-1.1.8\src\memory\mbc\MbcLicTama5.cpp
+2017-01-07 14:34:50 ....A         3669               hhugboy-1.1.8\src\memory\mbc\MbcNin1.cpp
+2017-01-07 14:34:50 ....A         2068               hhugboy-1.1.8\src\memory\mbc\MbcNin2.cpp
+2017-01-07 14:34:50 ....A         6496               hhugboy-1.1.8\src\memory\mbc\MbcNin3.cpp
+2017-01-07 14:34:50 ....A         3953               hhugboy-1.1.8\src\memory\mbc\MbcNin5.cpp
+2017-01-07 14:34:50 ....A        12009               hhugboy-1.1.8\src\memory\mbc\MbcNin7.cpp
+2017-01-07 14:34:50 ....A         2930               hhugboy-1.1.8\src\memory\mbc\MbcNinCamera.cpp
+2017-01-07 14:34:50 ....A         2738               hhugboy-1.1.8\src\memory\mbc\MbcUnlBbd.cpp
+2017-01-07 14:34:50 ....A         1214               hhugboy-1.1.8\src\memory\mbc\MbcUnlDbzTrans.cpp
+2017-01-07 14:34:50 ....A         2069               hhugboy-1.1.8\src\memory\mbc\MbcUnlHitek.cpp
+2017-01-07 14:34:50 ....A         5036               hhugboy-1.1.8\src\memory\mbc\MbcUnlLbMulti.cpp
+2017-01-07 14:34:50 ....A          889               hhugboy-1.1.8\src\memory\mbc\MbcUnlLiCheng.cpp
+2017-01-07 14:34:50 ....A         3277               hhugboy-1.1.8\src\memory\mbc\MbcUnlPoke2in1.cpp
+2017-01-07 14:34:50 ....A         1798               hhugboy-1.1.8\src\memory\mbc\MbcUnlRockman8.cpp
+2017-01-07 14:34:50 ....A         2674               hhugboy-1.1.8\src\memory\mbc\MbcUnlSachen8in1.cpp
+2017-01-07 14:34:50 ....A         5135               hhugboy-1.1.8\src\memory\mbc\MbcUnlSintax.cpp
+2017-01-07 14:34:50 ....A         1893               hhugboy-1.1.8\src\menu.cpp
+2017-01-07 14:34:50 ....A         3837               hhugboy-1.1.8\src\rendering\palette.cpp
+2017-01-07 14:34:50 ....A         3550               hhugboy-1.1.8\src\rendering\render.cpp
+2017-01-07 14:34:50 ....A          850               hhugboy-1.1.8\src\rendering\renderer.cpp
+2017-01-07 14:34:50 ....A         7004               hhugboy-1.1.8\src\rom.cpp
+2017-01-07 14:34:50 ....A         2481               hhugboy-1.1.8\src\memory\mbc\RomOnly.cpp
+2017-01-07 14:34:50 ....A        29204               hhugboy-1.1.8\src\rendering\filters\scale2x.cpp
+2017-01-07 14:34:50 ....A         9551               hhugboy-1.1.8\src\rendering\filters\scale3x.cpp
+2017-01-07 14:34:50 ....A        22998               hhugboy-1.1.8\src\SGB.cpp
+2017-01-07 14:34:50 ....A         2312               hhugboy-1.1.8\src\strings.cpp
+2017-01-07 14:34:50 ....A        18369               hhugboy-1.1.8\src\menu.rc
+2017-01-07 14:34:50 ....A          750               hhugboy-1.1.8\src\version.rc
+2017-01-07 14:34:50 ....A         4440               hhugboy-1.1.8\CMakeLists.txt
+2017-01-07 14:34:50 ....A        18431               hhugboy-1.1.8\docs\gpl.txt
+2017-01-07 14:34:50 ....A        18092               hhugboy-1.1.8\license.txt
+2017-01-07 14:34:50 ....A         8873               hhugboy-1.1.8\docs\readme.txt
+2017-01-07 14:34:50 ....A         8764               hhugboy-1.1.8\bin\PCPaintBoldSmall.ttf
+2017-01-07 14:34:50 ....A        11334               hhugboy-1.1.8\libs\libddraw.a
+2017-01-07 14:34:50 ....A        18046               hhugboy-1.1.8\libs\libdinput.a
+2017-01-07 14:34:50 ....A        16528               hhugboy-1.1.8\libs\libdinput8.a
+2017-01-07 14:34:50 ....A        50754               hhugboy-1.1.8\libs\libdxguid.a
+2017-01-07 14:34:50 ....A       187482               hhugboy-1.1.8\libs\libfmod.a
+2017-01-07 14:34:50 ....A       148706               hhugboy-1.1.8\libs\libpng12.dll.a
+2017-01-07 14:34:50 ....A       144884               hhugboy-1.1.8\libs\libwinmm.a
+2017-01-07 14:34:50 ....A        58198               hhugboy-1.1.8\libs\libz.a
+2017-01-07 14:34:50 ....A          159               hhugboy-1.1.8\.gitignore
+2017-01-07 14:34:50 ....A       162816       287244  hhugboy-1.1.8\bin\fmod.dll
+2017-01-07 14:34:50 ....A       260096               hhugboy-1.1.8\bin\libpng12.dll
+2017-01-07 14:34:50 ....A        80954               hhugboy-1.1.8\bin\zlib1.dll
+2017-03-17 11:12:10 D....            0            0  hhugboy-1.1.8\src\zlib
+2017-03-17 11:12:10 D....            0            0  hhugboy-1.1.8\src\rendering\filters
+2017-03-17 11:12:10 D....            0            0  hhugboy-1.1.8\src\rendering
+2017-03-17 11:12:10 D....            0            0  hhugboy-1.1.8\src\memory\mbc
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\src\memory
+2017-03-17 11:12:10 D....            0            0  hhugboy-1.1.8\src
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\libs
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\includes\zlib
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\includes\png++-0.2.5
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\includes\libpng12
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\includes\fmod
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\includes\directx-aug2009
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\includes
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\docs
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8\bin
+2017-03-17 11:12:09 D....            0            0  hhugboy-1.1.8
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 11:12:10            2944728       578566  165 files, 16 folders

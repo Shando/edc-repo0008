@@ -1,0 +1,1010 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-12-30 22:49:08 .R..A        18431      1478606  Copying
+2011-12-31 16:58:58 .R..A          950               src\HLEKernel\Makefile
+2013-02-09 16:48:50 .R..A         6047               src\Kernel\Makefile
+2012-12-26 01:50:02 .R..A         6136               src\Misc\driveconv\drive.bmp
+2011-12-31 16:58:56 .R..A          886               src\Altirra\res\profilerToolbar.bmp
+2013-06-30 16:11:30 .R..A        58806               src\Altirra\data\xep80_font_internal.bmp
+2013-06-30 01:01:46 .R..A        58806               src\Altirra\data\xep80_font_intl.bmp
+2013-06-30 01:01:46 .R..A        58806               src\Altirra\data\xep80_font_normal.bmp
+2011-12-31 16:58:56 .R..A        33622               src\Altirra\res\cart.ico
+2011-12-31 16:58:56 .R..A        24536               src\Altirra\res\disk.ico
+2012-12-09 15:31:06 .R..A          318               src\Altirra\res\eject.ico
+2011-12-31 16:58:56 .R..A        22486               src\Altirra\res\program.ico
+2011-12-31 16:58:56 .R..A        29276               src\Altirra\res\tape.ico
+2011-12-31 16:58:56 .R..A        20232               src\Altirra\res\xex.ico
+2012-09-22 13:29:16 .R..A         1024               src\Kernel\source\Shared\atarifont.bin
+2012-12-13 00:29:34 .R..A         1024               src\Kernel\source\Shared\atariifont.bin
+2012-08-13 13:29:12 ....A        11423               src\Riza\h\cap_screen_glshaders.inl
+2013-10-06 14:49:48 .R..A        53778               src\Altirra\h\cpumachine.inl
+2013-11-01 00:41:34 ....A        24006               src\Kasumi\h\defaultfont.inl
+2012-08-13 13:29:12 ....A         3994               src\Riza\h\displayd3d10_pixelshader.inl
+2012-08-13 13:29:12 ....A         4035               src\Riza\h\displayd3d10_vertexshader.inl
+2013-11-01 00:41:34 ....A        75682               src\Riza\h\displaydx9_shader.inl
+2013-06-06 00:06:46 ....A        29513               src\Altirra\h\font10x16.inl
+2012-08-17 17:46:00 ....A        23802               src\Altirra\h\font13x16.inl
+2013-06-06 00:06:46 ....A        23802               src\Altirra\h\font13x16p.inl
+2012-08-17 17:46:16 ....A        53091               src\Altirra\h\font21x24.inl
+2013-06-06 00:06:44 ....A        53091               src\Altirra\h\font21x24p.inl
+2013-06-06 00:06:44 ....A         1878               src\Altirra\h\font3x5.inl
+2013-06-06 00:06:44 ....A         1806               src\Altirra\h\font3x5p.inl
+2013-06-06 00:06:44 ....A         2942               src\Altirra\h\font5x8p.inl
+2013-06-06 00:06:44 ....A         9536               src\Altirra\h\font5x9.inl
+2013-11-01 00:41:40 ....A       585611               src\VDDisplay\autogen\image_shader.inl
+2013-11-01 00:41:44 ....A        10737               src\Altirra\h\xep80_font_internal.inl
+2013-11-01 00:41:44 ....A        10729               src\Altirra\h\xep80_font_intl.inl
+2013-11-01 00:41:44 ....A        10733               src\Altirra\h\xep80_font_normal.inl
+2012-09-22 13:30:34 .R..A          852               src\Kernel\source\Shared\atarifont.inc
+2012-12-13 00:30:04 .R..A          853               src\Kernel\source\Shared\atariifont.inc
+2011-12-31 16:58:58 .R..A          291               src\Kasumi\source\a_triblt.inc
+2012-12-23 16:46:42 .R..A         2599               src\Kernel\source\Shared\cio.inc
+2012-12-26 21:11:20 .R..A         5492               src\Kernel\source\Shared\driveimage.inc
+2013-01-12 18:02:54 .R..A         1860               src\Kernel\source\Shared\hardware.inc
+2013-05-26 16:02:36 .R..A        14923               src\Kernel\source\Shared\kerneldb.inc
+2013-01-22 23:23:36 .R..A          211               src\Kernel\source\Shared\sio.inc
+2012-12-26 20:29:44 .R..A           49               src\Kernel\autobuild_default\version.inc
+2013-11-01 00:40:26 ....A           53               src\Kernel\autobuild\version.inc
+2012-09-06 22:25:18 .R..A         1544               src\h\vd2\Dita\accel.h
+2012-09-06 21:30:04 .R..A         1231               src\h\at\atui\acceleditdialog.h
+2012-09-30 18:57:54 .R..A         1145               src\Altirra\h\address.h
+2013-08-26 23:15:14 .R..A        15554               src\Altirra\h\antic.h
+2011-12-31 21:20:08 .R..A         4482               src\Altirra\h\artifacting.h
+2011-12-31 16:58:56 .R..A        10073               src\Altirra\h\artifacting_filters.h
+2011-12-31 16:58:58 .R..A        12443               src\h\vd2\system\atomic.h
+2011-12-31 16:58:58 .R..A         3182               src\h\vd2\Riza\audiocodec.h
+2013-08-05 00:21:20 .R..A          949               src\Altirra\h\audiofilters.h
+2011-12-31 16:58:58 .R..A         1403               src\h\vd2\Riza\audioformat.h
+2011-12-31 16:58:56 .R..A         1479               src\Altirra\h\audiomonitor.h
+2011-12-31 16:58:58 .R..A         1854               src\h\vd2\Riza\audioout.h
+2011-12-31 16:58:56 .R..A         2283               src\Altirra\h\audiooutput.h
+2011-12-31 16:58:56 .R..A         1046               src\Altirra\h\audiosource.h
+2013-05-14 21:47:06 .R..A         2217               src\Altirra\h\audiosyncmixer.h
+2013-08-06 21:34:54 .R..A         2226               src\Altirra\h\audiowriter.h
+2011-12-31 16:58:56 .R..A         1021               src\Altirra\h\autotest.h
+2011-12-31 16:58:58 .R..A         2259               src\h\vd2\Riza\avi.h
+2012-12-01 18:51:24 .R..A         3864               src\Altirra\h\aviwriter.h
+2011-12-31 16:58:58 .R..A         4517               src\h\vd2\Dita\basetypes.h
+2012-08-13 18:04:08 .R..A          226               src\VDDisplay\h\bicubic.h
+2012-12-03 01:28:06 .R..A         8339               src\h\vd2\system\binary.h
+2011-12-31 16:58:58 .R..A         2401               src\h\vd2\Riza\bitmap.h
+2011-12-31 16:58:58 .R..A         2711               src\h\vd2\system\bitmath.h
+2011-12-31 16:58:58 .R..A          600               src\Kasumi\h\bitutils.h
+2011-12-31 16:58:56 .R..A         5001               src\Altirra\h\bkptmanager.h
+2011-12-31 16:58:58 .R..A         1034               src\h\vd2\Kasumi\blitter.h
+2011-12-31 16:58:58 .R..A         2184               src\Kasumi\h\blt_setup.h
+2011-12-31 16:58:58 .R..A         1322               src\Kasumi\h\blt_spanutils.h
+2011-12-31 16:58:58 .R..A         1399               src\Kasumi\h\blt_spanutils_x86.h
+2011-12-31 16:58:58 .R..A         2355               src\h\vd2\Dita\bytecode.h
+2011-12-31 16:58:58 .R..A         7761               src\h\vd2\system\cache.h
+2013-01-07 21:42:48 .R..A         4598               src\Altirra\h\callback.h
+2013-09-04 22:07:24 .R..A        11079               src\Altirra\h\cartridge.h
+2011-12-31 16:58:56 .R..A         4076               src\Altirra\h\cassette.h
+2011-12-31 16:58:56 .R..A         2042               src\Altirra\h\cassetteimage.h
+2011-12-31 16:58:56 .R..A         2298               src\Altirra\h\cheatengine.h
+2012-10-08 22:45:22 .R..A         3312               src\Altirra\h\cio.h
+2011-12-31 16:58:58 .R..A         2916               src\h\vd2\system\cmdline.h
+2011-12-31 16:58:56 .R..A         1451               src\Altirra\h\common_png.h
+2012-08-13 20:51:50 .R..A          396               src\h\vd2\VDDisplay\compositor.h
+2013-08-06 13:08:16 .R..A         2770               src\Altirra\h\console.h
+2012-12-30 19:28:46 .R..A         6223               src\h\vd2\Tessa\Context.h
+2012-12-30 19:24:42 .R..A        15405               src\Tessa\h\D3D11\Context_D3D11.h
+2012-12-30 19:28:46 .R..A        15172               src\Tessa\h\D3D9\Context_D3D9.h
+2011-12-31 16:58:58 .R..A         1792               src\h\vd2\Dita\controls.h
+2011-12-31 16:58:56 .R..A         2115               src\Altirra\h\covox.h
+2013-10-06 14:50:08 .R..A        12226               src\Altirra\h\cpu.h
+2011-12-31 16:58:58 .R..A         2114               src\h\vd2\system\cpuaccel.h
+2012-01-02 09:30:54 .R..A         1729               src\Altirra\h\cpuheatmap.h
+2012-12-02 18:25:02 .R..A         3954               src\Altirra\h\cpuhookmanager.h
+2013-09-01 15:59:26 .R..A         4381               src\Altirra\h\cpumemory.h
+2013-10-06 14:49:48 .R..A         7214               src\Altirra\h\cpustates.h
+2011-12-31 16:58:58 .R..A        19335               src\Riza\h\d3dxfx.h
+2011-12-31 16:58:58 .R..A         2247               src\h\vd2\system\date.h
+2011-12-31 16:58:58 .R..A         2977               src\h\vd2\system\debug.h
+2011-12-31 16:58:56 .R..A         1427               src\Altirra\h\debugdisplay.h
+2013-08-18 12:53:40 .R..A         6784               src\Altirra\h\debugger.h
+2013-02-03 13:07:58 .R..A         3626               src\Altirra\h\debuggerexp.h
+2011-12-31 16:58:56 .R..A         1578               src\Altirra\h\debuggerlog.h
+2011-12-31 16:58:58 .R..A         1483               src\h\vd2\system\debugx86.h
+2013-05-24 01:08:38 .R..A         2936               src\Altirra\h\decmath.h
+2012-12-03 01:37:38 .R..A         6709               src\h\at\atui\dialog.h
+2013-06-30 01:01:54 .R..A         9305               src\h\vd2\Riza\direct3d.h
+2012-10-28 13:56:40 .R..A          692               src\VDDisplay\h\vd2\VDDisplay\internal\directdraw.h
+2013-02-23 02:22:44 .R..A          872               src\Altirra\h\directorywatcher.h
+2013-09-04 23:46:18 .R..A         1724               src\Altirra\h\disasm.h
+2013-02-23 16:42:40 .R..A         8042               src\Altirra\h\disk.h
+2012-10-07 18:24:26 .R..A         2508               src\Altirra\h\diskfs.h
+2013-02-21 23:57:36 .R..A         2105               src\Altirra\h\diskimage.h
+2012-08-15 17:41:16 .R..A         4128               src\h\vd2\VDDisplay\display.h
+2012-11-21 23:35:16 .R..A         5367               src\h\vd2\VDDisplay\displaydrv.h
+2012-10-21 16:28:28 .R..A         2114               src\VDDisplay\h\displaydrv3d.h
+2013-06-30 01:01:54 .R..A         2855               src\h\vd2\Riza\displaydrvdx9.h
+2012-08-13 18:04:08 .R..A         3893               src\VDDisplay\h\displaymgr.h
+2013-06-30 01:01:54 .R..A         8951               src\VDDisplay\h\displaynode3d.h
+2011-12-31 16:58:56 .R..A         1216               src\Altirra\h\encode_png.h
+2012-02-10 00:38:58 .R..A         3046               src\h\vd2\system\Error.h
+2011-12-31 16:58:58 .R..A         6367               src\h\vd2\system\event.h
+2012-08-13 18:05:28 .R..A          872               src\Tessa\h\D3D11\FenceManager_D3D11.h
+2012-08-13 18:05:30 .R..A          845               src\Tessa\h\D3D9\FenceManager_D3D9.h
+2013-08-10 20:43:18 .R..A         9863               src\h\vd2\system\file.h
+2012-08-13 17:51:38 .R..A         2513               src\h\vd2\system\fileasync.h
+2011-12-31 16:58:56 .R..A         3449               src\Asuka\h\filecreator.h
+2013-02-23 01:05:04 .R..A         9292               src\h\vd2\system\filesys.h
+2012-12-11 22:56:52 .R..A          935               src\h\vd2\system\filewatcher.h
+2013-02-27 22:50:46 .R..A         2291               src\Altirra\h\flash.h
+2013-01-07 21:42:48 .R..A         1253               src\h\vd2\VDDisplay\font.h
+2013-01-07 21:42:50 .R..A         1804               src\VDDisplay\h\vd2\VDDisplay\internal\fontgdi.h
+2012-08-13 18:05:28 .R..A          244               src\h\vd2\Tessa\Format.h
+2011-12-31 16:58:58 .R..A         3167               src\h\vd2\system\Fraction.h
+2011-12-31 16:58:58 .R..A       111241               src\h\vd2\external\glATI.h
+2011-12-31 16:58:56 .R..A         2411               src\Asuka\h\glc.h
+2013-08-03 23:28:26 .R..A        10996               src\Altirra\h\gtia.h
+2012-11-05 17:30:08 .R..A         3975               src\Altirra\h\gtiarenderer.h
+2011-12-31 16:58:56 .R..A          983               src\Altirra\h\gtiatables.h
+2011-12-31 16:58:58 .R..A          237               src\h\vd2\system\halffloat.h
+2011-12-31 16:58:58 .R..A         1882               src\h\vd2\system\hash.h
+2012-02-26 16:36:20 .R..A         1739               src\Altirra\h\hlebasicloader.h
+2011-12-31 16:58:56 .R..A         1183               src\Altirra\h\hleciohook.h
+2011-12-31 16:58:56 .R..A         1098               src\Altirra\h\hlefastboothook.h
+2011-12-31 16:58:56 .R..A         1087               src\Altirra\h\hlefpaccelerator.h
+2011-12-31 16:58:56 .R..A         1363               src\Altirra\h\hlekernel.h
+2011-12-31 16:58:56 .R..A         1940               src\Altirra\h\hleprogramloader.h
+2011-12-31 16:58:56 .R..A          964               src\Altirra\h\hleutils.h
+2012-04-10 22:38:38 .R..A         1794               src\Altirra\h\hostdevice.h
+2012-12-09 18:47:14 .R..A          589               src\Altirra\h\hostdeviceutils.h
+2012-09-05 23:32:16 .R..A         1461               src\h\at\atui\hotkeyexcontrol.h
+2013-02-01 00:51:44 .R..A         3959               src\Altirra\h\ide.h
+2012-12-03 22:36:02 .R..A         1202               src\Altirra\h\idedisk.h
+2012-12-03 22:36:02 .R..A         1569               src\Altirra\h\idephysdisk.h
+2012-12-03 22:36:02 .R..A         1432               src\Altirra\h\iderawimage.h
+2012-12-03 22:36:44 .R..A         3005               src\Altirra\h\idevhdimage.h
+2013-01-07 21:42:48 .R..A        13800               src\Altirra\h\inputcontroller.h
+2011-12-31 16:58:56 .R..A          971               src\Altirra\h\inputdriver.h
+2012-12-30 17:41:26 .R..A        15820               src\Altirra\h\inputmanager.h
+2011-12-31 16:58:58 .R..A         8908               src\h\vd2\system\int128.h
+2011-12-31 16:58:58 .R..A         8327               src\h\vd2\Dita\interface.h
+2011-12-31 16:58:58 .R..A         2325               src\h\vd2\system\win32\intrin.h
+2012-08-26 19:09:06 .R..A         1364               src\Altirra\h\irqcontroller.h
+2013-08-04 00:34:18 .R..A         1331               src\Altirra\h\joystick.h
+2013-05-14 21:47:06 .R..A        15668               src\Altirra\h\kerneldb.h
+2011-12-31 16:58:56 .R..A         3069               src\Altirra\h\kmkjzide.h
+2012-12-22 15:27:20 .R..A         9134               src\Altirra\h\ksyms.h
+2012-08-19 22:10:48 .R..A         1621               src\h\vd2\system\linearalloc.h
+2011-12-31 16:58:58 .R..A         6449               src\h\vd2\system\list.h
+2011-12-31 16:58:58 .R..A         2231               src\h\vd2\system\log.h
+2011-12-31 16:58:58 .R..A         6983               src\h\vd2\system\math.h
+2011-12-31 16:58:58 .R..A         3614               src\h\vd2\system\memory.h
+2013-09-01 23:52:18 .R..A         5791               src\Altirra\h\memorymanager.h
+2012-08-13 17:51:38 .R..A         2131               src\h\vd2\system\win32\miniwindows.h
+2013-02-18 00:04:52 .R..A         3617               src\Altirra\h\mmu.h
+2011-12-31 16:58:56 .R..A         6804               src\Altirra\h\modem.h
+2011-12-31 16:58:56 .R..A         2253               src\Altirra\h\modemtcp.h
+2012-08-19 00:10:18 .R..A         2984               src\Altirra\h\myide.h
+2012-11-01 21:49:16 .R..A        39901               src\h\vd2\Riza\opengl.h
+2013-02-27 23:06:56 .R..A         1644               src\Altirra\h\options.h
+2013-01-07 21:42:48 .R..A          991               src\Altirra\h\oshelper.h
+2012-09-10 22:34:58 .R..A         1395               src\Altirra\h\pbi.h
+2011-12-31 16:58:56 .R..A         1621               src\Altirra\h\pclink.h
+2012-08-26 22:03:06 .R..A         2659               src\Altirra\h\pia.h
+2011-12-31 16:58:58 .R..A         1627               src\h\vd2\Kasumi\pixel.h
+2011-12-31 16:58:58 .R..A         2874               src\h\vd2\Kasumi\pixmap.h
+2011-12-31 16:58:58 .R..A          981               src\h\vd2\Kasumi\pixmapops.h
+2011-12-31 16:58:58 .R..A         5077               src\h\vd2\Kasumi\pixmaputils.h
+2013-09-02 19:04:12 .R..A         9475               src\Altirra\h\pokey.h
+2013-03-19 21:00:40 .R..A         4827               src\Altirra\h\pokeyrenderer.h
+2013-02-28 01:32:58 .R..A         1153               src\Altirra\h\pokeytables.h
+2011-12-31 16:58:56 .R..A         1565               src\Altirra\h\printer.h
+2011-12-31 16:58:58 .R..A         1521               src\h\vd2\system\process.h
+2011-12-31 16:58:58 .R..A         6593               src\h\vd2\system\profile.h
+2013-09-04 23:46:18 .R..A         3282               src\Altirra\h\profiler.h
+2012-08-13 18:05:30 .R..A          258               src\Tessa\h\Program.h
+2011-12-31 16:58:58 .R..A         3122               src\h\vd2\system\progress.h
+2011-12-31 16:58:58 .R..A         9605               src\h\vd2\system\protscope.h
+2012-08-13 17:51:38 .R..A         9929               src\h\vd2\system\refcount.h
+2011-12-31 16:58:58 .R..A         2585               src\h\vd2\Kasumi\region.h
+2012-08-13 17:51:38 .R..A         5264               src\h\vd2\system\registry.h
+2011-12-31 16:58:58 .R..A         2914               src\h\vd2\system\registrymemory.h
+2012-11-01 21:58:24 .R..A          908               src\h\vd2\VDDisplay\rendercache.h
+2013-06-30 01:01:54 .R..A         3746               src\h\vd2\VDDisplay\renderer.h
+2013-06-30 01:01:54 .R..A         4215               src\VDDisplay\h\renderer3d.h
+2013-06-30 01:01:54 .R..A         2812               src\VDDisplay\h\vd2\VDDisplay\internal\rendererddraw.h
+2013-06-30 01:01:54 .R..A         2184               src\VDDisplay\h\vd2\VDDisplay\internal\renderergdi.h
+2013-06-30 01:01:54 .R..A         2435               src\h\vd2\VDDisplay\renderersoft.h
+2011-12-31 16:58:58 .R..A          961               src\h\vd2\Kasumi\resample.h
+2011-12-31 16:58:58 .R..A         2119               src\h\vd2\Kasumi\resample_kernels.h
+2011-12-31 16:58:58 .R..A         2101               src\Kasumi\h\resample_stages.h
+2011-12-31 16:58:58 .R..A         4869               src\Kasumi\h\resample_stages_reference.h
+2011-12-31 16:58:58 .R..A          859               src\Kasumi\h\resample_stages_x64.h
+2011-12-31 16:58:58 .R..A         6429               src\Kasumi\h\resample_stages_x86.h
+2011-12-31 16:58:56 .R..A          813               src\Asuka\res\resource.h
+2012-09-06 22:48:02 .R..A         1091               src\ATUI\res\resource.h
+2013-09-07 14:11:38 .R..A        22881               src\Altirra\res\resource.h
+2011-12-31 16:58:58 .R..A          894               src\h\vd2\Dita\resources.h
+2013-02-10 01:13:18 .R..A         3699               src\Altirra\h\rs232.h
+2011-12-31 16:58:56 .R..A         1467               src\Altirra\h\rtcds1305.h
+2011-12-31 16:58:56 .R..A         1236               src\Altirra\h\rtcv3021.h
+2011-12-31 16:58:56 .R..A         1219               src\Altirra\h\rtime8.h
+2012-08-30 22:42:34 .R..A         5857               src\Altirra\h\savestate.h
+2011-12-31 16:58:56 .R..A         1974               src\Altirra\h\scheduler.h
+2011-12-31 16:58:58 .R..A         2237               src\h\vd2\system\seh.h
+2012-08-13 17:51:38 .R..A         1656               src\h\vd2\Dita\services.h
+2013-02-01 23:16:52 .R..A         3139               src\Altirra\h\side.h
+2013-07-06 15:08:24 .R..A         2251               src\Altirra\h\simeventmanager.h
+2013-04-10 22:32:26 ....A         3423               src\Altirra\h\simplestereo.h
+2013-09-04 21:49:14 .R..A        21447               src\Altirra\h\simulator.h
+2011-12-31 16:58:56 .R..A          918               src\Altirra\h\sio.h
+2013-01-22 00:48:34 .R..A         1738               src\Altirra\h\siomanager.h
+2011-12-31 16:58:56 .R..A         3915               src\Altirra\h\slightsid.h
+2012-10-03 23:16:04 .R..A         3420               src\Altirra\h\soundboard.h
+2011-12-29 19:22:04 ....A          594               src\system\stdafx.h
+2011-12-29 19:22:22 .R..A          508               src\Dita\stdafx.h
+2011-12-29 19:22:52 .R..A          927               src\Kasumi\stdafx.h
+2011-12-31 16:58:56 .R..A           14               src\ATHelpBuilder\h\stdafx.h
+2011-12-31 16:58:56 .R..A          176               src\Asuka\h\stdafx.h
+2011-12-31 16:58:56 .R..A         1019               src\Altirra\h\stdafx.h
+2011-12-31 16:58:58 .R..A          927               src\Kasumi\h\stdafx.h
+2011-12-31 16:58:58 .R..A         1066               src\HLECompiler\stdafx.h
+2012-08-13 17:51:38 .R..A          693               src\Dita\h\stdafx.h
+2012-08-13 18:04:08 .R..A           33               src\VDDisplay\h\stdafx.h
+2012-08-13 18:05:30 .R..A          983               src\Tessa\h\stdafx.h
+2012-09-05 23:32:16 .R..A          939               src\ATUI\h\stdafx.h
+2012-09-30 01:20:08 .R..A          374               src\ATCompiler\h\stdafx.h
+2013-01-07 21:42:50 .R..A          837               src\system\h\stdafx.h
+2011-12-31 16:58:58 .R..A         2235               src\h\vd2\system\strutil.h
+2011-12-31 16:58:56 .R..A         1787               src\Asuka\h\symbols.h
+2011-12-31 16:58:56 .R..A         3731               src\Altirra\h\symbols.h
+2011-12-31 16:58:58 .R..A         1702               src\h\vd2\Kasumi\tables.h
+2011-12-31 16:58:58 .R..A         2473               src\h\vd2\system\text.h
+2012-08-15 16:47:10 .R..A         2478               src\h\vd2\Kasumi\text.h
+2011-12-31 16:58:56 .R..A         4761               src\Altirra\h\textdom.h
+2011-12-31 16:58:56 .R..A         3638               src\Altirra\h\texteditor.h
+2013-01-07 21:42:48 .R..A         2057               src\h\vd2\VDDisplay\textrenderer.h
+2011-12-31 16:58:58 .R..A         8691               src\h\vd2\system\thread.h
+2011-12-31 16:58:58 .R..A         3600               src\h\vd2\system\thunk.h
+2012-12-01 20:23:14 .R..A         4486               src\h\vd2\system\time.h
+2011-12-31 16:58:58 .R..A         1511               src\h\vd2\system\tls.h
+2011-12-31 16:58:58 .R..A         2362               src\h\vd2\Kasumi\triblt.h
+2012-11-04 14:29:00 .R..A         3349               src\h\vd2\Tessa\Types.h
+2011-12-31 16:58:58 .R..A         3211               src\Kasumi\h\uberblit.h
+2011-12-31 16:58:58 .R..A         1008               src\Kasumi\h\uberblit_16f.h
+2011-12-31 16:58:58 .R..A         3105               src\Kasumi\h\uberblit_base.h
+2011-12-31 16:58:58 .R..A          953               src\Kasumi\h\uberblit_fill.h
+2011-12-31 16:58:58 .R..A         5610               src\Kasumi\h\uberblit_gen.h
+2011-12-31 16:58:58 .R..A         1288               src\Kasumi\h\uberblit_input.h
+2011-12-31 16:58:58 .R..A         3123               src\Kasumi\h\uberblit_interlace.h
+2011-12-31 16:58:58 .R..A         3201               src\Kasumi\h\uberblit_pal.h
+2011-12-31 16:58:58 .R..A         2044               src\Kasumi\h\uberblit_resample.h
+2011-12-31 16:58:58 .R..A         1977               src\Kasumi\h\uberblit_resample_special.h
+2011-12-31 16:58:58 .R..A          773               src\Kasumi\h\uberblit_resample_special_x86.h
+2011-12-31 16:58:58 .R..A        14312               src\Kasumi\h\uberblit_rgb.h
+2011-12-31 16:58:58 .R..A         4623               src\Kasumi\h\uberblit_rgb_x86.h
+2011-12-31 16:58:58 .R..A         8976               src\Kasumi\h\uberblit_swizzle.h
+2011-12-31 16:58:58 .R..A         2323               src\Kasumi\h\uberblit_swizzle_x86.h
+2011-12-31 16:58:58 .R..A         1908               src\Kasumi\h\uberblit_v210.h
+2011-12-31 16:58:58 .R..A        18282               src\Kasumi\h\uberblit_ycbcr.h
+2011-12-31 16:58:58 .R..A         3734               src\Kasumi\h\uberblit_ycbcr_generic.h
+2011-12-31 16:58:58 .R..A          934               src\Kasumi\h\uberblit_ycbcr_x86.h
+2013-02-03 17:22:20 .R..A         2204               src\Altirra\h\ui.h
+2013-07-06 13:28:40 .R..A          366               src\Altirra\h\uianchor.h
+2013-01-07 21:42:48 .R..A         1244               src\Altirra\h\uibutton.h
+2013-08-26 22:38:00 .R..A         1898               src\Altirra\h\uicaptionupdater.h
+2012-09-05 23:38:08 .R..A         2059               src\Altirra\h\uicommandmanager.h
+2013-01-07 21:42:42 .R..A          716               src\Altirra\h\uicommondialogs.h
+2013-01-07 21:42:48 .R..A          681               src\Altirra\h\uicontainer.h
+2013-06-30 01:01:54 .R..A         1369               src\Altirra\h\uidisplay.h
+2013-01-07 21:42:42 .R..A          411               src\Altirra\h\uidrawingutils.h
+2013-01-07 21:42:48 .R..A         1512               src\Altirra\h\uienhancedtext.h
+2013-01-07 21:42:48 .R..A         1650               src\Altirra\h\uifilebrowser.h
+2013-08-06 21:05:54 .R..A        11642               src\Altirra\h\uiframe.h
+2012-09-03 12:22:52 .R..A          998               src\Altirra\h\uiinstance.h
+2012-09-06 22:37:02 .R..A         2071               src\Altirra\h\uikeyboard.h
+2013-01-07 21:42:48 .R..A         1564               src\Altirra\h\uilabel.h
+2013-01-07 21:42:48 .R..A         2700               src\Altirra\h\uilistview.h
+2013-01-07 21:42:48 .R..A         5026               src\Altirra\h\uimanager.h
+2013-01-07 21:42:48 .R..A         1043               src\Altirra\h\uimenu.h
+2013-01-07 21:42:48 .R..A         3712               src\Altirra\h\uimenulist.h
+2013-01-07 21:42:42 .R..A         1171               src\Altirra\h\uimessagebox.h
+2012-11-22 14:25:48 .R..A         1155               src\Altirra\h\uimrulist.h
+2013-01-07 21:42:42 .R..A         1115               src\Altirra\h\uionscreenkeyboard.h
+2012-11-22 14:14:44 .R..A         1184               src\Altirra\h\uiportmenus.h
+2012-11-27 00:38:26 .R..A          441               src\Altirra\h\uiprofiler.h
+2011-12-31 16:58:56 .R..A         1589               src\Altirra\h\uiprogress.h
+2012-09-05 23:32:16 .R..A        10193               src\h\at\atui\uiproxies.h
+2013-01-07 21:42:42 .R..A         1822               src\Altirra\h\uiqueue.h
+2013-08-03 22:24:20 .R..A         2867               src\Altirra\h\uirender.h
+2013-01-07 21:42:42 .R..A         1667               src\Altirra\h\uislider.h
+2013-01-07 21:42:48 .R..A         1896               src\Altirra\h\uitextedit.h
+2012-09-03 14:31:02 .R..A         1859               src\Altirra\h\uitypes.h
+2013-07-06 13:52:56 .R..A         4074               src\Altirra\h\uivideodisplaywindow.h
+2013-01-07 21:42:48 .R..A         7724               src\Altirra\h\uiwidget.h
+2012-12-02 22:24:06 .R..A         5544               src\Altirra\h\ultimate1mb.h
+2011-12-31 16:58:58 .R..A         2912               src\h\vd2\system\unknown.h
+2011-12-31 16:58:56 .R..A         1448               src\Asuka\h\utils.h
+2012-09-30 01:18:54 .R..A          920               src\ATCompiler\h\utils.h
+2013-01-07 22:21:42 .R..A         6537               src\Altirra\h\vbxe.h
+2012-11-19 21:29:06 .R..A         4858               src\h\vd2\system\vdalloc.h
+2011-12-31 16:58:58 .R..A         5493               src\h\vd2\system\VDNamespace.h
+2011-12-31 16:58:58 .R..A         2349               src\h\vd2\system\VDQueue.h
+2011-12-31 16:58:58 .R..A         6936               src\h\vd2\system\VDRingBuffer.h
+2011-12-31 16:58:58 .R..A         4527               src\h\vd2\system\VDScheduler.h
+2011-12-31 16:58:58 .R..A         1842               src\h\vd2\system\vdstdc.h
+2012-11-14 23:45:08 .R..A        49675               src\h\vd2\system\vdstl.h
+2013-08-10 22:44:54 .R..A         5019               src\h\vd2\system\vdstl_hash.h
+2011-12-31 16:58:58 .R..A        19469               src\h\vd2\system\vdstl_hashmap.h
+2011-12-31 16:58:58 .R..A        16654               src\h\vd2\system\vdstl_hashset.h
+2011-12-31 16:58:58 .R..A        11461               src\h\vd2\system\vdstl_hashtable.h
+2012-04-18 21:44:40 ....A         3009               src\h\vd2\system\vdstl_range.h
+2011-12-31 16:58:58 .R..A        16513               src\h\vd2\system\vdstl_vector.h
+2012-11-14 23:36:52 .R..A        31923               src\h\vd2\system\VDString.h
+2011-12-31 16:58:58 .R..A        13691               src\h\vd2\system\vdtypes.h
+2012-11-16 23:42:32 .R..A        14638               src\h\vd2\system\vectors.h
+2011-12-31 16:58:58 .R..A         7766               src\h\vd2\system\vectors_float.h
+2011-12-31 16:58:58 .R..A         7028               src\h\vd2\system\vectors_int.h
+2013-06-22 13:40:08 .R..A         2462               src\Altirra\h\verifier.h
+2011-12-31 16:58:56 .R..A          115               src\Altirra\autobuild_default\version.h
+2013-11-01 00:40:26 ....A          117               src\Altirra\autobuild\version.h
+2012-08-19 23:55:04 .R..A         1555               src\Altirra\h\versioninfo.h
+2011-12-31 16:58:58 .R..A         3851               src\h\vd2\Riza\videocodec.h
+2013-09-07 14:00:20 .R..A          793               src\Altirra\h\videowriter.h
+2012-02-20 03:07:46 .R..A         1790               src\Altirra\h\virtualscreen.h
+2011-12-31 16:58:58 .R..A          448               src\h\vd2\Dita\w32accel.h
+2013-08-06 13:28:18 .R..A         4290               src\h\vd2\system\w32assist.h
+2011-12-31 16:58:58 .R..A         2479               src\h\vd2\Riza\w32audiocodec.h
+2011-12-31 16:58:58 .R..A         2374               src\h\vd2\Dita\w32base.h
+2011-12-31 16:58:58 .R..A         1003               src\h\vd2\Dita\w32control.h
+2011-12-31 16:58:58 .R..A          246               src\h\vd2\Dita\w32interface.h
+2011-12-31 16:58:58 .R..A         1204               src\h\vd2\Dita\w32peer.h
+2013-07-06 13:52:56 .R..A         6204               src\Altirra\h\xep80.h
+2011-12-31 16:58:58 .R..A         5318               src\h\vd2\system\zip.h
+2011-12-31 16:58:56 .R..A         5984               src\Altirra\source\about.cpp
+2012-09-06 22:21:52 .R..A         4281               src\Dita\source\accel.cpp
+2012-09-06 23:56:18 .R..A        15705               src\ATUI\source\acceleditdialog.cpp
+2011-12-31 16:58:58 .R..A        12646               src\Riza\source\ac_mpeg.cpp
+2011-12-31 16:58:58 .R..A         8763               src\Riza\source\ac_xlaw.cpp
+2011-12-31 16:58:56 .R..A         1812               src\Altirra\source\allocator.cpp
+2011-12-31 16:58:58 .R..A         3064               src\Kasumi\source\alphablt.cpp
+2013-08-26 23:14:56 .R..A        71537               src\Altirra\source\antic.cpp
+2013-07-12 00:21:32 .R..A        42604               src\Altirra\source\artifacting.cpp
+2011-12-31 16:58:56 .R..A         4329               src\Altirra\source\artifacting_ntsc_mmx.cpp
+2011-12-31 16:58:56 .R..A         3652               src\Altirra\source\artifacting_ntsc_sse2.cpp
+2011-12-31 16:58:56 .R..A        18079               src\Altirra\source\artifacting_pal_mmx.cpp
+2011-12-31 16:58:56 .R..A         4195               src\Altirra\source\artifacting_pal_scalar.cpp
+2011-12-31 16:58:56 .R..A        13617               src\Altirra\source\artifacting_pal_sse2.cpp
+2011-12-31 16:58:56 .R..A        13885               src\Altirra\source\artifacting_pal_sse2_intrin.cpp
+2013-02-03 01:22:46 .R..A        41818               src\Altirra\source\assembler.cpp
+2011-12-31 16:58:56 .R..A         1342               src\ATHelpBuilder\AssemblyInfo.cpp
+2011-12-31 16:58:56 .R..A        13605               src\ATHelpBuilder\source\ATHelpBuilder.cpp
+2011-12-31 16:58:58 .R..A         1375               src\Riza\source\audiocodec.cpp
+2013-08-05 00:21:20 .R..A        32071               src\Altirra\source\audiofilters.cpp
+2011-12-31 16:58:58 .R..A          313               src\Riza\source\audioformat.cpp
+2011-12-31 16:58:56 .R..A         1775               src\Altirra\source\audiomonitor.cpp
+2011-12-31 16:58:58 .R..A        25076               src\Riza\source\audioout.cpp
+2011-12-31 16:58:56 .R..A        13817               src\Altirra\source\audiooutput.cpp
+2013-05-14 21:47:06 .R..A         5777               src\Altirra\source\audiosyncmixer.cpp
+2013-08-06 22:12:14 .R..A         6623               src\Altirra\source\audiowriter.cpp
+2013-02-02 16:06:10 .R..A         3393               src\Altirra\source\autotest.cpp
+2012-12-01 19:55:52 .R..A        41676               src\Altirra\source\aviwriter.cpp
+2011-12-31 16:58:58 .R..A        11749               src\Dita\source\basetypes.cpp
+2012-08-13 18:04:08 .R..A         4992               src\VDDisplay\source\bicubic.cpp
+2011-12-31 16:58:58 .R..A        13521               src\Riza\source\bitmap.cpp
+2011-12-31 16:58:58 .R..A         1895               src\system\source\bitmath.cpp
+2012-09-23 20:44:18 .R..A        17716               src\Altirra\source\bkptmanager.cpp
+2011-12-31 16:58:58 .R..A         1101               src\Kasumi\source\blitter.cpp
+2011-12-31 16:58:58 .R..A         8702               src\Kasumi\source\blt.cpp
+2011-12-31 16:58:58 .R..A        18051               src\Kasumi\source\blt_reference.cpp
+2011-12-31 16:58:58 .R..A        12646               src\Kasumi\source\blt_reference_pal.cpp
+2011-12-31 16:58:58 .R..A         7202               src\Kasumi\source\blt_reference_rgb.cpp
+2011-12-31 16:58:58 .R..A        44922               src\Kasumi\source\blt_reference_yuv.cpp
+2011-12-31 16:58:58 .R..A         5979               src\Kasumi\source\blt_reference_yuv2yuv.cpp
+2011-12-31 16:58:58 .R..A        15483               src\Kasumi\source\blt_reference_yuvrev.cpp
+2011-12-31 16:58:58 .R..A         1386               src\Kasumi\source\blt_setup.cpp
+2011-12-31 16:58:58 .R..A         9313               src\Kasumi\source\blt_spanutils.cpp
+2011-12-31 16:58:58 .R..A         4644               src\Kasumi\source\blt_spanutils_x86.cpp
+2011-12-31 16:58:58 .R..A         1316               src\Kasumi\source\blt_uberblit.cpp
+2011-12-31 16:58:58 .R..A         8267               src\Kasumi\source\blt_x86.cpp
+2011-12-31 16:58:58 .R..A         9965               src\system\source\cache.cpp
+2013-05-17 21:56:40 .R..A        18724               src\Altirra\source\cartdetect.cpp
+2013-10-17 23:05:04 .R..A        77891               src\Altirra\source\cartridge.cpp
+2013-10-05 22:21:04 .R..A        17625               src\Altirra\source\cassette.cpp
+2012-06-24 00:09:12 .R..A        30450               src\Altirra\source\cassetteimage.cpp
+2011-12-31 16:58:56 .R..A        10251               src\Altirra\source\cheatengine.cpp
+2011-12-31 16:58:56 .R..A        10622               src\Asuka\source\checkimports.cpp
+2011-12-31 16:58:58 .R..A         6059               src\system\source\cmdline.cpp
+2011-12-31 16:58:56 .R..A         1278               src\Altirra\source\common_png.cpp
+2013-09-04 22:13:04 .R..A       151237               src\Altirra\source\console.cpp
+2012-08-13 18:05:30 .R..A          334               src\Tessa\source\Context.cpp
+2013-03-11 21:45:50 .R..A        59546               src\Tessa\source\D3D11\Context_D3D11.cpp
+2012-11-04 14:30:06 .R..A        59328               src\Tessa\source\D3D9\Context_D3D9.cpp
+2013-02-11 22:31:48 .R..A         5885               src\Altirra\source\covox.cpp
+2013-09-03 23:02:32 .R..A        32766               src\Altirra\source\cpu.cpp
+2013-06-02 13:41:52 .R..A        24922               src\Altirra\source\cpu6502.cpp
+2011-12-31 16:58:56 .R..A        15822               src\Altirra\source\cpu6502ill.cpp
+2012-01-17 01:32:06 .R..A        15113               src\Altirra\source\cpu65c02.cpp
+2013-10-06 14:59:26 .R..A        54279               src\Altirra\source\cpu65c816.cpp
+2011-12-31 16:58:58 .R..A         4902               src\system\source\cpuaccel.cpp
+2012-01-02 09:10:42 .R..A         6581               src\Altirra\cpuheatmap.cpp
+2012-12-02 18:16:14 .R..A         4179               src\Altirra\source\cpuhookmanager.cpp
+2011-12-31 16:58:58 .R..A        10072               src\Dita\source\ctl_grid.cpp
+2011-12-31 16:58:58 .R..A         8006               src\Dita\source\ctl_set.cpp
+2011-12-31 16:58:58 .R..A         4120               src\system\source\date.cpp
+2011-12-31 16:58:58 .R..A         7080               src\system\source\debug.cpp
+2012-12-23 16:11:12 .R..A        16818               src\Altirra\source\debugdisplay.cpp
+2013-09-04 22:53:10 .R..A       225936               src\Altirra\source\debugger.cpp
+2013-02-03 13:08:02 .R..A        53395               src\Altirra\source\debuggerexp.cpp
+2011-12-31 16:58:56 .R..A         2058               src\Altirra\source\debuggerlog.cpp
+2011-12-31 16:58:58 .R..A         5229               src\system\source\debugx86.cpp
+2013-10-05 01:35:54 .R..A        31176               src\Altirra\source\decmath.cpp
+2012-12-03 01:35:06 .R..A        24137               src\ATUI\source\dialog.cpp
+2013-08-06 18:42:38 .R..A        51053               src\Riza\source\direct3d.cpp
+2013-02-23 02:35:26 .R..A         4938               src\Altirra\source\directorywatcher.cpp
+2013-10-06 15:57:44 .R..A        31618               src\Altirra\source\disasm.cpp
+2013-05-14 21:47:06 .R..A        68329               src\Altirra\source\disk.cpp
+2011-12-31 16:58:56 .R..A         2318               src\Altirra\source\diskfs.cpp
+2011-12-31 16:58:56 .R..A        15409               src\Altirra\source\diskfsarc.cpp
+2012-12-09 02:02:46 .R..A        19469               src\Altirra\source\diskfsdos2.cpp
+2011-12-31 16:58:56 .R..A        24625               src\Altirra\source\diskfssdx2.cpp
+2013-02-17 22:12:22 .R..A        29604               src\Altirra\source\diskimage.cpp
+2013-02-20 22:03:12 .R..A        17369               src\Altirra\source\diskvirtimage.cpp
+2013-02-23 16:17:08 .R..A        36696               src\Altirra\source\diskvirtimagesdfs.cpp
+2013-06-11 23:07:50 .R..A        43897               src\VDDisplay\source\display.cpp
+2012-08-13 17:51:38 .R..A        58479               src\Riza\source\displayd3dfx.cpp
+2012-11-21 23:35:42 .R..A        15233               src\VDDisplay\source\displaydrv.cpp
+2013-06-30 01:01:54 .R..A        10110               src\VDDisplay\source\displaydrv3d.cpp
+2012-10-28 13:59:40 .R..A        52048               src\VDDisplay\source\displaydrvddraw.cpp
+2013-08-16 21:44:24 .R..A       158557               src\Riza\source\displaydx9.cpp
+2012-11-05 17:19:42 .R..A        23209               src\VDDisplay\source\displaygdi.cpp
+2013-06-30 01:01:54 .R..A        56540               src\Riza\source\displaygl.cpp
+2013-07-17 22:23:00 .R..A        15870               src\VDDisplay\source\displaymgr.cpp
+2013-06-30 01:01:54 .R..A        41656               src\VDDisplay\source\displaynode3d.cpp
+2012-12-26 01:21:48 .R..A         1068               src\Misc\driveconv\driveconv.cpp
+2011-12-31 16:58:56 .R..A        30198               src\Altirra\source\encode_png.cpp
+2012-02-10 00:38:58 .R..A         3433               src\system\source\Error.cpp
+2012-02-10 00:33:50 .R..A         5899               src\system\source\error_win32.cpp
+2011-12-31 16:58:58 .R..A         2747               src\system\source\event.cpp
+2012-08-13 18:05:30 .R..A         2125               src\Tessa\source\D3D11\FenceManager_D3D11.cpp
+2012-08-13 18:05:30 .R..A         1990               src\Tessa\source\D3D9\FenceManager_D3D9.cpp
+2013-09-04 22:28:00 .R..A        12167               src\system\source\file.cpp
+2012-08-13 17:51:38 .R..A        24213               src\system\source\fileasync.cpp
+2011-12-31 16:58:56 .R..A        38186               src\Asuka\source\filecreator.cpp
+2011-12-31 16:58:58 .R..A         9723               src\system\source\filestream.cpp
+2013-02-23 01:04:48 .R..A        30670               src\system\source\filesys.cpp
+2012-12-11 23:44:38 .R..A         3808               src\system\source\filewatcher.cpp
+2013-08-04 23:56:00 .R..A         1375               src\Misc\audiofilter\filter63to44.cpp
+2013-02-27 22:50:34 .R..A        13881               src\Altirra\source\flash.cpp
+2013-06-30 01:01:54 .R..A         8025               src\Asuka\source\fontencode.cpp
+2011-12-31 16:58:56 .R..A         9283               src\Asuka\source\fontextract.cpp
+2013-01-07 21:42:50 .R..A        10105               src\VDDisplay\source\fontgdi.cpp
+2012-08-14 22:54:10 .R..A         4350               src\Asuka\source\fontrender.cpp
+2012-10-18 01:28:50 .R..A          731               src\Tessa\source\Format.cpp
+2011-12-31 16:58:58 .R..A         7722               src\system\source\Fraction.cpp
+2012-06-23 21:58:44 .R..A        45832               src\Asuka\source\fxc.cpp
+2012-08-13 17:51:50 .R..A         8479               src\Asuka\source\fxc10.cpp
+2011-12-31 16:58:56 .R..A        30130               src\Asuka\source\glc.cpp
+2011-12-31 16:58:56 .R..A        13446               src\Asuka\source\glc_atifs.cpp
+2011-12-31 16:58:56 .R..A        25280               src\Asuka\source\glc_nvrc.cpp
+2013-10-20 20:22:56 .R..A        61253               src\Altirra\source\gtia.cpp
+2012-12-27 21:00:20 .R..A        27750               src\Altirra\source\gtiarenderer.cpp
+2011-12-31 16:58:56 .R..A         6386               src\Altirra\source\gtiatables.cpp
+2011-12-31 16:58:58 .R..A         1833               src\system\source\halffloat.cpp
+2011-12-31 16:58:58 .R..A         3243               src\system\source\hash.cpp
+2012-08-13 17:51:30 .R..A         1205               src\Asuka\source\hash.cpp
+2012-02-26 16:57:18 .R..A         5276               src\Altirra\source\hlebasicloader.cpp
+2012-04-10 21:53:40 .R..A        12443               src\Altirra\source\hleciohook.cpp
+2011-12-31 16:58:58 .R..A         7507               src\HLECompiler\HLECompiler.cpp
+2011-12-31 16:58:56 .R..A         5772               src\Altirra\source\hlefastboothook.cpp
+2013-10-05 23:45:08 .R..A         3859               src\Altirra\source\hlefpaccelerator.cpp
+2012-12-26 22:17:20 .R..A         3408               src\Altirra\source\hlekernel.cpp
+2013-01-12 17:06:20 .R..A         7994               src\Altirra\source\hleprogramloader.cpp
+2012-11-26 21:41:00 .R..A         1168               src\Altirra\source\hleutils.cpp
+2012-12-09 18:47:40 .R..A        37731               src\Altirra\source\hostdevice.cpp
+2012-12-09 18:47:22 .R..A         2364               src\Altirra\source\hostdeviceutils.cpp
+2012-09-06 23:55:02 .R..A         7904               src\ATUI\source\hotkeyexcontrol.cpp
+2013-05-14 21:47:06 .R..A        34166               src\Altirra\source\ide.cpp
+2012-12-03 22:36:02 .R..A         3765               src\Altirra\source\idephysdisk.cpp
+2012-12-03 22:36:02 .R..A         1832               src\Altirra\source\iderawimage.cpp
+2012-12-03 22:36:44 .R..A        20069               src\Altirra\source\idevhdimage.cpp
+2013-04-15 23:39:28 .R..A        29404               src\Altirra\source\inputcontroller.cpp
+2013-01-07 21:42:48 .R..A        53858               src\Altirra\source\inputmanager.cpp
+2011-12-31 16:58:58 .R..A        12276               src\system\source\int128.cpp
+2011-12-31 16:58:58 .R..A        12458               src\Dita\source\interface.cpp
+2012-08-26 19:10:00 .R..A         1452               src\Altirra\source\irqcontroller.cpp
+2013-08-04 00:34:18 .R..A        13496               src\Altirra\source\joystick.cpp
+2012-03-08 22:19:50 .R..A        12669               src\Altirra\source\kmkjzide.cpp
+2013-02-18 00:37:18 .R..A         9974               src\Altirra\source\leakdetector.cpp
+2012-09-06 22:42:14 .R..A         1098               src\system\source\linearalloc.cpp
+2011-12-31 16:58:58 .R..A         2584               src\system\source\list.cpp
+2011-12-31 16:58:58 .R..A         4687               src\system\source\log.cpp
+2011-12-31 16:58:56 .R..A         1869               src\Asuka\source\lookup.cpp
+2012-09-30 02:31:16 .R..A         4145               src\ATCompiler\source\lzpack.cpp
+2012-09-30 02:30:38 .R..A         2051               src\ATCompiler\source\lzunpack.cpp
+2012-08-14 22:17:34 .R..A         4585               src\Asuka\source\main.cpp
+2012-09-30 01:01:30 .R..A         1532               src\ATCompiler\source\main.cpp
+2013-09-07 14:12:20 .R..A       171761               src\Altirra\source\main.cpp
+2011-12-31 16:58:56 .R..A         1957               src\Asuka\source\makearray.cpp
+2011-12-31 16:58:56 .R..A         2878               src\Asuka\source\maketables.cpp
+2011-12-31 16:58:56 .R..A         7822               src\Asuka\source\mapconv.cpp
+2011-12-31 16:58:58 .R..A         5024               src\system\source\math.cpp
+2011-12-31 16:58:58 .R..A        10465               src\system\source\memory.cpp
+2013-10-17 22:49:44 .R..A        23223               src\Altirra\source\memorymanager.cpp
+2013-02-18 00:40:54 .R..A        12323               src\Altirra\source\mmu.cpp
+2013-08-03 22:46:04 .R..A        33857               src\Altirra\source\modem.cpp
+2011-12-31 16:58:56 .R..A        28308               src\Altirra\source\modemtcp.cpp
+2012-11-11 01:21:18 .R..A        16273               src\Altirra\source\myide.cpp
+2012-11-01 21:48:46 .R..A        24879               src\Riza\source\opengl.cpp
+2013-02-27 23:07:22 .R..A         4021               src\Altirra\source\options.cpp
+2013-01-07 21:42:48 .R..A         9954               src\Altirra\source\oshelper.cpp
+2012-09-10 22:20:22 .R..A         3403               src\Altirra\source\pbi.cpp
+2011-12-31 16:58:56 .R..A        56664               src\Altirra\source\pclink.cpp
+2012-04-09 22:44:22 .R..A         1475               src\Altirra\source\pclink_win32.cpp
+2012-08-26 22:04:38 .R..A        11065               src\Altirra\source\pia.cpp
+2012-08-13 17:51:38 .R..A        36038               src\Kasumi\source\pixel.cpp
+2012-08-13 17:51:38 .R..A        20788               src\Kasumi\source\pixmaputils.cpp
+2013-09-02 20:13:18 .R..A        63482               src\Altirra\source\pokey.cpp
+2013-04-10 22:36:30 .R..A        25272               src\Altirra\source\pokeyrenderer.cpp
+2013-03-03 16:10:00 .R..A         2804               src\Altirra\source\pokeytables.cpp
+2013-09-24 22:14:24 .R..A         5892               src\Altirra\source\printer.cpp
+2011-12-31 16:58:58 .R..A         1453               src\system\source\process.cpp
+2011-12-31 16:58:58 .R..A         6256               src\system\source\profile.cpp
+2013-09-04 23:52:34 .R..A        11247               src\Altirra\source\profiler.cpp
+2013-09-04 23:48:42 .R..A        37938               src\Altirra\source\profilerui.cpp
+2012-08-13 18:05:30 .R..A          606               src\Tessa\source\Program.cpp
+2011-12-31 16:58:58 .R..A         1449               src\system\source\progress.cpp
+2011-12-31 16:58:58 .R..A         1593               src\system\source\protscope.cpp
+2011-12-31 16:58:56 .R..A         5060               src\Asuka\source\psa.cpp
+2011-12-31 16:58:58 .R..A         1314               src\system\source\refcount.cpp
+2011-12-31 16:58:58 .R..A        33874               src\Kasumi\source\region.cpp
+2012-08-13 17:51:38 .R..A        13996               src\system\source\registry.cpp
+2012-09-14 21:43:34 .R..A        15234               src\h\vd2\system\source\registrymemory.cpp
+2012-11-01 21:58:14 .R..A          781               src\VDDisplay\source\rendercache.cpp
+2013-06-30 01:01:54 .R..A         1463               src\VDDisplay\source\renderer.cpp
+2013-06-30 01:01:54 .R..A        22174               src\VDDisplay\source\renderer3d.cpp
+2013-06-30 01:01:54 .R..A        18870               src\VDDisplay\source\rendererddraw.cpp
+2013-06-30 01:01:54 .R..A        12636               src\VDDisplay\source\renderergdi.cpp
+2013-06-30 01:01:54 .R..A        27711               src\VDDisplay\source\renderersoft.cpp
+2011-12-31 16:58:58 .R..A        11108               src\Kasumi\source\resample.cpp
+2011-12-31 16:58:58 .R..A         8215               src\Kasumi\source\resample_kernels.cpp
+2011-12-31 16:58:58 .R..A         4019               src\Kasumi\source\resample_stages.cpp
+2011-12-31 16:58:58 .R..A        13680               src\Kasumi\source\resample_stages_reference.cpp
+2011-12-31 16:58:58 .R..A         1414               src\Kasumi\source\resample_stages_x64.cpp
+2011-12-31 16:58:58 .R..A        35484               src\Kasumi\source\resample_stages_x86.cpp
+2011-12-31 16:58:56 .R..A         1934               src\Asuka\source\resbind.cpp
+2011-12-31 16:58:56 .R..A         2457               src\Asuka\source\resextract.cpp
+2011-12-31 16:58:58 .R..A        11277               src\Dita\source\resources.cpp
+2013-10-02 22:39:58 .R..A        38065               src\Altirra\source\rs232.cpp
+2012-12-02 15:07:44 .R..A         6518               src\Altirra\source\rtcds1305.cpp
+2011-12-31 16:58:56 .R..A         2989               src\Altirra\source\rtcv3021.cpp
+2012-04-05 22:04:24 .R..A         3924               src\Altirra\source\rtime8.cpp
+2012-09-01 22:53:06 .R..A         5919               src\Altirra\source\savestate.cpp
+2013-09-04 00:02:40 .R..A         3977               src\Altirra\source\scheduler.cpp
+2012-12-09 16:39:28 .R..A        26138               src\Dita\source\services.cpp
+2013-02-01 23:17:16 .R..A        13514               src\Altirra\source\side.cpp
+2011-12-31 16:58:56 .R..A         2427               src\Altirra\source\simeventmanager.cpp
+2013-04-10 22:32:26 ....A        15642               src\Altirra\source\simplestereo.cpp
+2013-10-06 00:15:50 .R..A       100153               src\Altirra\source\simulator.cpp
+2011-12-31 16:58:56 .R..A         1055               src\Altirra\source\sio.cpp
+2013-08-04 01:56:26 .R..A         9385               src\Altirra\source\siomanager.cpp
+2011-12-31 16:58:56 .R..A        17078               src\Altirra\source\slightsid.cpp
+2011-12-31 16:58:56 .R..A         2079               src\Asuka\source\snapsetup.cpp
+2012-10-03 23:16:04 .R..A        16763               src\Altirra\source\soundboard.cpp
+2011-12-31 16:58:58 .R..A         1692               src\system\source\stdaccel.cpp
+2011-12-31 16:58:56 .R..A           21               src\Asuka\source\stdafx.cpp
+2011-12-31 16:58:56 .R..A           21               src\ATHelpBuilder\source\stdafx.cpp
+2011-12-31 16:58:56 .R..A          809               src\Altirra\source\stdafx.cpp
+2011-12-31 16:58:58 .R..A          833               src\Dita\source\stdafx.cpp
+2011-12-31 16:58:58 .R..A          860               src\HLECompiler\stdafx.cpp
+2011-12-31 16:58:58 .R..A          860               src\Kasumi\source\stdafx.cpp
+2011-12-31 16:58:58 .R..A         1867               src\system\source\stdafx.cpp
+2012-08-13 18:04:08 .R..A           21               src\VDDisplay\source\stdafx.cpp
+2012-08-13 18:05:30 .R..A          861               src\Tessa\source\stdafx.cpp
+2012-09-05 23:32:16 .R..A          834               src\ATUI\source\stdafx.cpp
+2012-09-30 01:17:20 .R..A           19               src\ATCompiler\source\stdafx.cpp
+2011-12-31 16:58:58 .R..A        23259               src\Kasumi\source\stretchblt_reference.cpp
+2011-12-31 16:58:58 .R..A         2576               src\system\source\strutil.cpp
+2011-12-31 16:58:56 .R..A         7424               src\Asuka\source\symbols.cpp
+2012-12-22 15:27:20 .R..A        42018               src\Altirra\source\symbols.cpp
+2011-12-31 16:58:58 .R..A        27319               src\Kasumi\source\tables.cpp
+2011-12-31 16:58:58 .R..A        15742               src\system\source\text.cpp
+2012-08-15 16:47:10 .R..A         8820               src\Kasumi\source\text.cpp
+2011-12-31 16:58:56 .R..A        25766               src\Altirra\source\textdom.cpp
+2013-08-10 23:20:22 .R..A        45904               src\Altirra\source\texteditor.cpp
+2013-01-07 21:42:50 .R..A         5565               src\VDDisplay\source\textrenderer.cpp
+2011-12-31 16:58:58 .R..A         7577               src\system\source\thread.cpp
+2011-12-31 16:58:58 .R..A         7983               src\system\source\thunk.cpp
+2012-12-01 20:20:38 .R..A         6910               src\system\source\time.cpp
+2011-12-31 16:58:58 .R..A         1583               src\system\source\tls.cpp
+2011-12-31 16:58:58 .R..A        49392               src\Kasumi\source\triblt.cpp
+2011-12-31 16:58:58 .R..A        49059               src\Kasumi\source\uberblit.cpp
+2011-12-31 16:58:58 .R..A         2060               src\Kasumi\source\uberblit_16f.cpp
+2011-12-31 16:58:58 .R..A        51266               src\Kasumi\source\uberblit_gen.cpp
+2011-12-31 16:58:58 .R..A        24374               src\Kasumi\source\uberblit_resample.cpp
+2011-12-31 16:58:58 .R..A         6515               src\Kasumi\source\uberblit_resample_special.cpp
+2011-12-31 16:58:58 .R..A         2109               src\Kasumi\source\uberblit_resample_special_x86.cpp
+2011-12-31 16:58:58 .R..A         2960               src\Kasumi\source\uberblit_swizzle.cpp
+2011-12-31 16:58:58 .R..A         9279               src\Kasumi\source\uberblit_swizzle_x86.cpp
+2011-12-31 16:58:58 .R..A         7709               src\Kasumi\source\uberblit_v210.cpp
+2011-12-31 16:58:58 .R..A        16919               src\Kasumi\source\uberblit_ycbcr_generic.cpp
+2011-12-31 16:58:58 .R..A         2440               src\Kasumi\source\uberblit_ycbcr_x86.cpp
+2011-12-31 16:58:56 .R..A         7368               src\Altirra\source\ui.cpp
+2012-09-05 22:28:02 .R..A         1970               src\Altirra\source\uiabout.cpp
+2013-07-06 13:28:54 .R..A         1123               src\Altirra\source\uianchor.cpp
+2013-05-14 21:47:06 .R..A         4762               src\Altirra\source\uiaudiooptions.cpp
+2013-01-07 21:42:48 .R..A         3147               src\Altirra\source\uibutton.cpp
+2013-08-26 22:38:00 .R..A         7872               src\Altirra\source\uicaptionupdater.cpp
+2013-05-17 21:46:30 .R..A         8555               src\Altirra\source\uicartmapper.cpp
+2012-09-05 22:28:02 .R..A        14718               src\Altirra\source\uicheater.cpp
+2012-09-05 22:28:02 .R..A        12959               src\Altirra\source\uicolors.cpp
+2012-09-05 23:38:08 .R..A         2351               src\Altirra\source\uicommandmanager.cpp
+2013-07-06 13:28:40 .R..A         3155               src\Altirra\source\uicommondialogs.cpp
+2013-01-07 21:42:48 .R..A         4251               src\Altirra\source\uicontainer.cpp
+2013-09-04 22:08:30 .R..A         4183               src\Altirra\source\uicpuoptions.cpp
+2013-08-10 23:13:02 .R..A         7175               src\Altirra\source\uidebugfont.cpp
+2013-07-12 00:41:34 .R..A        20382               src\Altirra\source\uidisk.cpp
+2012-09-05 22:28:02 .R..A        38573               src\Altirra\source\uidiskexplorer.cpp
+2013-06-30 01:01:54 .R..A        29992               src\Altirra\source\uidisplay.cpp
+2013-02-02 02:01:16 .R..A        13218               src\Altirra\source\uidragdrop.cpp
+2013-01-07 21:42:42 .R..A          955               src\Altirra\source\uidrawingutils.cpp
+2013-08-13 23:23:38 .R..A         8997               src\Altirra\source\uiemuerror.cpp
+2013-01-07 21:42:48 .R..A        19465               src\Altirra\source\uienhancedtext.cpp
+2012-05-25 23:36:42 .R..A         3803               src\Altirra\source\uiexceptionfilter.cpp
+2013-05-21 21:25:16 .R..A        16437               src\Altirra\source\uifileassoc.cpp
+2013-01-07 21:42:48 .R..A        11309               src\Altirra\source\uifilebrowser.cpp
+2013-08-06 21:06:10 .R..A        75273               src\Altirra\source\uiframe.cpp
+2013-01-27 17:12:38 .R..A        16641               src\Altirra\source\uiharddisk.cpp
+2012-09-05 22:28:02 .R..A         4487               src\Altirra\source\uihostdevice.cpp
+2013-01-07 21:42:48 .R..A        53800               src\Altirra\source\uiinput.cpp
+2012-09-05 22:28:02 .R..A         4899               src\Altirra\source\uiinputrebind.cpp
+2012-09-03 12:23:22 .R..A         4782               src\Altirra\source\uiinstance.cpp
+2012-10-23 00:32:34 .R..A        15575               src\Altirra\source\uikeyboard.cpp
+2012-09-05 22:28:02 .R..A         2540               src\Altirra\source\uikeyboardoptions.cpp
+2013-07-06 13:42:40 .R..A         7884               src\Altirra\source\uilabel.cpp
+2012-09-05 22:28:02 .R..A         1936               src\Altirra\source\uilightpen.cpp
+2013-01-07 21:42:48 .R..A        10163               src\Altirra\source\uilistview.cpp
+2013-03-20 23:25:02 .R..A        15817               src\Altirra\source\uimanager.cpp
+2013-01-07 21:42:48 .R..A         9533               src\Altirra\source\uimenu.cpp
+2013-01-07 21:42:48 .R..A        18416               src\Altirra\source\uimenulist.cpp
+2013-01-07 21:42:42 .R..A         3811               src\Altirra\source\uimessagebox.cpp
+2012-11-22 14:25:56 .R..A         4339               src\Altirra\source\uimrulist.cpp
+2013-01-07 21:42:42 .R..A         8825               src\Altirra\source\uionscreenkeyboard.cpp
+2013-03-06 23:14:10 .R..A        22193               src\Altirra\source\uioptions.cpp
+2012-09-05 22:28:04 .R..A         2994               src\Altirra\source\uipclink.cpp
+2012-09-05 22:28:04 .R..A        10970               src\Altirra\source\uiphysdisk.cpp
+2012-11-22 14:18:40 .R..A         6081               src\Altirra\source\uiportmenus.cpp
+2012-11-28 22:31:08 .R..A         5460               src\Altirra\source\uiprofiler.cpp
+2012-09-05 22:28:02 .R..A         5539               src\Altirra\source\uiprogress.cpp
+2012-09-06 23:55:24 .R..A        29404               src\ATUI\source\uiproxies.cpp
+2013-01-07 21:42:42 .R..A         1589               src\Altirra\source\uiqueue.cpp
+2012-11-23 20:51:04 .R..A         6648               src\Altirra\source\uiregistry.cpp
+2013-08-03 23:17:40 .R..A        38388               src\Altirra\source\uirender.cpp
+2012-11-11 02:35:52 .R..A         5670               src\Altirra\source\uiromimages.cpp
+2012-09-05 22:28:02 .R..A         7390               src\Altirra\source\uiserialports.cpp
+2013-01-07 21:42:42 .R..A         6688               src\Altirra\source\uislider.cpp
+2012-09-05 22:26:44 .R..A         3067               src\Altirra\source\uispeedoptions.cpp
+2012-09-05 22:26:44 .R..A         2959               src\Altirra\source\uitapecontrol.cpp
+2013-01-07 21:42:48 .R..A         7301               src\Altirra\source\uitextedit.cpp
+2013-06-22 13:34:26 .R..A         2466               src\Altirra\source\uiverifier.cpp
+2013-08-03 23:17:08 .R..A        44687               src\Altirra\source\uivideodisplaywindow.cpp
+2013-09-07 14:11:54 .R..A         5905               src\Altirra\source\uivideorecording.cpp
+2013-01-07 21:42:48 .R..A        10476               src\Altirra\source\uiwidget.cpp
+2013-08-16 22:48:22 .R..A        21316               src\Altirra\source\ultimate1mb.cpp
+2012-08-13 17:51:38 .R..A         7035               src\Asuka\source\utils.cpp
+2012-09-30 01:18:54 .R..A         1040               src\ATCompiler\source\utils.cpp
+2013-04-10 22:36:30 .R..A        70123               src\Altirra\source\vbxe.cpp
+2011-12-31 16:58:58 .R..A         4240               src\Riza\source\vc_dv.cpp
+2011-12-31 16:58:58 .R..A         4445               src\Riza\source\vc_huffyuv.cpp
+2012-11-19 21:46:02 .R..A         1311               src\system\source\vdalloc.cpp
+2011-12-31 16:58:58 .R..A         6492               src\system\source\VDNamespace.cpp
+2011-12-31 16:58:58 .R..A         7246               src\system\source\VDScheduler.cpp
+2011-12-31 16:58:58 .R..A         1387               src\system\source\vdstl.cpp
+2013-08-10 22:44:54 .R..A         3947               src\system\source\vdstl_hash.cpp
+2011-12-31 16:58:58 .R..A         2635               src\system\source\vdstl_hashtable.cpp
+2013-01-07 21:42:50 .R..A         7274               src\system\source\VDString.cpp
+2011-12-31 16:58:58 .R..A         2383               src\system\source\vectors.cpp
+2013-06-22 13:40:08 .R..A         9116               src\Altirra\source\verifier.cpp
+2011-12-31 16:58:56 .R..A         2650               src\Asuka\source\verinc.cpp
+2013-09-07 14:00:10 .R..A        66942               src\Altirra\source\videowriter.cpp
+2012-02-20 17:30:40 .R..A         8614               src\Altirra\source\virtualscreen.cpp
+2012-09-06 22:02:58 .R..A         5178               src\Dita\source\w32accel.cpp
+2013-08-06 14:11:40 .R..A        19750               src\system\source\w32assist.cpp
+2011-12-31 16:58:58 .R..A        17728               src\Riza\source\w32audiocodec.cpp
+2011-12-31 16:58:58 .R..A        15675               src\Dita\source\w32base.cpp
+2011-12-31 16:58:58 .R..A         7248               src\Dita\source\w32button.cpp
+2011-12-31 16:58:58 .R..A        10452               src\Dita\source\w32control.cpp
+2011-12-31 16:58:58 .R..A         2552               src\Dita\source\w32group.cpp
+2011-12-31 16:58:58 .R..A         2262               src\Dita\source\w32hotkey.cpp
+2011-12-31 16:58:58 .R..A         2141               src\Dita\source\w32label.cpp
+2011-12-31 16:58:58 .R..A         6413               src\Dita\source\w32listbox.cpp
+2011-12-31 16:58:58 .R..A        10855               src\Dita\source\w32listview.cpp
+2011-12-31 16:58:58 .R..A         3527               src\Dita\source\w32peer.cpp
+2011-12-31 16:58:58 .R..A        12242               src\Dita\source\w32splitter.cpp
+2011-12-31 16:58:58 .R..A         2965               src\Dita\source\w32textedit.cpp
+2011-12-31 16:58:58 .R..A         2633               src\Dita\source\w32trackbar.cpp
+2011-12-31 16:58:58 .R..A        18656               src\Riza\source\w32videocodec.cpp
+2011-12-31 16:58:58 .R..A        24295               src\Riza\source\w32videocodecpack.cpp
+2013-08-01 00:36:54 .R..A        52460               src\Altirra\source\xep80.cpp
+2011-12-31 16:58:58 .R..A        17816               src\system\source\zip.cpp
+2013-11-01 00:16:42 .R..A        69427               src\Altirra\res\Altirra.rc
+2012-12-09 17:21:08 .R..A          501               src\Altirra\res\AltirraExtIcons.rc
+2011-12-31 16:58:56 .R..A         3293               src\Asuka\res\Asuka.rc
+2012-09-06 22:48:06 .R..A         3291               src\ATUI\res\atui.rc
+2011-12-31 16:58:58 .R..A         1499               src\system\source\a64_cpuaccel.asm
+2011-12-31 16:58:58 .R..A         1801               src\system\source\a64_fraction.asm
+2011-12-31 16:58:58 .R..A         2325               src\system\source\a64_int128.asm
+2011-12-31 16:58:58 .R..A         1162               src\system\source\a64_thunk.asm
+2011-12-31 16:58:58 .R..A        13681               src\Kasumi\source\a_bltrgb.asm
+2011-12-31 16:58:58 .R..A        12611               src\Kasumi\source\a_bltrgb2yuv_mmx.asm
+2011-12-31 16:58:58 .R..A        15502               src\Kasumi\source\a_bltrgb_mmx.asm
+2011-12-31 16:58:58 .R..A         3613               src\Kasumi\source\a_bltyuv2rgb_sse2.asm
+2011-12-31 16:58:58 .R..A         3057               src\system\source\a_memory.asm
+2011-12-31 16:58:58 .R..A        32500               src\Kasumi\source\a_resample_mmx.asm
+2011-12-31 16:58:58 .R..A         6766               src\Kasumi\source\a_resample_sse41.asm
+2011-12-31 16:58:58 .R..A         2536               src\Riza\source\a_resync.asm
+2011-12-31 16:58:58 .R..A         4223               src\Kasumi\source\a_spanutils_isse.asm
+2011-12-31 16:58:58 .R..A         5847               src\Kasumi\source\a_stretchrgb_mmx.asm
+2011-12-31 16:58:58 .R..A         1583               src\Kasumi\source\a_stretchrgb_point.asm
+2011-12-31 16:58:58 .R..A         1999               src\system\source\a_thunk.asm
+2011-12-31 16:58:58 .R..A         8283               src\Kasumi\source\a_triblt_mmx.asm
+2011-12-31 16:58:58 .R..A          637               src\Kasumi\source\a_triblt_scalar.asm
+2011-12-31 16:58:58 .R..A         3934               src\Kasumi\source\a_triblt_sse2.asm
+2011-12-31 16:58:56 .R..A         5595               src\Altirra\source\gtiarenderer_ssse3.asm
+2011-12-31 16:58:56 .R..A         2427               src\Altirra\source\gtia_sse2.asm
+2013-02-03 23:48:42 .R..A          451               src\Altirra\manifest\comctl6.manifest
+2011-12-31 16:58:56 .R..A          453               src\Altirra\manifest\comctl6_x64.manifest
+2013-08-06 19:48:24 .R..A         1308               src\Altirra\manifest\win7.manifest
+2013-08-10 21:59:00 .R..A        50927               src\Altirra\Altirra.vcproj
+2012-08-14 22:21:56 .R..A        16537               src\Asuka\Asuka.vcproj
+2012-09-30 01:18:54 .R..A         4972               src\ATCompiler\ATCompiler.vcproj
+2011-12-31 16:58:56 .R..A         5387               src\ATHelpBuilder\ATHelpBuilder.vcproj
+2013-01-21 22:15:54 .R..A         4777               src\ATHelpFile\ATHelpFile.vcproj
+2012-09-05 23:25:22 .R..A        11850               src\ATUI\ATUI.vcproj
+2012-08-14 12:19:38 .R..A        25428               src\Dita\Dita.vcproj
+2011-12-31 16:58:58 .R..A         4998               src\HLECompiler\HLECompiler.vcproj
+2011-12-31 16:58:58 .R..A         3890               src\HLEKernel\HLEKernel.vcproj
+2012-08-14 12:19:36 .R..A        35224               src\Kasumi\Kasumi.vcproj
+2013-02-09 16:48:12 .R..A         6552               src\Kernel\Kernel.vcproj
+2012-10-28 13:51:20 .R..A        21991               src\Riza\Riza.vcproj
+2012-11-19 21:29:06 .R..A        43069               src\system\system.vcproj
+2012-08-14 12:19:00 .R..A         8215               src\Tessa\Tessa.vcproj
+2012-11-01 21:58:14 .R..A        13478               src\VDDisplay\VDDisplay.vcproj
+2013-06-30 01:01:54 .R..A        17149               src\Altirra.sln
+2011-12-31 16:58:56 .R..A         1934               src\ATHelpFile.sln
+2013-03-09 01:33:46 .R..A         3818               release.cmd
+2011-12-31 16:58:58 .R..A         4072               src\ATHelpFile\source\common-errors.xml
+2013-10-09 22:06:44 .R..A        21151               src\ATHelpFile\source\compatibility.xml
+2012-12-22 02:44:42 .R..A         3117               src\ATHelpFile\source\debug-diagnostics.xml
+2012-10-01 01:18:46 .R..A         5251               src\ATHelpFile\source\debug-expressions.xml
+2012-12-22 02:46:20 .R..A         5245               src\ATHelpFile\source\debug-intro.xml
+2011-12-31 16:58:58 .R..A         4681               src\ATHelpFile\source\debug-source.xml
+2012-02-16 22:35:00 .R..A         5092               src\ATHelpFile\source\emulation-accuracy.xml
+2011-12-31 16:58:58 .R..A        11231               src\ATHelpFile\source\faq.xml
+2011-12-31 16:58:58 .R..A         4947               src\ATHelpFile\source\getting-started.xml
+2012-07-16 23:58:50 .R..A         7192               src\ATHelpFile\source\host-device.xml
+2011-12-31 16:58:58 .R..A          337               src\ATHelpFile\source\index.xml
+2011-12-31 16:58:58 .R..A         1947               src\ATHelpFile\source\indicators.xml
+2011-12-31 16:58:58 .R..A         9542               src\ATHelpFile\source\input.xml
+2012-02-16 22:30:44 .R..A         5679               src\ATHelpFile\source\keyboard.xml
+2011-12-31 16:58:58 .R..A        19294               src\ATHelpFile\source\license.xml
+2011-12-31 16:58:58 .R..A         2893               src\ATHelpFile\source\myide.xml
+2011-12-31 16:58:58 .R..A        14833               src\ATHelpFile\source\options.xml
+2011-12-31 16:58:58 .R..A         5048               src\ATHelpFile\source\pclink.xml
+2011-12-31 16:58:58 .R..A         1568               src\ATHelpFile\source\portable-mode.xml
+2011-12-31 16:58:58 .R..A        11923               src\ATHelpFile\source\serial.xml
+2012-12-22 02:28:42 .R..A         1381               src\ATHelpFile\source\toc.xml
+2011-12-31 16:58:58 .R..A         2252               src\ATHelpFile\source\troubleshooting.xml
+2012-12-02 22:15:18 .R..A         3292               src\ATHelpFile\source\ultimate1mb.xml
+2013-05-07 22:48:26 .R..A         5586               src\ATHelpFile\source\compatibility.xsl
+2013-01-21 22:15:54 .R..A         3863               src\ATHelpFile\source\index.xsl
+2011-12-31 16:58:58 .R..A         1242               src\ATHelpFile\source\toc.xsl
+2013-05-07 01:04:04 ....A         1648               src\ATHelpFile\source\layout.css
+2013-05-17 21:39:40 .R..A         1790               src\Altirra\res\about.txt
+2013-11-01 00:40:04 .R..A        70655               src\Altirra\res\changes.txt
+2011-12-29 19:00:10 ....A         4342               src\Dita\CMakeLists.txt
+2011-12-29 19:15:36 ....A         4674               src\Kasumi\CMakeLists.txt
+2011-12-29 19:28:52 ....A         4755               src\system\CMakeLists.txt
+2011-12-29 19:37:36 ....A         3587               src\Altirra\CMakeLists.txt
+2011-12-29 19:52:42 ....A          706               src\Riza\CMakeLists.txt
+2013-09-04 22:53:10 .R..A        51549               src\Altirra\res\dbghelp.txt
+2011-12-29 01:29:08 ....A         6544               src\Altirra\CMakeFiles\Altirra.dir\link.txt
+2011-12-29 18:58:38 ....A         1007               src\Dita\CMakeFiles\Dita.dir\link.txt
+2011-12-29 19:15:40 ....A         1700               src\Kasumi\CMakeFiles\Kasumi.dir\link.txt
+2011-12-29 19:30:16 ....A         2093               src\system\CMakeFiles\system.dir\link.txt
+2011-12-29 19:52:44 ....A          761               src\Riza\CMakeFiles\Riza.dir\link.txt
+2013-08-06 21:30:00 .R..A        11173               src\Altirra\res\menu_default.txt
+2012-04-09 18:17:08 ....A           47               src\Altirra\TEST2.TXT
+2011-12-31 16:58:58 .R..A          424               src\Kasumi\data\Tuffy.txt
+2011-12-31 16:58:58 .R..A        19300               src\Kasumi\data\Tuffy.ttf
+2011-12-31 16:58:58 .R..A        12393               src\Kasumi\source\a64_resample.asm64
+2011-12-31 16:58:56 .R..A          326               src\Altirra\res\target.cur
+2012-12-30 17:56:14 .R..A          326               src\Altirra\res\targetoff.cur
+2011-12-31 16:58:58 .R..A         1008               src\Riza\source\displaydx9.fx
+2013-01-07 21:42:50 .R..A         8219               src\VDDisplay\shaders\image.fx
+2012-10-13 17:15:24 .R..A         1274               src\VDDisplay\shaders\bicubic.fxh
+2011-12-31 16:58:58 .R..A        10419               src\Riza\source\displaydx9_ff.fxh
+2012-06-24 18:56:06 .R..A        13563               src\Riza\source\displaydx9_ps1.fxh
+2011-12-31 16:58:58 .R..A         4880               src\Riza\source\displaydx9_ps14.fxh
+2013-08-16 21:44:24 .R..A        24287               src\Riza\source\displaydx9_ps2.fxh
+2012-08-13 18:04:08 .R..A          819               src\VDDisplay\shaders\pal8.fxh
+2013-01-07 21:42:50 .R..A         3056               src\VDDisplay\shaders\render.fxh
+2012-08-13 18:04:08 .R..A         1353               src\VDDisplay\shaders\rgb.fxh
+2012-06-23 22:16:26 .R..A         3099               src\Riza\source\stddefs.fxh
+2012-08-13 18:04:08 .R..A          341               src\VDDisplay\shaders\sysdefs.fxh
+2011-12-31 16:58:58 .R..A         2826               src\Riza\source\utils.fxh
+2012-08-13 18:04:08 .R..A         2826               src\VDDisplay\shaders\utils.fxh
+2012-08-13 18:04:08 .R..A         1781               src\VDDisplay\shaders\ycbcr.fxh
+2012-08-13 18:04:08 .R..A         5000               src\VDDisplay\shaders\ycbcr_interleaved.fxh
+2011-12-31 16:58:58 .R..A          593               src\ATHelpFile\source\athelp.hhc
+2011-12-31 16:58:58 .R..A          351               src\ATHelpFile\source\athelp.hhp
+2011-12-31 16:58:58 .R..A          217               src\ATHelpFile\source\athelp.hhw
+2012-12-26 22:17:20 .R..A         2793               src\HLEKernel\source\blackboard.k
+2012-12-28 22:25:54 .R..A         3245               src\HLEKernel\source\boot.k
+2011-12-31 16:58:58 .R..A         2689               src\HLEKernel\source\bugcheck.k
+2011-12-31 16:58:58 .R..A         4448               src\HLEKernel\source\cassette.k
+2012-12-29 00:17:34 .R..A        10992               src\HLEKernel\source\cio.k
+2013-01-18 01:58:58 .R..A         1177               src\HLEKernel\source\disk.k
+2013-01-11 23:52:32 .R..A        12679               src\HLEKernel\source\editor.k
+2012-12-30 18:57:20 .R..A         7605               src\HLEKernel\source\init.k
+2011-12-31 16:58:58 .R..A         2779               src\HLEKernel\source\irq.k
+2012-12-27 02:05:32 .R..A        15810               src\HLEKernel\source\kernel.k
+2012-12-24 20:01:02 .R..A         4892               src\HLEKernel\source\keyboard.k
+2011-12-31 16:58:58 .R..A         3425               src\HLEKernel\source\mathpack.k
+2012-12-23 16:59:34 .R..A         7492               src\HLEKernel\source\nmi.k
+2011-12-31 16:58:58 .R..A         1888               src\HLEKernel\source\pbi.k
+2013-01-11 23:53:08 .R..A        17163               src\HLEKernel\source\screen.k
+2012-12-29 02:16:14 .R..A        11685               src\HLEKernel\source\sio.k
+2011-12-31 16:58:58 .R..A          876               src\HLEKernel\source\xlext.k
+2012-01-15 01:57:24 .R..A        64024               src\Altirra\res\DiskSpin.pcm
+2012-01-14 22:47:30 .R..A         3868               src\Altirra\res\TrackStep.pcm
+2012-02-02 22:45:20 .R..A         1778               src\Altirra\res\TrackStep2.pcm
+2012-12-09 17:21:10 .R..A       131752               src\Altirra\res\altirraexticons.res
+2013-10-06 00:27:14 ....A        10240               out\debug\kernel.rom
+2013-11-01 00:40:32 ....A        10240               out\release\kernel.rom
+2011-12-31 16:58:58 .R..A          706               src\PSA.rules
+2013-06-30 01:01:46 .R..A         2666               src\RawFont.rules
+2011-12-31 16:58:58 .R..A          524               src\YASM.rules
+2012-09-23 17:20:34 .R..A         1514               src\Kernel\source\Ultimate\bios.s
+2013-03-06 21:35:14 .R..A         1080               src\Kernel\source\Shared\blackboard.s
+2013-02-09 23:06:18 .R..A         4390               src\Kernel\source\Shared\boot.s
+2013-01-17 22:22:58 .R..A         9975               src\Kernel\source\Shared\bootscreen.s
+2012-10-07 17:50:04 .R..A          691               src\Kernel\source\BootSector\bootsecdos2.s
+2012-12-26 21:19:16 .R..A         1281               src\Kernel\source\Shared\bugcheck.s
+2013-10-05 22:10:24 .R..A         8164               src\Kernel\source\Shared\cassette.s
+2013-02-12 22:21:54 .R..A        14429               src\Kernel\source\Shared\cio.s
+2013-01-30 00:30:20 .R..A         2212               src\Kernel\source\Shared\disk.s
+2013-10-02 00:37:16 .R..A        24830               src\Kernel\source\Shared\editor.s
+2013-09-24 22:32:00 .R..A        11604               src\Kernel\source\Shared\init.s
+2013-08-08 20:27:00 .R..A         2011               src\Kernel\source\Shared\interrupt.s
+2013-08-13 00:01:58 .R..A         3997               src\Kernel\source\Shared\irq.s
+2013-02-09 16:55:54 .R..A         4381               src\Kernel\source\Ultimate\kernel.s
+2013-10-01 22:25:52 .R..A         3435               src\Kernel\source\Shared\keyboard.s
+2012-09-22 12:40:06 .R..A         1995               src\Kernel\source\Shared\keytable.s
+2011-12-31 16:58:58 .R..A         3722               src\Kernel\source\NoGame\main.s
+2011-12-31 16:58:58 .R..A         4613               src\Kernel\source\NoHDBIOS\main.s
+2011-12-31 16:58:58 .R..A         7578               src\Kernel\source\ATDiskLoader\main.s
+2012-09-23 17:14:32 .R..A         1398               src\Kernel\source\Ultimate\main.s
+2013-10-06 00:14:00 .R..A        28582               src\Kernel\source\Shared\mathpack.s
+2013-08-08 21:18:14 .R..A         1640               src\Kernel\source\Shared\misc.s
+2013-05-14 21:47:06 .R..A         6487               src\Kernel\source\Shared\pbi.s
+2013-02-10 17:29:48 .R..A        15847               src\Kernel\source\Shared\phandler.s
+2013-01-15 02:00:28 .R..A         3538               src\Kernel\source\Shared\printer.s
+2013-10-02 00:37:20 .R..A        38831               src\Kernel\source\Shared\screen.s
+2013-10-02 00:37:02 .R..A         3462               src\Kernel\source\Shared\screenext.s
+2012-12-26 21:31:50 .R..A          917               src\Kernel\source\Shared\selftestentry.s
+2013-10-05 22:10:10 .R..A        16909               src\Kernel\source\Shared\sio.s
+2013-01-15 01:14:38 .R..A         2187               src\Kernel\source\softkick.s
+2013-02-10 22:55:30 .R..A         8815               src\Kernel\source\Shared\vbi.s
+2013-06-30 01:01:46 .R..A          265               src\Altirra-DebugBuildTools.vsprops
+2013-06-30 01:01:46 .R..A          269               src\Altirra-ReleaseBuildTools.vsprops
+2011-12-31 16:58:58 .R..A          417               src\VirtualDub-VC2005-AMD64.vsprops
+2011-12-31 16:58:58 .R..A          246               src\VirtualDub-VC2005-Debug.vsprops
+2011-12-31 16:58:58 .R..A          242               src\VirtualDub-VC2005-IX86.vsprops
+2011-12-31 16:58:58 .R..A          250               src\VirtualDub-VC2005-Release.vsprops
+2011-12-31 16:58:58 .R..A          943               src\VirtualDub-VC2005.vsprops
+2011-12-31 16:58:58 .R..A         2760               src\Kernel\source\SuperKernel\includes.xasm
+2011-12-31 16:58:58 .R..A         1331               src\Kernel\source\loader.xasm
+2011-12-31 16:58:58 .R..A         2582               src\Kernel\source\NoCartridge\main.xasm
+2011-12-31 16:58:58 .R..A         3812               src\Kernel\source\BASIC\main.xasm
+2012-09-22 13:30:56 .R..A         4196               src\Kernel\source\NoKernel\main.xasm
+2013-02-09 16:50:50 .R..A         5981               src\Kernel\source\main.xasm
+2013-09-02 23:34:56 .R..A         7116               src\Kernel\source\SuperKernel\main.xasm
+2012-12-26 20:31:00 .R..A            0            0  src\Kernel\autobuild\version-dummy.inc
+2005-08-12 17:37:56 .R..A            0            0  src\VDDisplay\source\directdraw.cpp
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay\source
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay\shaders
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay\h\vd2\VDDisplay\internal
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay\h\vd2\VDDisplay
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay\h\vd2
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay\h
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay\autogen
+2017-03-17 09:52:18 D....            0            0  src\VDDisplay
+2017-03-17 09:52:18 D....            0            0  src\Tessa\source\D3D9
+2017-03-17 09:52:18 D....            0            0  src\Tessa\source\D3D11
+2017-03-17 09:52:18 D....            0            0  src\Tessa\source
+2017-03-17 09:52:17 D....            0            0  src\Tessa\h\D3D9
+2017-03-17 09:52:17 D....            0            0  src\Tessa\h\D3D11
+2017-03-17 09:52:17 D....            0            0  src\Tessa\h
+2017-03-17 09:52:18 D....            0            0  src\Tessa
+2017-03-17 09:52:17 D....            0            0  src\system\source
+2017-03-17 09:52:17 D....            0            0  src\system\h
+2017-03-17 09:52:17 D....            0            0  src\system\CMakeFiles\system.dir
+2017-03-17 09:52:17 D....            0            0  src\system\CMakeFiles
+2017-03-17 09:52:17 D....            0            0  src\system
+2017-03-17 09:52:17 D....            0            0  src\Riza\source
+2017-03-17 09:52:17 D....            0            0  src\Riza\h
+2017-03-17 09:52:17 D....            0            0  src\Riza\CMakeFiles\Riza.dir
+2017-03-17 09:52:17 D....            0            0  src\Riza\CMakeFiles
+2017-03-17 09:52:17 D....            0            0  src\Riza
+2017-03-17 09:52:17 D....            0            0  src\Misc\driveconv
+2017-03-17 09:52:17 D....            0            0  src\Misc\audiofilter
+2017-03-17 09:52:17 D....            0            0  src\Misc
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\Ultimate
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\SuperKernel
+2017-03-17 09:52:18 D....            0            0  src\Kernel\source\Shared
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\NoKernel
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\NoHDBIOS
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\NoGame
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\NoCartridge
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\BootSector
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\BASIC
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source\ATDiskLoader
+2017-03-17 09:52:17 D....            0            0  src\Kernel\source
+2017-03-17 09:52:17 D....            0            0  src\Kernel\autobuild_default
+2017-03-17 09:52:17 D....            0            0  src\Kernel\autobuild
+2017-03-17 09:52:18 D....            0            0  src\Kernel
+2017-03-17 09:52:17 D....            0            0  src\Kasumi\source
+2017-03-17 09:52:16 D....            0            0  src\Kasumi\h
+2017-03-17 09:52:18 D....            0            0  src\Kasumi\data
+2017-03-17 09:52:16 D....            0            0  src\Kasumi\CMakeFiles\Kasumi.dir
+2017-03-17 09:52:16 D....            0            0  src\Kasumi\CMakeFiles
+2017-03-17 09:52:18 D....            0            0  src\Kasumi
+2017-03-17 09:52:16 D....            0            0  src\HLEKernel\source
+2017-03-17 09:52:18 D....            0            0  src\HLEKernel
+2017-03-17 09:52:16 D....            0            0  src\HLECompiler
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\VDDisplay
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\Tessa
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\system\win32
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\system\source
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\system
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\Riza
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\Kasumi
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\external
+2017-03-17 09:52:16 D....            0            0  src\h\vd2\Dita
+2017-03-17 09:52:16 D....            0            0  src\h\vd2
+2017-03-17 09:52:16 D....            0            0  src\h\at\atui
+2017-03-17 09:52:16 D....            0            0  src\h\at
+2017-03-17 09:52:16 D....            0            0  src\h
+2017-03-17 09:52:15 D....            0            0  src\Dita\source
+2017-03-17 09:52:15 D....            0            0  src\Dita\h
+2017-03-17 09:52:15 D....            0            0  src\Dita\CMakeFiles\Dita.dir
+2017-03-17 09:52:15 D....            0            0  src\Dita\CMakeFiles
+2017-03-17 09:52:16 D....            0            0  src\Dita
+2017-03-17 09:52:15 D....            0            0  src\ATUI\source
+2017-03-17 09:52:15 D....            0            0  src\ATUI\res
+2017-03-17 09:52:15 D....            0            0  src\ATUI\h
+2017-03-17 09:52:15 D....            0            0  src\ATUI
+2017-03-17 09:52:18 D....            0            0  src\ATHelpFile\source
+2017-03-17 09:52:18 D....            0            0  src\ATHelpFile
+2017-03-17 09:52:15 D....            0            0  src\ATHelpBuilder\source
+2017-03-17 09:52:15 D....            0            0  src\ATHelpBuilder\h
+2017-03-17 09:52:15 D....            0            0  src\ATHelpBuilder
+2017-03-17 09:52:15 D....            0            0  src\ATCompiler\source
+2017-03-17 09:52:15 D....            0            0  src\ATCompiler\h
+2017-03-17 09:52:15 D....            0            0  src\ATCompiler
+2017-03-17 09:52:15 D....            0            0  src\Asuka\source
+2017-03-17 09:52:15 D....            0            0  src\Asuka\res
+2017-03-17 09:52:15 D....            0            0  src\Asuka\h
+2017-03-17 09:52:15 D....            0            0  src\Asuka
+2017-03-17 09:52:15 D....            0            0  src\Altirra\source
+2017-03-17 09:52:18 D....            0            0  src\Altirra\res
+2017-03-17 09:52:14 D....            0            0  src\Altirra\manifest
+2017-03-17 09:52:14 D....            0            0  src\Altirra\h
+2017-03-17 09:52:13 D....            0            0  src\Altirra\data
+2017-03-17 09:52:13 D....            0            0  src\Altirra\CMakeFiles\Altirra.dir
+2017-03-17 09:52:13 D....            0            0  src\Altirra\CMakeFiles
+2017-03-17 09:52:13 D....            0            0  src\Altirra\autobuild_default
+2017-03-17 09:52:13 D....            0            0  src\Altirra\autobuild
+2017-03-17 09:52:15 D....            0            0  src\Altirra
+2017-03-17 09:52:18 D....            0            0  src
+2017-03-17 09:52:18 D....            0            0  out\release
+2017-03-17 09:52:18 D....            0            0  out\debug
+2017-03-17 09:52:18 D....            0            0  out
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 09:52:18           10247202      1478606  907 files, 99 folders

@@ -1,0 +1,91 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-02-17 19:19:42 ....A        30621       212660  hhugboy-1.0\devcpp\hhugboy.ico
+2013-02-17 19:19:42 ....A         1253               hhugboy-1.0\cheats.h
+2013-02-17 19:19:42 ....A         2332               hhugboy-1.0\config.h
+2013-02-17 19:19:42 ....A         5235               hhugboy-1.0\cpu.h
+2013-02-17 19:19:42 ....A        62933               hhugboy-1.0\cpucore.h
+2013-02-17 19:19:42 ....A         1040               hhugboy-1.0\debug.h
+2013-02-17 19:19:42 ....A         1156               hhugboy-1.0\devices.h
+2013-02-17 19:19:42 ....A         1574               hhugboy-1.0\dialogs.h
+2013-02-17 19:19:42 ....A         2384               hhugboy-1.0\directdraw.h
+2013-02-17 19:19:42 ....A         1523               hhugboy-1.0\directinput.h
+2013-02-17 19:19:42 ....A        73410               hhugboy-1.0\fmod\fmod.h
+2013-02-17 19:19:42 ....A        39326               hhugboy-1.0\fmod\fmoddyn.h
+2013-02-17 19:19:42 ....A         1689               hhugboy-1.0\fmod\fmod_errors.h
+2013-02-17 19:19:42 ....A        12493               hhugboy-1.0\GB.h
+2013-02-17 19:19:42 ....A         1097               hhugboy-1.0\GB_gfx.h
+2013-02-17 19:19:42 ....A          592               hhugboy-1.0\devcpp\GEST_private.h
+2013-02-17 19:19:42 ....A         3569               hhugboy-1.0\keynames.h
+2013-02-17 19:19:42 ....A         4485               hhugboy-1.0\licnames.h
+2013-02-17 19:19:42 ....A         2216               hhugboy-1.0\main.h
+2013-02-17 19:19:42 ....A         1667               hhugboy-1.0\mainloop.h
+2013-02-17 19:19:42 ....A         9126               hhugboy-1.0\menu.h
+2013-02-17 19:19:42 ....A         2465               hhugboy-1.0\options.h
+2013-02-17 19:19:42 ....A       153839               hhugboy-1.0\libpng12\png.h
+2013-02-17 19:19:42 ....A        45382               hhugboy-1.0\libpng12\pngconf.h
+2013-02-17 19:19:42 ....A         1810               hhugboy-1.0\render.h
+2013-02-17 19:19:42 ....A         1331               hhugboy-1.0\rom.h
+2013-02-17 19:19:42 ....A         1079               hhugboy-1.0\scale2x.h
+2013-02-17 19:19:42 ....A         1307               hhugboy-1.0\scale3x.h
+2013-02-17 19:19:42 ....A         1766               hhugboy-1.0\SGB.h
+2013-02-17 19:19:42 ....A         1729               hhugboy-1.0\sound.h
+2013-02-17 19:19:42 ....A         2215               hhugboy-1.0\strings.h
+2013-02-17 19:19:42 ....A         1249               hhugboy-1.0\types.h
+2013-02-17 19:19:42 ....A        10640               hhugboy-1.0\zlib\unzip.h
+2013-02-17 19:19:42 ....A         1438               hhugboy-1.0\fmod\wincompat.h
+2013-02-17 19:19:42 ....A         7810               hhugboy-1.0\zlib\zconf.h
+2013-02-17 19:19:42 ....A        40900               hhugboy-1.0\zlib\zlib.h
+2013-02-17 19:19:42 ....A        42916               hhugboy-1.0\zlib\unzip.c
+2013-02-17 19:19:42 ....A         3949               hhugboy-1.0\cheats.cpp
+2013-02-17 19:19:42 ....A        21079               hhugboy-1.0\config.cpp
+2013-02-17 19:19:42 ....A        25619               hhugboy-1.0\cpu.cpp
+2013-02-17 19:19:42 ....A         1555               hhugboy-1.0\debug.cpp
+2013-02-17 19:19:42 ....A         2847               hhugboy-1.0\devices.cpp
+2013-02-17 19:19:42 ....A        13555               hhugboy-1.0\dialogs.cpp
+2013-02-17 19:19:42 ....A        43758               hhugboy-1.0\directdraw.cpp
+2013-02-17 19:19:42 ....A        17070               hhugboy-1.0\directinput.cpp
+2013-02-17 19:19:42 ....A        13264               hhugboy-1.0\GB.cpp
+2013-02-17 19:19:42 ....A        19036               hhugboy-1.0\GB_gfx.cpp
+2013-02-17 19:19:42 ....A        17228               hhugboy-1.0\GB_ioregs.cpp
+2013-02-17 19:19:42 ....A        58627               hhugboy-1.0\GB_MBC.cpp
+2013-02-17 19:19:42 ....A        13471               hhugboy-1.0\GB_mem.cpp
+2013-02-17 19:19:42 ....A        23771               hhugboy-1.0\GB_sound.cpp
+2013-02-17 19:19:42 ....A        68401               hhugboy-1.0\main.cpp
+2013-02-17 19:19:42 ....A        14840               hhugboy-1.0\mainloop.cpp
+2013-02-17 19:19:42 ....A         1885               hhugboy-1.0\menu.cpp
+2013-02-17 19:19:42 ....A         2962               hhugboy-1.0\render.cpp
+2013-02-17 19:19:42 ....A        20782               hhugboy-1.0\rom.cpp
+2013-02-17 19:19:42 ....A        29126               hhugboy-1.0\scale2x.cpp
+2013-02-17 19:19:42 ....A         9483               hhugboy-1.0\scale3x.cpp
+2013-02-17 19:19:42 ....A        22831               hhugboy-1.0\SGB.cpp
+2013-02-17 19:19:42 ....A         2242               hhugboy-1.0\strings.cpp
+2013-02-17 19:19:42 ....A          852               hhugboy-1.0\devcpp\GEST_private.rc
+2013-02-17 19:19:42 ....A        18034               hhugboy-1.0\menu.rc
+2013-02-17 19:19:42 ....A        18092               hhugboy-1.0\license.txt
+2013-02-17 19:19:42 ....A         8764               hhugboy-1.0\bin\PCPaintBoldSmall.ttf
+2013-02-17 19:19:42 ....A        11334               hhugboy-1.0\libs\libddraw.a
+2013-02-17 19:19:42 ....A        18046               hhugboy-1.0\libs\libdinput.a
+2013-02-17 19:19:42 ....A        16528               hhugboy-1.0\libs\libdinput8.a
+2013-02-17 19:19:42 ....A        50754               hhugboy-1.0\libs\libdxguid.a
+2013-02-17 19:19:42 ....A       187482               hhugboy-1.0\libs\libfmod.a
+2013-02-17 19:19:42 ....A       148706               hhugboy-1.0\libs\libpng12.dll.a
+2013-02-17 19:19:42 ....A       144884               hhugboy-1.0\libs\libwinmm.a
+2013-02-17 19:19:42 ....A        58198               hhugboy-1.0\libs\libz.a
+2013-02-17 19:19:42 ....A         7289               hhugboy-1.0\devcpp\hhugboy.dev
+2013-02-17 19:19:42 ....A          126               hhugboy-1.0\.gitignore
+2013-02-17 19:19:42 ....A         4346               hhugboy-1.0\devcpp\Makefile.win
+2013-02-17 19:19:42 ....A       162816       289846  hhugboy-1.0\bin\fmod.dll
+2013-02-17 19:19:42 ....A       162816               hhugboy-1.0\fmod.dll
+2013-02-17 19:19:42 ....A       260096               hhugboy-1.0\bin\libpng12.dll
+2013-02-17 19:19:42 ....A        80954               hhugboy-1.0\zlib-1.dll
+2013-02-17 19:19:42 ....A        80954               hhugboy-1.0\bin\zlib1.dll
+2017-03-17 11:23:19 D....            0            0  hhugboy-1.0\zlib
+2017-03-17 11:23:19 D....            0            0  hhugboy-1.0\libs
+2017-03-17 11:23:19 D....            0            0  hhugboy-1.0\libpng12
+2017-03-17 11:23:19 D....            0            0  hhugboy-1.0\fmod
+2017-03-17 11:23:19 D....            0            0  hhugboy-1.0\devcpp
+2017-03-17 11:23:19 D....            0            0  hhugboy-1.0\bin
+2017-03-17 11:23:19 D....            0            0  hhugboy-1.0
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 11:23:19            2466049       502506  80 files, 7 folders

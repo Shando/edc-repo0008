@@ -1,0 +1,1186 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-05-07 20:38:03 ....A          934       842444  gb\Makefile
+2013-08-17 00:46:20 ....A          256               shaders\Makefile
+2013-12-19 11:10:40 ....A         1723               ananke\Makefile
+2014-01-20 07:37:12 ....A         2746               nall\Makefile
+2014-01-20 07:37:14 ....A         1484               ruby\Makefile
+2014-01-20 07:37:17 ....A          831               phoenix\Makefile
+2015-01-14 13:16:57 ....A         1293               processor\Makefile
+2015-01-14 20:55:41 ....A         3968               target-ethos\Makefile
+2015-01-29 11:00:40 ....A         3852               sfc\Makefile
+2015-07-26 15:11:21 ....A         2325               Makefile
+2011-06-17 13:27:08 ....A          611               target-ethos\resource\advanced.png
+2009-06-20 13:33:26 ....A         1067               ananke\resource\archive.png
+2011-06-17 13:27:10 ....A          592               target-ethos\resource\audio.png
+2011-06-17 13:27:08 ....A          937               target-ethos\resource\cheat-editor.png
+2009-06-20 13:33:26 ....A          844               ananke\resource\file.png
+2009-06-20 13:33:26 ....A         1176               ananke\resource\folder.png
+2009-06-20 13:33:26 ....A         1176               target-ethos\resource\folder.png
+2009-06-20 13:33:24 ....A         1490               target-ethos\resource\game.png
+2009-06-20 13:33:02 ....A          606               ananke\resource\home.png
+2009-06-20 13:33:02 ....A          606               target-ethos\resource\home.png
+2011-06-17 13:27:08 ....A          587               target-ethos\resource\hotkeys.png
+2011-06-17 13:27:08 ....A          812               target-ethos\resource\input.png
+2011-06-17 13:27:10 ....A          408               target-ethos\resource\server.png
+2011-06-17 13:27:08 ....A          378               target-ethos\resource\state-manager.png
+2011-06-17 13:27:07 ....A          897               target-ethos\resource\timing.png
+2009-06-20 13:33:26 ....A         1675               target-ethos\resource\unverified.png
+2009-06-20 13:33:02 ....A          652               ananke\resource\up.png
+2009-06-20 13:33:02 ....A          652               target-ethos\resource\up.png
+2011-06-17 13:27:08 ....A          662               target-ethos\resource\video.png
+2015-01-13 03:51:34 ....A        15397               data\xSnes.png
+2015-01-13 03:45:50 ....A       161862               data\xSnes.ico
+2007-04-17 19:42:08 ....A         5205               sfc\alt\dsp\blargg_common.h
+2010-08-20 04:08:23 ....A          618               sfc\alt\dsp\blargg_config.h
+2007-04-16 23:19:00 ....A         6364               sfc\alt\dsp\blargg_endian.h
+2007-04-17 18:21:22 ....A         3037               sfc\alt\dsp\blargg_source.h
+2014-01-20 07:37:11 ....A          476               libco\libco.h
+2012-05-28 19:01:37 ....A         7751               sfc\alt\dsp\SPC_DSP.h
+2014-01-20 07:37:15 ....A          290               phoenix\cocoa\action\action.hpp
+2014-01-20 07:37:18 ....A          253               phoenix\reference\action\action.hpp
+2013-11-26 15:40:51 ....A          547               target-ethos\settings\advanced.hpp
+2014-01-20 07:37:11 ....A          290               nall\algorithm.hpp
+2014-01-20 07:37:11 ....A         2829               nall\any.hpp
+2014-01-20 07:37:15 ....A          498               phoenix\cocoa\application.hpp
+2014-01-20 07:37:18 ....A          183               phoenix\reference\application.hpp
+2013-12-10 18:05:53 ....A          564               gb\apu\apu.hpp
+2014-01-20 07:37:11 ....A         2348               nall\beat\archive.hpp
+2012-04-15 02:30:25 ....A         1317               processor\arm\arm.hpp
+2013-05-05 07:38:38 ....A          652               sfc\chip\armdsp\armdsp.hpp
+2014-01-20 07:37:11 ....A         2366               nall\atoi.hpp
+2011-09-27 04:41:44 ....A          556               sfc\system\audio.hpp
+2013-11-23 15:19:04 ....A          452               target-ethos\settings\audio.hpp
+2014-01-20 07:37:14 ....A          545               ruby\audio.hpp
+2014-01-20 07:37:12 ....A          830               nall\stream\auto.hpp
+2014-01-20 07:37:12 ....A         1522               nall\dsp\resample\average.hpp
+2013-05-05 07:13:13 ....A         1300               sfc\alt\ppu-performance\background\background.hpp
+2013-05-05 08:31:28 ....A         1581               sfc\ppu\background\background.hpp
+2013-01-23 00:17:07 ....A           48               sfc\base\base.hpp
+2014-01-20 07:37:11 ....A         1972               nall\beat\base.hpp
+2014-01-20 07:37:12 ....A         5090               nall\image\base.hpp
+2014-01-20 07:37:13 ....A         2759               nall\string\char\base.hpp
+2014-01-20 07:37:13 ....A         7169               nall\string\base.hpp
+2014-01-20 07:37:11 ....A         3171               nall\base64.hpp
+2014-01-20 07:37:14 ....A         4483               ruby\video\opengl\bind.hpp
+2014-01-20 07:37:12 ....A         2273               nall\bit.hpp
+2014-01-20 07:37:11 ....A         1135               nall\mosaic\bitstream.hpp
+2014-01-20 07:37:12 ....A         2425               nall\image\blend.hpp
+2014-01-20 07:37:13 ....A         3894               nall\string\markup\bml.hpp
+2014-01-20 07:37:12 ....A         3341               nall\bmp.hpp
+2014-01-20 07:37:15 ....A          209               phoenix\cocoa\browser-window.hpp
+2014-01-20 07:37:18 ....A          209               phoenix\reference\browser-window.hpp
+2013-01-22 23:42:46 ....A          475               ananke\database\bsx-satellaview.hpp
+2015-01-25 17:51:16 ....A          801               sfc\chip\bsx\bsx.hpp
+2014-01-20 07:37:12 ....A         1046               nall\dsp\buffer.hpp
+2012-07-08 00:50:25 ....A          301               sfc\chip\sa1\bus\bus.hpp
+2012-07-09 05:53:54 ....A          231               sfc\chip\superfx\bus\bus.hpp
+2014-01-20 07:37:15 ....A          530               phoenix\cocoa\widget\button.hpp
+2014-01-20 07:37:18 ....A          278               phoenix\reference\widget\button.hpp
+2013-05-05 07:14:50 ....A          299               sfc\alt\ppu-performance\cache\cache.hpp
+2014-01-20 07:37:15 ....A         1177               phoenix\cocoa\widget\canvas.hpp
+2014-01-20 07:37:18 ....A          286               phoenix\reference\widget\canvas.hpp
+2013-01-22 23:52:43 ....A         2952               sfc\cartridge\cartridge.hpp
+2013-12-06 21:58:36 ....A         1370               gb\cartridge\cartridge.hpp
+2014-01-20 07:37:13 ....A         5099               nall\string\cast.hpp
+2014-01-20 07:37:13 ....A          386               nall\string\char.hpp
+2013-05-02 11:20:48 ....A          404               target-ethos\tools\cheat-database.hpp
+2013-11-23 15:27:19 ....A          743               target-ethos\tools\cheat-editor.hpp
+2014-01-13 07:22:33 ....A          418               gb\cheat\cheat.hpp
+2014-01-13 07:27:24 ....A          418               sfc\cheat\cheat.hpp
+2014-01-20 07:37:15 ....A          643               phoenix\cocoa\widget\check-button.hpp
+2014-01-20 07:37:18 ....A          356               phoenix\reference\widget\check-button.hpp
+2014-01-20 07:37:15 ....A          475               phoenix\cocoa\action\check-item.hpp
+2014-01-20 07:37:18 ....A          276               phoenix\reference\action\check-item.hpp
+2014-01-20 07:37:15 ....A          565               phoenix\cocoa\widget\check-label.hpp
+2014-01-20 07:37:18 ....A          285               phoenix\reference\widget\check-label.hpp
+2013-01-21 07:09:43 ....A          931               sfc\chip\chip.hpp
+2014-01-20 07:37:15 ....A          693               phoenix\cocoa\widget\combo-button.hpp
+2014-01-20 07:37:18 ....A          401               phoenix\reference\widget\combo-button.hpp
+2014-01-20 07:37:13 ....A         2044               nall\string\char\compare.hpp
+2014-01-20 07:37:12 ....A         3642               nall\compositor.hpp
+2014-01-20 07:37:12 ....A         2870               nall\config.hpp
+2013-12-09 21:42:56 ....A         1265               target-ethos\configuration\configuration.hpp
+2014-01-20 07:37:15 ....A          408               phoenix\cocoa\widget\console.hpp
+2014-01-20 07:37:18 ....A          239               phoenix\reference\widget\console.hpp
+2014-01-20 07:37:11 ....A         6405               nall\mosaic\context.hpp
+2012-03-22 14:22:33 ....A         1097               sfc\controller\controller.hpp
+2014-01-20 07:37:13 ....A         1245               nall\string\char\convert.hpp
+2014-01-20 07:37:13 ....A         2132               nall\string\allocator\copy-on-write.hpp
+2013-05-05 08:04:35 ....A          143               sfc\chip\superfx\core\core.hpp
+2014-01-20 07:37:12 ....A         3543               nall\dsp\core.hpp
+2014-01-20 07:37:12 ....A         3795               nall\image\core.hpp
+2014-01-20 07:37:13 ....A         2552               nall\string\core.hpp
+2014-01-20 07:37:16 ....A        20814               phoenix\core\core.hpp
+2014-01-20 07:37:12 ....A          849               nall\dsp\resample\cosine.hpp
+2010-08-09 05:06:25 ....A         3314               sfc\ppu\counter\counter-inline.hpp
+2010-08-09 05:06:02 ....A         1478               sfc\ppu\counter\counter.hpp
+2012-04-28 11:54:30 ....A         2954               sfc\alt\cpu\cpu.hpp
+2013-11-09 06:37:43 ....A         2702               sfc\cpu\cpu.hpp
+2013-12-12 00:57:30 ....A         2317               gb\cpu\cpu.hpp
+2014-01-20 07:37:12 ....A          527               nall\crc16.hpp
+2014-01-20 07:37:12 ....A         3643               nall\crc32.hpp
+2014-01-20 07:37:12 ....A          989               nall\dsp\resample\cubic.hpp
+2014-01-20 07:37:13 ....A          610               nall\string\datetime.hpp
+2013-05-05 07:58:10 ....A         1833               sfc\chip\sdd1\decomp.hpp
+2014-01-20 07:37:11 ....A         6030               nall\beat\delta.hpp
+2014-01-20 07:37:15 ....A           98               phoenix\cocoa\desktop.hpp
+2014-01-20 07:37:18 ....A           98               phoenix\reference\desktop.hpp
+2014-01-20 07:37:13 ....A         5927               nall\windows\detour.hpp
+2013-05-02 11:06:33 ....A          402               target-ethos\general\dip-switches.hpp
+2014-01-20 07:37:12 ....A         7174               nall\directory.hpp
+2012-03-23 15:01:00 ....A          128               processor\arm\disassembler.hpp
+2013-05-05 06:14:09 ....A          802               processor\r65816\disassembler.hpp
+2013-05-05 08:05:17 ....A          187               sfc\chip\superfx\disassembler\disassembler.hpp
+2014-01-20 07:37:12 ....A         3174               nall\dl.hpp
+2009-06-19 08:55:27 ....A          283               sfc\chip\sa1\dma\dma.hpp
+2010-08-20 04:11:03 ....A         1384               sfc\cpu\dma\dma.hpp
+2014-01-20 07:37:13 ....A          221               nall\string\markup\document.hpp
+2012-05-28 19:01:47 ....A          491               sfc\alt\dsp\dsp.hpp
+2013-05-05 08:21:06 ....A         4397               sfc\dsp\dsp.hpp
+2014-01-20 07:37:12 ....A          233               nall\dsp.hpp
+2017-02-13 05:42:51 ....A         4373               emulator\emulator.hpp
+2014-01-20 07:37:12 ....A         1701               nall\endian.hpp
+2013-05-05 07:40:54 ....A         1459               sfc\chip\epsonrtc\epsonrtc.hpp
+2014-01-13 06:23:49 ....A         1295               target-ethos\ethos.hpp
+2014-01-20 07:37:13 ....A         6168               nall\string\eval\evaluator.hpp
+2012-11-04 06:12:17 ....A          794               sfc\chip\event\event.hpp
+2014-01-20 07:37:12 ....A         1034               nall\stream\file.hpp
+2014-01-20 07:37:12 ....A         9803               nall\file.hpp
+2014-01-20 07:37:13 ....A          566               nall\string\file.hpp
+2014-01-20 07:37:12 ....A         4940               nall\filemap.hpp
+2014-01-20 07:37:13 ....A         1852               nall\string\filename.hpp
+2014-01-20 07:37:12 ....A         3057               nall\image\fill.hpp
+2014-01-20 07:37:16 ....A          471               phoenix\core\layout\fixed-layout.hpp
+2014-01-20 07:37:15 ....A          343               phoenix\cocoa\font.hpp
+2014-01-20 07:37:18 ....A          247               phoenix\reference\font.hpp
+2014-01-20 07:37:13 ....A         1587               nall\string\format.hpp
+2014-01-20 07:37:15 ....A          506               phoenix\cocoa\widget\frame.hpp
+2014-01-20 07:37:18 ....A          207               phoenix\reference\widget\frame.hpp
+2014-01-20 07:37:12 ....A         2278               nall\function.hpp
+2012-12-09 10:13:00 ....A         4413               ananke\heuristics\game-boy.hpp
+2012-08-06 21:05:51 ....A          220               sfc\controller\gamepad\gamepad.hpp
+2013-05-05 08:54:22 ....A         1251               gb\gb.hpp
+2013-11-26 15:30:39 ....A           79               target-ethos\general\general.hpp
+2014-01-20 07:37:12 ....A         2273               nall\group.hpp
+2012-04-28 08:47:41 ....A         2809               processor\gsu\gsu.hpp
+2014-01-20 07:37:13 ....A          533               nall\xorg\guard.hpp
+2014-01-20 07:37:13 ....A          775               nall\windows\guid.hpp
+2014-01-20 07:37:12 ....A          614               nall\stream\gzip.hpp
+2014-01-20 07:37:12 ....A         1708               nall\gzip.hpp
+2014-01-20 07:37:12 ....A         3007               nall\hashset.hpp
+2014-01-20 07:37:15 ....A           94               phoenix\cocoa\header.hpp
+2014-01-20 07:37:16 ....A          196               phoenix\gtk\header.hpp
+2014-01-20 07:37:17 ....A          494               phoenix\qt\header.hpp
+2014-01-20 07:37:18 ....A          394               phoenix\windows\header.hpp
+2014-01-20 07:37:12 ....A         1506               nall\dsp\resample\hermite.hpp
+2014-01-20 07:37:15 ....A          520               phoenix\cocoa\widget\hex-edit.hpp
+2014-01-20 07:37:18 ....A          351               phoenix\reference\widget\hex-edit.hpp
+2012-03-23 12:50:39 ....A          548               processor\hg51b\hg51b.hpp
+2014-01-20 07:37:12 ....A         2610               nall\hid.hpp
+2012-11-06 03:57:56 ....A          766               sfc\chip\hitachidsp\hitachidsp.hpp
+2014-01-20 07:37:16 ....A          672               phoenix\core\layout\horizontal-layout.hpp
+2014-01-20 07:37:15 ....A          682               phoenix\cocoa\widget\horizontal-scroller.hpp
+2014-01-20 07:37:18 ....A          369               phoenix\reference\widget\horizontal-scroller.hpp
+2014-01-20 07:37:15 ....A          673               phoenix\cocoa\widget\horizontal-slider.hpp
+2014-01-20 07:37:18 ....A          351               phoenix\reference\widget\horizontal-slider.hpp
+2013-12-23 10:44:54 ....A          443               target-ethos\settings\hotkey.hpp
+2012-10-29 22:59:03 ....A          326               sfc\chip\hsu1\hsu1.hpp
+2014-01-20 07:37:12 ....A         1229               nall\stream\http.hpp
+2014-01-20 07:37:12 ....A         4454               nall\http.hpp
+2011-12-25 23:07:00 ....A          262               gb\cartridge\huc1\huc1.hpp
+2011-12-25 23:09:18 ....A          224               gb\cartridge\huc3\huc3.hpp
+2014-02-24 10:39:09 ....A          510               sfc\chip\icd2\icd2.hpp
+2014-01-20 07:37:12 ....A          510               nall\image.hpp
+2014-01-20 07:37:12 ....A         8100               nall\inflate.hpp
+2013-05-05 08:47:41 ....A          777               sfc\system\input.hpp
+2013-12-23 10:44:31 ....A         1007               target-ethos\settings\input.hpp
+2014-01-20 07:37:14 ....A          767               ruby\input.hpp
+2014-01-20 07:40:51 ....A         1868               target-ethos\input\input.hpp
+2012-03-29 16:56:10 ....A          725               processor\arm\instructions-arm.hpp
+2012-03-27 23:46:50 ....A          784               processor\arm\instructions-thumb.hpp
+2013-12-21 07:32:46 ....A          781               target-ethos\interface\interface.hpp
+2014-02-24 10:39:09 ....A          685               sfc\chip\icd2\interface\interface.hpp
+2014-02-24 10:39:09 ....A         1235               gb\interface\interface.hpp
+2015-01-28 04:58:29 ....A         2152               sfc\interface\interface.hpp
+2015-01-28 07:14:15 ....A         4384               emulator\interface.hpp
+2014-01-20 07:37:12 ....A         1708               nall\interpolation.hpp
+2014-01-20 07:37:12 ....A         2257               nall\image\interpolation.hpp
+2014-01-20 07:37:12 ....A         3167               nall\intrinsics.hpp
+2014-01-20 07:37:12 ....A         1720               nall\invoke.hpp
+2014-01-20 07:37:12 ....A         2441               nall\ips.hpp
+2014-01-20 07:37:15 ....A          399               phoenix\cocoa\action\item.hpp
+2014-01-20 07:37:18 ....A          235               phoenix\reference\action\item.hpp
+2012-05-03 21:47:18 ....A          380               sfc\controller\justifier\justifier.hpp
+2014-01-20 07:37:15 ....A          129               phoenix\cocoa\keyboard.hpp
+2014-01-20 07:37:16 ....A         2270               phoenix\core\keyboard.hpp
+2014-01-20 07:37:18 ....A          129               phoenix\reference\keyboard.hpp
+2014-01-20 07:37:15 ....A          422               phoenix\cocoa\widget\label.hpp
+2014-01-20 07:37:18 ....A          207               phoenix\reference\widget\label.hpp
+2014-01-20 07:37:13 ....A         3206               nall\windows\launcher.hpp
+2014-01-20 07:37:15 ....A          145               phoenix\cocoa\widget\layout.hpp
+2014-01-20 07:37:18 ....A          145               phoenix\reference\widget\layout.hpp
+2013-12-06 21:49:00 ....A         1164               target-ethos\general\library.hpp
+2014-01-20 07:37:15 ....A          580               phoenix\cocoa\widget\line-edit.hpp
+2014-01-20 07:37:18 ....A          286               phoenix\reference\widget\line-edit.hpp
+2014-01-20 07:37:11 ....A         4070               nall\beat\linear.hpp
+2014-01-20 07:37:12 ....A          802               nall\dsp\resample\linear.hpp
+2014-01-20 07:37:16 ....A         2271               phoenix\cocoa\widget\list-view.hpp
+2014-01-20 07:37:18 ....A          710               phoenix\reference\widget\list-view.hpp
+2014-01-20 07:37:13 ....A         1835               nall\string\list.hpp
+2014-01-20 07:37:13 ....A         2613               nall\string\eval\literal.hpp
+2014-01-20 07:37:12 ....A         2727               nall\image\load.hpp
+2012-04-28 16:20:27 ....A         4068               processor\lr35902\lr35902.hpp
+2014-01-20 07:37:14 ....A         7328               ruby\video\opengl\main.hpp
+2014-01-20 07:37:12 ....A         2131               nall\map.hpp
+2013-12-10 18:05:39 ....A          567               gb\apu\master\master.hpp
+2014-01-20 07:37:13 ....A         1188               nall\string\char\match.hpp
+2014-01-20 07:37:12 ....A          814               nall\matrix.hpp
+2011-01-08 02:00:30 ....A          121               gb\cartridge\mbc0\mbc0.hpp
+2011-12-25 23:16:33 ....A          262               gb\cartridge\mbc1\mbc1.hpp
+2011-12-25 23:18:13 ....A          190               gb\cartridge\mbc2\mbc2.hpp
+2011-12-25 23:20:31 ....A          546               gb\cartridge\mbc3\mbc3.hpp
+2011-12-25 23:22:15 ....A          240               gb\cartridge\mbc5\mbc5.hpp
+2014-02-24 10:39:09 ....A         2477               sfc\memory\memory-inline.hpp
+2011-01-16 13:33:43 ....A          358               sfc\chip\superfx\memory\memory.hpp
+2011-11-16 11:20:07 ....A          422               processor\spc700\memory.hpp
+2012-02-06 01:42:45 ....A          276               sfc\alt\ppu-balanced\memory\memory.hpp
+2012-04-28 09:18:41 ....A         1934               processor\r65816\memory.hpp
+2012-04-28 09:32:41 ....A          171               sfc\cpu\memory\memory.hpp
+2012-07-15 07:44:49 ....A          561               sfc\chip\sa1\memory\memory.hpp
+2013-05-05 08:30:28 ....A         1752               sfc\memory\memory.hpp
+2013-05-05 09:04:44 ....A          603               gb\memory\memory.hpp
+2014-01-20 07:37:12 ....A         1240               nall\stream\memory.hpp
+2014-01-20 07:37:15 ....A          486               phoenix\cocoa\action\menu.hpp
+2014-01-20 07:37:18 ....A          297               phoenix\reference\action\menu.hpp
+2014-01-20 07:37:15 ....A          338               phoenix\cocoa\message-window.hpp
+2014-01-20 07:37:18 ....A          338               phoenix\reference\message-window.hpp
+2014-01-20 07:37:11 ....A         2813               nall\beat\metadata.hpp
+2014-01-20 07:37:12 ....A         1104               nall\stream\mmap.hpp
+2009-06-10 10:09:39 ....A           76               sfc\chip\superfx\mmio\mmio.hpp
+2011-01-14 20:30:47 ....A         4685               sfc\chip\sa1\mmio\mmio.hpp
+2011-01-17 13:15:27 ....A         1546               sfc\alt\ppu-performance\mmio\mmio.hpp
+2011-01-21 13:30:24 ....A         4939               sfc\alt\ppu-balanced\mmio\mmio.hpp
+2012-02-08 03:13:01 ....A         1848               sfc\cpu\mmio\mmio.hpp
+2012-03-23 12:41:46 ....A          520               sfc\chip\hitachidsp\mmio.hpp
+2013-05-05 08:32:59 ....A         3732               sfc\ppu\mmio\mmio.hpp
+2014-02-24 10:39:09 ....A          337               sfc\chip\icd2\mmio\mmio.hpp
+2011-08-12 22:43:29 ....A          219               gb\cartridge\mmm01\mmm01.hpp
+2013-05-05 08:23:36 ....A          550               sfc\dsp\moduloarray.hpp
+2014-01-20 07:37:15 ....A          147               phoenix\cocoa\monitor.hpp
+2014-01-20 07:37:18 ....A          147               phoenix\reference\monitor.hpp
+2014-01-20 07:37:12 ....A          228               nall\mosaic.hpp
+2012-08-06 21:30:48 ....A          392               sfc\controller\mouse\mouse.hpp
+2014-01-20 07:37:15 ....A          118               phoenix\cocoa\mouse.hpp
+2014-01-20 07:37:18 ....A          118               phoenix\reference\mouse.hpp
+2014-02-24 10:39:09 ....A          864               sfc\chip\msu1\msu1.hpp
+2014-01-20 07:37:11 ....A         7055               nall\beat\multi.hpp
+2011-06-24 08:11:18 ....A          166               sfc\controller\multitap\multitap.hpp
+2014-01-20 07:37:12 ....A         1555               nall\nall.hpp
+2014-01-20 07:37:12 ....A          800               nall\dsp\resample\nearest.hpp
+2012-11-06 03:54:04 ....A          426               sfc\chip\necdsp\necdsp.hpp
+2014-01-20 07:37:13 ....A         1119               nall\string\eval\node.hpp
+2014-01-20 07:37:13 ....A         4163               nall\string\markup\node.hpp
+2012-04-05 04:35:58 ....A          467               gb\apu\noise\noise.hpp
+2012-07-08 00:59:32 ....A          225               sfc\chip\nss\nss.hpp
+2012-07-09 06:35:35 ....A          406               sfc\chip\obc1\obc1.hpp
+2014-01-20 07:37:15 ....A          207               phoenix\cocoa\object.hpp
+2014-01-20 07:37:18 ....A          208               phoenix\reference\object.hpp
+2014-01-20 07:37:12 ....A         3842               nall\odbc.hpp
+2014-01-20 07:37:14 ....A         2473               ruby\video\opengl\opengl.hpp
+2014-01-20 07:37:11 ....A         4830               nall\mosaic\parser.hpp
+2014-01-20 07:37:13 ....A         7359               nall\string\eval\parser.hpp
+2014-01-20 07:37:11 ....A         5857               nall\beat\patch.hpp
+2014-01-20 07:37:17 ....A           74               phoenix\phoenix.hpp
+2014-01-20 07:37:12 ....A         2671               nall\platform.hpp
+2014-01-20 07:37:13 ....A         2650               nall\string\platform.hpp
+2014-01-20 07:37:15 ....A         1346               phoenix\cocoa\platform.hpp
+2014-01-20 07:37:16 ....A        15380               phoenix\gtk\platform.hpp
+2014-01-20 07:37:18 ....A         1346               phoenix\reference\platform.hpp
+2014-01-20 07:37:18 ....A        14922               phoenix\windows\platform.hpp
+2014-01-20 07:37:17 ....A        17811               phoenix\qt\platform.moc.hpp
+2014-01-20 07:37:12 ....A         9283               nall\png.hpp
+2013-12-10 17:46:11 ....A         2086               gb\ppu\ppu.hpp
+2014-07-19 15:27:57 ....A         1487               sfc\ppu\ppu.hpp
+2014-07-19 15:31:57 ....A         1741               sfc\alt\ppu-balanced\ppu.hpp
+2015-01-11 03:18:51 ....A         1392               sfc\alt\ppu-performance\ppu.hpp
+2015-01-25 17:51:16 ....A         1476               target-ethos\general\presentation.hpp
+2014-01-20 07:37:12 ....A         2803               nall\priority-queue.hpp
+2012-04-28 19:22:43 ....A           86               processor\processor.hpp
+2013-04-07 02:40:37 ....A          108               sfc\profile-accuracy.hpp
+2015-01-29 02:52:51 ....A          227               sfc\profile-balanced.hpp
+2015-01-29 01:24:39 ....A          241               sfc\profile-performance.hpp
+2015-01-29 11:00:14 ....A          223               sfc\profile-xsnes.hpp
+2014-01-20 07:37:14 ....A         3883               ruby\video\opengl\program.hpp
+2014-01-20 07:37:16 ....A          475               phoenix\cocoa\widget\progress-bar.hpp
+2014-01-20 07:37:18 ....A          271               phoenix\reference\widget\progress-bar.hpp
+2014-01-20 07:37:12 ....A         1217               nall\property.hpp
+2014-01-20 07:37:12 ....A          996               nall\public-cast.hpp
+2012-04-28 09:32:22 ....A         6527               processor\r65816\r65816.hpp
+2014-01-20 07:37:16 ....A          681               phoenix\cocoa\widget\radio-button.hpp
+2014-01-20 07:37:18 ....A          394               phoenix\reference\widget\radio-button.hpp
+2014-01-20 07:37:15 ....A          511               phoenix\cocoa\action\radio-item.hpp
+2014-01-20 07:37:18 ....A          312               phoenix\reference\action\radio-item.hpp
+2014-01-20 07:37:16 ....A          602               phoenix\cocoa\widget\radio-label.hpp
+2014-01-20 07:37:18 ....A          322               phoenix\reference\widget\radio-label.hpp
+2014-01-20 07:37:12 ....A          901               nall\random.hpp
+2014-01-20 07:37:13 ....A          733               nall\string\ref.hpp
+2011-09-27 05:00:36 ....A         3151               processor\r65816\registers.hpp
+2011-11-17 00:08:13 ....A         1587               processor\spc700\registers.hpp
+2012-03-22 14:42:09 ....A          318               sfc\chip\armdsp\registers.hpp
+2012-03-23 12:53:17 ....A          357               processor\hg51b\registers.hpp
+2012-04-22 05:30:11 ....A         1441               processor\upd96050\registers.hpp
+2012-04-28 08:48:29 ....A         4890               processor\gsu\registers.hpp
+2013-05-05 05:59:19 ....A         3365               processor\arm\registers.hpp
+2013-05-05 06:08:10 ....A         3311               processor\lr35902\registers.hpp
+2014-01-20 07:37:13 ....A         4201               nall\windows\registry.hpp
+2013-05-05 07:10:44 ....A         2910               sfc\alt\ppu-balanced\render\render.hpp
+2014-01-20 07:37:13 ....A         1824               nall\string\replace.hpp
+2012-12-24 12:46:00 ....A          199               ananke\resource\resource.hpp
+2013-11-23 15:53:25 ....A          538               target-ethos\resource\resource.hpp
+2014-01-20 07:37:14 ....A         2022               ruby\ruby.hpp
+2012-07-08 00:54:48 ....A          680               sfc\chip\sa1\sa1.hpp
+2013-01-14 17:14:58 ....A          494               ananke\heuristics\satellaview.hpp
+2015-01-25 17:51:16 ....A          663               sfc\slot\satellaview\satellaview.hpp
+2015-01-25 17:51:16 ....A         1201               sfc\base\satellaview\satellaview.hpp
+2014-01-20 07:37:12 ....A         5296               nall\image\scale.hpp
+2012-02-07 02:04:31 ....A          510               sfc\scheduler\scheduler.hpp
+2012-03-22 14:20:02 ....A          396               gb\scheduler\scheduler.hpp
+2013-05-05 07:20:40 ....A         1050               sfc\alt\ppu-performance\screen\screen.hpp
+2013-05-05 08:36:42 ....A          918               sfc\ppu\screen\screen.hpp
+2012-07-15 07:36:25 ....A          862               sfc\chip\sdd1\sdd1.hpp
+2014-01-20 07:37:15 ....A          253               phoenix\cocoa\action\separator.hpp
+2014-01-20 07:37:18 ....A          213               phoenix\reference\action\separator.hpp
+2014-01-20 07:37:12 ....A         2877               nall\serial.hpp
+2014-01-20 07:37:12 ....A         4345               nall\serializer.hpp
+2013-11-23 15:21:00 ....A          299               target-ethos\settings\server.hpp
+2014-01-20 07:37:12 ....A         6887               nall\set.hpp
+2013-11-23 15:24:23 ....A          336               target-ethos\settings\settings.hpp
+2014-01-20 07:37:12 ....A         1435               nall\dsp\settings.hpp
+2015-01-29 02:24:26 ....A         1957               sfc\sfc.hpp
+2014-01-20 07:37:12 ....A         3979               nall\sha256.hpp
+2014-01-20 07:37:14 ....A         1809               ruby\video\opengl\shaders.hpp
+2013-05-05 08:00:12 ....A          922               sfc\chip\sharprtc\sharprtc.hpp
+2014-01-20 07:37:12 ....A         1233               nall\dsp\resample\sinc.hpp
+2014-01-20 07:37:12 ....A        18259               nall\dsp\resample\lib\sinc.hpp
+2014-01-20 07:37:16 ....A          152               phoenix\cocoa\widget\sizable.hpp
+2014-01-20 07:37:18 ....A          152               phoenix\reference\widget\sizable.hpp
+2013-01-21 07:10:05 ....A           96               sfc\slot\slot.hpp
+2014-01-20 07:37:13 ....A         2334               nall\string\allocator\small-string-optimization.hpp
+2012-04-28 10:15:37 ....A         1764               sfc\smp\smp.hpp
+2013-05-05 07:29:07 ....A         2798               sfc\alt\smp\smp.hpp
+2014-01-20 07:37:12 ....A         8644               nall\smtp.hpp
+2014-01-20 07:37:12 ....A         2086               nall\sort.hpp
+2012-04-28 10:11:32 ....A         3064               processor\spc700\spc700.hpp
+2013-05-05 08:03:30 ....A         3396               sfc\chip\spc7110\spc7110.hpp
+2014-01-20 07:37:13 ....A         1117               nall\string\split.hpp
+2013-05-05 07:21:32 ....A         1256               sfc\alt\ppu-performance\sprite\sprite.hpp
+2013-05-05 08:37:44 ....A         1380               sfc\ppu\sprite\sprite.hpp
+2012-04-05 04:35:22 ....A          674               gb\apu\square1\square1.hpp
+2012-04-05 04:35:32 ....A          464               gb\apu\square2\square2.hpp
+2013-11-23 15:27:13 ....A          754               target-ethos\tools\state-manager.hpp
+2014-01-20 07:37:16 ....A         3910               phoenix\core\state.hpp
+2014-01-20 07:37:12 ....A          768               nall\image\static.hpp
+2014-01-20 07:37:12 ....A         1266               nall\stdint.hpp
+2014-01-20 07:37:13 ....A          603               nall\stream.hpp
+2014-01-20 07:37:13 ....A         2245               nall\stream\stream.hpp
+2014-01-20 07:37:13 ....A         1436               nall\string.hpp
+2014-01-20 07:37:13 ....A         1122               nall\string\char\strm.hpp
+2014-01-20 07:37:13 ....A         1034               nall\string\char\strpos.hpp
+2013-01-14 17:12:18 ....A          903               ananke\heuristics\sufami-turbo.hpp
+2013-01-22 23:42:46 ....A         4782               ananke\database\sufami-turbo.hpp
+2013-01-21 07:12:07 ....A          216               sfc\slot\sufamiturbo\sufamiturbo.hpp
+2014-01-20 07:37:12 ....A         2380               nall\emulation\super-famicom-usart.hpp
+2013-01-17 01:54:10 ....A        24007               ananke\heuristics\super-famicom.hpp
+2013-01-22 23:42:46 ....A       422264               ananke\database\super-famicom.hpp
+2013-12-09 20:55:25 ....A          573               sfc\chip\superfx\superfx.hpp
+2011-06-26 03:39:04 ....A          317               sfc\controller\superscope\superscope.hpp
+2014-01-20 07:37:14 ....A         3886               ruby\video\opengl\surface.hpp
+2013-12-06 21:22:29 ....A          948               gb\system\system.hpp
+2015-01-25 17:51:16 ....A         1758               sfc\system\system.hpp
+2014-01-20 07:37:16 ....A         1170               phoenix\cocoa\widget\tab-frame.hpp
+2014-01-20 07:37:18 ....A          435               phoenix\reference\widget\tab-frame.hpp
+2014-01-20 07:37:16 ....A          711               phoenix\cocoa\widget\text-edit.hpp
+2014-01-20 07:37:18 ....A          366               phoenix\reference\widget\text-edit.hpp
+2014-01-20 07:37:14 ....A          402               ruby\video\opengl\texture.hpp
+2014-01-20 07:37:13 ....A         2559               nall\thread.hpp
+2014-01-20 07:37:15 ....A          492               phoenix\cocoa\timer.hpp
+2014-01-20 07:37:18 ....A          250               phoenix\reference\timer.hpp
+2010-12-26 16:16:47 ....A          441               sfc\cpu\timing\timing.hpp
+2012-04-28 08:43:33 ....A          380               sfc\chip\superfx\timing\timing.hpp
+2013-11-23 15:21:15 ....A          630               target-ethos\settings\timing.hpp
+2013-11-23 15:24:15 ....A          252               target-ethos\tools\tools.hpp
+2014-01-20 07:37:13 ....A         1101               nall\traits.hpp
+2014-01-20 07:37:13 ....A         1444               nall\string\char\trim.hpp
+2014-01-20 07:37:13 ....A         2898               nall\unzip.hpp
+2012-03-25 14:11:47 ....A          739               processor\upd96050\upd96050.hpp
+2014-01-20 07:37:13 ....A         6989               nall\ups.hpp
+2012-03-10 08:08:16 ....A          769               sfc\controller\usart\usart.hpp
+2014-01-20 07:37:13 ....A          892               nall\string\char\utf8.hpp
+2014-01-20 07:37:13 ....A         1799               nall\windows\utf8.hpp
+2014-01-20 07:37:12 ....A         3412               nall\image\utility.hpp
+2014-01-20 07:37:13 ....A          921               nall\string\char\utility.hpp
+2014-01-20 07:37:13 ....A         2711               nall\string\utility.hpp
+2014-01-20 07:37:13 ....A         3359               nall\utility.hpp
+2014-01-20 07:37:14 ....A         3573               ruby\video\opengl\utility.hpp
+2015-01-28 07:10:57 ....A         1096               target-ethos\utility\utility.hpp
+2014-01-20 07:37:13 ....A          408               nall\string\variadic.hpp
+2014-01-20 07:37:13 ....A         8559               nall\varint.hpp
+2014-01-20 07:37:13 ....A         1153               nall\stream\vector.hpp
+2014-01-20 07:37:13 ....A         1752               nall\string\allocator\vector.hpp
+2014-01-20 07:37:13 ....A         7352               nall\vector.hpp
+2014-01-20 07:37:16 ....A          668               phoenix\core\layout\vertical-layout.hpp
+2014-01-20 07:37:16 ....A          650               phoenix\cocoa\widget\vertical-scroller.hpp
+2014-01-20 07:37:18 ....A          351               phoenix\reference\widget\vertical-scroller.hpp
+2014-01-20 07:37:16 ....A          641               phoenix\cocoa\widget\vertical-slider.hpp
+2014-01-20 07:37:18 ....A          333               phoenix\reference\widget\vertical-slider.hpp
+2013-12-06 22:42:27 ....A          461               target-ethos\settings\video.hpp
+2013-12-17 05:31:37 ....A          405               sfc\system\video.hpp
+2013-12-17 05:33:50 ....A          387               gb\video\video.hpp
+2014-01-20 07:37:14 ....A          752               ruby\video.hpp
+2014-01-20 07:37:16 ....A          680               phoenix\cocoa\widget\viewport.hpp
+2014-01-20 07:37:18 ....A          264               phoenix\reference\widget\viewport.hpp
+2012-04-05 04:35:43 ....A          403               gb\apu\wave\wave.hpp
+2014-01-20 07:37:16 ....A          473               phoenix\cocoa\widget\widget.hpp
+2014-01-20 07:37:18 ....A          402               phoenix\reference\widget\widget.hpp
+2013-05-05 05:44:58 ....A          335               target-ethos\window\window.hpp
+2013-05-05 07:22:45 ....A          517               sfc\alt\ppu-performance\window\window.hpp
+2013-05-05 08:40:42 ....A         1617               sfc\ppu\window\window.hpp
+2014-01-20 07:37:16 ....A         1810               phoenix\cocoa\window.hpp
+2014-01-20 07:37:18 ....A          977               phoenix\reference\window.hpp
+2014-01-20 07:37:13 ....A         4123               nall\string\wrapper.hpp
+2014-01-20 07:37:14 ....A        13226               ruby\audio\xaudio2.hpp
+2014-01-20 07:37:13 ....A         6016               nall\string\markup\xml.hpp
+2014-01-20 07:37:13 ....A          235               nall\xorg\xorg.hpp
+2014-01-20 07:37:13 ....A          719               nall\stream\zip.hpp
+2014-01-20 07:37:13 ....A         3625               nall\zip.hpp
+2014-01-20 07:37:11 ....A         3857               libco\amd64.c
+2014-01-20 07:37:11 ....A          940               libco\fiber.c
+2014-01-20 07:37:11 ....A          559               libco\libco.c
+2014-01-20 07:37:11 ....A        11968               libco\ppc.c
+2014-01-20 07:37:11 ....A         2262               libco\sjlj.c
+2014-01-20 07:37:11 ....A         1744               libco\ucontext.c
+2014-01-20 07:37:11 ....A         2491               libco\x86.c
+2014-01-20 07:37:15 ....A          302               phoenix\cocoa\action\action.cpp
+2014-01-20 07:37:16 ....A          612               phoenix\gtk\action\action.cpp
+2014-01-20 07:37:17 ....A         1769               phoenix\qt\action\action.cpp
+2014-01-20 07:37:18 ....A          176               phoenix\reference\action\action.cpp
+2014-01-20 07:37:18 ....A          280               phoenix\windows\action\action.cpp
+2010-08-08 20:01:16 ....A          699               sfc\alt\ppu-balanced\render\addsub.cpp
+2015-01-15 02:50:02 ....A         3280               target-ethos\settings\advanced.cpp
+2011-05-04 14:01:47 ....A         2180               sfc\alt\smp\algorithms.cpp
+2012-04-15 02:34:45 ....A         3338               processor\arm\algorithms.cpp
+2012-04-28 09:21:18 ....A         7473               processor\r65816\algorithms.cpp
+2012-04-28 10:04:02 ....A         2306               processor\spc700\algorithms.cpp
+2014-01-20 07:37:14 ....A         6181               ruby\audio\alsa.cpp
+2012-05-30 22:11:04 ....A         1929               sfc\chip\spc7110\alu.cpp
+2015-01-14 20:42:35 ....A         5237               ananke\ananke.cpp
+2014-01-20 07:37:14 ....A         1934               ruby\audio\ao.cpp
+2014-01-20 07:37:15 ....A         2821               phoenix\cocoa\application.cpp
+2014-01-20 07:37:16 ....A         1315               phoenix\gtk\application.cpp
+2014-01-20 07:37:17 ....A         1061               phoenix\qt\application.cpp
+2014-01-20 07:37:18 ....A          217               phoenix\reference\application.cpp
+2014-01-20 07:37:18 ....A         7274               phoenix\windows\application.cpp
+2013-12-10 18:06:23 ....A         3585               gb\apu\apu.cpp
+2015-01-14 13:47:14 ....A          788               ananke\archive.cpp
+2012-04-16 05:13:00 ....A         1713               processor\arm\arm.cpp
+2012-10-15 17:43:08 ....A         2384               sfc\chip\armdsp\armdsp.cpp
+2013-11-23 15:19:23 ....A         2563               target-ethos\settings\audio.cpp
+2014-02-24 10:39:09 ....A         1841               sfc\system\audio.cpp
+2012-05-08 20:32:59 ....A         8250               sfc\ppu\background\background.cpp
+2013-05-05 07:12:50 ....A         6039               sfc\alt\ppu-performance\background\background.cpp
+2013-05-05 07:05:14 ....A         6672               sfc\alt\ppu-balanced\render\bg.cpp
+2015-01-14 13:20:12 ....A          298               target-ethos\bootstrap.cpp
+2014-01-20 07:37:15 ....A         2315               phoenix\cocoa\browser-window.cpp
+2014-01-20 07:37:16 ....A         2806               phoenix\gtk\browser-window.cpp
+2014-01-20 07:37:17 ....A         1800               phoenix\qt\browser-window.cpp
+2014-01-20 07:37:18 ....A          253               phoenix\reference\browser-window.cpp
+2014-01-20 07:37:18 ....A         3300               phoenix\windows\browser-window.cpp
+2013-05-05 08:52:44 ....A         1524               sfc\dsp\brr.cpp
+2013-01-24 01:48:50 ....A         2306               ananke\bsx-satellaview.cpp
+2015-01-25 17:51:16 ....A         7626               sfc\chip\bsx\bsx.cpp
+2012-07-08 00:47:43 ....A          717               sfc\chip\sa1\bus\bus.cpp
+2012-07-09 05:59:02 ....A          864               sfc\chip\superfx\bus\bus.cpp
+2014-01-20 07:37:15 ....A         1911               phoenix\cocoa\widget\button.cpp
+2014-01-20 07:37:16 ....A         1587               phoenix\gtk\widget\button.cpp
+2014-01-20 07:37:17 ....A         1514               phoenix\qt\widget\button.cpp
+2014-01-20 07:37:18 ....A          201               phoenix\reference\widget\button.cpp
+2014-01-20 07:37:18 ....A         3344               phoenix\windows\widget\button.cpp
+2013-05-05 07:06:00 ....A         4354               sfc\alt\ppu-balanced\render\cache.cpp
+2013-05-05 07:14:41 ....A         3368               sfc\alt\ppu-performance\cache\cache.cpp
+2014-01-20 07:37:15 ....A         6067               phoenix\cocoa\widget\canvas.cpp
+2014-01-20 07:37:16 ....A         5904               phoenix\gtk\widget\canvas.cpp
+2014-01-20 07:37:17 ....A         4479               phoenix\qt\widget\canvas.cpp
+2014-01-20 07:37:18 ....A          220               phoenix\reference\widget\canvas.cpp
+2014-01-20 07:37:18 ....A         5972               phoenix\windows\widget\canvas.cpp
+2014-01-20 07:37:14 ....A         4756               ruby\input\carbon.cpp
+2013-05-05 07:31:39 ....A         7216               sfc\cartridge\cartridge.cpp
+2013-12-06 22:02:20 ....A         5064               gb\cartridge\cartridge.cpp
+2013-12-17 05:22:26 ....A         4374               gb\ppu\cgb.cpp
+2014-01-20 07:37:14 ....A         4542               ruby\video\cgl.cpp
+2013-11-23 15:28:19 ....A         2086               target-ethos\tools\cheat-database.cpp
+2013-11-23 15:28:52 ....A         4915               target-ethos\tools\cheat-editor.cpp
+2014-01-13 07:20:21 ....A          681               sfc\cheat\cheat.cpp
+2014-01-13 07:33:13 ....A          524               gb\cheat\cheat.cpp
+2014-01-20 07:37:15 ....A         2166               phoenix\cocoa\widget\check-button.cpp
+2014-01-20 07:37:16 ....A         2075               phoenix\gtk\widget\check-button.cpp
+2014-01-20 07:37:17 ....A         1852               phoenix\qt\widget\check-button.cpp
+2014-01-20 07:37:18 ....A          270               phoenix\reference\widget\check-button.cpp
+2014-01-20 07:37:18 ....A         2754               phoenix\windows\widget\check-button.cpp
+2014-01-20 07:37:15 ....A         1075               phoenix\cocoa\action\check-item.cpp
+2014-01-20 07:37:16 ....A          897               phoenix\gtk\action\check-item.cpp
+2014-01-20 07:37:17 ....A          618               phoenix\qt\action\check-item.cpp
+2014-01-20 07:37:18 ....A          184               phoenix\reference\action\check-item.cpp
+2014-01-20 07:37:18 ....A          548               phoenix\windows\action\check-item.cpp
+2014-01-20 07:37:15 ....A         1385               phoenix\cocoa\widget\check-label.cpp
+2014-01-20 07:37:16 ....A         1062               phoenix\gtk\widget\check-label.cpp
+2014-01-20 07:37:17 ....A          954               phoenix\qt\widget\check-label.cpp
+2014-01-20 07:37:18 ....A          188               phoenix\reference\widget\check-label.cpp
+2014-01-20 07:37:18 ....A         1011               phoenix\windows\widget\check-label.cpp
+2014-01-20 07:37:15 ....A         1830               phoenix\cocoa\widget\combo-button.cpp
+2014-01-20 07:37:16 ....A         2155               phoenix\gtk\widget\combo-button.cpp
+2014-01-20 07:37:17 ....A         1719               phoenix\qt\widget\combo-button.cpp
+2014-01-20 07:37:18 ....A          347               phoenix\reference\widget\combo-button.cpp
+2014-01-20 07:37:18 ....A         2364               phoenix\windows\widget\combo-button.cpp
+2013-04-12 22:36:12 ....A          438               ananke\configuration.cpp
+2015-01-28 11:33:42 ....A         2474               target-ethos\configuration\configuration.cpp
+2014-01-20 07:37:15 ....A          523               phoenix\cocoa\widget\console.cpp
+2014-01-20 07:37:16 ....A         2713               phoenix\gtk\widget\console.cpp
+2014-01-20 07:37:17 ....A          605               phoenix\qt\widget\console.cpp
+2014-01-20 07:37:18 ....A          157               phoenix\reference\widget\console.cpp
+2014-01-20 07:37:18 ....A         1077               phoenix\windows\widget\console.cpp
+2012-04-28 11:25:51 ....A         1281               sfc\controller\controller.cpp
+2013-05-05 07:27:38 ....A         2759               sfc\alt\smp\core.cpp
+2013-05-05 08:04:57 ....A         3348               sfc\chip\superfx\core\core.cpp
+2014-01-20 07:37:16 ....A        39604               phoenix\core\core.cpp
+2010-08-07 05:54:47 ....A         1151               sfc\dsp\counter.cpp
+2013-05-05 07:00:10 ....A         4249               sfc\alt\cpu\cpu.cpp
+2013-11-09 06:38:15 ....A         4125               sfc\cpu\cpu.cpp
+2013-12-12 00:57:51 ....A         4909               gb\cpu\cpu.cpp
+2012-07-09 06:29:19 ....A         2008               sfc\chip\spc7110\data.cpp
+2012-06-05 22:21:35 ....A         1536               sfc\chip\spc7110\dcu.cpp
+2013-05-05 07:57:02 ....A         7448               sfc\chip\sdd1\decomp.cpp
+2013-05-05 08:02:12 ....A         6249               sfc\chip\spc7110\decompressor.cpp
+2014-01-20 07:37:15 ....A          476               phoenix\cocoa\desktop.cpp
+2014-01-20 07:37:16 ....A         1057               phoenix\gtk\desktop.cpp
+2014-01-20 07:37:17 ....A          305               phoenix\qt\desktop.cpp
+2014-01-20 07:37:18 ....A          126               phoenix\reference\desktop.cpp
+2014-01-20 07:37:18 ....A          317               phoenix\windows\desktop.cpp
+2013-11-26 13:14:04 ....A         1650               target-ethos\general\dip-switches.cpp
+2014-01-20 07:37:14 ....A        13719               ruby\video\direct3d.cpp
+2014-01-20 07:37:14 ....A         4814               ruby\video\directdraw.cpp
+2014-01-20 07:37:14 ....A         7478               ruby\input\joypad\directinput.cpp
+2014-01-20 07:37:14 ....A         5577               ruby\audio\directsound.cpp
+2012-03-29 17:19:02 ....A        24303               processor\arm\disassembler.cpp
+2012-04-25 15:53:47 ....A        21221               processor\lr35902\disassembler.cpp
+2012-04-28 10:12:55 ....A        12497               processor\spc700\disassembler.cpp
+2013-05-05 06:13:44 ....A        25935               processor\r65816\disassembler.cpp
+2013-05-05 06:21:12 ....A         6720               processor\upd96050\disassembler.cpp
+2013-05-05 07:28:17 ....A        21598               sfc\alt\smp\disassembler.cpp
+2013-12-09 20:54:57 ....A        12526               sfc\chip\superfx\disassembler\disassembler.cpp
+2011-05-05 08:47:22 ....A         6084               sfc\alt\cpu\dma.cpp
+2013-05-05 07:50:25 ....A         3919               sfc\chip\sa1\dma\dma.cpp
+2013-05-05 08:13:20 ....A         7577               sfc\cpu\dma\dma.cpp
+2014-02-24 10:39:09 ....A         3548               gb\ppu\dmg.cpp
+2012-05-28 19:01:08 ....A         5726               sfc\dsp\dsp.cpp
+2015-06-17 18:14:46 ....A         1381               sfc\alt\dsp\dsp.cpp
+2011-01-23 13:44:13 ....A         3264               sfc\dsp\echo.cpp
+2013-05-05 08:26:59 ....A         1548               sfc\dsp\envelope.cpp
+2013-05-05 07:40:40 ....A         3679               sfc\chip\epsonrtc\epsonrtc.cpp
+2015-01-15 02:49:40 ....A         4586               target-ethos\ethos.cpp
+2014-12-27 00:10:38 ....A         4954               sfc\chip\event\event.cpp
+2015-01-07 20:37:50 ....A         3045               ananke\file-dialog.cpp
+2014-01-20 07:37:16 ....A         1919               phoenix\core\layout\fixed-layout.cpp
+2014-01-20 07:37:15 ....A         1895               phoenix\cocoa\font.cpp
+2014-01-20 07:37:16 ....A         2434               phoenix\gtk\font.cpp
+2014-01-20 07:37:17 ....A         1486               phoenix\qt\font.cpp
+2014-01-20 07:37:18 ....A          292               phoenix\reference\font.cpp
+2014-01-20 07:37:18 ....A         1659               phoenix\windows\font.cpp
+2014-01-20 07:37:15 ....A         1626               phoenix\cocoa\widget\frame.cpp
+2014-01-20 07:37:16 ....A         1171               phoenix\gtk\widget\frame.cpp
+2014-01-20 07:37:17 ....A         1561               phoenix\qt\widget\frame.cpp
+2014-01-20 07:37:18 ....A          125               phoenix\reference\widget\frame.cpp
+2014-01-20 07:37:18 ....A         1352               phoenix\windows\widget\frame.cpp
+2015-01-08 01:28:18 ....A         2136               ananke\game-boy.cpp
+2012-08-06 21:08:16 ....A         1592               sfc\controller\gamepad\gamepad.cpp
+2013-05-05 08:22:59 ....A         3858               sfc\dsp\gaussian.cpp
+2014-01-20 07:37:14 ....A         2275               ruby\video\gdi.cpp
+2013-11-26 15:30:15 ....A          103               target-ethos\general\general.cpp
+2013-05-05 07:25:25 ....A         4190               sfc\alt\smp\core\generate.cpp
+2014-01-20 07:37:14 ....A         7756               ruby\video\glx.cpp
+2013-05-05 06:03:05 ....A          581               processor\gsu\gsu.cpp
+2014-01-20 07:37:15 ....A          671               phoenix\cocoa\widget\hex-edit.cpp
+2014-01-20 07:37:16 ....A         9076               phoenix\gtk\widget\hex-edit.cpp
+2014-01-20 07:37:17 ....A         8038               phoenix\qt\widget\hex-edit.cpp
+2014-01-20 07:37:18 ....A          305               phoenix\reference\widget\hex-edit.cpp
+2014-01-20 07:37:18 ....A         6884               phoenix\windows\widget\hex-edit.cpp
+2012-03-23 12:46:04 ....A          491               processor\hg51b\hg51b.cpp
+2012-11-06 03:57:25 ....A         1193               sfc\chip\hitachidsp\hitachidsp.cpp
+2014-01-20 07:37:16 ....A         4095               phoenix\core\layout\horizontal-layout.cpp
+2014-01-20 07:37:15 ....A         1927               phoenix\cocoa\widget\horizontal-scroller.cpp
+2014-01-20 07:37:16 ....A         1205               phoenix\gtk\widget\horizontal-scroller.cpp
+2014-01-20 07:37:17 ....A         1051               phoenix\qt\widget\horizontal-scroller.cpp
+2014-01-20 07:37:18 ....A          232               phoenix\reference\widget\horizontal-scroller.cpp
+2014-01-20 07:37:18 ....A         1213               phoenix\windows\widget\horizontal-scroller.cpp
+2014-01-20 07:37:15 ....A         1361               phoenix\cocoa\widget\horizontal-slider.cpp
+2014-01-20 07:37:16 ....A         1199               phoenix\gtk\widget\horizontal-slider.cpp
+2014-01-20 07:37:17 ....A         1004               phoenix\qt\widget\horizontal-slider.cpp
+2014-01-20 07:37:18 ....A          224               phoenix\reference\widget\horizontal-slider.cpp
+2014-01-20 07:37:18 ....A         1341               phoenix\windows\widget\horizontal-slider.cpp
+2014-01-20 07:54:42 ....A         1830               target-ethos\settings\hotkey.cpp
+2015-01-26 12:08:46 ....A         3773               target-ethos\input\hotkeys.cpp
+2015-01-25 13:05:15 ....A         2571               sfc\chip\hsu1\hsu1.cpp
+2011-12-25 23:08:40 ....A         1185               gb\cartridge\huc1\huc1.cpp
+2011-12-25 23:10:49 ....A         1139               gb\cartridge\huc3\huc3.cpp
+2014-02-24 10:39:09 ....A         1585               sfc\chip\icd2\icd2.cpp
+2014-01-20 07:37:14 ....A         3830               ruby\implementation.cpp
+2013-11-09 06:34:32 ....A         1154               sfc\system\input.cpp
+2014-01-20 07:42:18 ....A         6381               target-ethos\settings\input.cpp
+2014-01-20 07:56:34 ....A         8569               target-ethos\input\input.cpp
+2013-05-05 06:00:41 ....A        16832               processor\arm\instructions-arm.cpp
+2012-04-15 02:41:11 ....A        11058               processor\arm\instructions-thumb.cpp
+2012-03-23 12:36:16 ....A         8159               processor\hg51b\instructions.cpp
+2012-04-28 08:37:50 ....A        14056               processor\gsu\instructions.cpp
+2012-04-28 16:19:31 ....A        12862               processor\lr35902\instructions.cpp
+2013-05-05 06:19:26 ....A        10439               processor\spc700\instructions.cpp
+2013-05-05 06:23:03 ....A         7531               processor\upd96050\instructions.cpp
+2013-12-21 07:33:55 ....A         4124               target-ethos\interface\interface.cpp
+2014-02-24 10:39:09 ....A         3093               sfc\chip\icd2\interface\interface.cpp
+2015-01-26 23:07:55 ....A         3913               gb\interface\interface.cpp
+2015-01-28 05:03:07 ....A        16805               sfc\interface\interface.cpp
+2010-08-07 05:42:04 ....A         2869               sfc\cpu\timing\irq.cpp
+2014-01-20 07:37:15 ....A          877               phoenix\cocoa\action\item.cpp
+2014-01-20 07:37:16 ....A          849               phoenix\gtk\action\item.cpp
+2014-01-20 07:37:17 ....A          514               phoenix\qt\action\item.cpp
+2014-01-20 07:37:18 ....A          168               phoenix\reference\action\item.cpp
+2014-01-20 07:37:18 ....A         1020               phoenix\windows\action\item.cpp
+2011-12-11 18:53:06 ....A          983               sfc\cpu\timing\joypad.cpp
+2012-05-03 21:48:59 ....A         3427               sfc\controller\justifier\justifier.cpp
+2014-01-20 07:37:15 ....A          263               phoenix\cocoa\keyboard.cpp
+2014-01-20 07:37:16 ....A         5649               phoenix\gtk\keyboard.cpp
+2014-01-20 07:37:17 ....A         5649               phoenix\qt\keyboard.cpp
+2014-01-20 07:37:18 ....A          263               phoenix\reference\keyboard.cpp
+2014-01-20 07:37:18 ....A         5521               phoenix\windows\keyboard.cpp
+2014-01-20 07:37:15 ....A         1460               phoenix\cocoa\widget\label.cpp
+2014-01-20 07:37:16 ....A          520               phoenix\gtk\widget\label.cpp
+2014-01-20 07:37:17 ....A          507               phoenix\qt\widget\label.cpp
+2014-01-20 07:37:18 ....A          125               phoenix\reference\widget\label.cpp
+2014-01-20 07:37:18 ....A         1921               phoenix\windows\widget\label.cpp
+2015-01-17 02:37:52 ....A         9407               target-ethos\general\library.cpp
+2014-01-20 07:37:15 ....A         1392               phoenix\cocoa\widget\line-edit.cpp
+2014-01-20 07:37:16 ....A         1227               phoenix\gtk\widget\line-edit.cpp
+2014-01-20 07:37:17 ....A         1096               phoenix\qt\widget\line-edit.cpp
+2014-01-20 07:37:18 ....A          212               phoenix\reference\widget\line-edit.cpp
+2014-01-20 07:37:18 ....A         1227               phoenix\windows\widget\line-edit.cpp
+2013-12-17 05:06:54 ....A         3035               sfc\alt\ppu-balanced\render\line.cpp
+2014-01-20 07:37:16 ....A         7761               phoenix\gtk\widget\list-view.cpp
+2014-01-20 07:37:16 ....A         9759               phoenix\cocoa\widget\list-view.cpp
+2014-01-20 07:37:17 ....A         4865               phoenix\qt\widget\list-view.cpp
+2014-01-20 07:37:18 ....A          753               phoenix\reference\widget\list-view.cpp
+2014-01-20 07:37:18 ....A         8394               phoenix\windows\widget\list-view.cpp
+2013-05-05 08:39:11 ....A         1797               sfc\ppu\sprite\list.cpp
+2012-04-25 16:03:54 ....A        19602               processor\lr35902\lr35902.cpp
+2015-01-26 08:23:51 ....A        17961               sfc\cartridge\markup.cpp
+2013-12-10 18:03:50 ....A         2847               gb\apu\master\master.cpp
+2011-12-25 23:12:25 ....A          492               gb\cartridge\mbc0\mbc0.cpp
+2011-12-25 23:17:59 ....A         1582               gb\cartridge\mbc1\mbc1.cpp
+2011-12-25 23:20:21 ....A          976               gb\cartridge\mbc2\mbc2.cpp
+2011-12-25 23:22:04 ....A         2993               gb\cartridge\mbc3\mbc3.cpp
+2011-12-25 23:23:45 ....A         1209               gb\cartridge\mbc5\mbc5.cpp
+2010-10-08 17:18:52 ....A          828               sfc\alt\cpu\memory.cpp
+2011-01-23 14:20:35 ....A         3775               sfc\alt\ppu-balanced\memory\memory.cpp
+2011-05-02 12:08:38 ....A         2268               sfc\alt\smp\memory.cpp
+2012-03-25 14:12:54 ....A         1247               processor\upd96050\memory.cpp
+2012-04-17 01:47:16 ....A         2488               sfc\chip\armdsp\memory.cpp
+2012-04-28 10:13:20 ....A         4709               sfc\smp\memory.cpp
+2012-06-25 12:16:06 ....A         1014               sfc\cpu\memory\memory.cpp
+2012-07-09 05:59:32 ....A         2888               sfc\chip\superfx\memory\memory.cpp
+2012-11-06 03:57:30 ....A         5228               sfc\chip\hitachidsp\memory.cpp
+2013-05-05 07:41:26 ....A         4299               sfc\chip\epsonrtc\memory.cpp
+2013-05-05 07:59:22 ....A         2051               sfc\chip\sharprtc\memory.cpp
+2013-05-05 08:29:50 ....A         1882               sfc\memory\memory.cpp
+2013-10-20 13:48:17 ....A         8133               sfc\chip\sa1\memory\memory.cpp
+2013-12-17 06:02:40 ....A         1028               gb\cpu\memory.cpp
+2014-01-13 07:25:55 ....A          920               gb\memory\memory.cpp
+2014-01-20 07:37:15 ....A         1299               phoenix\cocoa\action\menu.cpp
+2014-01-20 07:37:16 ....A         1445               phoenix\gtk\action\menu.cpp
+2014-01-20 07:37:17 ....A         1666               phoenix\qt\action\menu.cpp
+2014-01-20 07:37:18 ....A          248               phoenix\reference\action\menu.cpp
+2014-01-20 07:37:18 ....A         4017               phoenix\windows\action\menu.cpp
+2014-01-20 07:37:15 ....A         3136               phoenix\cocoa\message-window.cpp
+2014-01-20 07:37:16 ....A         2531               phoenix\gtk\message-window.cpp
+2014-01-20 07:37:17 ....A         2787               phoenix\qt\message-window.cpp
+2014-01-20 07:37:18 ....A          506               phoenix\reference\message-window.cpp
+2014-01-20 07:37:18 ....A         2399               phoenix\windows\message-window.cpp
+2013-05-05 08:23:17 ....A          716               sfc\dsp\misc.cpp
+2011-06-26 05:05:02 ....A         7525               sfc\alt\cpu\mmio.cpp
+2012-04-25 14:44:41 ....A         4463               gb\ppu\mmio.cpp
+2013-05-05 07:04:29 ....A        18560               sfc\alt\ppu-balanced\mmio\mmio.cpp
+2013-05-05 07:20:15 ....A        24356               sfc\alt\ppu-performance\mmio\mmio.cpp
+2013-05-05 07:53:46 ....A        15824               sfc\chip\sa1\mmio\mmio.cpp
+2013-05-05 08:07:22 ....A         1929               sfc\chip\superfx\mmio\mmio.cpp
+2013-05-05 08:15:23 ....A        11977               sfc\cpu\mmio\mmio.cpp
+2013-05-05 08:35:59 ....A        24990               sfc\ppu\mmio\mmio.cpp
+2014-02-24 10:39:09 ....A         1803               sfc\chip\icd2\mmio\mmio.cpp
+2014-02-24 10:39:09 ....A         6674               gb\cpu\mmio.cpp
+2011-12-25 23:15:37 ....A         1462               gb\cartridge\mmm01\mmm01.cpp
+2013-05-05 07:07:52 ....A         4498               sfc\alt\ppu-balanced\render\mode7.cpp
+2013-05-05 07:13:53 ....A         3119               sfc\alt\ppu-performance\background\mode7.cpp
+2013-05-05 08:32:14 ....A         2778               sfc\ppu\background\mode7.cpp
+2014-01-20 07:37:15 ....A          475               phoenix\cocoa\monitor.cpp
+2014-01-20 07:37:16 ....A          455               phoenix\gtk\monitor.cpp
+2014-01-20 07:37:17 ....A          390               phoenix\qt\monitor.cpp
+2014-01-20 07:37:18 ....A          187               phoenix\reference\monitor.cpp
+2014-01-20 07:37:18 ....A         1252               phoenix\windows\monitor.cpp
+2012-08-06 21:39:49 ....A         2142               sfc\controller\mouse\mouse.cpp
+2014-01-20 07:37:15 ....A          137               phoenix\cocoa\mouse.cpp
+2014-01-20 07:37:16 ....A          762               phoenix\gtk\mouse.cpp
+2014-01-20 07:37:17 ....A          454               phoenix\qt\mouse.cpp
+2014-01-20 07:37:18 ....A          137               phoenix\reference\mouse.cpp
+2014-01-20 07:37:18 ....A          460               phoenix\windows\mouse.cpp
+2014-02-24 10:39:09 ....A         4815               sfc\chip\msu1\msu1.cpp
+2012-05-03 21:43:23 ....A          941               sfc\controller\multitap\multitap.cpp
+2012-11-06 03:54:11 ....A         1179               sfc\chip\necdsp\necdsp.cpp
+2013-12-09 21:04:59 ....A         2229               gb\apu\noise\noise.cpp
+2012-07-08 01:02:11 ....A          358               sfc\chip\nss\nss.cpp
+2013-05-05 07:09:25 ....A         8042               sfc\alt\ppu-balanced\render\oam.cpp
+2012-07-09 06:36:54 ....A         2039               sfc\chip\obc1\obc1.cpp
+2014-01-20 07:37:15 ....A           88               phoenix\cocoa\object.cpp
+2014-01-20 07:37:18 ....A           88               phoenix\reference\object.cpp
+2014-01-20 07:37:18 ....A          336               phoenix\windows\object.cpp
+2012-04-28 09:17:50 ....A         6139               processor\r65816\opcode_misc.cpp
+2012-04-28 09:15:22 ....A         3410               processor\r65816\opcode_pc.cpp
+2012-04-28 09:13:52 ....A         6404               processor\r65816\opcode_read.cpp
+2012-04-28 09:10:23 ....A         3736               processor\r65816\opcode_rmw.cpp
+2012-04-28 09:08:34 ....A         4358               processor\r65816\opcode_write.cpp
+2011-05-04 15:06:30 ....A         9527               sfc\alt\smp\core\opcycle_misc.cpp
+2011-05-04 15:06:30 ....A        11773               sfc\alt\smp\core\opcycle_mov.cpp
+2011-05-04 15:06:30 ....A        19390               sfc\alt\smp\core\opcycle_pc.cpp
+2011-05-04 15:06:30 ....A        23495               sfc\alt\smp\core\opcycle_read.cpp
+2011-05-04 15:06:30 ....A         7775               sfc\alt\smp\core\opcycle_rmw.cpp
+2014-01-20 07:37:14 ....A         5171               ruby\audio\openal.cpp
+2011-05-04 15:06:30 ....A         4618               sfc\alt\smp\core\op_misc.cpp
+2011-05-04 15:06:30 ....A         6009               sfc\alt\smp\core\op_mov.cpp
+2011-05-04 15:06:30 ....A         9032               sfc\alt\smp\core\op_pc.cpp
+2011-05-04 15:06:30 ....A        11855               sfc\alt\smp\core\op_read.cpp
+2011-05-04 15:06:30 ....A         3795               sfc\alt\smp\core\op_rmw.cpp
+2014-01-20 07:37:14 ....A         2618               ruby\audio\oss.cpp
+2013-01-24 01:44:00 ....A          500               ananke\patch.cpp
+2014-01-20 07:37:17 ....A           74               phoenix\phoenix.cpp
+2014-01-20 07:37:15 ....A         1226               phoenix\cocoa\platform.cpp
+2014-01-20 07:37:16 ....A         1229               phoenix\gtk\platform.cpp
+2014-01-20 07:37:17 ....A         1257               phoenix\qt\platform.cpp
+2014-01-20 07:37:18 ....A         1203               phoenix\reference\platform.cpp
+2014-01-20 07:37:18 ....A         1251               phoenix\windows\platform.cpp
+2014-02-24 10:39:09 ....A         4007               gb\ppu\ppu.cpp
+2014-07-20 15:31:50 ....A         4294               sfc\ppu\ppu.cpp
+2014-07-20 15:31:54 ....A        11779               sfc\alt\ppu-balanced\ppu.cpp
+2015-01-11 03:18:14 ....A         3743               sfc\alt\ppu-performance\ppu.cpp
+2015-01-25 17:51:16 ....A         9938               target-ethos\general\presentation.cpp
+2014-01-20 07:37:15 ....A          760               phoenix\cocoa\widget\progress-bar.cpp
+2014-01-20 07:37:17 ....A          523               phoenix\gtk\widget\progress-bar.cpp
+2014-01-20 07:37:17 ....A          571               phoenix\qt\widget\progress-bar.cpp
+2014-01-20 07:37:18 ....A          153               phoenix\reference\widget\progress-bar.cpp
+2014-01-20 07:37:18 ....A          723               phoenix\windows\widget\progress-bar.cpp
+2014-01-20 07:37:14 ....A         4769               ruby\audio\pulseaudio.cpp
+2014-01-20 07:37:14 ....A         2517               ruby\audio\pulseaudiosimple.cpp
+2012-04-28 09:21:38 ....A         1811               processor\r65816\r65816.cpp
+2014-01-20 07:37:16 ....A         2387               phoenix\cocoa\widget\radio-button.cpp
+2014-01-20 07:37:17 ....A         2476               phoenix\qt\widget\radio-button.cpp
+2014-01-20 07:37:17 ....A         2616               phoenix\gtk\widget\radio-button.cpp
+2014-01-20 07:37:18 ....A          324               phoenix\reference\widget\radio-button.cpp
+2014-01-20 07:37:18 ....A         2863               phoenix\windows\widget\radio-button.cpp
+2014-01-20 07:37:15 ....A         1150               phoenix\cocoa\action\radio-item.cpp
+2014-01-20 07:37:16 ....A         1870               phoenix\gtk\action\radio-item.cpp
+2014-01-20 07:37:17 ....A          976               phoenix\qt\action\radio-item.cpp
+2014-01-20 07:37:18 ....A          234               phoenix\reference\action\radio-item.cpp
+2014-01-20 07:37:18 ....A          924               phoenix\windows\action\radio-item.cpp
+2014-01-20 07:37:16 ....A         1435               phoenix\cocoa\widget\radio-label.cpp
+2014-01-20 07:37:17 ....A         1548               phoenix\qt\widget\radio-label.cpp
+2014-01-20 07:37:17 ....A         1847               phoenix\gtk\widget\radio-label.cpp
+2014-01-20 07:37:18 ....A          240               phoenix\reference\widget\radio-label.cpp
+2014-01-20 07:37:18 ....A         1120               phoenix\windows\widget\radio-label.cpp
+2014-01-20 07:37:14 ....A         3590               ruby\input\mouse\rawinput.cpp
+2014-01-20 07:37:14 ....A         4626               ruby\input\shared\rawinput.cpp
+2014-01-20 07:37:14 ....A         5515               ruby\input\keyboard\rawinput.cpp
+2012-03-23 12:53:00 ....A         2474               processor\hg51b\registers.cpp
+2012-04-15 02:00:30 ....A         1884               processor\arm\registers.cpp
+2013-05-05 07:10:12 ....A         3613               sfc\alt\ppu-balanced\render\render.cpp
+2012-12-24 12:46:00 ....A        15632               ananke\resource\resource.cpp
+2013-11-23 15:53:25 ....A        41293               target-ethos\resource\resource.cpp
+2014-01-20 07:37:14 ....A        10123               ruby\ruby.cpp
+2013-05-05 07:54:28 ....A         6286               sfc\chip\sa1\sa1.cpp
+2015-01-28 08:32:05 ....A         8631               sfc\base\satellaview\satellaview.cpp
+2015-01-28 08:33:05 ....A         6745               sfc\slot\satellaview\satellaview.cpp
+2013-05-05 08:44:15 ....A          537               sfc\scheduler\scheduler.cpp
+2013-05-05 09:08:16 ....A          510               gb\scheduler\scheduler.cpp
+2013-12-17 04:58:08 ....A         6514               sfc\ppu\screen\screen.cpp
+2013-12-17 05:07:44 ....A         4005               sfc\alt\ppu-performance\screen\screen.cpp
+2013-05-05 07:58:42 ....A         5102               sfc\chip\sdd1\sdd1.cpp
+2014-01-20 07:37:14 ....A         1599               ruby\input\sdl.cpp
+2014-01-20 07:37:14 ....A         2386               ruby\input\joypad\sdl.cpp
+2014-01-20 07:37:14 ....A         3505               ruby\video\sdl.cpp
+2014-01-20 07:37:15 ....A          243               phoenix\cocoa\action\separator.cpp
+2014-01-20 07:37:16 ....A          230               phoenix\gtk\action\separator.cpp
+2014-01-20 07:37:17 ....A          258               phoenix\qt\action\separator.cpp
+2014-01-20 07:37:18 ....A           94               phoenix\reference\action\separator.cpp
+2014-01-20 07:37:18 ....A          142               phoenix\windows\action\separator.cpp
+2012-03-22 14:57:34 ....A          706               sfc\alt\dsp\serialization.cpp
+2013-05-05 05:58:38 ....A         1952               processor\arm\serialization.cpp
+2013-05-05 06:04:03 ....A         1812               processor\gsu\serialization.cpp
+2013-05-05 06:05:11 ....A          532               processor\hg51b\serialization.cpp
+2013-05-05 06:08:18 ....A          414               processor\lr35902\serialization.cpp
+2013-05-05 06:15:57 ....A          621               processor\r65816\serialization.cpp
+2013-05-05 06:17:44 ....A          469               processor\spc700\serialization.cpp
+2013-05-05 06:23:32 ....A         1040               processor\upd96050\serialization.cpp
+2013-05-05 07:01:32 ....A         2003               sfc\alt\cpu\serialization.cpp
+2013-05-05 07:03:10 ....A         5628               sfc\alt\ppu-balanced\serialization.cpp
+2013-05-05 07:24:52 ....A         5380               sfc\alt\ppu-performance\serialization.cpp
+2013-05-05 07:34:46 ....A          110               sfc\cartridge\serialization.cpp
+2013-05-05 07:39:08 ....A          762               sfc\chip\armdsp\serialization.cpp
+2013-05-05 07:41:33 ....A          945               sfc\chip\epsonrtc\serialization.cpp
+2013-05-05 07:43:20 ....A          809               sfc\chip\hitachidsp\serialization.cpp
+2013-05-05 07:44:16 ....A          379               sfc\chip\hsu1\serialization.cpp
+2013-05-05 07:47:48 ....A          696               sfc\chip\necdsp\serialization.cpp
+2013-05-05 07:48:35 ....A          186               sfc\chip\obc1\serialization.cpp
+2013-05-05 07:54:46 ....A         2550               sfc\chip\sa1\serialization.cpp
+2013-05-05 07:58:56 ....A          290               sfc\chip\sdd1\serialization.cpp
+2013-05-05 07:59:36 ....A          298               sfc\chip\sharprtc\serialization.cpp
+2013-05-05 08:02:28 ....A         1152               sfc\chip\spc7110\serialization.cpp
+2013-05-05 08:08:04 ....A          306               sfc\chip\superfx\serialization.cpp
+2013-05-05 08:17:24 ....A         2868               sfc\cpu\serialization.cpp
+2013-05-05 08:23:54 ....A         1667               sfc\dsp\serialization.cpp
+2013-05-05 08:42:51 ....A         6831               sfc\ppu\serialization.cpp
+2013-05-05 08:45:13 ....A          123               sfc\slot\sufamiturbo\serialization.cpp
+2013-05-05 08:46:00 ....A         1244               sfc\smp\serialization.cpp
+2013-05-05 08:48:32 ....A         2646               sfc\system\serialization.cpp
+2013-05-05 08:58:09 ....A          283               gb\apu\serialization.cpp
+2013-05-05 09:01:11 ....A         1269               gb\cartridge\serialization.cpp
+2013-05-05 09:08:48 ....A         1272               gb\system\serialization.cpp
+2013-12-10 17:46:27 ....A         1405               gb\ppu\serialization.cpp
+2013-12-12 01:42:34 ....A         1493               gb\cpu\serialization.cpp
+2014-02-24 10:39:09 ....A          486               sfc\chip\msu1\serialization.cpp
+2014-02-24 10:39:09 ....A          719               sfc\chip\icd2\serialization.cpp
+2015-01-25 17:51:16 ....A          146               sfc\chip\bsx\serialization.cpp
+2013-11-23 15:21:07 ....A         1020               target-ethos\settings\server.cpp
+2013-11-23 15:39:38 ....A         1404               target-ethos\settings\settings.cpp
+2014-01-20 07:37:16 ....A          851               phoenix\gtk\settings.cpp
+2014-01-20 07:37:17 ....A          750               phoenix\qt\settings.cpp
+2014-01-20 07:37:18 ....A           61               phoenix\windows\settings.cpp
+2013-05-05 07:59:50 ....A         2511               sfc\chip\sharprtc\sharprtc.cpp
+2013-05-05 07:28:46 ....A         2959               sfc\alt\smp\smp.cpp
+2013-05-05 08:46:21 ....A         2347               sfc\smp\smp.cpp
+2012-04-28 10:09:47 ....A        12279               processor\spc700\spc700.cpp
+2012-07-09 20:23:40 ....A         7584               sfc\chip\spc7110\spc7110.cpp
+2010-08-20 04:07:48 ....A        26485               sfc\alt\dsp\SPC_DSP.cpp
+2013-05-05 07:22:12 ....A         6151               sfc\alt\ppu-performance\sprite\sprite.cpp
+2013-05-05 08:38:35 ....A         5957               sfc\ppu\sprite\sprite.cpp
+2013-12-09 21:04:08 ....A         3688               gb\apu\square1\square1.cpp
+2013-12-09 21:04:26 ....A         2371               gb\apu\square2\square2.cpp
+2013-11-23 15:29:12 ....A         4397               target-ethos\tools\state-manager.cpp
+2013-01-24 01:48:18 ....A         2889               ananke\sufami-turbo.cpp
+2013-01-21 07:16:14 ....A          286               sfc\slot\sufamiturbo\sufamiturbo.cpp
+2015-01-06 15:42:36 ....A         8557               ananke\super-famicom.cpp
+2013-12-09 20:55:37 ....A         1253               sfc\chip\superfx\superfx.cpp
+2012-04-28 16:39:56 ....A         3688               sfc\controller\superscope\superscope.cpp
+2013-12-17 04:54:25 ....A         2057               gb\system\system.cpp
+2015-01-25 17:51:16 ....A         7714               sfc\system\system.cpp
+2014-01-20 07:37:16 ....A         4163               phoenix\cocoa\widget\tab-frame.cpp
+2014-01-20 07:37:17 ....A         2452               phoenix\qt\widget\tab-frame.cpp
+2014-01-20 07:37:17 ....A         3584               phoenix\gtk\widget\tab-frame.cpp
+2014-01-20 07:37:18 ....A          387               phoenix\reference\widget\tab-frame.cpp
+2014-01-20 07:37:18 ....A         4446               phoenix\windows\widget\tab-frame.cpp
+2012-04-28 08:30:28 ....A         6204               processor\gsu\table.cpp
+2012-04-28 09:34:18 ....A        11372               processor\r65816\table.cpp
+2014-01-20 07:37:16 ....A         2471               phoenix\cocoa\widget\text-edit.cpp
+2014-01-20 07:37:17 ....A         1517               phoenix\qt\widget\text-edit.cpp
+2014-01-20 07:37:17 ....A         2411               phoenix\gtk\widget\text-edit.cpp
+2014-01-20 07:37:18 ....A          318               phoenix\reference\widget\text-edit.cpp
+2014-01-20 07:37:18 ....A         1784               phoenix\windows\widget\text-edit.cpp
+2012-05-24 13:26:36 ....A         1799               sfc\chip\sharprtc\time.cpp
+2012-05-25 12:31:00 ....A         3746               sfc\chip\epsonrtc\time.cpp
+2014-01-20 07:37:15 ....A         1084               phoenix\cocoa\timer.cpp
+2014-01-20 07:37:16 ....A          733               phoenix\gtk\timer.cpp
+2014-01-20 07:37:17 ....A          488               phoenix\qt\timer.cpp
+2014-01-20 07:37:18 ....A          178               phoenix\reference\timer.cpp
+2014-01-20 07:37:18 ....A          714               phoenix\windows\timer.cpp
+2011-05-05 08:45:22 ....A          617               sfc\alt\smp\timing.cpp
+2012-02-12 07:25:08 ....A         5421               sfc\cpu\timing\timing.cpp
+2012-04-28 08:44:56 ....A         1995               sfc\chip\superfx\timing\timing.cpp
+2013-05-05 08:46:51 ....A         1626               sfc\smp\timing.cpp
+2013-11-23 15:21:29 ....A         3698               target-ethos\settings\timing.cpp
+2013-12-17 06:08:50 ....A         2437               gb\cpu\timing.cpp
+2015-06-17 17:50:48 ....A         3289               sfc\alt\cpu\timing.cpp
+2013-11-23 15:54:40 ....A          634               target-ethos\tools\tools.cpp
+2014-01-20 07:37:14 ....A         1813               ruby\input\udev.cpp
+2014-01-20 07:37:14 ....A         9053               ruby\input\joypad\udev.cpp
+2012-03-25 14:11:13 ....A          853               processor\upd96050\upd96050.cpp
+2013-03-15 11:34:53 ....A         2470               sfc\controller\usart\usart.cpp
+2014-01-20 07:37:15 ....A         1689               phoenix\cocoa\utility.cpp
+2014-01-20 07:37:16 ....A        10586               phoenix\gtk\utility.cpp
+2014-01-20 07:37:17 ....A         9751               phoenix\qt\utility.cpp
+2014-01-20 07:37:18 ....A        15484               phoenix\windows\utility.cpp
+2015-02-02 12:46:36 ....A        10549               target-ethos\utility\utility.cpp
+2014-01-20 07:37:16 ....A         4075               phoenix\core\layout\vertical-layout.cpp
+2014-01-20 07:37:16 ....A         1891               phoenix\cocoa\widget\vertical-scroller.cpp
+2014-01-20 07:37:17 ....A         1025               phoenix\qt\widget\vertical-scroller.cpp
+2014-01-20 07:37:17 ....A         1181               phoenix\gtk\widget\vertical-scroller.cpp
+2014-01-20 07:37:18 ....A          224               phoenix\reference\widget\vertical-scroller.cpp
+2014-01-20 07:37:18 ....A         1168               phoenix\windows\widget\vertical-scroller.cpp
+2014-01-20 07:37:16 ....A         1323               phoenix\cocoa\widget\vertical-slider.cpp
+2014-01-20 07:37:17 ....A          978               phoenix\qt\widget\vertical-slider.cpp
+2014-01-20 07:37:17 ....A         1175               phoenix\gtk\widget\vertical-slider.cpp
+2014-01-20 07:37:18 ....A          216               phoenix\reference\widget\vertical-slider.cpp
+2014-01-20 07:37:18 ....A         1309               phoenix\windows\widget\vertical-slider.cpp
+2013-12-17 05:53:27 ....A         2514               target-ethos\settings\video.cpp
+2013-12-21 07:45:55 ....A         2975               gb\video\video.cpp
+2014-02-24 10:39:09 ....A         4644               sfc\system\video.cpp
+2014-01-20 07:37:16 ....A         1327               phoenix\cocoa\widget\viewport.cpp
+2014-01-20 07:37:17 ....A         2067               phoenix\qt\widget\viewport.cpp
+2014-01-20 07:37:17 ....A         2917               phoenix\gtk\widget\viewport.cpp
+2014-01-20 07:37:18 ....A          189               phoenix\reference\widget\viewport.cpp
+2014-01-20 07:37:18 ....A         2320               phoenix\windows\widget\viewport.cpp
+2013-05-05 08:27:32 ....A         4071               sfc\dsp\voice.cpp
+2014-01-13 06:24:29 ....A         1941               gb\apu\wave\wave.cpp
+2014-01-20 07:37:14 ....A         4013               ruby\video\wgl.cpp
+2014-01-20 07:37:16 ....A         1806               phoenix\cocoa\widget\widget.cpp
+2014-01-20 07:37:17 ....A         1535               phoenix\gtk\widget\widget.cpp
+2014-01-20 07:37:17 ....A         1570               phoenix\qt\widget\widget.cpp
+2014-01-20 07:37:18 ....A          438               phoenix\reference\widget\widget.cpp
+2014-01-20 07:37:18 ....A         2272               phoenix\windows\widget\widget.cpp
+2013-05-05 05:45:37 ....A         1099               target-ethos\window\window.cpp
+2013-05-05 07:23:15 ....A         2982               sfc\alt\ppu-performance\window\window.cpp
+2013-05-05 08:40:57 ....A         4767               sfc\ppu\window\window.cpp
+2014-01-20 07:37:16 ....A        11673               phoenix\cocoa\window.cpp
+2014-01-20 07:37:17 ....A        10320               phoenix\qt\window.cpp
+2014-01-20 07:37:17 ....A        13799               phoenix\gtk\window.cpp
+2014-01-20 07:37:18 ....A         1305               phoenix\reference\window.cpp
+2014-01-20 07:37:19 ....A         9614               phoenix\windows\window.cpp
+2013-05-05 07:11:18 ....A         2309               sfc\alt\ppu-balanced\render\windows.cpp
+2014-01-20 07:37:14 ....A         2779               ruby\input\windows.cpp
+2014-01-20 07:37:14 ....A         5207               ruby\audio\xaudio2.cpp
+2014-01-20 07:37:14 ....A         6899               ruby\input\joypad\xinput.cpp
+2014-01-20 07:37:14 ....A         1426               ruby\input\xlib.cpp
+2014-01-20 07:37:14 ....A         4810               ruby\input\mouse\xlib.cpp
+2014-01-20 07:37:14 ....A         4888               ruby\input\keyboard\xlib.cpp
+2014-01-20 07:37:14 ....A         6753               ruby\video\xshm.cpp
+2014-01-20 07:37:14 ....A        16265               ruby\video\xv.cpp
+2014-01-20 07:37:18 ....A           24               phoenix\windows\phoenix.rc
+2015-01-14 20:42:52 ....A           71               target-ethos\resource.rc
+2014-01-20 07:37:18 ....A          730               phoenix\windows\phoenix.Manifest
+2015-01-14 20:38:51 ....A          494               data\xsnes.Manifest
+2011-03-15 02:31:20 ....A           26               cc.bat
+2013-02-19 08:18:42 ....A           23               ananke\cc.bat
+2011-03-15 02:31:30 ....A           20               ananke\purge.bat
+2011-03-15 02:31:31 ....A           20               purge.bat
+2011-05-04 13:59:04 ....A           60               sfc\alt\smp\core\cc.sh
+2015-01-17 21:28:26 ....A        17321               data\cc by-nc-nd-4.0.txt
+2015-01-18 14:29:36 ....A        35826               gpl-3.0.txt
+2011-05-04 14:27:14 ....A         3028               sfc\alt\smp\core\op_misc.b
+2008-04-10 10:08:20 ....A         4102               sfc\alt\smp\core\op_mov.b
+2008-04-10 10:08:20 ....A         3130               sfc\alt\smp\core\op_pc.b
+2008-04-10 10:08:20 ....A         4415               sfc\alt\smp\core\op_read.b
+2008-04-10 10:08:20 ....A         1476               sfc\alt\smp\core\op_rmw.b
+2014-01-20 08:00:24 ....A      2189755               data\cheats.bml
+2012-10-15 17:52:05 ....A          208               profile\Super Game Boy.sfc\manifest.bml
+2012-10-15 17:54:40 ....A          367               profile\Sufami Turbo.sfc\manifest.bml
+2012-11-21 12:22:48 ....A          328               profile\BS-X Satellaview.sfc\manifest.bml
+2013-04-07 01:26:07 ....A           68               shaders\Edge Detection.shader\manifest.bml
+2013-04-07 01:42:00 ....A           64               shaders\Scanline.shader\manifest.bml
+2013-08-17 00:19:26 ....A           65               shaders\Curvature.shader\manifest.bml
+2015-01-07 20:49:06 ....A           65               profile\Super Nintendo.sys\manifest.bml
+2012-12-24 12:45:46 ....A          184               ananke\resource\resource.bml
+2013-11-23 15:52:46 ....A          529               target-ethos\resource\resource.bml
+2015-01-14 20:39:09 ....A          137               data\xsnes.desktop
+2013-08-21 05:45:22 ....A          379               shaders\Curvature.shader\curvature.fs
+2013-08-21 05:45:40 ....A          508               shaders\Edge Detection.shader\edge-detection.fs
+2013-08-21 05:45:58 ....A          379               shaders\Scanline.shader\scanline.fs
+2014-01-20 07:37:17 ....A        51208               phoenix\qt\platform.moc
+2015-01-07 09:37:48 ....A          378               data\Info.plist
+2015-01-14 19:41:12 ....A          256               profile\Super Game Boy.sfc\boot.rom
+2012-04-18 11:00:33 ....A           64               profile\Super Nintendo.sys\ipl.rom
+2014-01-20 07:37:18 ....A            0            0  phoenix\reference\header.hpp
+2017-03-17 13:26:48 D....            0            0  target-ethos\window
+2017-03-17 13:26:48 D....            0            0  target-ethos\utility
+2017-03-17 13:26:48 D....            0            0  target-ethos\tools
+2017-03-17 13:26:48 D....            0            0  target-ethos\settings
+2017-03-17 13:26:48 D....            0            0  target-ethos\resource
+2017-03-17 13:26:48 D....            0            0  target-ethos\interface
+2017-03-17 13:26:48 D....            0            0  target-ethos\input
+2017-03-17 13:26:48 D....            0            0  target-ethos\general
+2017-03-17 13:26:48 D....            0            0  target-ethos\configuration
+2017-03-17 13:26:48 D....            0            0  target-ethos
+2017-03-17 13:26:48 D....            0            0  shaders\Scanline.shader
+2017-03-17 13:26:48 D....            0            0  shaders\Edge Detection.shader
+2017-03-17 13:26:48 D....            0            0  shaders\Curvature.shader
+2017-03-17 13:26:48 D....            0            0  shaders
+2017-03-17 13:26:48 D....            0            0  sfc\system
+2017-03-17 13:26:48 D....            0            0  sfc\smp
+2017-03-17 13:26:48 D....            0            0  sfc\slot\sufamiturbo
+2017-03-17 13:26:48 D....            0            0  sfc\slot\satellaview
+2017-03-17 13:26:48 D....            0            0  sfc\slot
+2017-03-17 13:26:48 D....            0            0  sfc\scheduler
+2017-03-17 13:26:48 D....            0            0  sfc\ppu\window
+2017-03-17 13:26:48 D....            0            0  sfc\ppu\sprite
+2017-03-17 13:26:48 D....            0            0  sfc\ppu\screen
+2017-03-17 13:26:48 D....            0            0  sfc\ppu\mmio
+2017-03-17 13:26:48 D....            0            0  sfc\ppu\counter
+2017-03-17 13:26:48 D....            0            0  sfc\ppu\background
+2017-03-17 13:26:48 D....            0            0  sfc\ppu
+2017-03-17 13:26:48 D....            0            0  sfc\memory
+2017-03-17 13:26:48 D....            0            0  sfc\interface
+2017-03-17 13:26:48 D....            0            0  sfc\dsp
+2017-03-17 13:26:48 D....            0            0  sfc\cpu\timing
+2017-03-17 13:26:48 D....            0            0  sfc\cpu\mmio
+2017-03-17 13:26:48 D....            0            0  sfc\cpu\memory
+2017-03-17 13:26:48 D....            0            0  sfc\cpu\dma
+2017-03-17 13:26:48 D....            0            0  sfc\cpu
+2017-03-17 13:26:48 D....            0            0  sfc\controller\usart
+2017-03-17 13:26:48 D....            0            0  sfc\controller\superscope
+2017-03-17 13:26:48 D....            0            0  sfc\controller\multitap
+2017-03-17 13:26:48 D....            0            0  sfc\controller\mouse
+2017-03-17 13:26:48 D....            0            0  sfc\controller\justifier
+2017-03-17 13:26:48 D....            0            0  sfc\controller\gamepad
+2017-03-17 13:26:48 D....            0            0  sfc\controller
+2017-03-17 13:26:47 D....            0            0  sfc\chip\superfx\timing
+2017-03-17 13:26:47 D....            0            0  sfc\chip\superfx\mmio
+2017-03-17 13:26:47 D....            0            0  sfc\chip\superfx\memory
+2017-03-17 13:26:47 D....            0            0  sfc\chip\superfx\disassembler
+2017-03-17 13:26:47 D....            0            0  sfc\chip\superfx\core
+2017-03-17 13:26:47 D....            0            0  sfc\chip\superfx\bus
+2017-03-17 13:26:47 D....            0            0  sfc\chip\superfx
+2017-03-17 13:26:47 D....            0            0  sfc\chip\spc7110
+2017-03-17 13:26:47 D....            0            0  sfc\chip\sharprtc
+2017-03-17 13:26:47 D....            0            0  sfc\chip\sdd1
+2017-03-17 13:26:47 D....            0            0  sfc\chip\sa1\mmio
+2017-03-17 13:26:47 D....            0            0  sfc\chip\sa1\memory
+2017-03-17 13:26:47 D....            0            0  sfc\chip\sa1\dma
+2017-03-17 13:26:47 D....            0            0  sfc\chip\sa1\bus
+2017-03-17 13:26:47 D....            0            0  sfc\chip\sa1
+2017-03-17 13:26:47 D....            0            0  sfc\chip\obc1
+2017-03-17 13:26:47 D....            0            0  sfc\chip\nss
+2017-03-17 13:26:47 D....            0            0  sfc\chip\necdsp
+2017-03-17 13:26:47 D....            0            0  sfc\chip\msu1
+2017-03-17 13:26:47 D....            0            0  sfc\chip\icd2\mmio
+2017-03-17 13:26:47 D....            0            0  sfc\chip\icd2\interface
+2017-03-17 13:26:47 D....            0            0  sfc\chip\icd2
+2017-03-17 13:26:47 D....            0            0  sfc\chip\hsu1
+2017-03-17 13:26:47 D....            0            0  sfc\chip\hitachidsp
+2017-03-17 13:26:47 D....            0            0  sfc\chip\event
+2017-03-17 13:26:47 D....            0            0  sfc\chip\epsonrtc
+2017-03-17 13:26:47 D....            0            0  sfc\chip\bsx
+2017-03-17 13:26:47 D....            0            0  sfc\chip\armdsp
+2017-03-17 13:26:47 D....            0            0  sfc\chip
+2017-03-17 13:26:47 D....            0            0  sfc\cheat
+2017-03-17 13:26:47 D....            0            0  sfc\cartridge
+2017-03-17 13:26:47 D....            0            0  sfc\base\satellaview
+2017-03-17 13:26:47 D....            0            0  sfc\base
+2017-03-17 13:26:47 D....            0            0  sfc\alt\smp\core
+2017-03-17 13:26:47 D....            0            0  sfc\alt\smp
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-performance\window
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-performance\sprite
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-performance\screen
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-performance\mmio
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-performance\cache
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-performance\background
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-performance
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-balanced\render
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-balanced\mmio
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-balanced\memory
+2017-03-17 13:26:47 D....            0            0  sfc\alt\ppu-balanced
+2017-03-17 13:26:47 D....            0            0  sfc\alt\dsp
+2017-03-17 13:26:47 D....            0            0  sfc\alt\cpu
+2017-03-17 13:26:47 D....            0            0  sfc\alt
+2017-03-17 13:26:48 D....            0            0  sfc
+2017-03-17 13:26:47 D....            0            0  ruby\video\opengl
+2017-03-17 13:26:47 D....            0            0  ruby\video
+2017-03-17 13:26:46 D....            0            0  ruby\input\shared
+2017-03-17 13:26:46 D....            0            0  ruby\input\mouse
+2017-03-17 13:26:46 D....            0            0  ruby\input\keyboard
+2017-03-17 13:26:46 D....            0            0  ruby\input\joypad
+2017-03-17 13:26:46 D....            0            0  ruby\input
+2017-03-17 13:26:46 D....            0            0  ruby\audio
+2017-03-17 13:26:47 D....            0            0  ruby
+2017-03-17 13:26:46 D....            0            0  profile\Super Nintendo.sys
+2017-03-17 13:26:46 D....            0            0  profile\Super Game Boy.sfc
+2017-03-17 13:26:46 D....            0            0  profile\Sufami Turbo.sfc
+2017-03-17 13:26:46 D....            0            0  profile\BS-X Satellaview.sfc
+2017-03-17 13:26:46 D....            0            0  profile
+2017-03-17 13:26:46 D....            0            0  processor\upd96050
+2017-03-17 13:26:46 D....            0            0  processor\spc700
+2017-03-17 13:26:46 D....            0            0  processor\r65816
+2017-03-17 13:26:46 D....            0            0  processor\lr35902
+2017-03-17 13:26:46 D....            0            0  processor\hg51b
+2017-03-17 13:26:46 D....            0            0  processor\gsu
+2017-03-17 13:26:46 D....            0            0  processor\arm
+2017-03-17 13:26:46 D....            0            0  processor
+2017-03-17 13:26:46 D....            0            0  phoenix\windows\widget
+2017-03-17 13:26:46 D....            0            0  phoenix\windows\action
+2017-03-17 13:26:46 D....            0            0  phoenix\windows
+2017-03-17 13:26:46 D....            0            0  phoenix\reference\widget
+2017-03-17 13:26:45 D....            0            0  phoenix\reference\action
+2017-03-17 13:26:46 D....            0            0  phoenix\reference
+2017-03-17 13:26:45 D....            0            0  phoenix\qt\widget
+2017-03-17 13:26:45 D....            0            0  phoenix\qt\action
+2017-03-17 13:26:45 D....            0            0  phoenix\qt
+2017-03-17 13:26:45 D....            0            0  phoenix\gtk\widget
+2017-03-17 13:26:45 D....            0            0  phoenix\gtk\action
+2017-03-17 13:26:45 D....            0            0  phoenix\gtk
+2017-03-17 13:26:45 D....            0            0  phoenix\core\layout
+2017-03-17 13:26:45 D....            0            0  phoenix\core
+2017-03-17 13:26:44 D....            0            0  phoenix\cocoa\widget
+2017-03-17 13:26:44 D....            0            0  phoenix\cocoa\action
+2017-03-17 13:26:44 D....            0            0  phoenix\cocoa
+2017-03-17 13:26:46 D....            0            0  phoenix
+2017-03-17 13:26:44 D....            0            0  out
+2017-03-17 13:26:44 D....            0            0  obj
+2017-03-17 13:26:44 D....            0            0  nall\xorg
+2017-03-17 13:26:44 D....            0            0  nall\windows
+2017-03-17 13:26:44 D....            0            0  nall\string\markup
+2017-03-17 13:26:44 D....            0            0  nall\string\eval
+2017-03-17 13:26:44 D....            0            0  nall\string\char
+2017-03-17 13:26:44 D....            0            0  nall\string\allocator
+2017-03-17 13:26:44 D....            0            0  nall\string
+2017-03-17 13:26:44 D....            0            0  nall\stream
+2017-03-17 13:26:44 D....            0            0  nall\mosaic
+2017-03-17 13:26:43 D....            0            0  nall\image
+2017-03-17 13:26:43 D....            0            0  nall\emulation
+2017-03-17 13:26:43 D....            0            0  nall\dsp\resample\lib
+2017-03-17 13:26:43 D....            0            0  nall\dsp\resample
+2017-03-17 13:26:43 D....            0            0  nall\dsp
+2017-03-17 13:26:43 D....            0            0  nall\beat
+2017-03-17 13:26:44 D....            0            0  nall
+2017-03-17 13:26:43 D....            0            0  libco
+2017-03-17 13:26:49 D....            0            0  gb\video
+2017-03-17 13:26:49 D....            0            0  gb\system
+2017-03-17 13:26:49 D....            0            0  gb\scheduler
+2017-03-17 13:26:49 D....            0            0  gb\ppu
+2017-03-17 13:26:49 D....            0            0  gb\memory
+2017-03-17 13:26:49 D....            0            0  gb\interface
+2017-03-17 13:26:49 D....            0            0  gb\cpu
+2017-03-17 13:26:49 D....            0            0  gb\cheat
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\mmm01
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\mbc5
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\mbc3
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\mbc2
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\mbc1
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\mbc0
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\huc3
+2017-03-17 13:26:49 D....            0            0  gb\cartridge\huc1
+2017-03-17 13:26:49 D....            0            0  gb\cartridge
+2017-03-17 13:26:49 D....            0            0  gb\apu\wave
+2017-03-17 13:26:49 D....            0            0  gb\apu\square2
+2017-03-17 13:26:49 D....            0            0  gb\apu\square1
+2017-03-17 13:26:49 D....            0            0  gb\apu\noise
+2017-03-17 13:26:49 D....            0            0  gb\apu\master
+2017-03-17 13:26:49 D....            0            0  gb\apu
+2017-03-17 13:26:49 D....            0            0  gb
+2017-03-17 13:26:49 D....            0            0  emulator
+2017-03-17 13:26:49 D....            0            0  data
+2017-03-17 13:26:48 D....            0            0  ananke\resource
+2017-03-17 13:26:48 D....            0            0  ananke\obj
+2017-03-17 13:26:48 D....            0            0  ananke\heuristics
+2017-03-17 13:26:48 D....            0            0  ananke\database
+2017-03-17 13:26:48 D....            0            0  ananke
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 13:26:49            5649202       842444  1000 files, 182 folders

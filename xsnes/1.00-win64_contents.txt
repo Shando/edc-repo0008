@@ -1,0 +1,142 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-01-29 07:41:01 ....A        18292       380000  BS-X Satellaview Support Files\SatellaWave01Beta-binary.zip
+2015-01-29 07:41:23 ....A        29938               BS-X Satellaview Support Files\SatellaWave01Beta-source.zip
+2011-11-16 17:30:06 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX0.bin
+2012-04-07 13:17:36 ....A          110               BS-X Satellaview Support Files\bsxdat\new1\BSX0000-0.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-0.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-1.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-10.bin
+2012-04-08 13:49:42 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-11.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-12.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-13.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-14.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-15.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-16.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-17.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-18.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-19.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-2.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-20.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-21.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-22.bin
+2012-04-08 02:08:49 ....A         1514               BS-X Satellaview Support Files\bsxdat\BSX0001-23.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-24.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-25.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-26.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-27.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-28.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-29.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-3.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-30.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-31.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-32.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-33.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-34.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-35.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-36.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-37.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-38.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-39.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-4.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-40.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-41.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-42.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-43.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-44.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-45.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-46.bin
+2012-04-08 02:08:49 ....A         1232               BS-X Satellaview Support Files\bsxdat\BSX0001-47.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-5.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-6.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-7.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-8.bin
+2012-04-08 02:08:49 ....A         2794               BS-X Satellaview Support Files\bsxdat\BSX0001-9.bin
+2011-11-02 19:17:38 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0115-0.bin
+2011-11-02 19:17:38 ....A          512               BS-X Satellaview Support Files\bsxdat\old2\BSX0115-0.bin
+2011-11-14 21:49:21 ....A          512               BS-X Satellaview Support Files\bsxdat\old2\BSX0120-0.bin
+2011-12-07 20:41:15 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0120-0.bin
+2012-04-06 13:55:06 ....A           54               BS-X Satellaview Support Files\bsxdat\new1\BSX0120-0.bin
+2012-04-06 13:55:38 ....A           35               BS-X Satellaview Support Files\bsxdat\new1\BSX0121-0.bin
+2012-04-07 17:38:48 ....A           35               BS-X Satellaview Support Files\bsxdat\BSX0121-0.bin
+2012-04-07 13:11:26 ....A          110               BS-X Satellaview Support Files\bsxdat\new1\BSX0122-0.bin
+2012-04-08 13:45:46 ....A          132               BS-X Satellaview Support Files\bsxdat\BSX0122-0.bin
+2012-03-22 14:31:40 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0124-0 (Copie de Seru-PC en conflit 2012-04-04).bin
+2011-11-23 14:33:02 ....A          512               BS-X Satellaview Support Files\bsxdat\old2\BSX0124-0.bin
+2012-03-21 15:53:09 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0124-0.bin
+2012-04-07 12:41:45 ....A           55               BS-X Satellaview Support Files\bsxdat\new1\BSX0124-0.bin
+2012-04-08 13:45:51 ....A           84               BS-X Satellaview Support Files\bsxdat\BSX0124-0.bin
+2011-11-13 15:36:52 ....A          512               BS-X Satellaview Support Files\bsxdat\old2\BSX0126-0.bin
+2011-11-30 10:26:52 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0126-0.bin
+2011-11-30 15:44:16 ....A          512               BS-X Satellaview Support Files\bsxdat\old2\BSX01F1-0.bin
+2012-03-22 14:51:51 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX01F1-0.bin
+2011-12-06 19:38:16 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX01F1-1.bin
+2011-12-01 19:39:03 ....A          512               BS-X Satellaview Support Files\bsxdat\old2\BSX0201-0.bin
+2011-12-05 20:58:55 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-0.bin
+2011-12-05 20:58:58 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-1.bin
+2011-12-17 15:19:04 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-10.bin
+2011-12-07 15:11:03 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-11.bin
+2011-12-05 20:59:00 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-2.bin
+2011-12-05 20:59:03 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-3.bin
+2011-12-05 20:59:05 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-4.bin
+2011-12-05 20:59:07 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-5.bin
+2011-12-05 20:59:09 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-6.bin
+2011-12-05 20:59:11 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-7.bin
+2011-12-05 20:59:13 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-8.bin
+2011-12-05 20:59:16 ....A          512               BS-X Satellaview Support Files\bsxdat\new\BSX0201-9.bin
+2011-11-02 19:17:38 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX0400-0.bin
+2011-11-14 21:49:21 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX0500-0.bin
+2011-11-16 17:16:21 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX0600-0.bin
+2011-11-13 15:36:52 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX0700-0.bin
+2011-11-02 19:17:38 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX1.bin
+2011-11-13 15:36:52 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX2.bin
+2011-11-14 21:49:21 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX3.bin
+2011-11-16 17:16:21 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX4.bin
+2011-11-10 21:15:06 ....A          512               BS-X Satellaview Support Files\bsxdat\other\BSX5.bin
+2011-11-11 14:59:06 ....A          512               BS-X Satellaview Support Files\bsxdat\other2\BSX5.bin
+2011-11-14 21:46:27 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX5.bin
+2011-11-10 22:22:47 ....A          512               BS-X Satellaview Support Files\bsxdat\other\BSX6.bin
+2011-11-11 14:54:13 ....A          512               BS-X Satellaview Support Files\bsxdat\other2\BSX6.bin
+2011-11-16 17:19:22 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX6.bin
+2011-11-10 22:04:41 ....A          512               BS-X Satellaview Support Files\bsxdat\other\BSX7.bin
+2011-11-11 14:54:13 ....A          512               BS-X Satellaview Support Files\bsxdat\other2\BSX7.bin
+2011-11-13 16:18:29 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX7.bin
+2011-11-10 22:04:49 ....A          512               BS-X Satellaview Support Files\bsxdat\other\BSX8.bin
+2011-11-11 14:54:13 ....A          512               BS-X Satellaview Support Files\bsxdat\other2\BSX8.bin
+2011-11-14 21:47:00 ....A          512               BS-X Satellaview Support Files\bsxdat\old\BSX8.bin
+2011-11-10 22:04:45 ....A          512               BS-X Satellaview Support Files\bsxdat\other\BSX9.bin
+2011-11-11 14:54:13 ....A          512               BS-X Satellaview Support Files\bsxdat\other2\BSX9.bin
+2011-11-02 19:17:27 ....A          512               BS-X Satellaview Support Files\bsxdat\old\Copy of BSX0.bin
+2012-04-07 13:11:16 ....A          104               BS-X Satellaview Support Files\bsxdat\new1\Directory.bin
+2012-04-07 13:10:45 ....A           56               BS-X Satellaview Support Files\bsxdat\new1\File1.bin
+2012-04-07 13:11:08 ....A           98               BS-X Satellaview Support Files\bsxdat\new1\Folder1.bin
+2017-02-13 03:26:47 ....A         9900               readme.txt
+2014-01-20 01:00:24 ....A      2189755               cheats.bml
+2015-01-26 17:16:48 ....A         3890               input.bml
+2013-04-06 18:26:07 ....A           68               Video Shaders\Edge Detection.shader\manifest.bml
+2013-04-06 18:42:00 ....A           64               Video Shaders\Scanline.shader\manifest.bml
+2013-08-16 17:19:26 ....A           65               Video Shaders\Curvature.shader\manifest.bml
+2015-01-07 13:49:06 ....A           65               Super Nintendo.sys\manifest.bml
+2015-01-28 22:03:32 ....A      1048576               BS-X Satellaview Support Files\Empty Memory Pak.bs
+2013-08-20 22:45:22 ....A          379               Video Shaders\Curvature.shader\curvature.fs
+2013-08-20 22:45:40 ....A          508               Video Shaders\Edge Detection.shader\edge-detection.fs
+2013-08-20 22:45:58 ....A          379               Video Shaders\Scanline.shader\scanline.fs
+2012-04-18 04:00:33 ....A           64               Super Nintendo.sys\ipl.rom
+2017-02-12 22:44:32 ....A      2946560      1200798  xSnes.exe
+2015-01-14 06:50:18 ....A      1223299               ananke.dll
+2014-01-20 01:22:53 ....A      1271140               phoenix.dll
+2017-03-17 13:25:31 D....            0            0  Video Shaders\Scanline.shader
+2017-03-17 13:25:31 D....            0            0  Video Shaders\Edge Detection.shader
+2017-03-17 13:25:31 D....            0            0  Video Shaders\Curvature.shader
+2017-03-17 13:25:31 D....            0            0  Video Shaders
+2017-03-17 13:25:31 D....            0            0  Super Nintendo.sys
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files\bsxdat\other2
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files\bsxdat\other
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files\bsxdat\old2
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files\bsxdat\old
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files\bsxdat\new1
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files\bsxdat\new
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files\bsxdat
+2017-03-17 13:25:31 D....            0            0  BS-X Satellaview Support Files
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 13:25:31            8900173      1580798  125 files, 13 folders

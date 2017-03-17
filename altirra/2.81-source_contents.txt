@@ -1,0 +1,1502 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-10-15 20:00:38 .R..A        18431      2005719  Copying
+2016-10-15 20:00:40 .R..A          947               src\ATBasic\Makefile
+2016-10-15 20:00:40 .R..A          950               src\HLEKernel\Makefile
+2016-10-15 20:00:40 .R..A        20302               src\Kernel\Makefile
+2016-10-15 20:00:40 .R..A         6136               src\Misc\driveconv\drive.bmp
+2016-10-15 20:00:38 .R..A         1142               src\Altirra\res\profilerToolbar.bmp
+2016-10-15 20:00:38 .R..A        58806               src\Altirra\data\xep80_font_internal.bmp
+2016-10-15 20:00:38 .R..A        58806               src\Altirra\data\xep80_font_intl.bmp
+2016-10-15 20:00:38 .R..A        58806               src\Altirra\data\xep80_font_normal.bmp
+2016-10-15 20:00:38 .R..A        33622               src\Altirra\res\cart.ico
+2016-10-15 20:00:38 .R..A        24536               src\Altirra\res\disk.ico
+2016-10-15 20:00:38 .R..A          318               src\Altirra\res\eject.ico
+2016-10-15 20:00:38 .R..A        22486               src\Altirra\res\program.ico
+2016-10-15 20:00:38 .R..A        29276               src\Altirra\res\tape.ico
+2016-10-15 20:00:38 .R..A        20232               src\Altirra\res\xex.ico
+2016-10-15 20:00:40 .R..A         1024               src\Kernel\source\Shared\atarifont.bin
+2016-10-15 20:00:40 .R..A         1024               src\Kernel\source\Shared\atariifont.bin
+2016-10-16 17:42:34 ....A         1139               src\ATIO\autogen\bootsecdos2.inl
+2016-10-15 20:00:40 .R..A        36926               src\ATCPU\h\co65802.inl
+2016-10-15 20:00:38 .R..A        55577               src\Altirra\h\cpumachine.inl
+2016-10-16 17:42:34 ....A        24006               src\Kasumi\h\defaultfont.inl
+2016-10-16 17:42:38 ....A        62844               src\VDDisplay\autogen\displayd3d9_shader.inl
+2016-10-16 17:42:34 ....A          848               src\ATDevices\autogen\exeloader-0700.inl
+2016-10-16 17:42:34 ....A         2814               src\ATDevices\autogen\exeloader-hispeed-0700.inl
+2016-10-16 17:42:36 ....A         2801               src\ATDevices\autogen\exeloader-hispeed.inl
+2016-10-16 17:42:36 ....A          797               src\ATDevices\autogen\exeloader-nobasic.inl
+2016-10-16 17:42:34 ....A          835               src\ATDevices\autogen\exeloader.inl
+2016-10-15 20:00:38 .R..A        10001               src\Altirra\h\gtiarenderer_ssse3_intrin.inl
+2016-10-15 20:00:38 .R..A         5322               src\Altirra\h\gtia_sse2_intrin.inl
+2016-10-16 17:42:38 ....A       585584               src\VDDisplay\autogen\image_shader.inl
+2016-10-16 17:41:56 ....A         1354               src\AltirraShell\autogen\menu.inl
+2016-10-16 17:42:42 ....A         5366               src\Altirra\autogen\pbidisk.inl
+2016-10-16 17:42:42 ....A         2277               src\Altirra\autogen\playsap-b.inl
+2016-10-16 17:42:42 ....A         2354               src\Altirra\autogen\playsap-c.inl
+2016-10-16 17:42:42 ....A         2494               src\Altirra\autogen\playsap-d-ntsc.inl
+2016-10-16 17:42:42 ....A         2611               src\Altirra\autogen\playsap-d-pal.inl
+2016-10-16 17:42:42 ....A         2920               src\Altirra\autogen\playsap-r.inl
+2016-10-15 20:00:40 .R..A         3521               src\h\vd2\system\win32\vs2013x64crashfix.inl
+2016-10-16 17:41:56 ....A        10737               src\Altirra\h\xep80_font_internal.inl
+2016-10-16 17:41:56 ....A        10729               src\Altirra\h\xep80_font_intl.inl
+2016-10-16 17:41:56 ....A        10733               src\Altirra\h\xep80_font_normal.inl
+2016-10-15 20:00:40 .R..A          392               src\Kernel\source\Shared\atarifont.inc
+2016-10-15 20:00:40 .R..A          393               src\Kernel\source\Shared\atariifont.inc
+2016-10-15 20:00:40 .R..A          291               src\Kasumi\source\a_triblt.inc
+2016-10-15 20:00:40 .R..A         2139               src\Kernel\source\Shared\cio.inc
+2016-10-15 20:00:40 .R..A         5492               src\Kernel\source\Shared\driveimage.inc
+2016-10-15 20:00:40 .R..A         2343               src\Kernel\source\Shared\hardware.inc
+2016-10-15 20:00:40 .R..A         1549               src\Kernel\source\Shared\kernel.inc
+2016-10-15 20:00:40 .R..A        14599               src\Kernel\source\Shared\kerneldb.inc
+2016-10-15 20:00:40 .R..A          573               src\Kernel\source\Shared\sio.inc
+2016-10-15 20:00:40 .R..A        11552               src\ATBasic\source\system.inc
+2016-10-15 20:00:40 .R..A         3139               src\ATBasic\source\tokens.inc
+2016-10-15 20:00:40 .R..A           49               src\Kernel\autobuild_default\version.inc
+2016-10-16 18:42:06 ....A           53               src\Kernel\autobuild\version.inc
+2016-10-15 20:00:40 .R..A         1696               src\h\vd2\Dita\accel.h
+2016-10-15 20:00:40 .R..A         1231               src\h\at\atnativeui\acceleditdialog.h
+2016-10-15 20:00:38 .R..A         2448               src\Altirra\h\acia.h
+2016-10-15 20:00:38 .R..A         1154               src\Altirra\h\address.h
+2016-10-15 20:00:38 .R..A        15899               src\Altirra\h\antic.h
+2016-10-15 20:00:38 .R..A         5062               src\Altirra\h\artifacting.h
+2016-10-15 20:00:38 .R..A         9987               src\Altirra\h\artifacting_filters.h
+2016-10-15 20:00:40 .R..A        10929               src\h\vd2\system\atomic.h
+2016-10-15 20:00:40 .R..A         3182               src\h\vd2\Riza\audiocodec.h
+2016-10-15 20:00:38 .R..A         1365               src\Altirra\h\audiofilters.h
+2016-10-15 20:00:40 .R..A         1403               src\h\vd2\Riza\audioformat.h
+2016-10-15 20:00:38 .R..A         1518               src\Altirra\h\audiomonitor.h
+2016-10-15 20:00:40 .R..A         1949               src\h\vd2\Riza\audioout.h
+2016-10-15 20:00:38 .R..A         2492               src\Altirra\h\audiooutput.h
+2016-10-15 20:00:38 .R..A         2688               src\Altirra\h\audiosource.h
+2016-10-15 20:00:38 .R..A         2173               src\Altirra\h\audiosyncmixer.h
+2016-10-15 20:00:38 .R..A         2485               src\Altirra\h\audiowriter.h
+2016-10-15 20:00:38 .R..A         1095               src\Altirra\h\autotest.h
+2016-10-15 20:00:40 .R..A         2259               src\h\vd2\Riza\avi.h
+2016-10-15 20:00:38 .R..A         3864               src\Altirra\h\aviwriter.h
+2016-10-15 20:00:40 .R..A         4517               src\h\vd2\Dita\basetypes.h
+2016-10-15 20:00:42 .R..A          226               src\VDDisplay\h\bicubic.h
+2016-10-15 20:00:40 .R..A         8339               src\h\vd2\system\binary.h
+2016-10-15 20:00:40 .R..A         2401               src\h\vd2\Riza\bitmap.h
+2016-10-15 20:00:40 .R..A         2777               src\h\vd2\system\bitmath.h
+2016-10-15 20:00:40 .R..A          600               src\Kasumi\h\bitutils.h
+2016-10-15 20:00:38 .R..A         5425               src\Altirra\h\bkptmanager.h
+2016-10-15 20:00:38 .R..A         4913               src\Altirra\h\blackbox.h
+2016-10-15 20:00:40 .R..A         1034               src\h\vd2\Kasumi\blitter.h
+2016-10-15 20:00:40 .R..A         1485               src\h\at\atcore\blockdevice.h
+2016-10-15 20:00:40 .R..A         2184               src\Kasumi\h\blt_setup.h
+2016-10-15 20:00:40 .R..A         1322               src\Kasumi\h\blt_spanutils.h
+2016-10-15 20:00:40 .R..A         1399               src\Kasumi\h\blt_spanutils_x86.h
+2016-10-15 20:00:40 .R..A         1070               src\h\at\atcpu\breakpoints.h
+2016-10-15 20:00:40 .R..A         2139               src\AltirraShell\h\broadcaster.h
+2016-10-15 20:00:40 .R..A         2355               src\h\vd2\Dita\bytecode.h
+2016-10-15 20:00:40 .R..A         7761               src\h\vd2\system\cache.h
+2016-10-15 20:00:38 .R..A         4607               src\Altirra\h\callback.h
+2016-10-15 20:00:38 .R..A        14151               src\Altirra\h\cartridge.h
+2016-10-15 20:00:38 .R..A         3389               src\Altirra\h\cartridgeport.h
+2016-10-15 20:00:38 .R..A         5106               src\Altirra\h\cassette.h
+2016-10-15 20:00:40 .R..A         5490               src\h\at\atio\cassetteblock.h
+2016-10-15 20:00:40 .R..A         3882               src\h\at\atio\cassettedecoder.h
+2016-10-15 20:00:38 .R..A         3283               src\Altirra\h\cassetteimage.h
+2016-10-15 20:00:40 .R..A         2565               src\h\at\atio\cassetteimage.h
+2016-10-15 20:00:38 .R..A         2298               src\Altirra\h\cheatengine.h
+2016-10-15 20:00:38 .R..A         3312               src\Altirra\h\cio.h
+2016-10-15 20:00:40 .R..A         3468               src\h\at\atcore\cio.h
+2016-10-15 20:00:38 .R..A         1408               src\Altirra\h\cmdhelpers.h
+2016-10-15 20:00:40 .R..A         2916               src\h\vd2\system\cmdline.h
+2016-10-15 20:00:40 .R..A         3539               src\h\at\atcpu\co65802.h
+2016-10-15 20:00:38 .R..A         1451               src\Altirra\h\common_png.h
+2016-10-15 20:00:40 .R..A          701               src\h\vd2\VDDisplay\compositor.h
+2016-10-15 20:00:38 .R..A         3450               src\Altirra\h\console.h
+2016-10-15 20:00:40 .R..A         1065               src\h\at\atcore\consoleoutput.h
+2016-10-15 20:00:40 .R..A         1179               src\h\at\atui\constants.h
+2016-10-15 20:00:40 .R..A         6223               src\h\vd2\Tessa\Context.h
+2016-10-15 20:00:40 .R..A        15595               src\Tessa\h\D3D11\Context_D3D11.h
+2016-10-15 20:00:40 .R..A        15178               src\Tessa\h\D3D9\Context_D3D9.h
+2016-10-15 20:00:40 .R..A         1792               src\h\vd2\Dita\controls.h
+2016-10-15 20:00:40 .R..A         4884               src\ATDevices\h\at\atdevices\corvus.h
+2016-10-15 20:00:38 .R..A         2821               src\Altirra\h\covox.h
+2016-10-15 20:00:38 .R..A        12872               src\Altirra\h\cpu.h
+2016-10-15 20:00:40 .R..A         2114               src\h\vd2\system\cpuaccel.h
+2016-10-15 20:00:38 .R..A         3787               src\Altirra\h\cpuheatmap.h
+2016-10-15 20:00:38 .R..A         3834               src\Altirra\h\cpuhookmanager.h
+2016-10-15 20:00:38 .R..A         4405               src\Altirra\h\cpumemory.h
+2016-10-15 20:00:38 .R..A         7271               src\Altirra\h\cpustates.h
+2016-10-15 20:00:40 .R..A          959               src\h\at\atappbase\crthooks.h
+2016-10-15 20:00:38 .R..A         2674               src\Altirra\h\cs8900a.h
+2016-10-15 20:00:42 .R..A         2002               src\VDDisplay\h\vd2\VDDisplay\internal\customshaderd3d9.h
+2016-10-15 20:00:42 .R..A        19335               src\VDDisplay\h\d3dxfx.h
+2016-10-15 20:00:40 .R..A         2293               src\h\vd2\system\date.h
+2016-10-15 20:00:40 .R..A         2977               src\h\vd2\system\debug.h
+2016-10-15 20:00:38 .R..A         1427               src\Altirra\h\debugdisplay.h
+2016-10-15 20:00:38 .R..A         7951               src\Altirra\h\debugger.h
+2016-10-15 20:00:38 .R..A         5573               src\Altirra\h\debuggerexp.h
+2016-10-15 20:00:38 .R..A          179               src\Altirra\h\debuggerlog.h
+2016-10-15 20:00:38 .R..A         2088               src\Altirra\h\debugtarget.h
+2016-10-15 20:00:40 .R..A         1483               src\h\vd2\system\debugx86.h
+2016-10-15 20:00:38 .R..A         2936               src\Altirra\h\decmath.h
+2016-10-15 20:00:40 .R..A         2052               src\h\at\atcpu\decode65816.h
+2016-10-15 20:00:40 .R..A         2654               src\h\at\atcore\deferredevent.h
+2016-10-15 20:00:40 .R..A         5473               src\h\at\atcore\device.h
+2016-10-15 20:00:40 .R..A         6433               src\h\at\atcore\devicecart.h
+2016-10-15 20:00:40 .R..A         3312               src\h\at\atcore\devicecio.h
+2016-10-15 20:00:40 .R..A         1609               src\h\at\atcore\deviceimpl.h
+2016-10-15 20:00:40 .R..A         1958               src\h\at\atcore\deviceindicators.h
+2016-10-15 20:00:40 .R..A         8042               src\h\at\atcore\devicemanager.h
+2016-10-15 20:00:40 .R..A         3861               src\h\at\atcore\devicepbi.h
+2016-10-15 20:00:40 .R..A         1489               src\h\at\atcore\deviceport.h
+2016-10-15 20:00:40 .R..A         1267               src\h\at\atcore\deviceprinter.h
+2016-10-15 20:00:40 .R..A         1007               src\h\at\atdevices\devices.h
+2016-10-15 20:00:40 .R..A         1857               src\h\at\atcore\deviceserial.h
+2016-10-15 20:00:40 .R..A        12209               src\h\at\atcore\devicesio.h
+2016-10-15 20:00:40 .R..A         1414               src\h\at\atcore\deviceu1mb.h
+2016-10-15 20:00:40 .R..A         3551               src\h\at\atcore\devicevideo.h
+2016-10-15 20:00:40 .R..A          720               src\ATNetwork\h\at\atnetwork\internal\dhcpd.h
+2016-10-15 20:00:40 .R..A         8359               src\h\at\atnativeui\dialog.h
+2016-10-15 20:00:40 .R..A        10001               src\h\vd2\VDDisplay\direct3d.h
+2016-10-15 20:00:42 .R..A          692               src\VDDisplay\h\vd2\VDDisplay\internal\directdraw.h
+2016-10-15 20:00:38 .R..A          872               src\Altirra\h\directorywatcher.h
+2016-10-15 20:00:38 .R..A         2285               src\Altirra\h\disasm.h
+2016-10-15 20:00:38 .R..A         9845               src\Altirra\h\disk.h
+2016-10-15 20:00:40 .R..A         4577               src\ATDevices\h\diskdrive.h
+2016-10-15 20:00:40 .R..A         4078               src\h\at\atio\diskfs.h
+2016-10-15 20:00:40 .R..A         1025               src\h\at\atio\diskfsdos2util.h
+2016-10-15 20:00:40 .R..A         1009               src\h\at\atio\diskfssdx2util.h
+2016-10-15 20:00:40 .R..A          985               src\h\at\atio\diskfsutil.h
+2016-10-15 20:00:40 .R..A         5110               src\h\at\atio\diskimage.h
+2016-10-15 20:00:40 .R..A         4384               src\h\vd2\VDDisplay\display.h
+2016-10-15 20:00:40 .R..A         5997               src\h\vd2\VDDisplay\displaydrv.h
+2016-10-15 20:00:42 .R..A         2394               src\VDDisplay\h\displaydrv3d.h
+2016-10-15 20:00:42 .R..A         4767               src\VDDisplay\h\displaydrvd3d9.h
+2016-10-15 20:00:42 .R..A         4095               src\VDDisplay\h\displaymgr.h
+2016-10-15 20:00:42 .R..A         8951               src\VDDisplay\h\displaynode3d.h
+2016-10-15 20:00:40 .R..A         1958               src\ATDevices\h\at\atdevices\dongle.h
+2016-10-15 20:00:38 .R..A         3340               src\Altirra\h\dragoncart.h
+2016-10-15 20:00:38 .R..A         1824               src\Altirra\h\eeprom.h
+2016-10-15 20:00:38 .R..A         1216               src\Altirra\h\encode_png.h
+2016-10-15 20:00:40 .R..A         3046               src\h\vd2\system\Error.h
+2016-10-15 20:00:40 .R..A         1746               src\h\at\atnetwork\ethernet.h
+2016-10-15 20:00:40 .R..A         1442               src\h\at\atnetwork\ethernetbus.h
+2016-10-15 20:00:40 .R..A         1635               src\h\at\atnetwork\ethernetframe.h
+2016-10-15 20:00:40 .R..A         6440               src\h\vd2\system\event.h
+2016-10-15 20:00:40 .R..A          947               src\AltirraShell\h\events.h
+2016-10-15 20:00:40 .R..A         1155               src\h\at\atappbase\exceptionfilter.h
+2016-10-15 20:00:40 .R..A         1260               src\h\at\atcpu\execstate.h
+2016-10-15 20:00:40 .R..A         2624               src\ATDevices\h\exeloader.h
+2016-10-15 20:00:40 .R..A          872               src\Tessa\h\D3D11\FenceManager_D3D11.h
+2016-10-15 20:00:42 .R..A          845               src\Tessa\h\D3D9\FenceManager_D3D9.h
+2016-10-15 20:00:40 .R..A        10543               src\h\vd2\system\file.h
+2016-10-15 20:00:40 .R..A         2513               src\h\vd2\system\fileasync.h
+2016-10-15 20:00:40 .R..A         3449               src\Asuka\h\filecreator.h
+2016-10-15 20:00:40 .R..A         9935               src\h\vd2\system\filesys.h
+2016-10-15 20:00:40 .R..A          935               src\h\vd2\system\filewatcher.h
+2016-10-15 20:00:38 .R..A         1050               src\Altirra\h\firmwaredetect.h
+2016-10-15 20:00:38 .R..A         3979               src\Altirra\h\firmwaremanager.h
+2016-10-15 20:00:38 .R..A         3011               src\Altirra\h\flash.h
+2016-10-15 20:00:40 .R..A         1253               src\h\vd2\VDDisplay\font.h
+2016-10-15 20:00:42 .R..A         1804               src\VDDisplay\h\vd2\VDDisplay\internal\fontgdi.h
+2016-10-15 20:00:40 .R..A          244               src\h\vd2\Tessa\Format.h
+2016-10-15 20:00:40 .R..A         3167               src\h\vd2\system\Fraction.h
+2016-10-15 20:00:40 .R..A         9041               src\h\vd2\system\function.h
+2016-10-15 20:00:40 .R..A          980               src\h\at\atnetwork\gatewayserver.h
+2016-10-15 20:00:40 .R..A       111241               src\h\vd2\external\glATI.h
+2016-10-15 20:00:40 .R..A         2411               src\Asuka\h\glc.h
+2016-10-15 20:00:40 .R..A         1356               src\AltirraShell\h\globals.h
+2016-10-15 20:00:38 .R..A        11992               src\Altirra\h\gtia.h
+2016-10-15 20:00:38 .R..A         4000               src\Altirra\h\gtiarenderer.h
+2016-10-15 20:00:38 .R..A         1083               src\Altirra\h\gtiatables.h
+2016-10-15 20:00:40 .R..A          237               src\h\vd2\system\halffloat.h
+2016-10-15 20:00:40 .R..A         1979               src\h\vd2\system\hash.h
+2016-10-15 20:00:40 .R..A         2828               src\h\at\atcpu\history.h
+2016-10-15 20:00:38 .R..A         1739               src\Altirra\h\hlebasicloader.h
+2016-10-15 20:00:38 .R..A         1516               src\Altirra\h\hleciohook.h
+2016-10-15 20:00:38 .R..A         1098               src\Altirra\h\hlefastboothook.h
+2016-10-15 20:00:38 .R..A         1087               src\Altirra\h\hlefpaccelerator.h
+2016-10-15 20:00:38 .R..A         1363               src\Altirra\h\hlekernel.h
+2016-10-15 20:00:38 .R..A         2094               src\Altirra\h\hleprogramloader.h
+2016-10-15 20:00:38 .R..A          964               src\Altirra\h\hleutils.h
+2016-10-15 20:00:38 .R..A         1559               src\Altirra\h\hostdevice.h
+2016-10-15 20:00:38 .R..A          589               src\Altirra\h\hostdeviceutils.h
+2016-10-15 20:00:40 .R..A         1510               src\h\at\atnativeui\hotkeyexcontrol.h
+2016-10-15 20:00:38 .R..A         4103               src\Altirra\h\ide.h
+2016-10-15 20:00:38 .R..A         2084               src\Altirra\h\idephysdisk.h
+2016-10-15 20:00:38 .R..A         2095               src\Altirra\h\iderawimage.h
+2016-10-15 20:00:38 .R..A         3514               src\Altirra\h\idevhdimage.h
+2016-10-15 20:00:38 .R..A        16486               src\Altirra\h\inputcontroller.h
+2016-10-15 20:00:38 .R..A          971               src\Altirra\h\inputdriver.h
+2016-10-15 20:00:38 .R..A        17514               src\Altirra\h\inputmanager.h
+2016-10-15 20:00:40 .R..A         9074               src\h\vd2\system\int128.h
+2016-10-15 20:00:40 .R..A         8336               src\h\vd2\Dita\interface.h
+2016-10-15 20:00:40 .R..A         2325               src\h\vd2\system\win32\intrin.h
+2016-10-15 20:00:40 .R..A         1649               src\ATNetwork\h\ipstack.h
+2016-10-15 20:00:38 .R..A         1496               src\Altirra\h\irqcontroller.h
+2016-10-15 20:00:38 .R..A         2139               src\Altirra\h\joystick.h
+2016-10-15 20:00:40 .R..A         1636               src\h\vd2\vdjson\jsonnametable.h
+2016-10-15 20:00:40 .R..A         2380               src\h\vd2\vdjson\jsonreader.h
+2016-10-15 20:00:40 .R..A         6096               src\h\vd2\vdjson\jsonvalue.h
+2016-10-15 20:00:40 .R..A         2028               src\h\vd2\vdjson\jsonwriter.h
+2016-10-15 20:00:38 .R..A        15865               src\Altirra\h\kerneldb.h
+2016-10-15 20:00:38 .R..A         6520               src\Altirra\h\kmkjzide.h
+2016-10-15 20:00:38 .R..A         9174               src\Altirra\h\ksyms.h
+2016-10-15 20:00:40 .R..A         1940               src\h\vd2\system\linearalloc.h
+2016-10-15 20:00:40 .R..A         6449               src\h\vd2\system\list.h
+2016-10-15 20:00:40 .R..A         2231               src\h\vd2\system\log.h
+2016-10-15 20:00:40 .R..A         1313               src\AltirraShell\h\logger.h
+2016-10-15 20:00:40 .R..A         2796               src\h\at\atcore\logging.h
+2016-10-15 20:00:40 .R..A         6983               src\h\vd2\system\math.h
+2016-10-15 20:00:40 .R..A         1415               src\h\at\atcore\media.h
+2016-10-15 20:00:40 .R..A         3614               src\h\vd2\system\memory.h
+2016-10-15 20:00:38 .R..A         8879               src\Altirra\h\memorymanager.h
+2016-10-15 20:00:40 .R..A         1257               src\h\at\atcore\memoryutils.h
+2016-10-15 20:00:40 .R..A         1584               src\AltirraShell\h\menu.h
+2016-10-15 20:00:40 .R..A         1671               src\h\at\atnativeui\messageloop.h
+2016-10-15 20:00:40 .R..A         7315               src\h\vd2\VDDisplay\minid3dx.h
+2016-10-15 20:00:40 .R..A         2194               src\h\vd2\system\win32\miniwindows.h
+2016-10-15 20:00:38 .R..A         4553               src\Altirra\h\mio.h
+2016-10-15 20:00:38 .R..A         4210               src\Altirra\h\mmu.h
+2016-10-15 20:00:38 .R..A         8468               src\Altirra\h\modem.h
+2016-10-15 20:00:38 .R..A         2383               src\Altirra\h\modemtcp.h
+2016-10-15 20:00:38 .R..A         5076               src\Altirra\h\myide.h
+2016-10-15 20:00:40 .R..A         4985               src\h\at\atcore\notifylist.h
+2016-10-15 20:00:40 .R..A        39901               src\h\vd2\VDDisplay\opengl.h
+2016-10-15 20:00:38 .R..A         1797               src\Altirra\h\options.h
+2016-10-15 20:00:38 .R..A         1073               src\Altirra\h\oshelper.h
+2016-10-15 20:00:40 .R..A          981               src\AltirraShell\h\panes.h
+2016-10-15 20:00:38 .R..A         2041               src\Altirra\h\pbi.h
+2016-10-16 17:31:18 .R..A         2507               src\Altirra\h\pbidisk.h
+2016-10-15 20:00:38 .R..A         1354               src\Altirra\h\pclink.h
+2016-10-15 20:00:38 .R..A         3979               src\Altirra\h\pia.h
+2016-10-15 20:00:40 .R..A         1627               src\h\vd2\Kasumi\pixel.h
+2016-10-15 20:00:40 .R..A         2874               src\h\vd2\Kasumi\pixmap.h
+2016-10-15 20:00:40 .R..A          981               src\h\vd2\Kasumi\pixmapops.h
+2016-10-15 20:00:40 .R..A         5083               src\h\vd2\Kasumi\pixmaputils.h
+2016-10-15 20:00:38 .R..A        10592               src\Altirra\h\pokey.h
+2016-10-15 20:00:38 .R..A         5109               src\Altirra\h\pokeyrenderer.h
+2016-10-15 20:00:38 .R..A         1293               src\Altirra\h\pokeytables.h
+2016-10-15 20:00:38 .R..A          842               src\Altirra\h\printer.h
+2016-10-15 20:00:40 .R..A         1741               src\h\vd2\system\process.h
+2016-10-15 20:00:40 .R..A         1745               src\h\at\atcore\profile.h
+2016-10-15 20:00:40 .R..A         6593               src\h\vd2\system\profile.h
+2016-10-15 20:00:38 .R..A         5678               src\Altirra\h\profiler.h
+2016-10-15 20:00:42 .R..A          258               src\Tessa\h\Program.h
+2016-10-15 20:00:40 .R..A         1049               src\h\at\atnativeui\progress.h
+2016-10-15 20:00:40 .R..A         2276               src\h\at\atcore\progress.h
+2016-10-15 20:00:40 .R..A         3122               src\h\vd2\system\progress.h
+2016-10-15 20:00:40 .R..A         2755               src\h\at\atcore\propertyset.h
+2016-10-15 20:00:40 .R..A         8770               src\h\vd2\system\protscope.h
+2016-10-15 20:00:40 .R..A        10931               src\h\vd2\system\refcount.h
+2016-10-15 20:00:40 .R..A         2585               src\h\vd2\Kasumi\region.h
+2016-10-15 20:00:40 .R..A         5376               src\h\vd2\system\registry.h
+2016-10-15 20:00:40 .R..A         2976               src\h\vd2\system\registrymemory.h
+2016-10-15 20:00:40 .R..A          908               src\h\vd2\VDDisplay\rendercache.h
+2016-10-15 20:00:40 .R..A         3746               src\h\vd2\VDDisplay\renderer.h
+2016-10-15 20:00:42 .R..A         4215               src\VDDisplay\h\renderer3d.h
+2016-10-15 20:00:42 .R..A         2812               src\VDDisplay\h\vd2\VDDisplay\internal\rendererddraw.h
+2016-10-15 20:00:42 .R..A         2184               src\VDDisplay\h\vd2\VDDisplay\internal\renderergdi.h
+2016-10-15 20:00:40 .R..A         2435               src\h\vd2\VDDisplay\renderersoft.h
+2016-10-15 20:00:40 .R..A          961               src\h\vd2\Kasumi\resample.h
+2016-10-15 20:00:40 .R..A         2119               src\h\vd2\Kasumi\resample_kernels.h
+2016-10-15 20:00:40 .R..A         2101               src\Kasumi\h\resample_stages.h
+2016-10-15 20:00:40 .R..A         4869               src\Kasumi\h\resample_stages_reference.h
+2016-10-15 20:00:40 .R..A          859               src\Kasumi\h\resample_stages_x64.h
+2016-10-15 20:00:40 .R..A         6429               src\Kasumi\h\resample_stages_x86.h
+2016-10-15 20:00:38 .R..A        33366               src\Altirra\res\resource.h
+2016-10-15 20:00:40 .R..A          813               src\Asuka\res\resource.h
+2016-10-15 20:00:40 .R..A         1091               src\ATNativeUI\res\resource.h
+2016-10-15 20:00:40 .R..A         2836               src\AltirraShell\resource.h
+2016-10-15 20:00:40 .R..A          894               src\h\vd2\Dita\resources.h
+2016-10-15 20:00:38 .R..A         2603               src\Altirra\h\rs232.h
+2016-10-15 20:00:38 .R..A         1493               src\Altirra\h\rtcds1305.h
+2016-10-15 20:00:38 .R..A         1307               src\Altirra\h\rtcv3021.h
+2016-10-15 20:00:38 .R..A         1971               src\Altirra\h\rtime8.h
+2016-10-15 20:00:38 .R..A         1031               src\Altirra\h\sapconverter.h
+2016-10-15 20:00:38 .R..A         1256               src\Altirra\h\sapwriter.h
+2016-10-15 20:00:38 .R..A         6001               src\Altirra\h\savestate.h
+2016-10-15 20:00:40 .R..A         5541               src\h\at\atcore\scheduler.h
+2016-10-15 20:00:38 .R..A         2547               src\Altirra\h\scsi.h
+2016-10-15 20:00:38 .R..A          348               src\Altirra\h\scsidisk.h
+2016-10-15 20:00:38 .R..A         2642               src\Altirra\h\sdrive.h
+2016-10-15 20:00:40 .R..A         2237               src\h\vd2\system\seh.h
+2016-10-15 20:00:40 .R..A         1360               src\AltirraShell\h\serialconfig.h
+2016-10-15 20:00:40 .R..A         6041               src\AltirraShell\h\serialemulator.h
+2016-10-15 20:00:40 .R..A         5002               src\AltirraShell\h\serialengine.h
+2016-10-15 20:00:40 .R..A          626               src\AltirraShell\h\serialhandler.h
+2016-10-15 20:00:40 .R..A         1656               src\h\vd2\Dita\services.h
+2016-10-15 20:00:38 .R..A         4065               src\Altirra\h\settings.h
+2016-10-15 20:00:40 .R..A         1004               src\AltirraShell\h\settings.h
+2016-10-15 20:00:38 .R..A         5372               src\Altirra\h\side.h
+2016-10-15 20:00:38 .R..A         2292               src\Altirra\h\simeventmanager.h
+2016-10-15 20:00:38 .R..A        21537               src\Altirra\h\simulator.h
+2016-10-15 20:00:38 .R..A         2461               src\Altirra\h\sio2sd.h
+2016-10-15 20:00:38 .R..A         7551               src\Altirra\h\siomanager.h
+2016-10-15 20:00:40 .R..A         1000               src\h\at\atcore\sioutils.h
+2016-10-15 20:00:38 .R..A         4177               src\Altirra\h\slightsid.h
+2016-10-15 20:00:40 .R..A         2003               src\h\at\atnetwork\socket.h
+2016-10-15 20:00:38 .R..A         1357               src\Altirra\h\soundboard.h
+2016-10-15 20:00:40 .R..A         7289               src\h\at\atcpu\states.h
+2016-10-15 20:00:38 .R..A         1268               src\Altirra\h\stdafx.h
+2016-10-15 20:00:40 .R..A           14               src\ATHelpBuilder\h\stdafx.h
+2016-10-15 20:00:40 .R..A           33               src\ATDebugger\h\stdafx.h
+2016-10-15 20:00:40 .R..A           56               src\ATCPU\h\stdafx.h
+2016-10-15 20:00:40 .R..A           56               src\ATNetwork\h\stdafx.h
+2016-10-15 20:00:40 .R..A           85               src\ATAppBase\h\stdafx.h
+2016-10-15 20:00:40 .R..A           85               src\ATDevices\h\stdafx.h
+2016-10-15 20:00:40 .R..A           85               src\ATTest\h\stdafx.h
+2016-10-15 20:00:40 .R..A           85               src\ATUI\h\stdafx.h
+2016-10-15 20:00:40 .R..A           90               src\ATIO\h\stdafx.h
+2016-10-15 20:00:40 .R..A          109               src\ATNetworkSockets\h\stdafx.h
+2016-10-15 20:00:40 .R..A          150               src\AltirraShell\h\stdafx.h
+2016-10-15 20:00:40 .R..A          176               src\Asuka\h\stdafx.h
+2016-10-15 20:00:40 .R..A          393               src\ATCompiler\h\stdafx.h
+2016-10-15 20:00:40 .R..A          693               src\Dita\h\stdafx.h
+2016-10-15 20:00:40 .R..A          831               src\ATCore\h\stdafx.h
+2016-10-15 20:00:40 .R..A          837               src\system\h\stdafx.h
+2016-10-15 20:00:40 .R..A          927               src\Kasumi\h\stdafx.h
+2016-10-15 20:00:40 .R..A          962               src\ATNativeUI\h\stdafx.h
+2016-10-15 20:00:40 .R..A         1066               src\HLECompiler\stdafx.h
+2016-10-15 20:00:42 .R..A           33               src\VDDisplay\h\stdafx.h
+2016-10-15 20:00:42 .R..A          931               src\vdjson\h\stdafx.h
+2016-10-15 20:00:42 .R..A          983               src\Tessa\h\stdafx.h
+2016-10-15 20:00:40 .R..A         2249               src\h\vd2\system\strutil.h
+2016-10-15 20:00:38 .R..A         3747               src\Altirra\h\symbols.h
+2016-10-15 20:00:40 .R..A         1787               src\Asuka\h\symbols.h
+2016-10-15 20:00:40 .R..A         1279               src\h\at\atnativeui\syncwait.h
+2016-10-15 20:00:40 .R..A         1702               src\h\vd2\Kasumi\tables.h
+2016-10-15 20:00:40 .R..A         3050               src\h\at\atdebugger\target.h
+2016-10-15 20:00:40 .R..A          489               src\h\at\atnetwork\tcp.h
+2016-10-15 20:00:40 .R..A         7982               src\ATNetwork\h\tcpstack.h
+2016-10-15 20:00:40 .R..A         1034               src\ATTest\h\test.h
+2016-10-15 20:00:40 .R..A         2473               src\h\vd2\system\text.h
+2016-10-15 20:00:40 .R..A         2478               src\h\vd2\Kasumi\text.h
+2016-10-15 20:00:38 .R..A         4766               src\Altirra\h\textdom.h
+2016-10-15 20:00:38 .R..A         3638               src\Altirra\h\texteditor.h
+2016-10-15 20:00:40 .R..A         2057               src\h\vd2\VDDisplay\textrenderer.h
+2016-10-15 20:00:40 .R..A         8691               src\h\vd2\system\thread.h
+2016-10-15 20:00:40 .R..A         3600               src\h\vd2\system\thunk.h
+2016-10-15 20:00:40 .R..A         4751               src\h\vd2\system\time.h
+2016-10-15 20:00:40 .R..A         1511               src\h\vd2\system\tls.h
+2016-10-15 20:00:40 .R..A         4621               src\h\vd2\system\win32\touch.h
+2016-10-15 20:00:40 .R..A         2367               src\h\vd2\Kasumi\triblt.h
+2016-10-15 20:00:40 .R..A         3349               src\h\vd2\Tessa\Types.h
+2016-10-15 20:00:40 .R..A         3211               src\Kasumi\h\uberblit.h
+2016-10-15 20:00:40 .R..A         1008               src\Kasumi\h\uberblit_16f.h
+2016-10-15 20:00:40 .R..A         3105               src\Kasumi\h\uberblit_base.h
+2016-10-15 20:00:40 .R..A          953               src\Kasumi\h\uberblit_fill.h
+2016-10-15 20:00:40 .R..A         5610               src\Kasumi\h\uberblit_gen.h
+2016-10-15 20:00:40 .R..A         1288               src\Kasumi\h\uberblit_input.h
+2016-10-15 20:00:40 .R..A         3123               src\Kasumi\h\uberblit_interlace.h
+2016-10-15 20:00:40 .R..A         3201               src\Kasumi\h\uberblit_pal.h
+2016-10-15 20:00:40 .R..A         2044               src\Kasumi\h\uberblit_resample.h
+2016-10-15 20:00:40 .R..A         1977               src\Kasumi\h\uberblit_resample_special.h
+2016-10-15 20:00:40 .R..A          773               src\Kasumi\h\uberblit_resample_special_x86.h
+2016-10-15 20:00:40 .R..A        14312               src\Kasumi\h\uberblit_rgb.h
+2016-10-15 20:00:40 .R..A         4623               src\Kasumi\h\uberblit_rgb_x86.h
+2016-10-15 20:00:40 .R..A         8976               src\Kasumi\h\uberblit_swizzle.h
+2016-10-15 20:00:40 .R..A         2323               src\Kasumi\h\uberblit_swizzle_x86.h
+2016-10-15 20:00:40 .R..A         1908               src\Kasumi\h\uberblit_v210.h
+2016-10-15 20:00:40 .R..A        18282               src\Kasumi\h\uberblit_ycbcr.h
+2016-10-15 20:00:40 .R..A         3734               src\Kasumi\h\uberblit_ycbcr_generic.h
+2016-10-15 20:00:40 .R..A          934               src\Kasumi\h\uberblit_ycbcr_x86.h
+2016-10-15 20:00:40 .R..A          327               src\h\at\atnetwork\udp.h
+2016-10-15 20:00:40 .R..A         1805               src\ATNetwork\h\udpstack.h
+2016-10-15 20:00:38 .R..A         3569               src\Altirra\h\uiaccessors.h
+2016-10-15 20:00:40 .R..A          366               src\h\at\atui\uianchor.h
+2016-10-15 20:00:38 .R..A         1701               src\Altirra\h\uibutton.h
+2016-10-15 20:00:38 .R..A         2482               src\Altirra\h\uicaptionupdater.h
+2016-10-15 20:00:38 .R..A          998               src\Altirra\h\uiclipboard.h
+2016-10-15 20:00:40 .R..A         2153               src\h\at\atui\uicommandmanager.h
+2016-10-15 20:00:38 .R..A          830               src\Altirra\h\uicommondialogs.h
+2016-10-15 20:00:40 .R..A          761               src\h\at\atui\uicontainer.h
+2016-10-15 20:00:38 .R..A         1380               src\Altirra\h\uidisplay.h
+2016-10-15 20:00:40 .R..A          411               src\h\at\atui\uidrawingutils.h
+2016-10-15 20:00:38 .R..A         1760               src\Altirra\h\uienhancedtext.h
+2016-10-15 20:00:38 .R..A         1680               src\Altirra\h\uifilebrowser.h
+2016-10-15 20:00:38 .R..A         1387               src\Altirra\h\uifilefilters.h
+2016-10-15 20:00:40 .R..A        14355               src\h\at\atnativeui\uiframe.h
+2016-10-15 20:00:38 .R..A          998               src\Altirra\h\uiinstance.h
+2016-10-15 20:00:38 .R..A         3400               src\Altirra\h\uikeyboard.h
+2016-10-15 20:00:38 .R..A         1572               src\Altirra\h\uilabel.h
+2016-10-15 20:00:38 .R..A         2784               src\Altirra\h\uilistview.h
+2016-10-15 20:00:40 .R..A         6621               src\h\at\atui\uimanager.h
+2016-10-15 20:00:38 .R..A         1580               src\Altirra\h\uimenu.h
+2016-10-15 20:00:40 .R..A         3823               src\h\at\atui\uimenulist.h
+2016-10-15 20:00:38 .R..A         1208               src\Altirra\h\uimessagebox.h
+2016-10-15 20:00:38 .R..A         1219               src\Altirra\h\uimrulist.h
+2016-10-15 20:00:40 .R..A         2146               src\h\at\atnativeui\uinativewindow.h
+2016-10-15 20:00:38 .R..A         1582               src\Altirra\h\uionscreenkeyboard.h
+2016-10-15 20:00:38 .R..A         1184               src\Altirra\h\uiportmenus.h
+2016-10-15 20:00:38 .R..A          169               src\Altirra\h\uiprofiler.h
+2016-10-15 20:00:38 .R..A          967               src\Altirra\h\uiprogress.h
+2016-10-15 20:00:40 .R..A        14456               src\h\at\atnativeui\uiproxies.h
+2016-10-15 20:00:38 .R..A         1201               src\Altirra\h\uiqueue.h
+2016-10-15 20:00:38 .R..A         2156               src\Altirra\h\uirender.h
+2016-10-15 20:00:38 .R..A         7751               src\Altirra\h\uisettingswindow.h
+2016-10-15 20:00:38 .R..A         1716               src\Altirra\h\uislider.h
+2016-10-15 20:00:38 .R..A         1937               src\Altirra\h\uitextedit.h
+2016-10-15 20:00:38 .R..A         1886               src\Altirra\h\uitypes.h
+2016-10-15 20:00:38 .R..A         7017               src\Altirra\h\uivideodisplaywindow.h
+2016-10-15 20:00:40 .R..A         8770               src\h\at\atui\uiwidget.h
+2016-10-15 20:00:38 .R..A         6098               src\Altirra\h\ultimate1mb.h
+2016-10-15 20:00:40 .R..A         3063               src\h\vd2\system\unknown.h
+2016-10-15 20:00:40 .R..A          920               src\ATCompiler\h\utils.h
+2016-10-15 20:00:40 .R..A         1448               src\Asuka\h\utils.h
+2016-10-15 20:00:38 .R..A         6615               src\Altirra\h\vbxe.h
+2016-10-15 20:00:40 .R..A         5253               src\h\vd2\system\vdalloc.h
+2016-10-15 20:00:40 .R..A         5493               src\h\vd2\system\VDNamespace.h
+2016-10-15 20:00:40 .R..A         2349               src\h\vd2\system\VDQueue.h
+2016-10-15 20:00:40 .R..A         6948               src\h\vd2\system\VDRingBuffer.h
+2016-10-15 20:00:40 .R..A         4527               src\h\vd2\system\VDScheduler.h
+2016-10-15 20:00:40 .R..A         1842               src\h\vd2\system\vdstdc.h
+2016-10-15 20:00:40 .R..A        53154               src\h\vd2\system\vdstl.h
+2016-10-15 20:00:40 .R..A         5121               src\h\vd2\system\vdstl_hash.h
+2016-10-15 20:00:40 .R..A        19415               src\h\vd2\system\vdstl_hashmap.h
+2016-10-15 20:00:40 .R..A        16552               src\h\vd2\system\vdstl_hashset.h
+2016-10-15 20:00:40 .R..A        11461               src\h\vd2\system\vdstl_hashtable.h
+2016-10-15 20:00:40 .R..A        16485               src\h\vd2\system\vdstl_vector.h
+2016-10-15 20:00:40 .R..A         3099               src\h\vd2\system\vdstl_vectorview.h
+2016-10-15 20:00:40 .R..A        36453               src\h\vd2\system\VDString.h
+2016-10-15 20:00:40 .R..A        10996               src\h\vd2\system\vdtypes.h
+2016-10-15 20:00:40 .R..A        13166               src\h\vd2\system\vectors.h
+2016-10-15 20:00:40 .R..A         7046               src\h\vd2\system\vectors_float.h
+2016-10-15 20:00:40 .R..A         6389               src\h\vd2\system\vectors_int.h
+2016-10-15 20:00:38 .R..A         2462               src\Altirra\h\verifier.h
+2016-10-15 20:00:38 .R..A         6218               src\Altirra\h\veronica.h
+2016-10-15 20:00:38 .R..A          115               src\Altirra\autobuild_default\version.h
+2016-10-16 18:42:06 ....A          117               src\Altirra\autobuild\version.h
+2016-10-15 20:00:38 .R..A         1625               src\Altirra\h\versioninfo.h
+2016-10-15 20:00:40 .R..A         2851               src\h\at\atcore\vfs.h
+2016-10-15 20:00:38 .R..A         2688               src\Altirra\h\via.h
+2016-10-15 20:00:40 .R..A         3851               src\h\vd2\Riza\videocodec.h
+2016-10-15 20:00:38 .R..A          793               src\Altirra\h\videowriter.h
+2016-10-15 20:00:38 .R..A         2055               src\Altirra\h\virtualscreen.h
+2016-10-15 20:00:40 .R..A         1194               src\h\at\atnetworksockets\vxlantunnel.h
+2016-10-15 20:00:40 .R..A         1195               src\ATNetworkSockets\h\at\atnetworksockets\internal\vxlantunnel.h
+2016-10-15 20:00:40 .R..A          448               src\h\vd2\Dita\w32accel.h
+2016-10-15 20:00:40 .R..A         4231               src\h\vd2\system\w32assist.h
+2016-10-15 20:00:40 .R..A         2479               src\h\vd2\Riza\w32audiocodec.h
+2016-10-15 20:00:40 .R..A         2374               src\h\vd2\Dita\w32base.h
+2016-10-15 20:00:40 .R..A         1003               src\h\vd2\Dita\w32control.h
+2016-10-15 20:00:40 .R..A          246               src\h\vd2\Dita\w32interface.h
+2016-10-15 20:00:40 .R..A         1210               src\h\vd2\Dita\w32peer.h
+2016-10-15 20:00:40 .R..A          677               src\h\at\atnetworksockets\worker.h
+2016-10-15 20:00:40 .R..A         4268               src\ATNetworkSockets\h\at\atnetworksockets\internal\worker.h
+2016-10-15 20:00:38 .R..A         6791               src\Altirra\h\xep80.h
+2016-10-15 20:00:40 .R..A         5545               src\h\vd2\system\zip.h
+2016-10-15 20:00:38 .R..A        30646               src\Altirra\source\1030.cpp
+2016-10-15 20:00:38 .R..A         6078               src\Altirra\source\about.cpp
+2016-10-15 20:00:40 .R..A         4281               src\Dita\source\accel.cpp
+2016-10-15 20:00:40 .R..A        15691               src\ATNativeUI\source\acceleditdialog.cpp
+2016-10-15 20:00:38 .R..A        11031               src\Altirra\source\acia.cpp
+2016-10-15 20:00:40 .R..A        12646               src\Riza\source\ac_mpeg.cpp
+2016-10-15 20:00:40 .R..A         8763               src\Riza\source\ac_xlaw.cpp
+2016-10-15 20:00:38 .R..A         1828               src\Altirra\source\allocator.cpp
+2016-10-15 20:00:40 .R..A         1812               src\AltirraShell\source\allocator.cpp
+2016-10-15 20:00:40 .R..A         3064               src\Kasumi\source\alphablt.cpp
+2016-10-15 20:00:38 .R..A        73844               src\Altirra\source\antic.cpp
+2016-10-15 20:00:38 .R..A        52066               src\Altirra\source\artifacting.cpp
+2016-10-15 20:00:38 .R..A         4148               src\Altirra\source\artifacting_ntsc_mmx.cpp
+2016-10-15 20:00:38 .R..A         5419               src\Altirra\source\artifacting_ntsc_sse2.cpp
+2016-10-15 20:00:38 .R..A         6562               src\Altirra\source\artifacting_ntsc_sse2_intrin.cpp
+2016-10-15 20:00:38 .R..A        18079               src\Altirra\source\artifacting_pal_mmx.cpp
+2016-10-15 20:00:38 .R..A         4195               src\Altirra\source\artifacting_pal_scalar.cpp
+2016-10-15 20:00:38 .R..A        13617               src\Altirra\source\artifacting_pal_sse2.cpp
+2016-10-15 20:00:38 .R..A        13885               src\Altirra\source\artifacting_pal_sse2_intrin.cpp
+2016-10-15 20:00:38 .R..A         2444               src\Altirra\source\artifacting_sse2_intrin.cpp
+2016-10-15 20:00:38 .R..A        55090               src\Altirra\source\assembler.cpp
+2016-10-15 20:00:40 .R..A         1254               src\ATHelpBuilder\AssemblyInfo.cpp
+2016-10-15 20:00:40 .R..A        13605               src\ATHelpBuilder\source\ATHelpBuilder.cpp
+2016-10-15 20:00:40 .R..A         1375               src\Riza\source\audiocodec.cpp
+2016-10-15 20:00:38 .R..A        32859               src\Altirra\source\audiofilters.cpp
+2016-10-15 20:00:40 .R..A          313               src\Riza\source\audioformat.cpp
+2016-10-15 20:00:38 .R..A         1881               src\Altirra\source\audiomonitor.cpp
+2016-10-15 20:00:40 .R..A        29105               src\Riza\source\audioout.cpp
+2016-10-15 20:00:38 .R..A        15712               src\Altirra\source\audiooutput.cpp
+2016-10-15 20:00:38 .R..A         5693               src\Altirra\source\audiosyncmixer.cpp
+2016-10-15 20:00:38 .R..A         7521               src\Altirra\source\audiowriter.cpp
+2016-10-15 20:00:38 .R..A         3358               src\Altirra\source\autotest.cpp
+2016-10-15 20:00:38 .R..A        41767               src\Altirra\source\aviwriter.cpp
+2016-10-15 20:00:40 .R..A        11749               src\Dita\source\basetypes.cpp
+2016-10-15 20:00:42 .R..A         4992               src\VDDisplay\source\bicubic.cpp
+2016-10-15 20:00:40 .R..A        13521               src\Riza\source\bitmap.cpp
+2016-10-15 20:00:40 .R..A         1904               src\system\source\bitmath.cpp
+2016-10-15 20:00:38 .R..A        19649               src\Altirra\source\bkptmanager.cpp
+2016-10-15 20:00:38 .R..A        20339               src\Altirra\source\blackbox.cpp
+2016-10-15 20:00:40 .R..A         1101               src\Kasumi\source\blitter.cpp
+2016-10-15 20:00:40 .R..A         8703               src\Kasumi\source\blt.cpp
+2016-10-15 20:00:40 .R..A        18051               src\Kasumi\source\blt_reference.cpp
+2016-10-15 20:00:40 .R..A        12646               src\Kasumi\source\blt_reference_pal.cpp
+2016-10-15 20:00:40 .R..A         7202               src\Kasumi\source\blt_reference_rgb.cpp
+2016-10-15 20:00:40 .R..A        44922               src\Kasumi\source\blt_reference_yuv.cpp
+2016-10-15 20:00:40 .R..A         5979               src\Kasumi\source\blt_reference_yuv2yuv.cpp
+2016-10-15 20:00:40 .R..A        15483               src\Kasumi\source\blt_reference_yuvrev.cpp
+2016-10-15 20:00:40 .R..A         1386               src\Kasumi\source\blt_setup.cpp
+2016-10-15 20:00:40 .R..A         9313               src\Kasumi\source\blt_spanutils.cpp
+2016-10-15 20:00:40 .R..A         4644               src\Kasumi\source\blt_spanutils_x86.cpp
+2016-10-15 20:00:40 .R..A         1316               src\Kasumi\source\blt_uberblit.cpp
+2016-10-15 20:00:40 .R..A         8267               src\Kasumi\source\blt_x86.cpp
+2016-10-15 20:00:40 .R..A         3824               src\AltirraShell\source\broadcaster.cpp
+2016-10-15 20:00:40 .R..A         9871               src\system\source\cache.cpp
+2016-10-15 20:00:38 .R..A        23765               src\Altirra\source\cartdetect.cpp
+2016-10-16 16:55:58 .R..A       112363               src\Altirra\source\cartridge.cpp
+2016-10-15 20:00:38 .R..A         8389               src\Altirra\source\cartridgeport.cpp
+2016-10-15 20:00:38 .R..A        25303               src\Altirra\source\cassette.cpp
+2016-10-15 20:00:40 .R..A        13486               src\ATIO\source\cassetteblock.cpp
+2016-10-15 20:00:38 .R..A        50068               src\Altirra\source\cassetteimage.cpp
+2016-10-15 20:00:38 .R..A        10267               src\Altirra\source\cheatengine.cpp
+2016-10-15 20:00:40 .R..A        10456               src\Asuka\source\checkimports.cpp
+2016-10-15 20:00:38 .R..A         2180               src\Altirra\source\cmdaudio.cpp
+2016-10-15 20:00:38 .R..A         3912               src\Altirra\source\cmdcart.cpp
+2016-10-15 20:00:38 .R..A         4056               src\Altirra\source\cmddebug.cpp
+2016-10-15 20:00:40 .R..A          614               src\AltirraShell\source\cmddialogs.cpp
+2016-10-15 20:00:40 .R..A         6059               src\system\source\cmdline.cpp
+2016-10-15 20:00:38 .R..A        50617               src\Altirra\source\cmds.cpp
+2016-10-15 20:00:38 .R..A         7326               src\Altirra\source\cmdsystem.cpp
+2016-10-15 20:00:38 .R..A         4203               src\Altirra\source\cmdview.cpp
+2016-10-15 20:00:40 .R..A         1382               src\AltirraShell\source\cmdviews.cpp
+2016-10-15 20:00:38 .R..A         1467               src\Altirra\source\cmdwindow.cpp
+2016-10-15 20:00:40 .R..A         1558               src\AltirraShell\source\cmdwindows.cpp
+2016-10-15 20:00:40 .R..A         7362               src\ATCPU\source\co65802.cpp
+2016-10-15 20:00:38 .R..A         1278               src\Altirra\source\common_png.cpp
+2016-10-15 20:00:38 .R..A       167437               src\Altirra\source\console.cpp
+2016-10-15 20:00:40 .R..A         1076               src\ATCore\source\consoleoutput.cpp
+2016-10-15 20:00:42 .R..A          334               src\Tessa\source\Context.cpp
+2016-10-15 20:00:42 .R..A        70662               src\Tessa\source\D3D11\Context_D3D11.cpp
+2016-10-15 20:00:42 .R..A        59419               src\Tessa\source\D3D9\Context_D3D9.cpp
+2016-10-15 20:00:40 .R..A        16316               src\ATDevices\source\corvus.cpp
+2016-10-15 20:00:38 .R..A        11635               src\Altirra\source\covox.cpp
+2016-10-15 20:00:38 .R..A        36950               src\Altirra\source\cpu.cpp
+2016-10-15 20:00:38 .R..A        24981               src\Altirra\source\cpu6502.cpp
+2016-10-15 20:00:38 .R..A        15822               src\Altirra\source\cpu6502ill.cpp
+2016-10-15 20:00:38 .R..A        15250               src\Altirra\source\cpu65c02.cpp
+2016-10-15 20:00:38 .R..A        55433               src\Altirra\source\cpu65c816.cpp
+2016-10-15 20:00:40 .R..A         4479               src\system\source\cpuaccel.cpp
+2016-10-15 20:00:38 .R..A        20242               src\Altirra\cpuheatmap.cpp
+2016-10-15 20:00:38 .R..A         5310               src\Altirra\source\cpuhookmanager.cpp
+2016-10-15 20:00:40 .R..A         1767               src\ATAppBase\source\crthooks.cpp
+2016-10-15 20:00:38 .R..A        25439               src\Altirra\source\cs8900a.cpp
+2016-10-15 20:00:40 .R..A        10072               src\Dita\source\ctl_grid.cpp
+2016-10-15 20:00:40 .R..A         8006               src\Dita\source\ctl_set.cpp
+2016-10-15 20:00:42 .R..A        60008               src\VDDisplay\source\customshaderd3d9.cpp
+2016-10-15 20:00:40 .R..A         3474               src\system\source\date.cpp
+2016-10-15 20:00:40 .R..A         9539               src\system\source\debug.cpp
+2016-10-15 20:00:38 .R..A        17182               src\Altirra\source\debugdisplay.cpp
+2016-10-15 20:00:38 .R..A       312499               src\Altirra\source\debugger.cpp
+2016-10-15 20:00:38 .R..A        76296               src\Altirra\source\debuggerexp.cpp
+2016-10-15 20:00:38 .R..A         1569               src\Altirra\source\debuggerlog.cpp
+2016-10-15 20:00:38 .R..A         4916               src\Altirra\source\debugtarget.cpp
+2016-10-15 20:00:40 .R..A         5229               src\system\source\debugx86.cpp
+2016-10-15 20:00:38 .R..A        33046               src\Altirra\source\decmath.cpp
+2016-10-15 20:00:40 .R..A        57652               src\ATCPU\source\decode65816.cpp
+2016-10-15 20:00:40 .R..A         1617               src\ATCore\source\deferredevent.cpp
+2016-10-15 20:00:40 .R..A         1546               src\ATCore\source\deviceimpl.cpp
+2016-10-15 20:00:40 .R..A        13064               src\ATCore\source\devicemanager.cpp
+2016-10-15 20:00:38 .R..A         4430               src\Altirra\source\devices.cpp
+2016-10-15 20:00:40 .R..A         1327               src\ATDevices\source\devices.cpp
+2016-10-15 20:00:40 .R..A        10186               src\ATNetwork\source\dhcpd.cpp
+2016-10-15 20:00:40 .R..A        27455               src\ATNativeUI\source\dialog.cpp
+2016-10-15 20:00:42 .R..A        57116               src\VDDisplay\source\direct3d.cpp
+2016-10-15 20:00:38 .R..A         4938               src\Altirra\source\directorywatcher.cpp
+2016-10-15 20:00:38 .R..A        36981               src\Altirra\source\disasm.cpp
+2016-10-15 20:00:38 .R..A        85026               src\Altirra\source\disk.cpp
+2016-10-15 20:00:40 .R..A        17019               src\ATDevices\source\diskdrive.cpp
+2016-10-15 20:00:40 .R..A         5319               src\ATIO\source\diskfs.cpp
+2016-10-15 20:00:40 .R..A        16947               src\ATIO\source\diskfsarc.cpp
+2016-10-15 20:00:40 .R..A        40581               src\ATIO\source\diskfsdos2.cpp
+2016-10-15 20:00:40 .R..A        17199               src\ATIO\source\diskfsdos3.cpp
+2016-10-15 20:00:40 .R..A        43406               src\ATIO\source\diskfssdx2.cpp
+2016-10-15 20:00:40 .R..A         2999               src\ATIO\source\diskfssdx2util.cpp
+2016-10-15 20:00:40 .R..A         4073               src\ATIO\source\diskfsutil.cpp
+2016-10-15 20:00:40 .R..A        67955               src\ATIO\source\diskimage.cpp
+2016-10-15 20:00:38 .R..A        18069               src\Altirra\source\diskvirtimage.cpp
+2016-10-15 20:00:38 .R..A        35357               src\Altirra\source\diskvirtimagesdfs.cpp
+2016-10-15 20:00:42 .R..A        46113               src\VDDisplay\source\display.cpp
+2016-10-15 20:00:42 .R..A        58600               src\VDDisplay\source\displayd3dfx.cpp
+2016-10-15 20:00:42 .R..A        15452               src\VDDisplay\source\displaydrv.cpp
+2016-10-15 20:00:42 .R..A        10201               src\VDDisplay\source\displaydrv3d.cpp
+2016-10-15 20:00:42 .R..A       143679               src\VDDisplay\source\displaydrvd3d9.cpp
+2016-10-15 20:00:42 .R..A        52438               src\VDDisplay\source\displaydrvddraw.cpp
+2016-10-15 20:00:42 .R..A        56805               src\VDDisplay\source\displaydrvgl.cpp
+2016-10-15 20:00:42 .R..A        23443               src\VDDisplay\source\displaygdi.cpp
+2016-10-15 20:00:42 .R..A        16184               src\VDDisplay\source\displaymgr.cpp
+2016-10-15 20:00:42 .R..A        41669               src\VDDisplay\source\displaynode3d.cpp
+2016-10-15 20:00:40 .R..A         4099               src\ATDevices\source\dongle.cpp
+2016-10-15 20:00:38 .R..A        20996               src\Altirra\source\dragoncart.cpp
+2016-10-15 20:00:40 .R..A         1068               src\Misc\driveconv\driveconv.cpp
+2016-10-15 20:00:38 .R..A         6628               src\Altirra\source\eeprom.cpp
+2016-10-15 20:00:38 .R..A        29885               src\Altirra\source\encode_png.cpp
+2016-10-15 20:00:40 .R..A         3433               src\system\source\Error.cpp
+2016-10-15 20:00:40 .R..A         6436               src\system\source\error_win32.cpp
+2016-10-15 20:00:40 .R..A         5326               src\ATNetwork\source\ethernetbus.cpp
+2016-10-15 20:00:40 .R..A         4750               src\ATNetwork\source\ethernetframe.cpp
+2016-10-15 20:00:40 .R..A         2747               src\system\source\event.cpp
+2016-10-15 20:00:40 .R..A         3803               src\ATAppBase\source\exceptionfilter.cpp
+2016-10-15 20:00:40 .R..A        11036               src\ATDevices\source\exeloader.cpp
+2016-10-15 20:00:42 .R..A         2125               src\Tessa\source\D3D11\FenceManager_D3D11.cpp
+2016-10-15 20:00:42 .R..A         1990               src\Tessa\source\D3D9\FenceManager_D3D9.cpp
+2016-10-15 20:00:40 .R..A        11729               src\system\source\file.cpp
+2016-10-15 20:00:40 .R..A        24135               src\system\source\fileasync.cpp
+2016-10-15 20:00:40 .R..A        38153               src\Asuka\source\filecreator.cpp
+2016-10-15 20:00:40 .R..A        11605               src\system\source\filestream.cpp
+2016-10-15 20:00:40 .R..A        25974               src\system\source\filesys.cpp
+2016-10-15 20:00:40 .R..A         3514               src\system\source\filewatcher.cpp
+2016-10-15 20:00:40 .R..A         1375               src\Misc\audiofilter\filter63to44.cpp
+2016-10-15 20:00:38 .R..A         3696               src\Altirra\source\firmwaredetect.cpp
+2016-10-15 20:00:38 .R..A        12751               src\Altirra\source\firmwaremanager.cpp
+2016-10-15 20:00:38 .R..A        26756               src\Altirra\source\flash.cpp
+2016-10-15 20:00:40 .R..A         8020               src\Asuka\source\fontencode.cpp
+2016-10-15 20:00:40 .R..A         9283               src\Asuka\source\fontextract.cpp
+2016-10-15 20:00:42 .R..A        10111               src\VDDisplay\source\fontgdi.cpp
+2016-10-15 20:00:40 .R..A         4333               src\Asuka\source\fontrender.cpp
+2016-10-15 20:00:42 .R..A          731               src\Tessa\source\Format.cpp
+2016-10-15 20:00:40 .R..A         7722               src\system\source\Fraction.cpp
+2016-10-15 20:00:40 .R..A         2659               src\system\source\function.cpp
+2016-10-15 20:00:40 .R..A        45781               src\Asuka\source\fxc.cpp
+2016-10-15 20:00:40 .R..A         8489               src\Asuka\source\fxc10.cpp
+2016-10-15 20:00:40 .R..A        21562               src\ATNetwork\source\gatewayserver.cpp
+2016-10-15 20:00:40 .R..A        30154               src\Asuka\source\glc.cpp
+2016-10-15 20:00:40 .R..A        13451               src\Asuka\source\glc_atifs.cpp
+2016-10-15 20:00:40 .R..A        25255               src\Asuka\source\glc_nvrc.cpp
+2016-10-15 20:00:40 .R..A         1304               src\AltirraShell\source\globals.cpp
+2016-10-15 20:00:38 .R..A        66042               src\Altirra\source\gtia.cpp
+2016-10-15 20:00:38 .R..A        29128               src\Altirra\source\gtiarenderer.cpp
+2016-10-15 20:00:38 .R..A         7344               src\Altirra\source\gtiatables.cpp
+2016-10-15 20:00:40 .R..A         1833               src\system\source\halffloat.cpp
+2016-10-15 20:00:40 .R..A         1205               src\Asuka\source\hash.cpp
+2016-10-15 20:00:40 .R..A         5929               src\system\source\hash.cpp
+2016-10-15 20:00:38 .R..A         5286               src\Altirra\source\hlebasicloader.cpp
+2016-10-15 20:00:38 .R..A        39249               src\Altirra\source\hleciohook.cpp
+2016-10-15 20:00:40 .R..A         7507               src\HLECompiler\HLECompiler.cpp
+2016-10-15 20:00:38 .R..A         5747               src\Altirra\source\hlefastboothook.cpp
+2016-10-15 20:00:38 .R..A         3925               src\Altirra\source\hlefpaccelerator.cpp
+2016-10-15 20:00:38 .R..A         3408               src\Altirra\source\hlekernel.cpp
+2016-10-15 20:00:38 .R..A         9290               src\Altirra\source\hleprogramloader.cpp
+2016-10-15 20:00:38 .R..A         1168               src\Altirra\source\hleutils.cpp
+2016-10-15 20:00:38 .R..A        39051               src\Altirra\source\hostdevice.cpp
+2016-10-15 20:00:38 .R..A         2372               src\Altirra\source\hostdeviceutils.cpp
+2016-10-15 20:00:40 .R..A         9680               src\ATNativeUI\source\hotkeyexcontrol.cpp
+2016-10-15 20:00:38 .R..A        35126               src\Altirra\source\ide.cpp
+2016-10-15 20:00:38 .R..A         2454               src\Altirra\source\idediskdevices.cpp
+2016-10-15 20:00:38 .R..A         4707               src\Altirra\source\idephysdisk.cpp
+2016-10-15 20:00:38 .R..A         4020               src\Altirra\source\iderawimage.cpp
+2016-10-15 20:00:38 .R..A        21511               src\Altirra\source\idevhdimage.cpp
+2016-10-15 20:00:38 .R..A        41010               src\Altirra\source\inputcontroller.cpp
+2016-10-15 20:00:38 .R..A        65351               src\Altirra\source\inputmanager.cpp
+2016-10-15 20:00:40 .R..A        13337               src\system\source\int128.cpp
+2016-10-15 20:00:40 .R..A        12458               src\Dita\source\interface.cpp
+2016-10-15 20:00:40 .R..A         7216               src\ATNetwork\source\ipstack.cpp
+2016-10-15 20:00:38 .R..A         1909               src\Altirra\source\irqcontroller.cpp
+2016-10-15 20:00:38 .R..A        33235               src\Altirra\source\joystick.cpp
+2016-10-15 20:00:42 .R..A         2396               src\vdjson\source\jsonnametable.cpp
+2016-10-15 20:00:42 .R..A        17343               src\vdjson\source\jsonreader.cpp
+2016-10-15 20:00:42 .R..A         4632               src\vdjson\source\jsonvalue.cpp
+2016-10-15 20:00:42 .R..A         5799               src\vdjson\source\jsonwriter.cpp
+2016-10-15 20:00:38 .R..A        26820               src\Altirra\source\kmkjzide.cpp
+2016-10-15 20:00:38 .R..A        10075               src\Altirra\source\leakdetector.cpp
+2016-10-15 20:00:40 .R..A         1696               src\system\source\linearalloc.cpp
+2016-10-15 20:00:40 .R..A         2584               src\system\source\list.cpp
+2016-10-15 20:00:40 .R..A         4687               src\system\source\log.cpp
+2016-10-15 20:00:40 .R..A         3632               src\AltirraShell\source\logger.cpp
+2016-10-15 20:00:40 .R..A         2111               src\ATCore\source\logging.cpp
+2016-10-15 20:00:40 .R..A         1897               src\Asuka\source\lookup.cpp
+2016-10-15 20:00:40 .R..A         4145               src\ATCompiler\source\lzpack.cpp
+2016-10-15 20:00:40 .R..A         2051               src\ATCompiler\source\lzunpack.cpp
+2016-10-15 20:00:38 .R..A       107264               src\Altirra\source\main.cpp
+2016-10-15 20:00:40 .R..A         2527               src\ATTest\source\main.cpp
+2016-10-15 20:00:40 .R..A         2540               src\ATCompiler\source\main.cpp
+2016-10-15 20:00:40 .R..A         4585               src\Asuka\source\main.cpp
+2016-10-15 20:00:40 .R..A         6120               src\AltirraShell\source\main.cpp
+2016-10-15 20:00:40 .R..A         2090               src\Asuka\source\makearray.cpp
+2016-10-15 20:00:40 .R..A         1978               src\ATCompiler\source\makeexports.cpp
+2016-10-15 20:00:40 .R..A         5164               src\ATCompiler\source\makereloc.cpp
+2016-10-15 20:00:40 .R..A         6048               src\ATCompiler\source\makereloc2.cpp
+2016-10-15 20:00:40 .R..A         3138               src\ATCompiler\source\makereloc3.cpp
+2016-10-15 20:00:40 .R..A         2878               src\Asuka\source\maketables.cpp
+2016-10-15 20:00:40 .R..A         7846               src\Asuka\source\mapconv.cpp
+2016-10-15 20:00:40 .R..A         5024               src\system\source\math.cpp
+2016-10-15 20:00:40 .R..A        10470               src\system\source\memory.cpp
+2016-10-15 20:00:38 .R..A        34428               src\Altirra\source\memorymanager.cpp
+2016-10-15 20:00:40 .R..A         2066               src\ATCore\source\memoryutils.cpp
+2016-10-15 20:00:40 .R..A        12037               src\AltirraShell\source\menu.cpp
+2016-10-15 20:00:40 .R..A         4425               src\ATNativeUI\source\messageloop.cpp
+2016-10-15 20:00:38 .R..A         7035               src\Altirra\source\midimate.cpp
+2016-10-15 20:00:42 .R..A        11026               src\VDDisplay\source\minid3dx.cpp
+2016-10-15 20:00:38 .R..A        17156               src\Altirra\source\mio.cpp
+2016-10-15 20:00:40 .R..A         5907               src\ATCompiler\source\mkfsdos2.cpp
+2016-10-15 20:00:38 .R..A        13676               src\Altirra\source\mmu.cpp
+2016-10-15 20:00:38 .R..A        43920               src\Altirra\source\modem.cpp
+2016-10-15 20:00:38 .R..A        34161               src\Altirra\source\modemtcp.cpp
+2016-10-15 20:00:38 .R..A        27017               src\Altirra\source\myide.cpp
+2016-10-15 20:00:42 .R..A        24884               src\VDDisplay\source\opengl.cpp
+2016-10-15 20:00:38 .R..A         4725               src\Altirra\source\options.cpp
+2016-10-15 20:00:38 .R..A         9927               src\Altirra\source\oshelper.cpp
+2016-10-15 20:00:38 .R..A         5419               src\Altirra\source\pbi.cpp
+2016-10-16 17:31:18 .R..A         4728               src\Altirra\source\pbidisk.cpp
+2016-10-15 20:00:38 .R..A        52031               src\Altirra\source\pclink.cpp
+2016-10-15 20:00:38 .R..A         1554               src\Altirra\source\pclink_win32.cpp
+2016-10-15 20:00:38 .R..A        15622               src\Altirra\source\pia.cpp
+2016-10-15 20:00:40 .R..A        36038               src\Kasumi\source\pixel.cpp
+2016-10-15 20:00:40 .R..A        20794               src\Kasumi\source\pixmaputils.cpp
+2016-10-15 20:00:38 .R..A        13887               src\Altirra\source\pocketmodem.cpp
+2016-10-15 20:00:38 .R..A        86740               src\Altirra\source\pokey.cpp
+2016-10-15 20:00:38 .R..A        27741               src\Altirra\source\pokeyrenderer.cpp
+2016-10-15 20:00:38 .R..A         2694               src\Altirra\source\pokeytables.cpp
+2016-10-15 20:00:38 .R..A         7423               src\Altirra\source\printer.cpp
+2016-10-15 20:00:40 .R..A          993               src\system\source\process.cpp
+2016-10-15 20:00:40 .R..A          929               src\ATCore\source\profile.cpp
+2016-10-15 20:00:40 .R..A         6256               src\system\source\profile.cpp
+2016-10-15 20:00:38 .R..A        23391               src\Altirra\source\profiler.cpp
+2016-10-15 20:00:38 .R..A        73815               src\Altirra\source\profilerui.cpp
+2016-10-15 20:00:42 .R..A          606               src\Tessa\source\Program.cpp
+2016-10-15 20:00:40 .R..A         1271               src\ATNativeUI\source\progress.cpp
+2016-10-15 20:00:40 .R..A         1449               src\system\source\progress.cpp
+2016-10-15 20:00:40 .R..A         1585               src\ATCore\source\progress.cpp
+2016-10-15 20:00:40 .R..A         6824               src\ATCore\source\propertyset.cpp
+2016-10-15 20:00:40 .R..A         1593               src\system\source\protscope.cpp
+2016-10-15 20:00:40 .R..A         5194               src\Asuka\source\psa.cpp
+2016-10-15 20:00:40 .R..A         1314               src\system\source\refcount.cpp
+2016-10-15 20:00:40 .R..A        33874               src\Kasumi\source\region.cpp
+2016-10-15 20:00:40 .R..A        14115               src\system\source\registry.cpp
+2016-10-15 20:00:40 .R..A        16940               src\h\vd2\system\source\registrymemory.cpp
+2016-10-15 20:00:42 .R..A          781               src\VDDisplay\source\rendercache.cpp
+2016-10-15 20:00:42 .R..A         1463               src\VDDisplay\source\renderer.cpp
+2016-10-15 20:00:42 .R..A        22186               src\VDDisplay\source\renderer3d.cpp
+2016-10-15 20:00:42 .R..A        25311               src\VDDisplay\source\rendererd3d9.cpp
+2016-10-15 20:00:42 .R..A        18870               src\VDDisplay\source\rendererddraw.cpp
+2016-10-15 20:00:42 .R..A        12636               src\VDDisplay\source\renderergdi.cpp
+2016-10-15 20:00:42 .R..A        27711               src\VDDisplay\source\renderersoft.cpp
+2016-10-15 20:00:40 .R..A        11108               src\Kasumi\source\resample.cpp
+2016-10-15 20:00:40 .R..A         8215               src\Kasumi\source\resample_kernels.cpp
+2016-10-15 20:00:40 .R..A         4019               src\Kasumi\source\resample_stages.cpp
+2016-10-15 20:00:40 .R..A        13680               src\Kasumi\source\resample_stages_reference.cpp
+2016-10-15 20:00:40 .R..A         1414               src\Kasumi\source\resample_stages_x64.cpp
+2016-10-15 20:00:40 .R..A        35484               src\Kasumi\source\resample_stages_x86.cpp
+2016-10-15 20:00:40 .R..A         1934               src\Asuka\source\resbind.cpp
+2016-10-15 20:00:40 .R..A         2457               src\Asuka\source\resextract.cpp
+2016-10-15 20:00:40 .R..A           42               src\AltirraShell\source\resources.cpp
+2016-10-15 20:00:40 .R..A        11277               src\Dita\source\resources.cpp
+2016-10-15 20:00:38 .R..A        39086               src\Altirra\source\rs232.cpp
+2016-10-15 20:00:38 .R..A         6583               src\Altirra\source\rtcds1305.cpp
+2016-10-15 20:00:38 .R..A         3395               src\Altirra\source\rtcv3021.cpp
+2016-10-15 20:00:38 .R..A         6199               src\Altirra\source\rtime8.cpp
+2016-10-15 20:00:38 .R..A         9683               src\Altirra\source\rverter.cpp
+2016-10-15 20:00:38 .R..A        13675               src\Altirra\source\sapconverter.cpp
+2016-10-15 20:00:38 .R..A         5465               src\Altirra\source\sapwriter.cpp
+2016-10-15 20:00:38 .R..A         6838               src\Altirra\source\savestate.cpp
+2016-10-15 20:00:40 .R..A         4374               src\ATCore\source\scheduler.cpp
+2016-10-15 20:00:38 .R..A        12541               src\Altirra\source\scsi.cpp
+2016-10-15 20:00:40 .R..A         8977               src\Altirra\source\scsidisk.cpp
+2016-10-15 20:00:40 .R..A         7206               src\Altirra\source\sdrive.cpp
+2016-10-15 20:00:40 .R..A         1632               src\AltirraShell\source\serialconfig.cpp
+2016-10-15 20:00:40 .R..A        22985               src\AltirraShell\source\serialemulator.cpp
+2016-10-15 20:00:40 .R..A        18934               src\AltirraShell\source\serialengine.cpp
+2016-10-15 20:00:40 .R..A        24247               src\Dita\source\services.cpp
+2016-10-15 20:00:40 .R..A         2239               src\AltirraShell\source\settings.cpp
+2016-10-15 20:00:40 .R..A        49577               src\Altirra\source\settings.cpp
+2016-10-16 16:55:08 .R..A        19628               src\Altirra\source\side.cpp
+2016-10-15 20:00:40 .R..A         2427               src\Altirra\source\simeventmanager.cpp
+2016-10-15 20:00:40 .R..A       110753               src\Altirra\source\simulator.cpp
+2016-10-15 20:00:40 .R..A         6853               src\Altirra\source\sio2sd.cpp
+2016-10-15 20:00:40 .R..A         4440               src\Altirra\source\sioclock.cpp
+2016-10-15 20:00:40 .R..A        35197               src\Altirra\source\siomanager.cpp
+2016-10-15 20:00:40 .R..A         4559               src\ATCore\source\sioutils.cpp
+2016-10-15 20:00:40 .R..A        20653               src\Altirra\source\slightsid.cpp
+2016-10-15 20:00:40 .R..A         2079               src\Asuka\source\snapsetup.cpp
+2016-10-15 20:00:40 .R..A        22043               src\Altirra\source\soundboard.cpp
+2016-10-15 20:00:40 .R..A         1310               src\system\source\stdaccel.cpp
+2016-10-15 20:00:40 .R..A           19               src\ATCompiler\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           19               src\ATTest\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\AltirraShell\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\Asuka\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATAppBase\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATCPU\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATDebugger\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATDevices\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATHelpBuilder\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATIO\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATNetwork\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATNetworkSockets\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A           21               src\ATUI\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A          809               src\Altirra\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A          819               src\ATCore\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A          833               src\Dita\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A          834               src\ATNativeUI\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A          860               src\HLECompiler\stdafx.cpp
+2016-10-15 20:00:40 .R..A          862               src\Kasumi\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A         1867               src\system\source\stdafx.cpp
+2016-10-15 20:00:42 .R..A           21               src\VDDisplay\source\stdafx.cpp
+2016-10-15 20:00:42 .R..A          854               src\vdjson\source\stdafx.cpp
+2016-10-15 20:00:42 .R..A          861               src\Tessa\source\stdafx.cpp
+2016-10-15 20:00:40 .R..A        23259               src\Kasumi\source\stretchblt_reference.cpp
+2016-10-15 20:00:40 .R..A         2576               src\system\source\strutil.cpp
+2016-10-15 20:00:40 .R..A        21583               src\Altirra\source\sx212.cpp
+2016-10-15 20:00:40 .R..A         7424               src\Asuka\source\symbols.cpp
+2016-10-15 20:00:40 .R..A        49333               src\Altirra\source\symbols.cpp
+2016-10-15 20:00:40 .R..A         1729               src\ATNativeUI\source\syncwait.cpp
+2016-10-15 20:00:40 .R..A        27319               src\Kasumi\source\tables.cpp
+2016-10-15 20:00:40 .R..A         2093               src\ATNetwork\source\tcp.cpp
+2016-10-15 20:00:40 .R..A        36474               src\ATNetwork\source\tcpstack.cpp
+2016-10-15 20:00:40 .R..A         7675               src\Altirra\source\testdevicesiohs.cpp
+2016-10-15 20:00:40 .R..A         7625               src\Altirra\source\testdevicesiopoll.cpp
+2016-10-15 20:00:40 .R..A         6886               src\ATTest\source\TestSystem_Function.cpp
+2016-10-15 20:00:40 .R..A         8820               src\Kasumi\source\text.cpp
+2016-10-15 20:00:40 .R..A        15084               src\system\source\text.cpp
+2016-10-15 20:00:40 .R..A        25812               src\Altirra\source\textdom.cpp
+2016-10-15 20:00:40 .R..A        45910               src\Altirra\source\texteditor.cpp
+2016-10-15 20:00:42 .R..A         5584               src\VDDisplay\source\textrenderer.cpp
+2016-10-15 20:00:40 .R..A         7577               src\system\source\thread.cpp
+2016-10-15 20:00:40 .R..A         7983               src\system\source\thunk.cpp
+2016-10-15 20:00:40 .R..A         7158               src\system\source\time.cpp
+2016-10-15 20:00:40 .R..A         1583               src\system\source\tls.cpp
+2016-10-15 20:00:40 .R..A         4379               src\system\source\win32\touch_win32.cpp
+2016-10-15 20:00:40 .R..A        49392               src\Kasumi\source\triblt.cpp
+2016-10-15 20:00:40 .R..A        49059               src\Kasumi\source\uberblit.cpp
+2016-10-15 20:00:40 .R..A         2060               src\Kasumi\source\uberblit_16f.cpp
+2016-10-15 20:00:40 .R..A        51266               src\Kasumi\source\uberblit_gen.cpp
+2016-10-15 20:00:40 .R..A        24374               src\Kasumi\source\uberblit_resample.cpp
+2016-10-15 20:00:40 .R..A         6515               src\Kasumi\source\uberblit_resample_special.cpp
+2016-10-15 20:00:40 .R..A         2109               src\Kasumi\source\uberblit_resample_special_x86.cpp
+2016-10-15 20:00:40 .R..A         2960               src\Kasumi\source\uberblit_swizzle.cpp
+2016-10-15 20:00:40 .R..A         9279               src\Kasumi\source\uberblit_swizzle_x86.cpp
+2016-10-15 20:00:40 .R..A         7709               src\Kasumi\source\uberblit_v210.cpp
+2016-10-15 20:00:40 .R..A        17163               src\Kasumi\source\uberblit_ycbcr_generic.cpp
+2016-10-15 20:00:40 .R..A         2440               src\Kasumi\source\uberblit_ycbcr_x86.cpp
+2016-10-15 20:00:40 .R..A         1695               src\ATNetwork\source\udp.cpp
+2016-10-15 20:00:40 .R..A         4701               src\ATNetwork\source\udpstack.cpp
+2016-10-15 20:00:40 .R..A          819               src\Altirra\source\ui.cpp
+2016-10-15 20:00:40 .R..A         1976               src\Altirra\source\uiabout.cpp
+2016-10-15 20:00:40 .R..A         1131               src\ATUI\source\uianchor.cpp
+2016-10-15 20:00:40 .R..A         5413               src\Altirra\source\uiaudiooptions.cpp
+2016-10-15 20:00:40 .R..A         4427               src\Altirra\source\uibutton.cpp
+2016-10-15 20:00:40 .R..A         8855               src\Altirra\source\uicaptionupdater.cpp
+2016-10-15 20:00:40 .R..A         9859               src\Altirra\source\uicartmapper.cpp
+2016-10-15 20:00:40 .R..A        14596               src\Altirra\source\uicheater.cpp
+2016-10-15 20:00:40 .R..A         2165               src\Altirra\source\uiclipboard.cpp
+2016-10-15 20:00:40 .R..A        19046               src\Altirra\source\uicolors.cpp
+2016-10-15 20:00:40 .R..A         2359               src\ATUI\source\uicommandmanager.cpp
+2016-10-15 20:00:40 .R..A         4506               src\Altirra\source\uicommondialogs.cpp
+2016-10-15 20:00:40 .R..A         2801               src\Altirra\source\uiconf850.cpp
+2016-10-15 20:00:40 .R..A         3787               src\Altirra\source\uiconfblackbox.cpp
+2016-10-15 20:00:40 .R..A         6522               src\Altirra\source\uiconfdev1030.cpp
+2016-10-15 20:00:40 .R..A         2065               src\Altirra\source\uiconfdevcorvus.cpp
+2016-10-15 20:00:40 .R..A         2840               src\Altirra\source\uiconfdevcovox.cpp
+2016-10-15 20:00:40 .R..A         3149               src\Altirra\source\uiconfdevdongle.cpp
+2016-10-15 20:00:40 .R..A         3266               src\Altirra\source\uiconfdevkmkjzide2.cpp
+2016-10-15 20:00:40 .R..A         5800               src\Altirra\source\uiconfdevpocketmodem.cpp
+2016-10-15 20:00:40 .R..A         6739               src\Altirra\source\uiconfdevsx212.cpp
+2016-10-15 20:00:40 .R..A        14119               src\Altirra\source\uiconfharddisk.cpp
+2016-10-15 20:00:40 .R..A         7272               src\Altirra\source\uiconfmodem.cpp
+2016-10-15 20:00:40 .R..A         2047               src\Altirra\source\uiconfmyide2.cpp
+2016-10-15 20:00:40 .R..A         3072               src\Altirra\source\uiconfregister.cpp
+2016-10-15 20:00:40 .R..A         2423               src\Altirra\source\uiconfsoundboard.cpp
+2016-10-15 20:00:40 .R..A         2061               src\Altirra\source\uiconfveronica.cpp
+2016-10-15 20:00:40 .R..A         5109               src\ATUI\source\uicontainer.cpp
+2016-10-15 20:00:40 .R..A         4585               src\Altirra\source\uicpuoptions.cpp
+2016-10-15 20:00:40 .R..A         7558               src\Altirra\source\uidebugfont.cpp
+2016-10-15 20:00:40 .R..A        22781               src\Altirra\source\uidevices.cpp
+2016-10-15 20:00:40 .R..A        26368               src\Altirra\source\uidisk.cpp
+2016-10-15 20:00:40 .R..A        49829               src\Altirra\source\uidiskexplorer.cpp
+2016-10-15 20:00:40 .R..A        40210               src\Altirra\source\uidisplay.cpp
+2016-10-15 20:00:40 .R..A        18920               src\Altirra\source\uidragdrop.cpp
+2016-10-15 20:00:40 .R..A         8655               src\Altirra\source\uidragoncart.cpp
+2016-10-15 20:00:40 .R..A          963               src\ATUI\source\uidrawingutils.cpp
+2016-10-15 20:00:40 .R..A         8994               src\Altirra\source\uiemuerror.cpp
+2016-10-15 20:00:40 .R..A        30898               src\Altirra\source\uienhancedtext.cpp
+2016-10-15 20:00:40 .R..A        19625               src\Altirra\source\uifileassoc.cpp
+2016-10-15 20:00:40 .R..A        11657               src\Altirra\source\uifilebrowser.cpp
+2016-10-15 20:00:40 .R..A         2847               src\Altirra\source\uifilefilters.cpp
+2016-10-15 20:00:40 .R..A        19359               src\Altirra\source\uifirmware.cpp
+2016-10-15 20:00:40 .R..A         4883               src\Altirra\source\uifirmwaremenu.cpp
+2016-10-15 20:00:40 .R..A         3128               src\Altirra\source\uifirmwarescan.cpp
+2016-10-15 20:00:40 .R..A        82134               src\ATNativeUI\source\uiframe.cpp
+2016-10-15 20:00:40 .R..A         3443               src\Altirra\source\uihostdevice.cpp
+2016-10-15 20:00:40 .R..A        58816               src\Altirra\source\uiinput.cpp
+2016-10-15 20:00:40 .R..A         5118               src\Altirra\source\uiinputrebind.cpp
+2016-10-15 20:00:40 .R..A        20295               src\Altirra\source\uiinputsetup.cpp
+2016-10-15 20:00:40 .R..A         4807               src\Altirra\source\uiinstance.cpp
+2016-10-15 20:00:40 .R..A        26206               src\Altirra\source\uikeyboard.cpp
+2016-10-15 20:00:40 .R..A        28183               src\Altirra\source\uikeyboardcustomize.cpp
+2016-10-15 20:00:40 .R..A         6475               src\Altirra\source\uikeyboardoptions.cpp
+2016-10-15 20:00:40 .R..A         8023               src\Altirra\source\uilabel.cpp
+2016-10-15 20:00:40 .R..A         1942               src\Altirra\source\uilightpen.cpp
+2016-10-15 20:00:40 .R..A        10143               src\Altirra\source\uilistview.cpp
+2016-10-15 20:00:40 .R..A         9087               src\Altirra\source\uimainwindow.cpp
+2016-10-15 20:00:40 .R..A        22591               src\ATUI\source\uimanager.cpp
+2016-10-15 20:00:40 .R..A        13543               src\Altirra\source\uimenu.cpp
+2016-10-15 20:00:40 .R..A        18606               src\ATUI\source\uimenulist.cpp
+2016-10-15 20:00:40 .R..A         4207               src\Altirra\source\uimessagebox.cpp
+2016-10-15 20:00:40 .R..A         4965               src\Altirra\source\uimrulist.cpp
+2016-10-15 20:00:40 .R..A         7161               src\ATNativeUI\source\uinativewindow.cpp
+2016-10-15 20:00:40 .R..A        12975               src\Altirra\source\uionscreenkeyboard.cpp
+2016-10-15 20:00:40 .R..A        28683               src\Altirra\source\uioptions.cpp
+2016-10-15 20:00:40 .R..A        17375               src\AltirraShell\source\uipanedevices.cpp
+2016-10-15 20:00:40 .R..A         5919               src\AltirraShell\source\uipanelog.cpp
+2016-10-15 20:00:40 .R..A         2391               src\Altirra\source\uipclink.cpp
+2016-10-15 20:00:40 .R..A        10982               src\Altirra\source\uiphysdisk.cpp
+2016-10-15 20:00:40 .R..A         6060               src\Altirra\source\uiportmenus.cpp
+2016-10-15 20:00:40 .R..A         3245               src\Altirra\source\uiprofilemenu.cpp
+2016-10-15 20:00:40 .R..A         5406               src\Altirra\source\uiprofiler.cpp
+2016-10-15 20:00:40 .R..A        21718               src\Altirra\source\uiprofiles.cpp
+2016-10-15 20:00:40 .R..A         5785               src\Altirra\source\uiprogress.cpp
+2016-10-15 20:00:40 .R..A        39866               src\ATNativeUI\source\uiproxies.cpp
+2016-10-15 20:00:40 .R..A         1421               src\Altirra\source\uiqueue.cpp
+2016-10-15 20:00:40 .R..A         6661               src\Altirra\source\uiregistry.cpp
+2016-10-15 20:00:40 .R..A        39416               src\Altirra\source\uirender.cpp
+2016-10-15 20:00:40 .R..A         6134               src\AltirraShell\source\uiserialoptions.cpp
+2016-10-15 20:00:40 .R..A        19719               src\Altirra\source\uisettingsmain.cpp
+2016-10-15 20:00:40 .R..A        31195               src\Altirra\source\uisettingswindow.cpp
+2016-10-15 20:00:40 .R..A        15959               src\Altirra\source\uisetupwizard.cpp
+2016-10-15 20:00:40 .R..A         7388               src\Altirra\source\uislider.cpp
+2016-10-15 20:00:40 .R..A         3073               src\Altirra\source\uispeedoptions.cpp
+2016-10-15 20:00:40 .R..A        17407               src\Altirra\source\uitapecontrol.cpp
+2016-10-15 20:00:40 .R..A         7461               src\Altirra\source\uitextedit.cpp
+2016-10-15 20:00:40 .R..A         2472               src\Altirra\source\uiverifier.cpp
+2016-10-15 20:00:40 .R..A        56818               src\Altirra\source\uivideodisplaywindow.cpp
+2016-10-15 20:00:40 .R..A         5911               src\Altirra\source\uivideorecording.cpp
+2016-10-15 20:00:40 .R..A        12685               src\ATUI\source\uiwidget.cpp
+2016-10-15 20:00:40 .R..A        26809               src\Altirra\source\ultimate1mb.cpp
+2016-10-15 20:00:40 .R..A          102               src\ATTest\source\utils.cpp
+2016-10-15 20:00:40 .R..A         1040               src\ATCompiler\source\utils.cpp
+2016-10-15 20:00:40 .R..A         7035               src\Asuka\source\utils.cpp
+2016-10-15 20:00:40 .R..A        71768               src\Altirra\source\vbxe.cpp
+2016-10-15 20:00:40 .R..A         4240               src\Riza\source\vc_dv.cpp
+2016-10-15 20:00:40 .R..A         4445               src\Riza\source\vc_huffyuv.cpp
+2016-10-15 20:00:40 .R..A         1311               src\system\source\vdalloc.cpp
+2016-10-15 20:00:40 .R..A         6492               src\system\source\VDNamespace.cpp
+2016-10-15 20:00:40 .R..A         7246               src\system\source\VDScheduler.cpp
+2016-10-15 20:00:40 .R..A         1387               src\system\source\vdstl.cpp
+2016-10-15 20:00:40 .R..A         4191               src\system\source\vdstl_hash.cpp
+2016-10-15 20:00:40 .R..A         2635               src\system\source\vdstl_hashtable.cpp
+2016-10-15 20:00:40 .R..A         7476               src\system\source\VDString.cpp
+2016-10-15 20:00:40 .R..A         2383               src\system\source\vectors.cpp
+2016-10-15 20:00:40 .R..A         9116               src\Altirra\source\verifier.cpp
+2016-10-15 20:00:40 .R..A         2650               src\Asuka\source\verinc.cpp
+2016-10-15 20:00:40 .R..A        22146               src\Altirra\source\veronica.cpp
+2016-10-15 20:00:40 .R..A        10341               src\ATCore\source\vfs.cpp
+2016-10-15 20:00:40 .R..A        12510               src\Altirra\source\via.cpp
+2016-10-15 20:00:40 .R..A        66752               src\Altirra\source\videowriter.cpp
+2016-10-15 20:00:40 .R..A        11265               src\Altirra\source\virtualscreen.cpp
+2016-10-15 20:00:40 .R..A           51               src\Altirra\source\vs2013x64crashfix.cpp
+2016-10-15 20:00:40 .R..A         5318               src\ATNetworkSockets\source\vxlantunnel.cpp
+2016-10-15 20:00:40 .R..A         7186               src\Dita\source\w32accel.cpp
+2016-10-15 20:00:40 .R..A        17316               src\system\source\w32assist.cpp
+2016-10-15 20:00:40 .R..A        17728               src\Riza\source\w32audiocodec.cpp
+2016-10-15 20:00:40 .R..A        15675               src\Dita\source\w32base.cpp
+2016-10-15 20:00:40 .R..A         7248               src\Dita\source\w32button.cpp
+2016-10-15 20:00:40 .R..A        10475               src\Dita\source\w32control.cpp
+2016-10-15 20:00:40 .R..A         2552               src\Dita\source\w32group.cpp
+2016-10-15 20:00:40 .R..A         2262               src\Dita\source\w32hotkey.cpp
+2016-10-15 20:00:40 .R..A         2141               src\Dita\source\w32label.cpp
+2016-10-15 20:00:40 .R..A         6413               src\Dita\source\w32listbox.cpp
+2016-10-15 20:00:40 .R..A        10824               src\Dita\source\w32listview.cpp
+2016-10-15 20:00:40 .R..A         3533               src\Dita\source\w32peer.cpp
+2016-10-15 20:00:40 .R..A        12165               src\Dita\source\w32splitter.cpp
+2016-10-15 20:00:40 .R..A         2965               src\Dita\source\w32textedit.cpp
+2016-10-15 20:00:40 .R..A         2633               src\Dita\source\w32trackbar.cpp
+2016-10-15 20:00:40 .R..A        18656               src\Riza\source\w32videocodec.cpp
+2016-10-15 20:00:40 .R..A        24295               src\Riza\source\w32videocodecpack.cpp
+2016-10-15 20:00:40 .R..A        15920               src\ATNetworkSockets\source\worker.cpp
+2016-10-15 20:00:40 .R..A        62749               src\Altirra\source\xep80.cpp
+2016-10-15 20:00:40 .R..A        17665               src\system\source\zip.cpp
+2016-10-16 17:40:26 .R..A       102557               src\Altirra\res\Altirra.rc
+2016-10-15 20:00:38 .R..A          501               src\Altirra\res\AltirraExtIcons.rc
+2016-10-15 20:00:40 .R..A        11986               src\AltirraShell\AltirraShell.rc
+2016-10-15 20:00:40 .R..A         3293               src\Asuka\res\Asuka.rc
+2016-10-15 20:00:40 .R..A         3291               src\ATNativeUI\res\atnativeui.rc
+2016-10-15 20:00:40 .R..A         1462               src\ATBasic\tests\array.bas
+2016-10-15 20:00:40 .R..A          363               src\ATBasic\tests\blockif.bas
+2016-10-15 20:00:40 .R..A          874               src\ATBasic\tests\data.bas
+2016-10-15 20:00:40 .R..A         1292               src\ATBasic\tests\expprec.bas
+2016-10-15 20:00:40 .R..A          980               src\ATBasic\tests\fcomp.bas
+2016-10-15 20:00:40 .R..A         5289               src\ATBasic\tests\func.bas
+2016-10-15 20:00:40 .R..A          603               src\ATBasic\tests\input.bas
+2016-10-15 20:00:40 .R..A          152               src\ATBasic\tests\io.bas
+2016-10-15 20:00:40 .R..A         1009               src\ATBasic\tests\io2.bas
+2016-10-15 20:00:40 .R..A          994               src\ATBasic\tests\io3.bas
+2016-10-15 20:00:40 .R..A          306               src\ATBasic\tests\logical.bas
+2016-10-15 20:00:40 .R..A         1266               src\ATBasic\tests\mathtran.bas
+2016-10-15 20:00:40 .R..A          685               src\ATBasic\tests\on.bas
+2016-10-15 20:00:40 .R..A          869               src\ATBasic\tests\pow.bas
+2016-10-15 20:00:40 .R..A          314               src\ATBasic\tests\rtstack.bas
+2016-10-15 20:00:40 .R..A          777               src\ATBasic\tests\strcomp.bas
+2016-10-15 20:00:40 .R..A          866               src\ATBasic\tests\strcomp1.bas
+2016-10-15 20:00:40 .R..A          338               src\ATBasic\tests\strcomp2.bas
+2016-10-15 20:00:40 .R..A          779               src\ATBasic\tests\strfunc.bas
+2016-10-15 20:00:40 .R..A         1041               src\ATBasic\tests\strings.bas
+2016-10-15 20:00:40 .R..A           64               src\ATBasic\tests\sxerr.bas
+2016-10-15 20:00:40 .R..A         1499               src\system\source\a64_cpuaccel.asm
+2016-10-15 20:00:40 .R..A         1801               src\system\source\a64_fraction.asm
+2016-10-15 20:00:40 .R..A         2325               src\system\source\a64_int128.asm
+2016-10-15 20:00:40 .R..A         1162               src\system\source\a64_thunk.asm
+2016-10-15 20:00:40 .R..A        13681               src\Kasumi\source\a_bltrgb.asm
+2016-10-15 20:00:40 .R..A        12611               src\Kasumi\source\a_bltrgb2yuv_mmx.asm
+2016-10-15 20:00:40 .R..A        15502               src\Kasumi\source\a_bltrgb_mmx.asm
+2016-10-15 20:00:40 .R..A         3613               src\Kasumi\source\a_bltyuv2rgb_sse2.asm
+2016-10-15 20:00:40 .R..A         3057               src\system\source\a_memory.asm
+2016-10-15 20:00:40 .R..A        32500               src\Kasumi\source\a_resample_mmx.asm
+2016-10-15 20:00:40 .R..A         6766               src\Kasumi\source\a_resample_sse41.asm
+2016-10-15 20:00:40 .R..A         2536               src\Riza\source\a_resync.asm
+2016-10-15 20:00:40 .R..A         4223               src\Kasumi\source\a_spanutils_isse.asm
+2016-10-15 20:00:40 .R..A         5847               src\Kasumi\source\a_stretchrgb_mmx.asm
+2016-10-15 20:00:40 .R..A         1583               src\Kasumi\source\a_stretchrgb_point.asm
+2016-10-15 20:00:40 .R..A         1999               src\system\source\a_thunk.asm
+2016-10-15 20:00:40 .R..A         8283               src\Kasumi\source\a_triblt_mmx.asm
+2016-10-15 20:00:40 .R..A          637               src\Kasumi\source\a_triblt_scalar.asm
+2016-10-15 20:00:40 .R..A         3934               src\Kasumi\source\a_triblt_sse2.asm
+2016-10-15 20:00:38 .R..A         5595               src\Altirra\source\gtiarenderer_ssse3.asm
+2016-10-15 20:00:38 .R..A         2427               src\Altirra\source\gtia_sse2.asm
+2016-10-15 20:00:38 .R..A          451               src\Altirra\manifest\comctl6.manifest
+2016-10-15 20:00:40 .R..A          451               src\AltirraShell\manifest\comctl6.manifest
+2016-10-15 20:00:38 .R..A          453               src\Altirra\manifest\comctl6_x64.manifest
+2016-10-15 20:00:40 .R..A          453               src\AltirraShell\manifest\comctl6_x64.manifest
+2016-10-15 20:00:38 .R..A         1929               src\Altirra\manifest\win7.manifest
+2016-10-15 20:00:40 .R..A         1450               src\AltirraShell\manifest\windows.manifest
+2016-10-15 20:00:38 .R..A        35885               src\Altirra.sln
+2016-10-15 20:00:40 .R..A         1452               src\ATHelpFile.sln
+2016-10-15 20:00:38 .R..A         6194               release.cmd
+2016-10-15 20:00:40 .R..A         4620               src\ATHelpFile\source\1030.xml
+2016-10-15 20:00:40 .R..A         3506               src\ATHelpFile\source\additions.xml
+2016-10-15 20:00:40 .R..A         4072               src\ATHelpFile\source\common-errors.xml
+2016-10-15 20:00:40 .R..A        27906               src\ATHelpFile\source\compatibility.xml
+2016-10-15 20:00:40 .R..A         6672               src\ATHelpFile\source\debug-basic.xml
+2016-10-15 20:00:40 .R..A         3117               src\ATHelpFile\source\debug-diagnostics.xml
+2016-10-15 20:00:40 .R..A         5251               src\ATHelpFile\source\debug-expressions.xml
+2016-10-15 20:00:40 .R..A         5245               src\ATHelpFile\source\debug-intro.xml
+2016-10-15 20:00:40 .R..A         2762               src\ATHelpFile\source\debug-logging.xml
+2016-10-15 20:00:40 .R..A        11577               src\ATHelpFile\source\debug-profiling.xml
+2016-10-15 20:00:40 .R..A         4681               src\ATHelpFile\source\debug-source.xml
+2016-10-15 20:00:40 .R..A         1524               src\ATHelpFile\source\devices-cartintro.xml
+2016-10-15 20:00:40 .R..A         4169               src\ATHelpFile\source\devices-cassette.xml
+2016-10-15 20:00:40 .R..A         2135               src\ATHelpFile\source\devices-corvus.xml
+2016-10-15 20:00:40 .R..A         3029               src\ATHelpFile\source\devices-pocketmodem.xml
+2016-10-15 20:00:40 .R..A         1223               src\ATHelpFile\source\devices-rtime8.xml
+2016-10-15 20:00:40 .R..A         1547               src\ATHelpFile\source\devices-serintro.xml
+2016-10-15 20:00:40 .R..A        13020               src\ATHelpFile\source\disk.xml
+2016-10-15 20:00:40 .R..A        11839               src\ATHelpFile\source\dragoncart.xml
+2016-10-15 20:00:40 .R..A         5338               src\ATHelpFile\source\emulation-accuracy.xml
+2016-10-15 20:00:40 .R..A        16378               src\ATHelpFile\source\faq.xml
+2016-10-15 20:00:40 .R..A         4947               src\ATHelpFile\source\getting-started.xml
+2016-10-15 20:00:40 .R..A         7304               src\ATHelpFile\source\host-device.xml
+2016-10-15 20:00:40 .R..A          337               src\ATHelpFile\source\index.xml
+2016-10-15 20:00:40 .R..A         1947               src\ATHelpFile\source\indicators.xml
+2016-10-15 20:00:40 .R..A         9542               src\ATHelpFile\source\input.xml
+2016-10-15 20:00:40 .R..A         5841               src\ATHelpFile\source\keyboard.xml
+2016-10-15 20:00:40 .R..A        19294               src\ATHelpFile\source\license.xml
+2016-10-15 20:00:40 .R..A         2673               src\ATHelpFile\source\myide.xml
+2016-10-15 20:00:40 .R..A         5563               src\ATHelpFile\source\options-accel.xml
+2016-10-15 20:00:40 .R..A         5314               src\ATHelpFile\source\options-firmware.xml
+2016-10-15 20:00:40 .R..A        11193               src\ATHelpFile\source\options-hardware.xml
+2016-10-15 20:00:40 .R..A         1760               src\ATHelpFile\source\options-system.xml
+2016-10-15 20:00:40 .R..A         2292               src\ATHelpFile\source\options.xml
+2016-10-15 20:00:40 .R..A         4476               src\PackResource.xml
+2016-10-15 20:00:40 .R..A         5601               src\ATHelpFile\source\pclink.xml
+2016-10-15 20:00:40 .R..A         1568               src\ATHelpFile\source\portable-mode.xml
+2016-10-15 20:00:40 .R..A         4897               src\ATHelpFile\source\profiles.xml
+2016-10-15 20:00:40 .R..A         6716               src\RawFont.xml
+2016-10-15 20:00:40 .R..A        15199               src\ATHelpFile\source\serial.xml
+2016-10-15 20:00:40 .R..A         3814               src\ATHelpFile\source\sx212.xml
+2016-10-15 20:00:40 .R..A         2992               src\ATHelpFile\source\toc.xml
+2016-10-15 20:00:40 .R..A         1316               src\ATHelpFile\source\touch.xml
+2016-10-15 20:00:40 .R..A         2252               src\ATHelpFile\source\troubleshooting.xml
+2016-10-15 20:00:40 .R..A         3292               src\ATHelpFile\source\ultimate1mb.xml
+2016-10-15 20:00:40 .R..A         8006               src\ATHelpFile\source\using-the-emulated-computer.xml
+2016-10-15 20:00:40 .R..A         3573               src\ATHelpFile\source\vbxe.xml
+2016-10-15 20:00:40 .R..A         2892               src\ATHelpFile\source\xep80.xml
+2016-10-15 20:00:42 .R..A         4359               src\YASM.xml
+2016-10-15 20:00:40 .R..A         5396               src\ATHelpFile\source\compatibility.xsl
+2016-10-15 20:00:40 .R..A         4334               src\ATHelpFile\source\index.xsl
+2016-10-15 20:00:40 .R..A         1242               src\ATHelpFile\source\toc.xsl
+2016-10-15 20:00:40 .R..A        10079               src\BUILD-HOWTO.html
+2016-10-15 20:00:40 .R..A         2615               src\ATBasic\doc\internals.html
+2016-10-15 20:00:40 ....A         2131               src\ATHelpFile\source\layout.css
+2016-10-15 20:00:38 .R..A         1790               src\Altirra\res\about.txt
+2016-10-15 20:00:40 .R..A         1258               src\ATBasic\tests\array.txt
+2016-10-15 20:00:40 .R..A          354               src\ATBasic\tests\blockif.txt
+2016-10-16 17:33:40 .R..A       103614               src\Altirra\res\changes.txt
+2016-10-15 20:00:40 .R..A         1057               src\ATBasic\tests\data.txt
+2016-10-15 20:00:38 .R..A        71341               src\Altirra\res\dbghelp.txt
+2016-10-15 20:00:40 .R..A          873               src\ATBasic\tests\expprec.txt
+2016-10-15 20:00:40 .R..A          849               src\ATBasic\tests\fcomp.txt
+2016-10-15 20:00:40 .R..A          277               src\Kernel\source\Additions\filelist.txt
+2016-10-15 20:00:40 .R..A         5786               src\ATBasic\tests\func.txt
+2016-10-15 20:00:40 .R..A          615               src\ATBasic\tests\input.txt
+2016-10-15 20:00:40 .R..A           90               src\ATBasic\tests\io.txt
+2016-10-15 20:00:40 .R..A          822               src\ATBasic\tests\io2.txt
+2016-10-15 20:00:40 .R..A          976               src\ATBasic\tests\io3.txt
+2016-10-15 20:00:40 .R..A          296               src\ATBasic\tests\logical.txt
+2016-10-15 20:00:40 .R..A         1522               src\ATBasic\tests\mathtran.txt
+2016-10-15 20:00:40 .R..A          234               src\AltirraShell\res\menu.txt
+2016-10-15 20:00:38 .R..A        13304               src\Altirra\res\menu_default.txt
+2016-10-15 20:00:40 .R..A          603               src\ATBasic\tests\on.txt
+2016-10-15 20:00:40 .R..A          452               src\ATBasic\tests\parse2.txt
+2016-10-15 20:00:40 .R..A         1063               src\ATBasic\tests\parse3.txt
+2016-10-15 20:00:40 .R..A         1850               src\ATBasic\tests\parseall.txt
+2016-10-15 20:00:40 .R..A          182               src\ATBasic\tests\pmtest2.txt
+2016-10-15 20:00:40 .R..A          673               src\ATBasic\tests\pow.txt
+2016-10-15 20:00:40 .R..A          281               src\ATBasic\tests\rtstack.txt
+2016-10-15 20:00:40 .R..A          807               src\ATBasic\tests\strcomp.txt
+2016-10-15 20:00:40 .R..A          844               src\ATBasic\tests\strcomp1.txt
+2016-10-15 20:00:40 .R..A          313               src\ATBasic\tests\strcomp2.txt
+2016-10-15 20:00:40 .R..A          875               src\ATBasic\tests\strfunc.txt
+2016-10-15 20:00:40 .R..A         1026               src\ATBasic\tests\strings.txt
+2016-10-15 20:00:40 .R..A          424               src\Kasumi\data\Tuffy.txt
+2016-10-15 20:00:40 .R..A        19300               src\Kasumi\data\Tuffy.ttf
+2016-10-15 20:00:40 .R..A        12393               src\Kasumi\source\a64_resample.asm64
+2016-10-15 20:00:38 .R..A          326               src\Altirra\res\target.cur
+2016-10-15 20:00:38 .R..A          326               src\Altirra\res\targetoff.cur
+2016-10-15 20:00:38 .R..A        48689               src\Altirra\Altirra.vcxproj.filters
+2016-10-15 20:00:40 .R..A         5173               src\AltirraShell\AltirraShell.vcxproj.filters
+2016-10-15 20:00:40 .R..A         4195               src\Asuka\Asuka.vcxproj.filters
+2016-10-15 20:00:40 .R..A         1735               src\ATAppBase\ATAppBase.vcxproj.filters
+2016-10-15 20:00:40 .R..A         2753               src\ATBasic\atbasic.vcxproj.filters
+2016-10-15 20:00:40 .R..A         2082               src\ATCompiler\ATCompiler.vcxproj.filters
+2016-10-15 20:00:40 .R..A         5116               src\ATCore\ATCore.vcxproj.filters
+2016-10-15 20:00:40 .R..A         2262               src\ATCPU\ATCPU.vcxproj.filters
+2016-10-15 20:00:40 .R..A         1269               src\ATDebugger\ATDebugger.vcxproj.filters
+2016-10-15 20:00:40 .R..A         3854               src\ATDevices\ATDevices.vcxproj.filters
+2016-10-15 20:00:40 .R..A         1279               src\ATHelpBuilder\ATHelpBuilder.vcxproj.filters
+2016-10-15 20:00:40 .R..A         5562               src\ATHelpFile\ATHelpFile.vcxproj.filters
+2016-10-15 20:00:40 .R..A         3574               src\ATIO\ATIO.vcxproj.filters
+2016-10-15 20:00:40 .R..A         3677               src\ATNativeUI\ATNativeUI.vcxproj.filters
+2016-10-15 20:00:40 .R..A         3381               src\ATNetwork\ATNetwork.vcxproj.filters
+2016-10-15 20:00:40 .R..A         1929               src\ATNetworkSockets\ATNetworkSockets.vcxproj.filters
+2016-10-15 20:00:40 .R..A         1490               src\ATTest\ATTest.vcxproj.filters
+2016-10-15 20:00:40 .R..A         2991               src\ATUI\ATUI.vcxproj.filters
+2016-10-15 20:00:40 .R..A         4734               src\Dita\Dita.vcxproj.filters
+2016-10-15 20:00:40 .R..A         1162               src\HLECompiler\HLECompiler.vcxproj.filters
+2016-10-15 20:00:40 .R..A         2368               src\HLEKernel\HLEKernel.vcxproj.filters
+2016-10-15 20:00:40 .R..A        12013               src\Kasumi\Kasumi.vcxproj.filters
+2016-10-15 20:00:40 .R..A        10946               src\Kernel\Kernel.vcxproj.filters
+2016-10-15 20:00:40 .R..A         3458               src\Riza\Riza.vcxproj.filters
+2016-10-15 20:00:40 .R..A        14415               src\system\system.vcxproj.filters
+2016-10-15 20:00:42 .R..A         3627               src\Tessa\Tessa.vcxproj.filters
+2016-10-15 20:00:42 .R..A         8779               src\VDDisplay\VDDisplay.vcxproj.filters
+2016-10-15 20:00:42 .R..A         1024               src\VDDisplay\shaders\displayd3d9.fx
+2016-10-15 20:00:42 .R..A         8219               src\VDDisplay\shaders\image.fx
+2016-10-15 20:00:42 .R..A         1274               src\VDDisplay\shaders\bicubic.fxh
+2016-10-15 20:00:42 .R..A         2116               src\VDDisplay\shaders\displayd3d9_ff.fxh
+2016-10-15 20:00:42 .R..A        14923               src\VDDisplay\shaders\displayd3d9_ps1.fxh
+2016-10-15 20:00:42 .R..A         4880               src\VDDisplay\shaders\displayd3d9_ps14.fxh
+2016-10-15 20:00:42 .R..A        24287               src\VDDisplay\shaders\displayd3d9_ps2.fxh
+2016-10-15 20:00:42 .R..A         3152               src\VDDisplay\shaders\displayd3d9_stddefs.fxh
+2016-10-15 20:00:42 .R..A          819               src\VDDisplay\shaders\pal8.fxh
+2016-10-15 20:00:42 .R..A         3056               src\VDDisplay\shaders\render.fxh
+2016-10-15 20:00:42 .R..A         1353               src\VDDisplay\shaders\rgb.fxh
+2016-10-15 20:00:42 .R..A          341               src\VDDisplay\shaders\sysdefs.fxh
+2016-10-15 20:00:42 .R..A         2826               src\VDDisplay\shaders\utils.fxh
+2016-10-15 20:00:42 .R..A         1781               src\VDDisplay\shaders\ycbcr.fxh
+2016-10-15 20:00:42 .R..A         5000               src\VDDisplay\shaders\ycbcr_interleaved.fxh
+2016-10-15 20:00:40 .R..A          593               src\ATHelpFile\source\athelp.hhc
+2016-10-15 20:00:40 .R..A          351               src\ATHelpFile\source\athelp.hhp
+2016-10-15 20:00:40 .R..A          217               src\ATHelpFile\source\athelp.hhw
+2016-10-15 20:00:40 .R..A         3470               src\HLEKernel\source\blackboard.k
+2016-10-15 20:00:40 .R..A         3245               src\HLEKernel\source\boot.k
+2016-10-15 20:00:40 .R..A         2689               src\HLEKernel\source\bugcheck.k
+2016-10-15 20:00:40 .R..A         4448               src\HLEKernel\source\cassette.k
+2016-10-15 20:00:40 .R..A        10992               src\HLEKernel\source\cio.k
+2016-10-15 20:00:40 .R..A         1177               src\HLEKernel\source\disk.k
+2016-10-15 20:00:40 .R..A        12679               src\HLEKernel\source\editor.k
+2016-10-15 20:00:40 .R..A         7605               src\HLEKernel\source\init.k
+2016-10-15 20:00:40 .R..A         2779               src\HLEKernel\source\irq.k
+2016-10-15 20:00:40 .R..A        15810               src\HLEKernel\source\kernel.k
+2016-10-15 20:00:40 .R..A         4892               src\HLEKernel\source\keyboard.k
+2016-10-15 20:00:40 .R..A         3425               src\HLEKernel\source\mathpack.k
+2016-10-15 20:00:40 .R..A         7492               src\HLEKernel\source\nmi.k
+2016-10-15 20:00:40 .R..A         1888               src\HLEKernel\source\pbi.k
+2016-10-15 20:00:40 .R..A        16918               src\HLEKernel\source\screen.k
+2016-10-15 20:00:40 .R..A        11685               src\HLEKernel\source\sio.k
+2016-10-15 20:00:40 .R..A          876               src\HLEKernel\source\xlext.k
+2016-10-15 20:00:40 .R..A         4086               src\Shared\altirra.natvis
+2016-10-15 20:00:38 .R..A        64024               src\Altirra\res\DiskSpin.pcm
+2016-10-15 20:00:38 .R..A         3868               src\Altirra\res\trackstep.pcm
+2016-10-15 20:00:38 .R..A         1778               src\Altirra\res\TrackStep2.pcm
+2016-10-15 20:00:38 .R..A        11434               src\Altirra\res\TrackStep3.pcm
+2016-10-15 20:00:38 .R..A          526               src\Altirra-DebugBuildTools.props
+2016-10-15 20:00:38 .R..A          528               src\Altirra-ReleaseBuildTools.props
+2016-10-15 20:00:38 .R..A         3054               src\Altirra.props
+2016-10-16 18:42:00 .R..A          824               src\DirectXSDK.props
+2016-10-15 20:00:40 .R..A          969               src\PackResource.props
+2016-10-15 20:00:40 .R..A          387               src\PlatformSetup.props
+2016-10-15 20:00:40 .R..A         1305               src\RawFont.props
+2016-10-15 20:00:40 .R..A          568               src\Build\VCDisableTelemetry.props
+2016-10-15 20:00:42 .R..A          853               src\VirtualDub-VC2005-AMD64.props
+2016-10-15 20:00:42 .R..A          501               src\VirtualDub-VC2005-Debug.props
+2016-10-15 20:00:42 .R..A          654               src\VirtualDub-VC2005-IX86.props
+2016-10-15 20:00:42 .R..A          503               src\VirtualDub-VC2005-Release.props
+2016-10-15 20:00:42 .R..A         1879               src\VirtualDub-VC2005.props
+2016-10-15 20:00:42 .R..A         1077               src\YASM.props
+2016-10-15 20:00:38 .R..A       131752               src\Altirra\res\altirraexticons.res
+2016-10-16 17:42:26 ....A        10240               out\release\kernel.rom
+2016-10-15 20:00:40 .R..A        17126               src\ATBasic\source\atbasic.s
+2016-10-15 20:00:40 .R..A         2421               src\Kernel\source\Additions\autorun.s
+2016-10-15 20:00:40 .R..A         1514               src\Kernel\source\Ultimate\bios.s
+2016-10-15 20:00:40 .R..A          641               src\Kernel\source\Shared\blackboard.s
+2016-10-15 20:00:40 .R..A         4084               src\Kernel\source\Shared\boot.s
+2016-10-15 20:00:40 .R..A         2754               src\Kernel\source\Additions\boot1030.s
+2016-10-15 20:00:40 .R..A         7665               src\Kernel\source\Additions\boot850.s
+2016-10-15 20:00:40 .R..A         9549               src\Kernel\source\Shared\bootscreen.s
+2016-10-15 20:00:40 .R..A         1431               src\Kernel\source\BootSector\bootsecdos2.s
+2016-10-15 20:00:40 .R..A         7825               src\Kernel\source\Shared\cassette.s
+2016-10-15 20:00:40 .R..A        15448               src\Kernel\source\Shared\cio.s
+2016-10-15 20:00:40 .R..A         4234               src\Kernel\source\Additions\colormap.s
+2016-10-15 20:00:40 .R..A         9075               src\Kernel\source\Additions\cp.s
+2016-10-15 20:00:40 .R..A         7340               src\ATBasic\source\data.s
+2016-10-15 20:00:40 .R..A         1998               src\Kernel\source\Shared\disk.s
+2016-10-15 20:00:40 .R..A        53899               src\Kernel\source\Additions\dos.s
+2016-10-15 20:00:40 .R..A        24679               src\Kernel\source\Shared\editor.s
+2016-10-15 20:00:40 .R..A         2359               src\ATBasic\source\error.s
+2016-10-15 20:00:40 .R..A        20555               src\ATBasic\source\evaluator.s
+2016-10-15 20:00:40 .R..A        13888               src\ATBasic\source\exec.s
+2016-10-15 20:00:40 .R..A         8484               src\Kernel\source\ExeLoader\exeloader-hispeed.s
+2016-10-15 20:00:40 .R..A         1850               src\Kernel\source\ExeLoader\exeloader-nobasic.s
+2016-10-15 20:00:40 .R..A         1809               src\Kernel\source\ExeLoader\exeloader.s
+2016-10-15 20:00:40 .R..A         3260               src\Kernel\source\1030\firmware.s
+2016-10-15 20:00:40 .R..A        35524               src\ATBasic\source\functions.s
+2016-10-15 20:00:40 .R..A        21495               src\Kernel\source\850\handler.s
+2016-10-15 20:00:40 .R..A        30430               src\Kernel\source\1030\handler.s
+2016-10-15 20:00:40 .R..A        11800               src\Kernel\source\Shared\init.s
+2016-10-15 20:00:40 .R..A         1551               src\Kernel\source\Shared\interrupt.s
+2016-10-15 20:00:40 .R..A         6813               src\ATBasic\source\io.s
+2016-10-15 20:00:40 .R..A         3537               src\Kernel\source\Shared\irq.s
+2016-10-15 20:00:40 .R..A         4381               src\Kernel\source\Ultimate\kernel.s
+2016-10-15 20:00:40 .R..A         4775               src\Kernel\source\Shared\keyboard.s
+2016-10-15 20:00:40 .R..A         1719               src\Kernel\source\Shared\keytable.s
+2016-10-15 20:00:40 .R..A         8710               src\ATBasic\source\list.s
+2016-10-15 20:00:40 .R..A         1398               src\Kernel\source\Ultimate\main.s
+2016-10-15 20:00:40 .R..A         3722               src\Kernel\source\NoGame\main.s
+2016-10-15 20:00:40 .R..A         4613               src\Kernel\source\NoHDBIOS\main.s
+2016-10-15 20:00:40 .R..A        10810               src\Kernel\source\ATDiskLoader\main.s
+2016-10-15 20:00:40 .R..A        14638               src\Kernel\source\NoCartridge\main.s
+2016-10-15 20:00:40 .R..A         3937               src\ATBasic\source\math.s
+2016-10-15 20:00:40 .R..A        34612               src\Kernel\source\Shared\mathpack.s
+2016-10-15 20:00:40 .R..A         3051               src\ATBasic\source\memory.s
+2016-10-15 20:00:40 .R..A         1180               src\Kernel\source\Shared\misc.s
+2016-10-15 20:00:40 .R..A         4621               src\Kernel\source\Placeholders\noblackbox.s
+2016-10-15 20:00:40 .R..A         4621               src\Kernel\source\Placeholders\nomio.s
+2016-10-15 20:00:40 .R..A        24019               src\ATBasic\source\parser.s
+2016-10-15 20:00:40 .R..A        24882               src\ATBasic\source\parserbytecode.s
+2016-10-15 20:00:40 .R..A         6027               src\Kernel\source\Shared\pbi.s
+2016-10-15 20:00:40 .R..A         2149               src\Kernel\source\PBIDisk\pbidisk.s
+2016-10-15 20:00:40 .R..A        15403               src\Kernel\source\Shared\phandler.s
+2016-10-15 20:00:40 .R..A         3642               src\Kernel\source\SAPPlayers\playsap-b.s
+2016-10-15 20:00:40 .R..A         3753               src\Kernel\source\SAPPlayers\playsap-c.s
+2016-10-15 20:00:40 .R..A         5973               src\Kernel\source\SAPPlayers\playsap-d.s
+2016-10-15 20:00:40 .R..A         5082               src\Kernel\source\SAPPlayers\playsap-r.s
+2016-10-15 20:00:40 .R..A         3078               src\Kernel\source\Shared\printer.s
+2016-10-15 20:00:40 .R..A         3963               src\Kernel\source\850\relocator.s
+2016-10-15 20:00:40 .R..A         5176               src\Kernel\source\Additions\rhnd850.s
+2016-10-15 20:00:40 .R..A        41003               src\Kernel\source\Shared\screen.s
+2016-10-15 20:00:40 .R..A         3642               src\Kernel\source\Shared\screenext.s
+2016-10-15 20:00:40 .R..A          457               src\Kernel\source\Shared\selftestentry.s
+2016-10-15 20:00:40 .R..A        18105               src\Kernel\source\Shared\sio.s
+2016-10-15 20:00:40 .R..A         1727               src\Kernel\source\softkick.s
+2016-10-15 20:00:40 .R..A        41722               src\ATBasic\source\statements.s
+2016-10-15 20:00:40 .R..A         5467               src\Kernel\source\Additions\sx212.s
+2016-10-15 20:00:40 .R..A        21917               src\Kernel\source\Additions\sx212handler.s
+2016-10-15 20:00:40 .R..A         4219               src\Kernel\source\Additions\thnd1030.s
+2016-10-15 20:00:40 .R..A         1680               src\ATBasic\source\util.s
+2016-10-15 20:00:40 .R..A         1494               src\ATBasic\source\variables.s
+2016-10-15 20:00:40 .R..A         8749               src\Kernel\source\Shared\vbi.s
+2016-10-15 20:00:40 .R..A         5273               src\Kernel\source\Additions\xep80.s
+2016-10-15 20:00:40 .R..A        21964               src\Kernel\source\Additions\xep80handler.s
+2016-10-15 20:00:40 .R..A         3649               src\PackResource.targets
+2016-10-15 20:00:40 .R..A         4101               src\RawFont.targets
+2016-10-15 20:00:42 .R..A         3164               src\YASM.targets
+2016-10-15 20:00:38 .R..A        67496               src\Altirra\Altirra.vcxproj
+2016-10-15 20:00:40 .R..A        19787               src\AltirraShell\AltirraShell.vcxproj
+2016-10-15 20:00:40 .R..A        23022               src\Asuka\Asuka.vcxproj
+2016-10-15 20:00:40 .R..A        10829               src\ATAppBase\ATAppBase.vcxproj
+2016-10-15 20:00:40 .R..A         3989               src\ATBasic\atbasic.vcxproj
+2016-10-15 20:00:40 .R..A         6004               src\ATCompiler\ATCompiler.vcxproj
+2016-10-15 20:00:40 .R..A        15513               src\ATCore\ATCore.vcxproj
+2016-10-15 20:00:40 .R..A        12979               src\ATCPU\ATCPU.vcxproj
+2016-10-15 20:00:40 .R..A        11114               src\ATDebugger\ATDebugger.vcxproj
+2016-10-15 20:00:40 .R..A        15949               src\ATDevices\ATDevices.vcxproj
+2016-10-15 20:00:40 .R..A         6352               src\ATHelpBuilder\ATHelpBuilder.vcxproj
+2016-10-15 20:00:40 .R..A         8802               src\ATHelpFile\ATHelpFile.vcxproj
+2016-10-15 20:00:40 .R..A        13183               src\ATIO\ATIO.vcxproj
+2016-10-15 20:00:40 .R..A        16267               src\ATNativeUI\ATNativeUI.vcxproj
+2016-10-15 20:00:40 .R..A        13665               src\ATNetwork\ATNetwork.vcxproj
+2016-10-15 20:00:40 .R..A        11939               src\ATNetworkSockets\ATNetworkSockets.vcxproj
+2016-10-15 20:00:40 .R..A         8608               src\ATTest\ATTest.vcxproj
+2016-10-15 20:00:40 .R..A        11459               src\ATUI\ATUI.vcxproj
+2016-10-15 20:00:40 .R..A        35423               src\Dita\Dita.vcxproj
+2016-10-15 20:00:40 .R..A         6327               src\HLECompiler\HLECompiler.vcxproj
+2016-10-15 20:00:40 .R..A         6646               src\HLEKernel\HLEKernel.vcxproj
+2016-10-15 20:00:40 .R..A        40473               src\Kasumi\Kasumi.vcxproj
+2016-10-15 20:00:40 .R..A         7363               src\Kernel\Kernel.vcxproj
+2016-10-15 20:00:40 .R..A        20402               src\Riza\Riza.vcxproj
+2016-10-15 20:00:40 .R..A        55238               src\system\system.vcxproj
+2016-10-15 20:00:42 .R..A         9364               src\Tessa\Tessa.vcxproj
+2016-10-15 20:00:42 .R..A        18334               src\VDDisplay\VDDisplay.vcxproj
+2016-10-15 20:00:42 .R..A         9319               src\vdjson\vdjson.vcxproj
+2016-10-15 20:00:40 .R..A         2300               src\Kernel\source\SuperKernel\includes.xasm
+2016-10-15 20:00:40 .R..A          876               src\Kernel\source\loader.xasm
+2016-10-15 20:00:40 .R..A         3812               src\Kernel\source\BASIC\main.xasm
+2016-10-15 20:00:40 .R..A         4196               src\Kernel\source\NoKernel\main.xasm
+2016-10-15 20:00:40 .R..A         6406               src\Kernel\source\main.xasm
+2016-10-15 20:00:40 .R..A         6656               src\Kernel\source\SuperKernel\main.xasm
+2016-10-15 20:00:40 .R..A            0            0  src\Kernel\autobuild\version-dummy.inc
+2016-10-15 20:00:42 .R..A            0            0  src\VDDisplay\source\directdraw.cpp
+2017-03-17 09:53:19 D....            0            0  src\vdjson\source
+2017-03-17 09:53:19 D....            0            0  src\vdjson\h
+2017-03-17 09:53:19 D....            0            0  src\vdjson
+2017-03-17 09:53:19 D....            0            0  src\VDDisplay\source
+2017-03-17 09:53:18 D....            0            0  src\VDDisplay\shaders
+2017-03-17 09:53:18 D....            0            0  src\VDDisplay\h\vd2\VDDisplay\internal
+2017-03-17 09:53:18 D....            0            0  src\VDDisplay\h\vd2\VDDisplay
+2017-03-17 09:53:18 D....            0            0  src\VDDisplay\h\vd2
+2017-03-17 09:53:18 D....            0            0  src\VDDisplay\h
+2017-03-17 09:53:18 D....            0            0  src\VDDisplay\autogen
+2017-03-17 09:53:19 D....            0            0  src\VDDisplay
+2017-03-17 09:53:18 D....            0            0  src\Tessa\source\D3D9
+2017-03-17 09:53:18 D....            0            0  src\Tessa\source\D3D11
+2017-03-17 09:53:18 D....            0            0  src\Tessa\source
+2017-03-17 09:53:18 D....            0            0  src\Tessa\h\D3D9
+2017-03-17 09:53:18 D....            0            0  src\Tessa\h\D3D11
+2017-03-17 09:53:18 D....            0            0  src\Tessa\h
+2017-03-17 09:53:18 D....            0            0  src\Tessa
+2017-03-17 09:53:18 D....            0            0  src\system\source\win32
+2017-03-17 09:53:18 D....            0            0  src\system\source
+2017-03-17 09:53:18 D....            0            0  src\system\h
+2017-03-17 09:53:18 D....            0            0  src\system
+2017-03-17 09:53:18 D....            0            0  src\Shared
+2017-03-17 09:53:18 D....            0            0  src\Riza\source
+2017-03-17 09:53:18 D....            0            0  src\Riza
+2017-03-17 09:53:18 D....            0            0  src\Misc\driveconv
+2017-03-17 09:53:18 D....            0            0  src\Misc\audiofilter
+2017-03-17 09:53:18 D....            0            0  src\Misc
+2017-03-17 09:53:18 D....            0            0  src\Kernel\source\Ultimate
+2017-03-17 09:53:18 D....            0            0  src\Kernel\source\SuperKernel
+2017-03-17 09:53:19 D....            0            0  src\Kernel\source\Shared
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\SAPPlayers
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\Placeholders
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\PBIDisk
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\NoKernel
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\NoHDBIOS
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\NoGame
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\NoCartridge
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\ExeLoader
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\BootSector
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\BASIC
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\ATDiskLoader
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\Additions
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\850
+2017-03-17 09:53:17 D....            0            0  src\Kernel\source\1030
+2017-03-17 09:53:18 D....            0            0  src\Kernel\source
+2017-03-17 09:53:17 D....            0            0  src\Kernel\autobuild_default
+2017-03-17 09:53:17 D....            0            0  src\Kernel\autobuild
+2017-03-17 09:53:19 D....            0            0  src\Kernel
+2017-03-17 09:53:17 D....            0            0  src\Kasumi\source
+2017-03-17 09:53:17 D....            0            0  src\Kasumi\h
+2017-03-17 09:53:19 D....            0            0  src\Kasumi\data
+2017-03-17 09:53:19 D....            0            0  src\Kasumi
+2017-03-17 09:53:17 D....            0            0  src\HLEKernel\source
+2017-03-17 09:53:19 D....            0            0  src\HLEKernel
+2017-03-17 09:53:17 D....            0            0  src\HLECompiler
+2017-03-17 09:53:17 D....            0            0  src\h\vd2\vdjson
+2017-03-17 09:53:17 D....            0            0  src\h\vd2\VDDisplay
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\Tessa
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\system\win32
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\system\source
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\system
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\Riza
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\Kasumi
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\external
+2017-03-17 09:53:16 D....            0            0  src\h\vd2\Dita
+2017-03-17 09:53:17 D....            0            0  src\h\vd2
+2017-03-17 09:53:16 D....            0            0  src\h\at\atui
+2017-03-17 09:53:16 D....            0            0  src\h\at\atnetworksockets
+2017-03-17 09:53:16 D....            0            0  src\h\at\atnetwork
+2017-03-17 09:53:16 D....            0            0  src\h\at\atnativeui
+2017-03-17 09:53:16 D....            0            0  src\h\at\atio
+2017-03-17 09:53:16 D....            0            0  src\h\at\atdevices
+2017-03-17 09:53:16 D....            0            0  src\h\at\atdebugger
+2017-03-17 09:53:16 D....            0            0  src\h\at\atcpu
+2017-03-17 09:53:16 D....            0            0  src\h\at\atcore
+2017-03-17 09:53:15 D....            0            0  src\h\at\atappbase
+2017-03-17 09:53:16 D....            0            0  src\h\at
+2017-03-17 09:53:16 D....            0            0  src\h
+2017-03-17 09:53:15 D....            0            0  src\Dita\source
+2017-03-17 09:53:15 D....            0            0  src\Dita\h
+2017-03-17 09:53:15 D....            0            0  src\Dita
+2017-03-17 09:53:15 D....            0            0  src\Build
+2017-03-17 09:53:15 D....            0            0  src\ATUI\source
+2017-03-17 09:53:15 D....            0            0  src\ATUI\h
+2017-03-17 09:53:15 D....            0            0  src\ATUI
+2017-03-17 09:53:15 D....            0            0  src\ATTest\source
+2017-03-17 09:53:15 D....            0            0  src\ATTest\h
+2017-03-17 09:53:15 D....            0            0  src\ATTest
+2017-03-17 09:53:15 D....            0            0  src\ATNetworkSockets\source
+2017-03-17 09:53:15 D....            0            0  src\ATNetworkSockets\h\at\atnetworksockets\internal
+2017-03-17 09:53:15 D....            0            0  src\ATNetworkSockets\h\at\atnetworksockets
+2017-03-17 09:53:15 D....            0            0  src\ATNetworkSockets\h\at
+2017-03-17 09:53:15 D....            0            0  src\ATNetworkSockets\h
+2017-03-17 09:53:15 D....            0            0  src\ATNetworkSockets
+2017-03-17 09:53:15 D....            0            0  src\ATNetwork\source
+2017-03-17 09:53:15 D....            0            0  src\ATNetwork\h\at\atnetwork\internal
+2017-03-17 09:53:15 D....            0            0  src\ATNetwork\h\at\atnetwork
+2017-03-17 09:53:15 D....            0            0  src\ATNetwork\h\at
+2017-03-17 09:53:15 D....            0            0  src\ATNetwork\h
+2017-03-17 09:53:15 D....            0            0  src\ATNetwork
+2017-03-17 09:53:15 D....            0            0  src\ATNativeUI\source
+2017-03-17 09:53:15 D....            0            0  src\ATNativeUI\res
+2017-03-17 09:53:15 D....            0            0  src\ATNativeUI\h
+2017-03-17 09:53:15 D....            0            0  src\ATNativeUI
+2017-03-17 09:53:15 D....            0            0  src\ATIO\source
+2017-03-17 09:53:15 D....            0            0  src\ATIO\h
+2017-03-17 09:53:15 D....            0            0  src\ATIO\autogen
+2017-03-17 09:53:15 D....            0            0  src\ATIO
+2017-03-17 09:53:19 D....            0            0  src\ATHelpFile\source
+2017-03-17 09:53:15 D....            0            0  src\ATHelpFile
+2017-03-17 09:53:15 D....            0            0  src\ATHelpBuilder\source
+2017-03-17 09:53:14 D....            0            0  src\ATHelpBuilder\h
+2017-03-17 09:53:14 D....            0            0  src\ATHelpBuilder
+2017-03-17 09:53:14 D....            0            0  src\ATDevices\source
+2017-03-17 09:53:14 D....            0            0  src\ATDevices\h\at\atdevices
+2017-03-17 09:53:14 D....            0            0  src\ATDevices\h\at
+2017-03-17 09:53:14 D....            0            0  src\ATDevices\h
+2017-03-17 09:53:14 D....            0            0  src\ATDevices\autogen
+2017-03-17 09:53:14 D....            0            0  src\ATDevices
+2017-03-17 09:53:14 D....            0            0  src\ATDebugger\source
+2017-03-17 09:53:14 D....            0            0  src\ATDebugger\h
+2017-03-17 09:53:14 D....            0            0  src\ATDebugger
+2017-03-17 09:53:14 D....            0            0  src\ATCPU\source
+2017-03-17 09:53:14 D....            0            0  src\ATCPU\h
+2017-03-17 09:53:14 D....            0            0  src\ATCPU
+2017-03-17 09:53:14 D....            0            0  src\ATCore\source
+2017-03-17 09:53:14 D....            0            0  src\ATCore\h
+2017-03-17 09:53:14 D....            0            0  src\ATCore
+2017-03-17 09:53:14 D....            0            0  src\ATCompiler\source
+2017-03-17 09:53:14 D....            0            0  src\ATCompiler\h
+2017-03-17 09:53:14 D....            0            0  src\ATCompiler
+2017-03-17 09:53:14 D....            0            0  src\ATBasic\tests
+2017-03-17 09:53:14 D....            0            0  src\ATBasic\source
+2017-03-17 09:53:14 D....            0            0  src\ATBasic\doc
+2017-03-17 09:53:19 D....            0            0  src\ATBasic
+2017-03-17 09:53:14 D....            0            0  src\ATAppBase\source
+2017-03-17 09:53:14 D....            0            0  src\ATAppBase\h
+2017-03-17 09:53:14 D....            0            0  src\ATAppBase
+2017-03-17 09:53:14 D....            0            0  src\Asuka\source
+2017-03-17 09:53:14 D....            0            0  src\Asuka\res
+2017-03-17 09:53:14 D....            0            0  src\Asuka\h
+2017-03-17 09:53:14 D....            0            0  src\Asuka
+2017-03-17 09:53:14 D....            0            0  src\AltirraShell\source
+2017-03-17 09:53:14 D....            0            0  src\AltirraShell\res
+2017-03-17 09:53:14 D....            0            0  src\AltirraShell\manifest
+2017-03-17 09:53:13 D....            0            0  src\AltirraShell\h
+2017-03-17 09:53:13 D....            0            0  src\AltirraShell\autogen
+2017-03-17 09:53:14 D....            0            0  src\AltirraShell
+2017-03-17 09:53:13 D....            0            0  src\Altirra\source
+2017-03-17 09:53:19 D....            0            0  src\Altirra\res
+2017-03-17 09:53:12 D....            0            0  src\Altirra\manifest
+2017-03-17 09:53:12 D....            0            0  src\Altirra\h
+2017-03-17 09:53:11 D....            0            0  src\Altirra\data
+2017-03-17 09:53:11 D....            0            0  src\Altirra\autogen
+2017-03-17 09:53:11 D....            0            0  src\Altirra\autobuild_default
+2017-03-17 09:53:11 D....            0            0  src\Altirra\autobuild
+2017-03-17 09:53:12 D....            0            0  src\Altirra
+2017-03-17 09:53:19 D....            0            0  src
+2017-03-17 09:53:19 D....            0            0  out\release
+2017-03-17 09:53:19 D....            0            0  out
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 09:53:19           13768936      2005719  1337 files, 161 folders

@@ -1,0 +1,5 @@
+﻿Release Notes
+1. Additional support mapper 1 (MMC1) and mapper 3 (CNROM), the current overall support mapper 0.1.2.3 a total of four main mapper 
+2. Additional SRAM record archive function (Sadal legend 1 generation can be recorded, but the current game screen a little Small problem) 
+3. increase the read ZIP file function 
+4. increase rom information reading interface 

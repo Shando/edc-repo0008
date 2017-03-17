@@ -1,0 +1,7 @@
+ v1.0.5 3rd January 2016
+ * Adds support for simple address=value hex cheat format
+ * Speed up nearest neighbour filtering a bit
+ * Option to disable filters on speedup (now enabled by default)
+ * Fix filterless rendering in 16-bit colour mode
+ * A bunch of code refactoring to facilitate future changes - should have no
+   effect from a user's perspective!
