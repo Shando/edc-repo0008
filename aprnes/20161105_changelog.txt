@@ -1,0 +1,2 @@
+﻿Release Notes
+This version changes the interface to increase the setting function with the reset function, add the zoom. Language .FPS limit. Handle keyboard operation settings, in addition to join the UNROM support (mapper 2) and fix rom load mapper judgment.

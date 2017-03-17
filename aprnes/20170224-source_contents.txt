@@ -1,0 +1,87 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-02-23 20:30:30 ....A      1734402      1694936  AprNes\bin\Debug\Background\569643.jpg
+2017-02-23 20:30:30 ....A        15662               AprNes\gamepad.ico
+2017-02-23 20:30:30 ....A        33176               AprNes\UI\AprNesUI.cs
+2017-02-23 20:30:30 ....A        15833               AprNes\UI\AprNesUI.Designer.cs
+2017-02-23 20:30:30 ....A        22876               AprNes\UI\AprNes_ConfigureUI.cs
+2017-02-23 20:30:30 ....A        43327               AprNes\UI\AprNes_ConfigureUI.designer.cs
+2017-02-23 20:30:30 ....A         1687               AprNes\UI\AprNes_Info.cs
+2017-02-23 20:30:30 ....A         4533               AprNes\UI\AprNes_Info.Designer.cs
+2017-02-23 20:30:30 ....A          701               AprNes\UI\AprNes_RomInfoUI.cs
+2017-02-23 20:30:30 ....A         3478               AprNes\UI\AprNes_RomInfoUI.Designer.cs
+2017-02-23 20:30:30 ....A        13950               AprNes\NesCore\APU.cs
+2017-02-23 20:30:30 ....A         1388               AprNes\Properties\AssemblyInfo.cs
+2017-02-23 20:30:30 ....A        92872               AprNes\NesCore\VERBACKUP\CPU-20161201-1.cs
+2017-02-23 20:30:30 ....A        92481               AprNes\NesCore\VERBACKUP\CPU-20161201-2.cs
+2017-02-23 20:30:30 ....A        87440               AprNes\NesCore\VERBACKUP\CPU-20161201-3.cs
+2017-02-23 20:30:30 ....A        88711               AprNes\NesCore\VERBACKUP\CPU-20161202-1.cs
+2017-02-23 20:30:30 ....A        99496               AprNes\NesCore\CPU-old.cs
+2017-02-23 20:30:30 ....A        85479               AprNes\NesCore\VERBACKUP\CPU-reduce.cs
+2017-02-23 20:30:30 ....A       100561               AprNes\NesCore\CPU.cs
+2017-02-23 20:30:30 ....A          541               AprNes\NesCore\Mapper\IMapper.cs
+2017-02-23 20:30:30 ....A        10368               AprNes\tool\InterfaceGraphic.cs
+2017-02-23 20:30:30 ....A         2594               AprNes\NesCore\IO.cs
+2017-02-23 20:30:30 ....A         1251               AprNes\NesCore\JoyPad.cs
+2017-02-23 20:30:30 ....A         3839               AprNes\tool\joystick.cs
+2017-02-23 20:30:30 ....A         2138               AprNes\tool\LangINI.cs
+2017-02-23 20:30:30 ....A         8173               AprNes\tool\LibScanline.cs
+2017-02-23 20:30:30 ....A       111093               AprNes\tool\libXBRz.cs
+2017-02-23 20:30:30 ....A         9893               AprNes\NesCore\Main.cs
+2017-02-23 20:30:30 ....A         3914               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper.cs
+2017-02-23 20:30:30 ....A          369               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper000.cs
+2017-02-23 20:30:30 ....A         1092               AprNes\NesCore\Mapper\Mapper000.cs
+2017-02-23 20:30:30 ....A         2802               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper001.cs
+2017-02-23 20:30:30 ....A         4011               AprNes\NesCore\Mapper\Mapper001.cs
+2017-02-23 20:30:30 ....A          584               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper002.cs
+2017-02-23 20:30:30 ....A         1455               AprNes\NesCore\Mapper\Mapper002.cs
+2017-02-23 20:30:30 ....A          475               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper003.cs
+2017-02-23 20:30:30 ....A         1314               AprNes\NesCore\Mapper\Mapper003.cs
+2017-02-23 20:30:30 ....A         7423               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper004.cs
+2017-02-23 20:30:30 ....A         8595               AprNes\NesCore\Mapper\Mapper004.cs
+2017-02-23 20:30:30 ....A         8006               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper005.cs
+2017-02-23 20:30:30 ....A         8652               AprNes\NesCore\Mapper\Mapper005.cs
+2017-02-23 20:30:30 ....A          634               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper007.cs
+2017-02-23 20:30:30 ....A         1781               AprNes\NesCore\Mapper\Mapper007.cs
+2017-02-23 20:30:30 ....A          705               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper011.cs
+2017-02-23 20:30:30 ....A         1580               AprNes\NesCore\Mapper\Mapper011.cs
+2017-02-23 20:30:30 ....A          696               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper066.cs
+2017-02-23 20:30:30 ....A         1565               AprNes\NesCore\Mapper\Mapper066.cs
+2017-02-23 20:30:30 ....A          765               AprNes\NesCore\VERBACKUP\Mapper-20170106\Mapper071.cs
+2017-02-23 20:30:30 ....A         1610               AprNes\NesCore\Mapper\Mapper071.cs
+2017-02-23 20:30:30 ....A         8971               AprNes\NesCore\MEM.cs
+2017-02-23 20:30:30 ....A         5021               AprNes\tool\NativeAPIShare.cs
+2017-02-23 20:30:30 ....A         2551               AprNes\tool\NativeRendering.cs
+2017-02-23 20:30:30 ....A        22224               AprNes\NesCore\PPU.cs
+2017-02-23 20:30:30 ....A         1202               AprNes\NesCore\VERBACKUP\PPU_accurate.cs
+2017-02-23 20:30:30 ....A          435               AprNes\Program.cs
+2017-02-23 20:30:30 ....A         6160               AprNes\tool\Scalex.cs
+2017-02-23 20:30:30 ....A         1098               AprNes\Properties\Settings.Designer.cs
+2017-02-23 20:30:30 ....A         7286               AprNes\AprNes.csproj
+2017-02-23 20:30:30 ....A          840               AprNes.sln
+2017-02-23 20:30:30 ....A         1608               AprNes\NesCore\VERBACKUP\v1.txt
+2017-02-23 20:30:30 ....A         1342               AprNes\NesCore\VERBACKUP\v2.txt
+2017-02-23 20:30:30 ....A          336               AprNes\bin\Debug\AprNes.ini
+2017-02-23 20:30:30 ....A         1215               AprNes\bin\Debug\AprNesLang.ini
+2017-02-23 20:30:30 ....A          160               AprNes\app.config
+2017-02-23 20:30:30 ....A          160               AprNes\bin\Debug\AprNes.exe.config
+2017-02-23 20:30:30 ....A          378               .gitattributes
+2017-02-23 20:30:30 ....A         5159               .gitignore
+2017-02-23 20:30:30 ....A         9184               AprNes\UI\AprNesUI.resx
+2017-02-23 20:30:30 ....A         5698               AprNes\UI\AprNes_ConfigureUI.resx
+2017-02-23 20:30:30 ....A         5698               AprNes\UI\AprNes_Info.resx
+2017-02-23 20:30:30 ....A         5698               AprNes\UI\AprNes_RomInfoUI.resx
+2017-02-23 20:30:30 ....A          242               AprNes\Properties\Settings.settings
+2017-03-17 19:54:47 D....            0            0  AprNes\UI
+2017-03-17 19:54:47 D....            0            0  AprNes\tool
+2017-03-17 19:54:46 D....            0            0  AprNes\Properties
+2017-03-17 19:54:46 D....            0            0  AprNes\NesCore\VERBACKUP\Mapper-20170106
+2017-03-17 19:54:46 D....            0            0  AprNes\NesCore\VERBACKUP
+2017-03-17 19:54:46 D....            0            0  AprNes\NesCore\Mapper
+2017-03-17 19:54:46 D....            0            0  AprNes\NesCore
+2017-03-17 19:54:47 D....            0            0  AprNes\bin\Debug\Background
+2017-03-17 19:54:47 D....            0            0  AprNes\bin\Debug
+2017-03-17 19:54:47 D....            0            0  AprNes\bin
+2017-03-17 19:54:47 D....            0            0  AprNes
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 19:54:47            2838637      1694936  72 files, 11 folders

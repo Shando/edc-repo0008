@@ -1,0 +1,6 @@
+﻿Release Notes
+1.Mapper 4 (MMC3) support, the overall game to reach about 70% of the amount of support. 
+2. Modify fps limite Thread.Sleep parameters, significantly reduce the cpu usage. 
+3.xBRZ 6X filter increase, and improve the 
+efficiency 4.xBRz filter join processing Multi-core parallel 
+acceleration processing function (general performance computer should be safe to use 6x) 5.Mapper 7 (AxROM). 11 (ColorDreams). 66 (GxROM) .71 (Camerica) support

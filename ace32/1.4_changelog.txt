@@ -1,0 +1,3 @@
+1.4 on 03-Nov-97
+        Fixed bug in file spooling. (not patching out correctly).
+        Removed .TAP files from Archive due to s/w library expansion.

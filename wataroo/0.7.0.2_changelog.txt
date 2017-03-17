@@ -1,0 +1,12 @@
+Added :
+- Support for the MAGNUM mapper.
+- Small (160x160) and Large (800x800) window size presets.
+- 65C02 Address Viewer to WaTest.
+- Link Port Probe to WaTest.
+- History section in HTML Help.
+
+Cleanup :
+- CPU Stall Cycles weren’t accumulating properly.
+- Increased the silencing cutoff for the pulse channels from a division of zero to three.
+- DMA Controller actually does support VBUS to CBUS transfers and CPU stalling.
+- Link Port registers’ behavior was way off.

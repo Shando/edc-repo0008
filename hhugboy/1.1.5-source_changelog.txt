@@ -1,0 +1,5 @@
+ v1.1.5 2nd October 2016
+ * Support for (some) BBD games
+ * Support for "Dragon Ball Z 3" English translation of DBZ Goku Gekitouden
+ * Fix roms loaded from ZIP not showing up in the recent roms list
+ * More code refactoring mostly around rom type detection

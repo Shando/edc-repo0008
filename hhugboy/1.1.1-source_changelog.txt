@@ -1,0 +1,3 @@
+ v1.1.1 4th September 2016
+ * Adds detection for Korean 'Bomberman Selection' cart
+ * Fixes window layer issue affecting Sanguozhi Wudai

@@ -1,0 +1,52 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-01-21 01:48:06 ....A       377752       276947  ChangeLog
+2017-01-21 01:48:06 ....A        18010               COPYING
+2017-01-21 01:48:06 ....A         3306               Documentation\bwolf0.png
+2017-01-21 01:48:06 ....A         3958               Documentation\bwolf1.png
+2017-01-21 01:48:06 ....A          412               Documentation\headerbg.png
+2017-01-21 01:48:06 ....A        64681               Documentation\mednafen.png
+2017-01-21 01:48:06 ....A        10449               Documentation\sapphire0.png
+2017-01-21 01:48:06 ....A        11216               Documentation\sapphire1.png
+2017-01-21 01:48:06 ....A        13548               Documentation\cdplay.html
+2017-01-21 01:48:06 ....A           14               Documentation\cheat.html
+2017-01-21 01:48:06 ....A         9108               Documentation\debugger.html
+2017-01-21 01:48:06 ....A        14741               Documentation\gb.html
+2017-01-21 01:48:06 ....A        15649               Documentation\gba.html
+2017-01-21 01:48:06 ....A        13218               Documentation\gg.html
+2017-01-21 01:48:06 ....A        14762               Documentation\lynx.html
+2017-01-21 01:48:06 ....A        23265               Documentation\md.html
+2017-01-21 01:48:06 ....A       113189               Documentation\mednafen.html
+2017-01-21 01:48:06 ....A        53128               Documentation\nes.html
+2017-01-21 01:48:06 ....A         5006               Documentation\netplay.html
+2017-01-21 01:48:06 ....A        14725               Documentation\ngp.html
+2017-01-21 01:48:06 ....A        29421               Documentation\pce.html
+2017-01-21 01:48:06 ....A        20477               Documentation\pce_fast.html
+2017-01-21 01:48:06 ....A        27168               Documentation\pcfx.html
+2017-01-21 01:48:06 ....A        60040               Documentation\psx.html
+2017-01-21 01:48:06 ....A        15126               Documentation\sms.html
+2017-01-21 01:48:06 ....A        18705               Documentation\snes.html
+2017-01-21 01:48:06 ....A        17414               Documentation\snes_faust.html
+2017-01-21 01:48:06 ....A        31833               Documentation\ss.html
+2017-01-21 01:48:06 ....A        14097               Documentation\ssfplay.html
+2017-01-21 01:48:06 ....A        21747               Documentation\vb.html
+2017-01-21 01:48:06 ....A        18786               Documentation\wswan.html
+2017-01-21 01:48:06 ....A         1975               Documentation\mednafen.css
+2017-01-21 01:48:06 ....A          452               Documentation\cheats.txt
+2017-01-21 01:48:06 ....A         1808               Documentation\fname_format.txt
+2017-01-21 02:30:22 ....A        27544               de\LC_MESSAGES\mednafen.mo
+2017-01-21 02:30:22 ....A        37199               ru\LC_MESSAGES\mednafen.mo
+2017-01-21 02:30:22 ....A     11248654      3718539  mednafen.exe
+2017-01-21 02:30:20 ....A        96921               libcharset-1.dll
+2017-01-21 02:30:20 ....A       584326               libgcc_s_dw2-1.dll
+2017-01-21 02:30:20 ....A      1013248               libiconv-2.dll
+2017-01-21 02:30:20 ....A      1443328               libsndfile-1.dll
+2017-01-21 02:30:22 ....A       994830               libstdc++-6.dll
+2017-01-21 02:30:20 ....A       303616               SDL.dll
+2017-03-17 20:24:57 D....            0            0  ru\LC_MESSAGES
+2017-03-17 20:24:57 D....            0            0  ru
+2017-03-17 20:24:57 D....            0            0  Documentation
+2017-03-17 20:24:57 D....            0            0  de\LC_MESSAGES
+2017-03-17 20:24:57 D....            0            0  de
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 20:24:57           16808852      3995486  43 files, 5 folders

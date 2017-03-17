@@ -1,0 +1,16 @@
+1.5 on 12 Feb-2010
+        Version 1.4 Stubbed with WDOSX Extender WDX097B2
+        to make ACE32 work under Windows XP.
+        ace32.exe renamed ace32xp.exe to show it will run under windows XP.
+        A new Zip file created call Ace32XP[1.5) with the new stubbed version.
+        
+        Please note the 'splash screen' has not been changed so it will
+        tell you its version 1.4.
+         
+        
+ 
+         
+           
+
+
+

@@ -1,0 +1,7 @@
+﻿Release Notes
+1. Increase Scanline Filter 2x 4x 6x. (Implement NTSC CRT Proportional Correction with YIQ 4: 1: 1 color bleeding) 
+2. Add operation right-click menu function 
+3. Rebuild program, improve 
+efficiency 4. Fix many test roms Error items. Test results (there may be a small error) 
+5. Remove the third party library 
+dependencies (program files are currently reduced to only 167KB size) 6. Full screen mode can be included in the Background directory background image 
